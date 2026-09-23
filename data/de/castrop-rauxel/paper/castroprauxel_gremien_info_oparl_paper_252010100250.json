@@ -1,0 +1,60 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/252010100250",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-B3-93%7C252010100250%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8608",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-B3-93",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-RAT-115%7C252010100250%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8609",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-RAT-115",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-10-20",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/252010100250",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=252010100250&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=252010100250&id=69",
+      "fileName": "252010100250",
+      "id": "https://castroprauxel.gremien.info/oparl/file/252010100250",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/269",
+      "size": 59724,
+      "text": " Bereich Bürgerbeteiligung, Sport und Stärkung des Ehrenamts 2019/269  öffentlich  Az:     Datum: 20.10.2019    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 3 (Bauen, Verkehr und Sport) 21.11.2019 20  Rat der Stadt 28.11.2019    Betreff  Übertragung des Namensgebungsrecht für städtische Sportstätten  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  Der Rat der Stadt ermächtigt die Verwaltung die Übertragung der Namensrechte auf Sportvereine vertraglich zu regeln.    \f  \f_______________     ________________    Kravanja      Lenort Bürgermeister     Technische Beigeordnete     Sachverhalt  Ein ansässiger Sportverein ist an die Verwaltung mit der Bitte herangetreten, das Namengebungsrecht der genutzten Sportstätte zu vermarkten um Einnahmen für den Verein zu generieren  Da die Stadt Castrop-Rauxel Eigentümerin der Sportstätten ist, ist sie auch Inhaberin des Namensrechts mit der Folge, dass die Stadt Castrop-Rauxel dem Sportverein das ausschließliche und örtlich unbeschränkte Namensrecht an der Sportanlage zu übertragen kann. Der Sportverein könnte danach einem Sponsor die Möglichkeit zur Nutzung des Namensrecht dergestalt überlassen, dass dieser die Sportanlage einen selbstgewählten Namen verleihen und die durch den Werbeeffekt ihm zufließenden kommerziellen Vorteile verwerten darf.  Die Übertragung des Namensgebungsrechtes sollte aus Sicht der Verwaltung nicht für alle städtischen Sportanlagen gelten, die Voraussetzungen dafür sollten aus dem folgenden Kriterienkatalog erfolgen:  Das Namensübertragungsrecht kann für städtische Sportstätten auf Vereine übertragen werden, welche mit der Stadt Castrop-Rauxel einen Pachtvertrag abgeschlossen haben und eigenständig für die Unterhaltung der Sportstätte zuständig sind.  In der Namensbezeichnung der Sportanlage dürfen Namen und Marken alkoholischer Getränke, Tabakwaren, sonstiger Suchtmittel sowie jugendgefährdender, sittenwidriger oder ähnlicher Artikel oder Dienstleistungen nicht enthalten sein. Ausgeschlossen ist auch die Benennung nach politischen, religiösen oder weltanschaulichen Organisationen.   Die Übertragung des Namensgebungsrecht wird zwischen dem Verein und der Stadt Castrop-Rauxel vertraglich geregelt und ist abhängig von der Laufzeit des Pachtvertrages.  Die Stadt Castrop-Rauxel überträgt dem Verein das Recht, mit geeigneten Sponsoren Verhandlungen zur Vermarktung des Namensrechts an der Sportanlage zu führen.   Sobald der Verein einen geeigneten Sponsor gefunden hat, muss sich der Verein die Zustimmung der Stadt Castrop-Rauxel über die beabsichtigte Namensgebung einholen und den Sponsoring-Vertrag der Stadt offenlegen.  Die Einnahmen der Sponsorengelder dürfen ausschließlich für die Unterhaltung der Sportstätte verwendet werden.  Beteiligte Bereich 01 60  Kurzzeichen       \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Übertragung des Namensgebungsrecht für städtische Sportstätten",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/269",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

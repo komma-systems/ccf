@@ -1,0 +1,79 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36229",
+  "modified_at": "2026-09-03T13:23:40+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369025.pdf",
+        "created": "2026-08-27T09:18:07+02:00",
+        "date": "2026-08-27",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369025.pdf",
+        "fileName": "00369025.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369025",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-03T13:23:40+02:00",
+        "name": "Bericht",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369336.pdf",
+        "created": "2026-09-02T16:44:25+02:00",
+        "date": "2026-09-02",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369336.pdf",
+        "fileName": "00369336.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369336",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-03T13:23:40+02:00",
+        "name": "Sachstandsbericht Schulen Q2_2026",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141551",
+        "authoritative": true,
+        "created": "2026-08-31T13:17:04+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68618",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24618",
+        "modified": "2026-09-10T16:48:26+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/280"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36229",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141553",
+        "created": "2026-08-31T13:17:37+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68619",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24624",
+        "modified": "2026-09-17T10:02:31+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/273"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36229",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-27T09:15:16+02:00",
+    "date": "2026-08-31",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36229",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-03T13:23:40+02:00",
+    "name": "Sachstandsbericht Schulen Q2_2026",
+    "paperType": "Bericht",
+    "reference": "VO/1028/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/50"
+    ]
+  }
+}

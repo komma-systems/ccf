@@ -1,0 +1,59 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/272901100034",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-HFA-101%7C272901100034%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8825",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-HFA-101",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-116%7C272901100034%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8826",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-116",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-01-29",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/272901100034",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272901100034&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272901100034&id=69",
+      "fileName": "272901100034",
+      "id": "https://castroprauxel.gremien.info/oparl/file/272901100034",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/029",
+      "size": 146227,
+      "text": " Bereich Finanzen 2020/029  öffentlich  Az: 20   Datum: 29.01.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Haupt- und Finanzausschuss 25.02.2020   Rat der Stadt 27.02.2020    Betreff  Bestellung eines Stellvertreters für Herrn Bürgermeister Kravanja für die Verbandsversammlung des Sparkassenzweckverbandes der Sparkasse Vest Recklinghausen  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \fBeschlussvorschlag  Die Mitglieder des Rates der Stadt Castrop-Rauxel bestellen gemäß § 15 Abs. 3 i. V. m. § 15 Abs. 2 Gesetz über kommunale Gemeinschaftsarbeit Nordrhein-Westfalen (GkG NRW) als Stellvertreter für Herrn Bürgermeister Kravanja als Mitglied der Verbandsversammlung des Sparkassenzweckverbandes   Herrn Ersten Beigeordneten und Stadtkämmerer Michael Eckhardt.   \f  \f_________________________          Kravanja             Bürgermeister            \fSachverhalt  Im Juni 2014 wurden Mitglieder für die Verbandsversammlung des Sparkassenzweckverbandes der Sparkasse Vest Recklinghausen durch den Rat der Stadt Castrop-Rauxel bestellt.  Seit Oktober 2015 befindet sich unter den von der Stadt Castrop-Rauxel zu entsendenden Mitgliedern gemäß § 15 Abs. 2 des Gesetzes über kommunale Gemeinschaftsarbeit Nordrhein-Westfalen (GkG NRW) Herr Rajko Kravanja in seiner Funktion als Bürgermeister der Stadt Castrop-Rauxel.  Die Vertretung des Bürgermeisters im Amt ist grundsätzlich geregelt in § 68 Abs. 1 GO NRW. Danach erfolgt die Vertretung des Hauptverwaltungsbeamten in erster Linie durch den vom Rat bestellten allgemeinen Vertreter.   Zum allgemeinen Vertreter des Bürgermeisters hat der Rat in seiner Sitzung vom 09.03.2017 Herrn Michael Eckhardt bestellt. Die Wiederwahl von Herrn Ersten Beigeordneten Eckhardt erfolgte in der Ratssitzung am 04.07.2019.   Gleichwohl hat die Sparkasse Vest Recklinghausen mitgeteilt, dass aus sparkassenrechtlichen Gründen von dort explizit die Benennung einer konkreten Person gewünscht wird.   Aus diesem Grunde wird vorgeschlagen, dass der Rat Herrn Ersten Beigeordneten und Stadtkämmerer Michael Eckhardt als Vertreter für Herrn Bürgermeister Rajko Kravanja als Mitglied der Verbandsversammlung des Sparkassenzweckverbandes bestellt (§ 15 Abs. 3 i. V. m. § 15 Abs. 2 GkG NRW).    \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Bestellung eines Stellvertreters für Herrn Bürgermeister Kravanja für die Verbandsversammlung des Sparkassenzweckverbandes der Sparkasse Vest Recklinghausen",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/029",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

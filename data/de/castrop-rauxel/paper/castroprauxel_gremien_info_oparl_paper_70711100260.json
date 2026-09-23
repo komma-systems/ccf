@@ -1,0 +1,115 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/70711100260",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=70711100260%7C1.jpg%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=70711100260%7C1.jpg%7C",
+        "fileName": "1.jpg",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C70711100260%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/70711100260",
+        "mimeType": "image/jpeg",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "15587923b7e6edc713b5fc1693bf008aa84844e6",
+        "size": 3832687,
+        "text": "Schreiben EUV1",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=70711100260%7C2.jpg%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=70711100260%7C2.jpg%7C",
+        "fileName": "2.jpg",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C70711100260%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/70711100260",
+        "mimeType": "image/jpeg",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "623cadffc9e0964450778632b29a627d50587aae",
+        "size": 4677577,
+        "text": "Schreiben EUV2",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=70711100260%7C3.jpg%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=70711100260%7C3.jpg%7C",
+        "fileName": "3.jpg",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C70711100260%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/70711100260",
+        "mimeType": "image/jpeg",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "f764b6eac9918d6716f7eec1068deedaea7921b8",
+        "size": 4339228,
+        "text": "Schreiben EUV3",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-UMWA-13%7C70711100260%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/2420",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-UMWA-13",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-B3-14%7C70711100260%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/2421",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B3-14",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-RAT-18%7C70711100260%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/2422",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-RAT-18",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2006-11-07",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/70711100260",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=70711100260&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=70711100260&id=69",
+      "fileName": "70711100260",
+      "id": "https://castroprauxel.gremien.info/oparl/file/70711100260",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2006/258",
+      "size": 472794,
+      "text": "abfangsammler;abwassereinleitungen;abwasserkanäle;aktualisierung;anhörung;anlage;arnsberg;ausführungen;ausführungsplanung;auslegung;ausschuss;aussicht;ausstattung;bach;baches;bachumbau;bahnhofstraße;bauausführung;baubeginn;baumaßnahme;bäume;bäumen;bau-onw;bebauung;bebauungsplänen;bebauungsplanes;bedeutung;befreiung;beigeordneter;beisenherz;bepflanzung;berührung;betriebsausschuss;bewässerung;bezirksregierung;brandschutzes;brücke;bürgerinnen;castrop-rauxel;castrop-rauxeler;damals;deininghauser;detailabbildung;dobrindt;drehleiter;einsatz;einsprüche;einspruchs;einzugsgebiet;emschergenossenschaft;emscher-systems;entschluss;entwurfsabschnitt;entwurfsplanung;erdanschluss;erdreich;erholungs-;erkenntnisse;erläuterungsberichtes;erlebnisräumen;euv;fahrbahn;fahrbahnbreite;fahrspur;fenster;festsetzungen;feuerwehr;feuerwehrzufahrt;flächen;fließgewässerstrecken;forderungen;fortleitung;funktionen;fuß-;garage;garagen;gebäude;gebrauch;geltungsbereich;genehmigungsbehörden;gewässer;gewässernetzes;gewässersystem;gewässersystems;großteil;hagen;häuser;hochwasserschutz;höhenwuchs;hubrettungsfahrzeug;ilandstraße;jehovas;kampfmittelbeseitigungsdienst;kampfmittelproblematik;kronenausladung;kunostraße;kurve;kurvenradius;landschaft;landwehrbach;landwehrbaches;länge;leistungsfähigkeit;leitern;leitstrukturen;mauerbegrünung;maxstraße;mittellauf;naturhaushalt;ober-;obergeschoss;obergeschosse;offenlage;offenlegung;pflanztröge;planfeststellung;planfeststellungsentwurf;planfeststellungsverfahren;planungsphasen;planungsstandards;planvorstellung;projekt;punkten;radweg;radwegebrücke;rahmen;rauxel;realisierung;regenwasserbehandlungsanlagen;reinwasserströme;rettungswege;rettungsweges;rückwand;schmutz-;schulstraße;sicherstellung;sitzungsvorlage;sonderinteresse;stadtbetrieb;stadtentwicklung;stadtgebietes;stellplatzfläche;stellungnahme;stellungnahmen;straßenbreite;straßenplanung;straßenprofil;straßenraum;techn;teilbaumaßnahme;tonnen;top-nr;träger;tragfähigkeit;traglast;tröge;trogprofils;trogstützmauer;umbau;umbaumaßnahmen;umgestaltung;umweltausschuss;umweltverträglichkeitsstudie;unterhaltungskosten;unterlauf;verbesserung;verbesserungen;verbindung;verbund;verfahrens;verkehr;verlängerung;verrohrung;verwaltungsvorschrift;vor-;vorfluter;vorplanung;wasser-;wassers;whg;wiederherstellung;wohnung;wurzelraum;zeugen;zufahrt;zufahrten;zuläufe;zusammenfassung;planfeststellungsverfahren;nach;;31;whg;zum;deininghauser;bach;-;ökologische;verbesserungen;von;km;000;bis;km;3275;neu;bzw;330;alt;hier;stellungnahme;der;stadt;castrop-rauxel;a;zusammenfassung;der;stellungnahmen;der;einzelnen;fachbereiche;der;stadt;castrop-rauxel;im;rahmen;der;anhörung;der;träger;öffentlicher;belange;sowie;b;einsprüche/stellungnahmen;der;bürgerinnen;der;stadt;castrop-rauxel;im;rahmen;der;öffentlichen;auslegung;des;og;verfahrens;in;der;zeit;vom;01082006;bis;31082006;2006/258;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Planfeststellungsverfahren nach § 31 WHG zum Deininghauser Bach - \r\nökologische Verbesserungen von km 0,00 bis km 3,275 (neu) bzw. 3.30 (alt)\r\nhier: Stellungnahme der Stadt Castrop-Rauxel\r\na) Zusammenfassung der Stellungnahmen der einzelnen Fachbereiche der Stadt Castrop-Rauxel im Rahmen der Anhörung der Träger öffentlicher Belange sowie\r\nb) Einsprüche/Stellungnahmen der BürgerInnen der Stadt Castrop-Rauxel im Rahmen  der öffentlichen Auslegung des o.g. Verfahrens in der Zeit vom 01.08.2006 bis 31.08.2006 ",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2006/258",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

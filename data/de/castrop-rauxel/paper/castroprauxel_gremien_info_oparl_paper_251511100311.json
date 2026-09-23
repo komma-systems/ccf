@@ -1,0 +1,63 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/251511100311",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=251511100311%7C20191115105043.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=251511100311%7C20191115105043.pdf%7C",
+        "fileName": "20191115105043.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C251511100311%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/251511100311",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "4a7c1ddd0dfa748843ef509a735618e303e693d7",
+        "size": 7709035,
+        "text": "JHA, Bericht Bedarfsplan Tageseinrichtungen für Kinder",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-BuergA-22%7C251511100311%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8732",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-BuergA-22",
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-11-15",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/251511100311",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=251511100311&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=251511100311&id=69",
+      "fileName": "251511100311",
+      "id": "https://castroprauxel.gremien.info/oparl/file/251511100311",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/200.1",
+      "size": 145937,
+      "text": " Bereich Kinderförderung 2019/200.1 öffentlich  Az: 56   Datum: 15.11.2019    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Ausschuss für Bürgerbeteiligung und Stadtteilentwicklung 05.12.2019 5   Betreff  Bericht und Bedarfsplan 2019/20 bis 2022/23 der Tageseinrichtungen für Kinder in Castrop-Rauxel, insbesondere auf Schwerin  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  Der Ausschuss für Bürgerbeteiligung und Stadtteilentwicklung nimmt die Fortschreibung des Kindergartenbedarfsplans für die Jahre 2019/2020 bis 2022/2023 zur Kenntnis.  \f  \f K l e f f Beigeordnete für Soziales  \f Sachverhalt  Förderung, Bildung und Betreuung für alle Kinder ist eine der wichtigsten Investitionen in die Zukunft der Kinder und somit für die Stadt Castrop-Rauxel. Qualitativ hochwertige Einrichtungen und Betreuungsplätze zu schaffen, die sich an den Bedarfen der Eltern und Kinder orientieren, ist deshalb ein vorrangiges Ziel für die Stadt Castrop-Rauxel.  Der Rat der Stadt Castrop-Rauxel hat in seiner Sitzung am 12.06.2008 die Fortschreibung der Kindergartenbedarfsplanung für die Jahre 2008 bis 2011/12 beschlossen. Seitdem hat sich nicht nur die Bedarfssituation verändert, sondern es sind zahlreiche gesetzliche Veränderungen vorgenommen worden.  Die Einführung des Rechtsanspruchs für Kinder ab vollendetem ersten Lebensjahr auf frühkindliche Förderung in einer Tageseinrichtung oder in Kindertagespflege führte in Castrop-Rauxel in den letzten Jahren zu einem massiven Ausbau der Plätze für unter dreijährige Kinder (U3-Plätze). Diesen Ausbau sind alle Träger mitgegangen.   Um der wachsenden Nachfrage an Kinderbetreuungsplätzen sowohl für Kinder ab drei Jahren (Ü3-Plätze) als auch für Kinder unter drei Jahren gerecht zu werden, sind bestehende Tageseinrichtungen umgebaut und erweitert worden sowie neue hinzugekommen. Weitere neue Einrichtungen sind in der Planung bzw. in der Umsetzung.   Um die gesetzlichen Verpflichtungen erfüllen zu können, ist jedoch ein weiterer bedarfsgerechter Ausbau von Betreuungsplätzen notwendig. Der Fachbereich Kinderförderung legt nun hierzu im Rahmen der Jugendhilfeplanung die Fortschreibung der Kindergartenbedarfsplanung für die Jahre 2019/2020 bis 2022/2023 vor.    Anlage:   Anlage 1  Bericht- und Bedarfsplan 2019/20 bis 2022/23 der Tageseinrichtungen  für Kinder in Castrop-Rauxel   \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Bericht und Bedarfsplan 2019/20 bis 2022/23 der Tageseinrichtungen für Kinder in Castrop-Rauxel, insbesondere auf Schwerin",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/200.1",
+    "superordinatedPaper": [
+      "https://castroprauxel.gremien.info/oparl/paper/252908100208"
+    ],
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

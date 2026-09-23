@@ -1,0 +1,48 @@
+{
+  "council_id": "koeln",
+  "record_type": "paper",
+  "source_id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134769",
+  "modified_at": "2026-09-18T15:12:47+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01112308.pdf",
+        "created": "2026-09-18T13:32:03+02:00",
+        "date": "2026-09-18",
+        "downloadUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/01112308.pdf",
+        "fileName": "01112308.pdf",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/files/1112308",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-18T13:34:26+02:00",
+        "name": "Anfrage (AfD BV2)",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln",
+    "consultation": [
+      {
+        "agendaItem": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/450439",
+        "authoritative": true,
+        "created": "2026-09-18T13:35:35+02:00",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/206724",
+        "meeting": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34010",
+        "modified": "2026-09-18T13:50:03+02:00",
+        "organization": [
+          "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21"
+        ],
+        "paper": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134769",
+        "role": "Antrag / Anfrage",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-18T13:27:32+02:00",
+    "date": "2026-09-18",
+    "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134769",
+    "modified": "2026-09-18T15:12:47+02:00",
+    "name": "Nachfrage der AfD-Fraktion zur Stellungnahme eines Schulbusangebots zu den weiterführenden Schulen in Rodenkirchen, Antrag der AfD-Fraktion, AN/0223/2026, vertagter TOP aus der Sitzung am 27.04.2026",
+    "paperType": "Anfrage nach § 4 BV2 (AfD)",
+    "reference": "AN/1492/2026",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

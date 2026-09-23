@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/192402100083",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2016-AuWi-9%7C192402100083%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6926",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2016-AuWi-9",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2016-02-24",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/192402100083",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=192402100083&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=192402100083&id=69",
+      "fileName": "192402100083",
+      "id": "https://castroprauxel.gremien.info/oparl/file/192402100083",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2016/083",
+      "size": 40886,
+      "text": "Bereich Stadtentwicklung und Wirtschaftsförderung 2016/083 öffentlich Az: Datum: 24.02.2016 Sitzungsvorlage Beratungsfolge Datum TOP-Nr. Ausschuss für Wirtschaftsentwicklung 08.03.2016 3 Betreff Ernennung eines Schriftührers/Schriftführerin für den Ausschuss für Wirtschaftsentwicklung der Stadt Castrop-Rauxel Finanzielle Auswirkungen X keine haushaltsmäßige Berührung Auswirkungen siehe Sachverhalt Beschlussvorschlag Gemäß §§ 52 und 58 der Gemeindeordnung NRW in Verbindung mit § 17 der Geschäftsordnung des Rates wird als Schriftführerin Frau Heike Metze benannt. _________________ Rajko Kravanja Sachverhalt Gemäß § 58 Abs, 7 der Gemeindeordnung NRW (GO NRW) ist über die Beschlüsse der Ausschüsse eine Niederschrift aufzunehmen. Diese wird in analoger Anwendung des § 52 Abs. 1 in Verbindung mit § 58 Abs. 2 GO NRW von einem/r vom Ausschuss für Wirtschaftsentwicklung zu bestellenden Schriftführer/in gefertigt. Nach § 15 Abs. 2 Geschäftsordnung des Rates der Stadt ist die Niederschrift, die in Form eines Beschlussprotokolls erfolgt, vom Ausschussvorsitzenden und dem/r Schriftführer/in zu unterzeichnen.Ernennung eines Schriftührers/Schriftführerin für den Ausschuss für Wirtschaftsentwicklung der Stadt Castrop-Rauxel2016/083%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Ernennung eines Schriftührers/Schriftführerin für den Ausschuss für Wirtschaftsentwicklung der Stadt Castrop-Rauxel",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2016/083",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+    ]
+  }
+}

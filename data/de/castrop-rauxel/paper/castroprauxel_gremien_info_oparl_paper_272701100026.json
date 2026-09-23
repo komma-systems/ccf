@@ -1,0 +1,59 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/272701100026",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-HFA-101%7C272701100026%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8823",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-HFA-101",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-116%7C272701100026%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8824",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-116",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-01-27",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/272701100026",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272701100026&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272701100026&id=69",
+      "fileName": "272701100026",
+      "id": "https://castroprauxel.gremien.info/oparl/file/272701100026",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/022",
+      "size": 42684,
+      "text": " Bereich Finanzen 2020/022 öffentlich  Az: 20   Datum: 27.01.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Haupt- und Finanzausschuss 27.02.2020   Rat der Stadt 27.02.2020    Betreff  Benennung einer Vertreterin der Stadt Castrop-Rauxel für die Gesellschafterversammlung der Entwicklungsgesellschaft Mittelstandspark West Castrop-Rauxel mbH  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  Der Rat der Stadt wählt Frau Stadtbaurätin Bettina Lenort als Vertreterin der Stadt Castrop-Rauxel in die Gesellschafterversammlung der Entwicklungsgesellschaft Mittelstandspark West Castrop-Rauxel mbH. Als Stellvertreter soll Herr Thomas Ratte fungieren.    \f  \f______________        ______________ Kravanja         Eckhardt Bürgermeister        Erster Beigeordneter/           Stadtkämmerer Sachverhalt  Gemäß § 113 Abs. 2 GO NRW vertritt u.a. in Gesellschafterversammlungen, Aufsichtsräten oder entsprechenden Organen von juristischen Personen oder Personenvereinigungen, an denen die Gemeinde unmittelbar oder mittelbar beteiligt ist, ein vom Rat der Stadt bestellter Vertreter die Gemeinde.   Der Vertreter der Stadt für die Gesellschafterversammlung ist gemäß § 50 Abs. 2 GO NRW durch Mehrheitsbeschluss zu wählen. Zuletzt hat Herr Technischer Beigeordneter Heiko Dobrindt die Stadt Castrop-Rauxel in der Gesellschafterversammlung vertreten. Stellvertreter für Herrn Dobrindt war Herr Martin Oldengott.   Gemäß § 7 des Gesellschaftervertrages der Entwicklungsgesellschaft Mittelstandspark West Castrop-Rauxel mbH in der Fassung vom 22.12.2003 beschließen die Gesellschafter u.a. über die Entlastung der Geschäftsführung, die Feststellung des Jahresabschlusses, die Verwendung des Bilanzgewinns sowie über den Wirtschaftsplan.   Herr Technischer Beigeordneter Dobrindt und Herr Oldengott sind im Jahr 2019 in den Ruhestand eingetreten. Damit die Stadt Castrop-Rauxel ihre Gesellschafter- und Eigentümerrechte auch zukünftig fristgerecht wahrnehmen kann, wählt der Rat der Stadt Frau Stadtbaurätin Bettina Lenort als Vertreterin der Stadt Castrop-Rauxel in die Gesellschafterversammlung der Entwicklungsgesellschaft Mittelstandspark West Castrop-Rauxel mbH. Zum Stellvertreter von Frau Stadtbaurätin Lenort wird Herr Thomas Ratte bestimmt.   \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Benennung einer Vertreterin der Stadt Castrop-Rauxel für die Gesellschafterversammlung der Entwicklungsgesellschaft Mittelstandspark West Castrop-Rauxel mbH",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/022",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

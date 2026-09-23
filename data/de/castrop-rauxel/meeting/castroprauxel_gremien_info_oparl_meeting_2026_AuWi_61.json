@@ -1,0 +1,134 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/2026-AuWi-61",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AuWi-61%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AuWi-61",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17347",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AuWi-61%7C402807100207%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AuWi-61",
+        "name": "Bebauungsplan Nr. 250 \"Am Landwehrbach\"\r\n\r\nhier: Erneuter Beschluss zur Aufstellung des Bebauungsplans nach § 2Abs. 1 BauGB",
+        "number": "2",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17587",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AuWi-61%7C400709100227%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AuWi-61",
+        "name": "Gemeinsamer Antrag der SPD-Fraktion und der CDU-Fraktion_Einsatz von KI in der Verwaltung der Stadt Castrop-Rauxel",
+        "number": "3",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17486",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AuWi-61%7C400709100230%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AuWi-61",
+        "name": "Gemeinsamer Antrag der SPD-Fraktion und der CDU-Fraktion_Prüfung der Weiterentwicklung des Hauses der Wirtschaft zu einem Start-up- und Gründercampus",
+        "number": "4",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AuWi-61%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AuWi-61",
+        "name": "Sachstandsbericht Breitbandausbau",
+        "number": "5",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AuWi-61%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AuWi-61",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "6",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AuWi-61%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AuWi-61",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "7",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AuWi-61%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AuWi-61",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AuWi-61%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AuWi-61",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-09-15T00:00:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/2026-AuWi-61",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=2026-AuWi-61",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-09-07",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=2026-AuWi-61",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2026-AuWi-61",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "99c3ab708b06f3be7d121b5a5ce8e6b834e6eab4",
+      "size": 207233,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Sitzungsraum 3, Europaplatz 1,44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/2026-AuWi-61/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Sitzungsraum 3, Europaplatz 1,44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "eingeladen",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschusses für Wirtschaftsentwicklung und Digitalisierung",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+    ],
+    "organization_active_1": "1",
+    "start": "2026-09-15T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting"
+  }
+}

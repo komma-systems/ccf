@@ -1,0 +1,125 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36356",
+  "modified_at": "2026-09-22T12:26:31+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370374.pdf",
+        "created": "2026-09-21T12:38:12+02:00",
+        "date": "2026-09-21",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370374.pdf",
+        "fileName": "00370374.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370374",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-22T12:26:32+02:00",
+        "name": "Antwort auf Anfragen",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370378.pdf",
+        "created": "2026-09-21T12:48:59+02:00",
+        "date": "2026-09-21",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370378.pdf",
+        "fileName": "00370378.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370378",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-22T12:26:32+02:00",
+        "name": "Organigramm_Ordnungsamt",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370379.pdf",
+        "created": "2026-09-21T12:50:12+02:00",
+        "date": "2026-09-21",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370379.pdf",
+        "fileName": "00370379.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370379",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-22T12:26:32+02:00",
+        "name": "Dienstplan OD_Muster",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370380.pdf",
+        "created": "2026-09-21T12:51:44+02:00",
+        "date": "2026-09-21",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370380.pdf",
+        "fileName": "00370380.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370380",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-22T12:26:32+02:00",
+        "name": "Ordnungsdienst_Einsaetze_2025",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370382.pdf",
+        "created": "2026-09-21T12:52:24+02:00",
+        "date": "2026-09-21",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370382.pdf",
+        "fileName": "00370382.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370382",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-22T12:26:32+02:00",
+        "name": "Statistik OD_Muster",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370383.pdf",
+        "created": "2026-09-21T12:54:32+02:00",
+        "date": "2026-09-21",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370383.pdf",
+        "fileName": "00370383.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370383",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-22T12:26:32+02:00",
+        "name": "Ordnungsdienst_Anlassarten",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370384.pdf",
+        "created": "2026-09-21T13:00:36+02:00",
+        "date": "2026-09-21",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370384.pdf",
+        "fileName": "00370384.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370384",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-22T12:26:32+02:00",
+        "name": "Stufenweise Erweiterung des Ordnungsdienstes",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141933",
+        "created": "2026-09-22T09:53:10+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68862",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24642",
+        "modified": "2026-09-23T17:39:44+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/275"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36356",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-21T09:57:20+02:00",
+    "date": "2026-09-22",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36356",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-22T12:26:31+02:00",
+    "name": "Leistungsfähigkeit des Kommunalen Ordnungsdienstes in Wuppertal; Große Anfrage der Fraktionen von SPD und CDU",
+    "paperType": "Antwort auf Anfragen",
+    "reference": "VO/1128/26-A",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/96"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/201011100049",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-15%7C201011100049%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7285",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2016-EUV-15",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2016-11-10",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/201011100049",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=201011100049&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=201011100049&id=69",
+      "fileName": "201011100049",
+      "id": "https://castroprauxel.gremien.info/oparl/file/201011100049",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2016/EUV/050",
+      "size": 152867,
+      "text": "Datum: 10.11.2016 TB I 9686-700 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 23.11.2016 TOP: I.13 Drucksache-Nr. 2016/EUV/050 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 23.11.2016 13 Betreff: Umstellung der finanzbuchhalterischen Systeme (Einführung eines ERP Enterprise-Resource-Planning) -Sachstandsbericht- Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € nein Förderung € Beschlussvorschlag: Der Verwaltungsrat des EUV Stadtbetrieb AöR nimmt die Umstellung der Finanzbuchhaltungssoftware und Einführung eines ERP zur Kenntnis. _______________________ Werner Sachverhalt: Der EUV Stadtbetrieb weist durch die vielfältig zu bewältigenden Aufgaben eine stark heterogene Systemlandschaft auf. Davon sind auch die beiden heute genutzten Buchhaltungssysteme betroffen. Die bestehenden Form wirkt sich nachteilig auf die Arbeitsabläufe, die Erweiterbarkeit des IT-Systems sowie die Kosten aus. Gemäß der dem Vorstand zur Verfügung gestellten Projektentscheidungsgrundlage zeigt die bestehende Systemlandschaft des EUV daher Optimierungspotentiale auf hinsichtlich der Schnittstellenmöglichkeiten, Pflege und Verantwortung von Stammdaten, Einhaltung gesetzlicher Vorgaben (Umsatzsteuer- u. Bilanzrecht) und Einhaltung von Vorgaben des Wirtschaftsprüfers (Konsolidierung). Dazu hat der Vorstand des EUV im Jahr 2015 einen Prüfauftrag an die Wirtschaftsprüfungsgesellschaft Rödl & Partner, Köln, vergeben, die die Einführung eines neuen Systems begleitet. Als Ergebnis konnte festgestellt werden, dass nicht nur die Vereinheitlichung der beiden Buchhaltungssysteme notwendig ist, sondern auch die „buchhaltungsnahen“ Prozesse zu integrieren sind. Hierunter fallen beispielsweise ein einheitliches Auftrags- bzw. Bestellwesen sowie das Flottenmanagement. Die Wirtschaftsprüfungsgesellschaft Rödl & Partner wird zur nächsten Sitzung des Verwaltungsrates ihre Ergebnisse und Entscheidungsvorschläge präsentieren. Weiterer Sachvortrag in der Sitzung.Umstellung der finanzbuchhalterischen Systeme (Einführung eines ERP Enterprise-Resource-Planning) -Sachstandsbericht-2016/EUV/050%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Umstellung der finanzbuchhalterischen Systeme (Einführung eines ERP Enterprise-Resource-Planning)\r\n-Sachstandsbericht-",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2016/EUV/050",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

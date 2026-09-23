@@ -1,0 +1,94 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "meeting",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25742",
+  "modified_at": "2026-09-18T11:42:51+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "created": "2026-09-18T11:19:09+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141894",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25742",
+        "modified": "2026-09-18T11:19:09+02:00",
+        "name": "Begrüßung",
+        "number": "1",
+        "order": 1,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      },
+      {
+        "created": "2026-09-18T11:19:40+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141895",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25742",
+        "modified": "2026-09-18T11:19:40+02:00",
+        "name": "Bericht vom Kulturgipfel",
+        "number": "2",
+        "order": 2,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      },
+      {
+        "created": "2026-09-18T11:22:23+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141896",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25742",
+        "modified": "2026-09-18T11:22:23+02:00",
+        "name": "Aktueller Stand Koordinierungsstelle Kulturelle Bildung",
+        "number": "3",
+        "order": 3,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      },
+      {
+        "created": "2026-09-18T11:31:24+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141897",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25742",
+        "modified": "2026-09-18T11:31:24+02:00",
+        "name": "Erste Kinderrechtewoche (14.-18.09.) - Ideen für die nächste Aktionswoche sammeln",
+        "number": "4",
+        "order": 4,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      },
+      {
+        "created": "2026-09-18T11:34:51+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141898",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25742",
+        "modified": "2026-09-18T11:34:51+02:00",
+        "name": "Auswirkungen der Haushaltssituation auf die Kulturelle Bildung - Kostenneutrale Ideen entwickeln",
+        "number": "5",
+        "order": 5,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      },
+      {
+        "created": "2026-09-18T11:35:14+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141899",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25742",
+        "modified": "2026-09-18T11:35:14+02:00",
+        "name": "Nächster Termin",
+        "number": "6",
+        "order": 6,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      }
+    ],
+    "created": "2026-09-18T11:12:00+02:00",
+    "end": "2026-10-01T18:30:00+02:00",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25742",
+    "location": {
+      "created": "2026-09-18T11:12:00+02:00",
+      "description": "Kulturbüro Wuppertal, Neumarkt 10, Raum 004",
+      "id": "http://oparl.wuppertal.de/oparl/bodies/0001/locations/si/25742",
+      "modified": "2026-09-18T11:42:51+02:00",
+      "type": "https://schema.oparl.org/1.1/Location"
+    },
+    "modified": "2026-09-18T11:42:51+02:00",
+    "name": "öffentliche/nicht öffentliche Sitzung der Steuergruppe Kulturelle Bildung",
+    "organization": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/287"
+    ],
+    "start": "2026-10-01T16:30:00+02:00",
+    "type": "https://schema.oparl.org/1.1/Meeting"
+  }
+}

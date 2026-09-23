@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/220602100003",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=220602100003%7C20170206124300.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2017-02-06",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=220602100003%7C20170206124300.pdf%7C",
+        "fileName": "20170206124300.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C220602100003%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/220602100003",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "d1f763fd487699d48862344192633c5f95c49360",
+        "size": 6915351,
+        "text": "Gebietseinteilung_Fristensatzung_2009-2023",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2017-EUV-20%7C220602100003%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7352",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2017-EUV-20",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2017-02-06",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/220602100003",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=220602100003&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=220602100003&id=69",
+      "fileName": "220602100003",
+      "id": "https://castroprauxel.gremien.info/oparl/file/220602100003",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2017/EUV/004",
+      "size": 238082,
+      "text": "Datum: 06.02.2017 TB KI 9686-820 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 08.03.2017 TOP: Drucksache-Nr. 2017/EUV/004 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 08.03.2017 7 Betreff: Selbstüberwachungsverordnung Abwasser (SüwVO Abw) Sachstandsbericht Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt den Bericht zur Kenntnis. ________________________ Werner Sachverhalt: Der EUV als Betreiber des Kanalisationsnetzes hat dieses gemäß der Verordnung zur Selbstüberwachung von Abwasseranlagen (Selbstüberwachungsverordnung Abwasser – SüwVO Abw) auf Zustand und Funktionsfähigkeit selbst zu überwachen. In Verbindung mit den Anforderungen an den Betrieb und die Unterhaltung von Kanalisationsnetzen (RdErl. d. Ministeriums für Umwelt, Raumordnung und Landwirtschaft) sind abhängig vom Ergebnis der Selbstüberwachung die gegebenenfalls erforderlichen Betriebs- und Unterhaltungsmaßnahmen einzuleiten. Neben den permanenten Reinigungs-, Wartungs- und Pflegearbeiten, die von den Mitarbeitern des EUV gemäß o. g. Vorgaben am ca. 275 km langen Kanalnetz der Stadt Castrop-Rauxel samt zugehörigen Sonderbauwerken wie Regenrückhaltebecken, Regenklärbecken, Regenüberläufe, Pumpwerke, Einleitungsstellen usw. durchgeführt werden, ist insbesondere die TV-Untersuchung der Kanalisation eine Kernforderung der SüwVO Abw und bildet die Grundlage für die Bewertung des Kanalnetzzustandes. Turnusgemäß soll alle 15 Jahre das gesamte Kanalnetz, 260,2 km (ohne offene Gerinne und Druckrohrleitungen) mittels Kamera untersucht werden, jedoch nicht weniger als 5% pro Jahr. Aus diesem Grund hat der EUV das Stadtgebiet in 15 Gebiete eingeteilt (Anlage 1). Die Ersterfassung gemäß SüwVO Abw, die in innerhalb von 10 Jahre erfolgen musste, wurde im Jahr 2005 abgeschlossen, seitdem befindet sich der EUV in der Zweiterfassung. Innerhalb der letzten 11 Jahre wurden demnach ca. 6934 Haltungen (258,7 km) befahren, das entspricht ca. 99,42 % der zu untersuchenden Kanäle. Die SüwVO Abw-Untersuchung 2016 hat etwa 11 km Kanal beinhaltet. Die Ergebnisse der Videobefahrungen werden in die Kanaldatenbank eingepflegt und zunächst automatisiert bewertet. Der Zustand jeder einzelnen Haltung des Kanalnetzes wird in fünf Klassen eingeteilt, die die Priorität von Sanierungsmaßnahmen – den Handlungsbedarf – widerspiegeln: Sofortmaßnahmen notwendig Maßnahmen kurzfristig erforderlich Maßnahmen mittelfristig erforderlich Maßnahmen langfristig erforderlich Maßnahmen nicht erforderlich - Geringfügige Mängel Maßnahmen nicht erforderlich - Mängelfrei Insbesondere die Klassen 0 und 1 werden gesondert betrachtet und anschließend ingenieurmäßig klassifiziert. Die Ergebnisse der ingenieurmäßigen Klassifizierung bilden die Grundlage für das regelmäßig fortzuschreibende Abwasserbeseitigungskonzept (ABK) der Stadt Castrop-Rauxel, welches die geplanten Maßnahmen der nächsten 6 Jahre beschreibt. Der derzeitige Stand der Bewertung (2016), der sich aus der automatisierten Klassifizierung und der ingenieurmäßigen Bewertung zusammensetzt, betrachtet insgesamt 6.934 Haltungen 258,7 km) Freispiegelkanäle und führte zu folgender Klassifizierung: Zustandsklasse Anzahl Haltungen Sofortmaßnahmen notwendig 105 Haltungen = 4,47 km (1,73 %) Maßnahmen kurzfristig erforderlich 420 Haltungen = 17,25 km (6,67 %) Maßnahmen mittelfristig erforderlich 1566 Haltungen = 63,10 km (24,40 %) Maßnahmen langfristig erforderlich 1215 Haltungen = 46,81 km (18,10 %) Maßnahmen nicht erforderlich (Geringfügige Mängel) 690 Haltungen = 26,42 km (10,21 %) Maßnahmen nicht erforderlich (Mängelfrei) 2938 Haltungen = 100,60 km (38,89 %) Den Zustandsklassen 0 und 1 sind insgesamt 525 Haltungen zugeordnet worden. Es sind bereits 168 Haltungen für investive Maßnahmen und 264 Haltungen für Maßnahmen der Unterhaltung (konsumtiv) vorgesehen. Die verbleibenden 93 Haltungen werden ingenieursmäßig bewertet. Es ergibt sich das sich folgendes Bild hinsichtlich der Altersstruktur: Altersklasse Haltungen in Zustandsklasse 0 und 1 Anzahl Länge [km] 1900-1929 29 1,19 1930-1949 11 0,47 1950-1959 135 5,38 1960-1969 164 6,92 1970-heute 186 7,76 Die automatisierte Haltungsklassifizierung geht immer von „schwerwiegendsten Schaden“ aus, d. h. sobald es in einer Haltung auch nur einen Einzelschaden gibt, der eine Klassifizierung von 0 bedingt, wird die gesamte Haltung der Zustandsklasse 0 zugeordnet. Die Altersstruktur – Klasse 0 und 1 vermehrt bei jüngeren Kanälen – lässt vermuten, dass es sich um Einzelschäden handelt, die im Rahmen der Unterhaltung (konsumtiv) zu sanieren sind. Zudem wird eine große Anzahl von Schäden unter den Augen des sachkundigen Ingenieurs als nicht so gravierend bewertet werden. Die dargestellten Ergebnisse werden gegenwärtig mit hoher Priorität einer ingenieurmäßigen Überprüfung unterzogen, um ein realistisches Abbild des Kanalnetzzustandes zu erhalten. Aufgrund der seit Gründung des EUV (ehemals EbS) im Jahr 1993 vorgenommenen Anstrengungen hinsichtlich der Erneuerung ganzer Kanäle ist festzustellen, dass das Augenmerk sich von der Erneuerung ganzer Abschnitte zu der Sanierung einzelner Schäden verschiebt. Diese laufende Entwicklung ist bereits seit längerem zu beobachten und wird sich in Zukunft fortsetzen. Aus der Verschiebung des Aufgabenfeldes ergeben sich teilweise aufwändigere Aufgabenstellungen. Neben der ständigen Abwägung, wann gegebenenfalls eine investive Maßnahme (Erneuerung / Sanierung ganzer Kanäle) angezeigt ist, muss eine Vielzahl von Randbedingungen und Verfahren zur Schadensbehebung beachtet werden. Dementsprechend ist zu beobachten, dass Ausschreibung, Baubegleitung und Abrechnung wesentlich kleinteiliger ausfallen. Weiterer Bericht in der Sitzung. Anlagen: Anlage 1 – Übersicht Gebietseinteilung gemäß Selbstüberwachungsverordnung%anl%;Gebietseinteilung_Fristensatzung_2009-2023 ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Selbstüberwachungsverordnung Abwasser (SüwVO Abw)\r\nSachstandsbericht",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2017/EUV/004",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

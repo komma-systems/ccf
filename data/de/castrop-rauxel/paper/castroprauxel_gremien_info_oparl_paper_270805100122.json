@@ -1,0 +1,65 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/270805100122",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270805100122%7C20200508082928-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-08",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270805100122%7C20200508082928-0.pdf%7C",
+        "fileName": "20200508082928-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270805100122%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270805100122",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "6766add87c916a169b3bb20a40b46bc5351de784",
+        "size": 625829,
+        "text": "Antrag UBP vom 08.05.2020_Verzicht auzf Parkgebühren bis zum 24.12.2020",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-118%7C270805100122%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/9043",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-118",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-05-08",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/270805100122",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270805100122&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270805100122&id=69",
+      "fileName": "270805100122",
+      "id": "https://castroprauxel.gremien.info/oparl/file/270805100122",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/102",
+      "size": 11089,
+      "text": " Bereich Stabsstelle Ratsangelegenheiten 2020/102 öffentlich  Az:     Datum: 08.05.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Rat der Stadt     Betreff  Antrag UBP Fraktion vom 08.05.2020_Verzicht auf Parkgebühren bis zum 24.12.2020  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Siehe Anlage.  \f\f gez. Thomas Schmidt Fraktionsvorsitzender UBP-Fraktion \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Antrag UBP Fraktion vom 08.05.2020_Verzicht auf Parkgebühren bis zum 24.12.2020",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/102",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

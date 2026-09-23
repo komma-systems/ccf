@@ -1,0 +1,348 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AGID-7",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AGID-7%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AGID-7",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AGID-7%7C1%7C1",
+          "date": "2025-07-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AGID-7%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AGID-7%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 380533,
+          "text": "  1 Fragestunde für Einwohnerinnen und Einwohner   Es werden keine Fragen an das Gremium gerichtet.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AGID-7%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AGID-7",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AGID-7%7CProtokoll%7C1",
+          "date": "2025-07-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AGID-7%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AGID-7%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 395156,
+          "text": "  2 Einwände gegen die letzte Niederschrift   Gegen die Niederschrift der Sitzung am 07.05.2025 werden keine Einwände erhoben.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/14070",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AGID-7%7C382605100103%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AGID-7",
+        "name": "Aufstellung von Trinkwasserbrunnen im Stadtgebiet",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AGID-7%7C382605100103%7C1",
+          "date": "2025-07-02",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AGID-7%7C382605100103%7C1",
+          "fileName": "be_382605100103_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AGID-7%7C382605100103%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 407023,
+          "text": "  3 Aufstellung von Trinkwasserbrunnen im Stadtgebiet (2025/100)   Frau Graf vom EUV Stadtbetrieb berichtet über die Aufstellung von Trinkwasserbrunnen im Stadtgebiet. Zusätzlich zu dem vorhandenen Trinkwasserbrunnen in der Altstadt sollen an sechs weiteren Standorten frei zugängliche Trinkwasserbrunnen aufgestellt werden. Die Maßnahmen erfolgen im Rahmen der Hitzeaktionsplanung in Castrop-Rauxel.   Der Bericht zur Aufstellung der Trinkwasserbrunnen im Stadtgebiet wird von dem Ausschuss zur Kenntnis genommen.  Auf Nachfrage aus dem Gremium führt Frau Graf aus, dass der Bericht den aktuellen Sachstand darstellt. Die Errichtung von weiteren Trinkwasserbrunnen an bislang nicht berücksichtigten Standorten, wie beispielsweise dem Bärenplatz in Deininghausen, müsste geprüft werden.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2025-AGID-7%7Czt_0%7C1%7C20250701104126-0_zt_0_1.pdf",
+            "date": "2025-07-01",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2025-AGID-7%7Czt_0%7C1%7C20250701104126-0_zt_0_1.pdf",
+            "fileName": "20250701104126-0_zt_0_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2025-AGID-7%7Czt_0%7C1%7C20250701104126-0_zt_0_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "2025-06-25_AG_Generationen",
+            "size": 3489154,
+            "type": "https://schema.oparl.org/1.0/File"
+          },
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2025-AGID-7%7Czt_0%7C1%7C20250701104145-0_zt_0_1.pdf",
+            "date": "2025-07-01",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2025-AGID-7%7Czt_0%7C1%7C20250701104145-0_zt_0_1.pdf",
+            "fileName": "20250701104145-0_zt_0_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2025-AGID-7%7Czt_0%7C1%7C20250701104145-0_zt_0_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "2025-06-25_Impulsvortrag_Veranstaltungen_inklusiv",
+            "size": 2107440,
+            "type": "https://schema.oparl.org/1.0/File"
+          },
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2025-AGID-7%7Czt_0%7C1%7C20250701104200-0_zt_0_1.pdf",
+            "date": "2025-07-01",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2025-AGID-7%7Czt_0%7C1%7C20250701104200-0_zt_0_1.pdf",
+            "fileName": "20250701104200-0_zt_0_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2025-AGID-7%7Czt_0%7C1%7C20250701104200-0_zt_0_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "2025-06-25_Präsentation_Woche der Vielfalt",
+            "size": 3473245,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AGID-7%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AGID-7",
+        "name": "Aktuelle Berichte zu den Themen der Arbeitsgruppen sowie weitere Planungen der Treffen:\r\n- Arbeitsgruppe \"Generationen\"\r\n- Arbeitsgruppe \"Inklusion\"\r\n- Arbeitsgruppe \"Diversität / Vielfalt\"",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AGID-7%7Czt_0%7C1",
+          "date": "2025-07-02",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AGID-7%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AGID-7%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 431284,
+          "text": "  4 Aktuelle Berichte zu den Themen der Arbeitsgruppen sowie weitere Planungen der Treffen: - Arbeitsgruppe  Generationen  - Arbeitsgruppe  Inklusion  - Arbeitsgruppe  Diversität / Vielfalt    Herr Trzeziak berichtet über die aktuellen Themen der Arbeitsgruppe Generationen. Um vulnerable Gruppen vor den Auswirkungen von Hitze zu schützen wurden seitens der Stadt Castrop-Rauxel verschiedene Maßnahmen umgesetzt. Herr Trzeziak stellt die Mitmach-Aktion Wir bieten Hitzeschutz vor, welche vor zwei Jahren in Kooperation mit Einzelhändlern und Unternehmen sowie öffentlichen Einrichtungen umgesetzt wurde.  Menschen können aus den verschiedensten Gründen von Einsamkeit betroffen sein. Herr Trzeziak führt aus, dass es in Castrop-Rauxel für Senioren eine Vielzahl von Angeboten gibt um die Freizeit zu gestalten, soziale Kontakte zu pflegen und die Lebensqualität zu verbessern.  In den letzten Wochen sind ältere Menschen vermehrt in den Fokus von Betrügern geraten. Um potentielle Opfer besser zu schützen, wurden in Kooperation mit dem WEISSEN RING mehrere Informationsveranstaltungen durchgeführt.  Die Präsentation ist der Niederschrift als Anlage beigefügt.   Für die Arbeitsgruppe Inklusion berichtet Frau Kleff über den aktuellen Stand bezüglich der Umsetzungen von barrierefreien Veranstaltungen. Im Rahmen der Woche der Vielfalt wurde am 27.05.2025 die Fokus-Auf Veranstaltungen inklusiver gestalten und Barrieren reduzieren durchgeführt. Hierfür konnte Frau Grossek vom Kompetenzzentrum Barrierefreiheit Volmarstein als fachkundige Referentin gewonnen werden. In dem Vortrag wurden die verschiedensten Anforderungen wie auch Möglichkeiten thematisiert um Veranstaltungen so zu organisieren, dass diese für alle zugänglich und nutzbar sind.  Anknüpfend an die Fachveranstaltung hat sich die Arbeitsgruppe Inklusion während eines virtuellen Treffens am 05.06.2025 dazu ausgetauscht, welche ersten Schritte in Richtung barrierearmer Veranstaltungen mit relativ wenig Aufwand gemacht werden könnten. Mit Unterstützung von und in Kooperation mit dem bestehenden Inklusionsnetzwerk vor Ort soll ein Maßnahmen-Gerüst für mehr Barrierefreiheit und Teilhabemöglichkeiten aus- und aufgebaut werden. Im Laufe des fortzuführenden Prozesses soll das Maßnahmen-Gerüst mit ständig neuen Erfahrungen, Bausteinen, Aktionen usw. angereichert werden.  Die Präsentation von Frau Grossek vom Kompetenzzentrum Barrierefreiheit Volmarstein ist der Niederschrift als Anlage beigefügt.   Frau Jordan präsentiert für die Arbeitsgruppe Inklusion einen Rückblick über die diesjährige Woche der Vielfalt. Im Zeitraum vom 17.05 bis zum 27.05.2025 fanden vielfältige Programmpunkte rund um das Thema Vielfalt statt. Die Woche der Vielfalt wurde mit dem Inklusiven Musikfestival im Jugendzentrum Yahoo in Waltrop eröffnet. Im Rahmen einer Street Art Aktion zum Thema Vielfalt und Toleranz wurde der Toilettencontainer am Hallenbadspielplatz neu gestaltet, so dass dort nunmehr die schönste Toilettenanlage in Castrop-Rauxel vorzufinden ist. Der Filmabend Heaven can wait wie auch das faire Kochevent im Marcel-Callo-Haus fanden regen Anklang. Ein jüngeres Publikum wurde mit dem Kindermusiknachmittag mit der Kulturkarawane im Caf Q sowie dem Malatelier zum Thema Vielfalt angesprochen. Auch der Gottesdienst für alle Liebenden sowie der Interkulturelle Kochabend wurden gut angenommen. Neben den genannten Veranstaltungen wurden im Rahmen der Woche der Vielfalt noch weitere Angebote durchgeführt.  Die Präsentation ist der Niederschrift als Anlage beigefügt.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2025-AGID-7%7Czt_2%7C1%7C20250701104235-0_zt_2_1.pdf",
+            "date": "2025-07-01",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2025-AGID-7%7Czt_2%7C1%7C20250701104235-0_zt_2_1.pdf",
+            "fileName": "20250701104235-0_zt_2_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2025-AGID-7%7Czt_2%7C1%7C20250701104235-0_zt_2_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "2025-06-25_Vorstellung_Chancenwerk",
+            "size": 1202606,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AGID-7%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AGID-7",
+        "name": "Vorstellung \"Chancenwerk e.V.\" \r\nmündlicher Bericht: Frau Vural und Herr Kösters vom Chancenwerk e.V.",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AGID-7%7Czt_2%7C1",
+          "date": "2025-07-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AGID-7%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AGID-7%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 396160,
+          "text": "  5 Vorstellung  Chancenwerk e.V.   mündlicher Bericht: Frau Vural und Herr Kösters vom Chancenwerk e.V.   Frau Vural und Herr Kösters stellen in Ihrem Vortrag das Chancenwerk e.V. vor. Als gemeinnütziger eingetragener Bildungsverein und Träger der freien Jugendhilfe setzt sich das Chancenwerk e.V. für gerechte Bildungschancen von Kindern und Jugendlichen ein.  Der Vortrag wird von den Ausschussmitgliedern zur Kenntnis genommen.  Die Präsentation ist der Niederschrift als Anlage beigefügt.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2025-AGID-7%7Czt_1%7C1%7C20250701104257-0_zt_1_1.pdf",
+            "date": "2025-07-01",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2025-AGID-7%7Czt_1%7C1%7C20250701104257-0_zt_1_1.pdf",
+            "fileName": "20250701104257-0_zt_1_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2025-AGID-7%7Czt_1%7C1%7C20250701104257-0_zt_1_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "2025-06-25_Sozialbericht_2025_AGID",
+            "size": 1930674,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AGID-7%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AGID-7",
+        "name": "Vorstellung \"Sozialbericht Castrop-Rauxel\"\r\nmündlicher Bericht: Frau Heyer (Sozialplanung)",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AGID-7%7Czt_1%7C1",
+          "date": "2025-07-02",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AGID-7%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AGID-7%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 412872,
+          "text": "  6 Vorstellung  Sozialbericht Castrop-Rauxel  mündlicher Bericht: Frau Heyer (Sozialplanung)   Frau Heyer stellt in Ihrem Vortrag den Sozialbericht Castrop-Rauxel vor. Der Sozialbericht beschäftigt sich mit der Kernfrage, wie sich die verschiedenen Lebenslagen der Bevölkerung in Castrop-Rauxel differenziert darstellen lassen und durch welche Faktoren diese beeinflusst werden. Mittels des Sozialberichtes sollen sich ungleiche Lebenslagen in ihren verschiedenen Dimensionen und den damit einhergehenden Herausforderungen darstellen lassen.  Die Präsentation ist der Niederschrift als Anlage beigefügt.  Der Sachverhalt wird von den Ausschussmitgliedern zur Kenntnis genommen.  Herr John dankt Frau Heyer für die Vorstellung des Sozialberichtes und lobt die gute Arbeit hinsichtlich der Zusammentragung des Zahlenmaterials. Das Zahlenwerk wird als Grundlage für weiteres Handeln gesehen.   Herr Wagner erkundigt sich, inwieweit der Bezug von Bildungsgutscheinen in den Kitas berücksichtigt wurde.  Frau Kleff führt aus, dass dieser Aspekt unter dem Bereich Leistungen für Bildung und Teilhabe erörtert wird.  Herr Leidig merkt an, dass bei der Gruppe der Beziehenden von Eingliederungshilfe unter 27 Jahren nur diejenigen Personen erfasst werden, die Eingliederungshilfe vom Jugendamt beziehen und damit die Personen, die Eingliederungshilfe von anderen Leistungsträgern (Krankenkasse, Landschaftsverband Westfalen-Lippe etc.) nicht erfasst werden.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AGID-7%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AGID-7",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AGID-7%7C6%7C1",
+          "date": "2025-07-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AGID-7%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AGID-7%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 398783,
+          "text": "  7 Anfragen der Ausschussmitglieder   Herr Buchholz führt aus, dass die neue Toilettenanlage am Waldfriedhof nur während der Öffnungszeiten genutzt werden kann. Er fragt an, unter welchen Voraussetzungen Menschen mit einer Behinderung die Toiletten außerhalb der Öffnungszeiten nutzen können.  Herr Trzeziak erörtert, dass behindertengerechte Toiletten über den Euroschlüssel geöffnet werden können.  Frau Lückel führt ergänzend aus, dass es sich bei dem Euroschlüssel um ein Schließsystem handelt, welches es körperlich beeinträchtigten Menschen ermöglicht, mit einem Einheitsschlüssel selbständig Zugang zu behindertengerechten sanitären Anlagen und Einrichtungen zu erhalten.   Frau Lückel bittet die Verwaltung zu prüfen, an welchen Standorten in Castrop-Rauxel der Euroschlüssel genutzt werden kann.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AGID-7%7C998%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AGID-7",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AGID-7%7C998%7C1",
+          "date": "2025-07-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AGID-7%7C998%7C1",
+          "fileName": "be_998_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AGID-7%7C998%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 407096,
+          "text": "  8 Mitteilungen der Verwaltung   Frau Kleff berichtet, dass die wewole sich zum Neubau und zur Neunutzung im Bahnhofsgebäude geäußert hat.  Im Zuge einer strukturellen und wirtschaftlichen Neuausrichtung der Gewerbeflächen im Bahnhofsgebäude wurde der bisherige Imbissbereich im CAPpuccino zurückgebaut, um Platz für den Kiosk (NimmEssMit) zu schaffen, der zuvor im rechten Bereich des Gebäudes untergebracht war. Diese Maßnahme ermöglicht eine effizientere Flächennutzung sowie eine Synergie beider Angebote  Bäckerei und Kiosk  unter einem Dach, was sowohl aus wirtschaftlicher als auch aus kundenorientierter Sicht sinnvoll ist.   Durch den Wegfall des Imbissbereichs konnten die Verkaufsflächen besser gebündelt werden, was insbesondere auch den gestiegenen Anforderungen an moderne Verkaufsstellen mit erweitertem Warenangebot entgegenkommt. Der neue gemeinsame Standort bietet den Kundinnen und Kunden den Vorteil, zentrale Produkte des täglichen Bedarfs sowie Snacks und Backwaren an einem Ort zu erhalten.   Die nun freigewordene ehemalige Kioskfläche wird künftig durch das ABW (Ambulant Betreutes Wohnen) genutzt. Hintergrund ist die Kündigung des bisherigen Mietvertrags für die ehemaligen Räumlichkeiten des ABWs an der Herner Straße, wodurch ein kurzfristiger Umzug notwendig wurde.   Die Lage im Bahnhofsgebäude bietet zudem eine gute Anbindung an den öffentlichen Nahverkehr und eine zentrale Erreichbarkeit für die Klientinnen und Klienten sowie Mitarbeitenden des ABWs. Die baulichen Gegebenheiten des bisherigen Kiosks ließen sich mit geringem Aufwand in Büro- bzw. Beratungsräume umwandeln. Mit diesen Maßnahmen wurde eine nachhaltige und bedarfsgerechte Nutzung der vorhandenen Flächen sichergestellt, wobei sowohl wirtschaftliche Aspekte als auch die Interessen der Nutzergruppen berücksichtigt wurden.   Frau Jordan teilt mit, dass der Gleichstellungsplan 2025  2029 vorliegt und während der Sitzung zur Mitnahme ausliegt.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AGID-7%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AGID-7",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AGID-7%7C997%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AGID-7",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2025-06-25T18:21:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AGID-7",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2025-AGID-7",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-06-05",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2025-AGID-7",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2025-AGID-7",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "33918a61f6ff71fd1db6540202cf269ba9935911",
+      "size": 433879,
+      "text": "Einladung zur Sitzung des Ausschusses für Generationen, Inklusion und Diversität (AGID) am Mittwoch, 25.06.2025 um 17:00 Uhr im Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel,    I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner   2. Einwände gegen die letzte Niederschrift   3. Aktuelle Berichte zu den Themen der Arbeitsgruppen sowie weitere Planungen der Treffen: - Arbeitsgruppe  Generationen  - Arbeitsgruppe  Inklusion  - Arbeitsgruppe  Diversität / Vielfalt    4. Aufstellung von Trinkwasserbrunnen im Stadtgebiet   5. Vorstellung  Chancenwerk e.V.   mündlicher Bericht: Frau Vural und Herr Kösters vom Chancenwerk e.V.   6. Vorstellung  Sozialbericht Castrop-Rauxel  mündlicher Bericht: Frau Heyer (Sozialplanung)   7. Anfragen der Ausschussmitglieder   8. Mitteilungen der Verwaltung      II. Nichtöffentliche Sitzung:  1. Anfragen der Ausschussmitglieder   2. Mitteilungen der Verwaltung     R o e h l Vorsitzender \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AGID-7/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschuss für Generationen, Inklusion und Diversität",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/AGID"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/1032",
+      "https://castroprauxel.gremien.info/oparl/person/138",
+      "https://castroprauxel.gremien.info/oparl/person/1090",
+      "https://castroprauxel.gremien.info/oparl/person/1076",
+      "https://castroprauxel.gremien.info/oparl/person/876",
+      "https://castroprauxel.gremien.info/oparl/person/392",
+      "https://castroprauxel.gremien.info/oparl/person/1043",
+      "https://castroprauxel.gremien.info/oparl/person/1215",
+      "https://castroprauxel.gremien.info/oparl/person/712",
+      "https://castroprauxel.gremien.info/oparl/person/1060",
+      "https://castroprauxel.gremien.info/oparl/person/1260",
+      "https://castroprauxel.gremien.info/oparl/person/1075",
+      "https://castroprauxel.gremien.info/oparl/person/1145",
+      "https://castroprauxel.gremien.info/oparl/person/851",
+      "https://castroprauxel.gremien.info/oparl/person/1224",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/758",
+      "https://castroprauxel.gremien.info/oparl/person/1121",
+      "https://castroprauxel.gremien.info/oparl/person/1006",
+      "https://castroprauxel.gremien.info/oparl/person/1122"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-AGID-7",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-07-02",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2025-AGID-7",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2025-AGID-7",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 501856,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2025-06-25T17:01:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-AGID-7",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-07-02",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2025-AGID-7",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2025-AGID-7",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 501856,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

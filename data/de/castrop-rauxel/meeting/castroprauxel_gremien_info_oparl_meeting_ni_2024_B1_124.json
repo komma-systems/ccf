@@ -1,0 +1,401 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-124",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-124%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-124",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C1%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-124%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 500109,
+          "text": " 1 Fragestunde für Einwohnerinnen und Einwohner    Eine Einwohnerin erkundigt sich nach dem Bearbeitungsstand ihres Einbürgerungsverfahrens. BG Herr Eckhardt sichert ihr eine Rückmeldung des zuständigen Fachbereiches 34 Ausländerbehörde zu.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-124%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-124",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-124%7CProtokoll%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-124%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-124%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 372792,
+          "text": " 2 Einwände gegen die letzte Niederschrift    Keine      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-124%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-124",
+        "name": "Raserszene in Castrop-Rauxel; mündlicher Bericht der Polizei",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-124%7Czt_1%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-124%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-124%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 390084,
+          "text": " 3 Raserszene in Castrop-Rauxel; mündlicher Bericht der Polizei    Aufgrund einer Erkrankung des Referenten muss die Berichterstattung in die nächste Sitzung verschoben werden.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11315",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-124%7C350502100031%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-124",
+        "name": "Bürgerantrag gemäß § 24 GO NRW vom 28.12.2023 _ Ordnen des Parkens an der Clemensstraße durch Beschilderung und Markierung",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C350502100031%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C350502100031%7C1",
+          "fileName": "be_350502100031_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-124%7C350502100031%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 512934,
+          "text": " 4 Bürgerantrag gemäß § 24 GO NRW vom 28.12.2023 _Ordnen des Parkens an der Clemensstraße durch Beschilderung und Markierung (2024/032)    RM Herr Bettinger habe von einem Anwohner die Rückmeldung erhalten, dass die vorgeschlagenen Maßnahmen nicht notwendig seien. Laut RM Herrn Kahl werde in dem Gebiet zwar viel auf den Gehwegen geparkt, allerdings sehe auch er keinen Handlungsbedarf.  Aufgrund fehlender Informationen sei der Antrag laut RM Herrn Schneider nicht entscheidungsreif.  RM Herr Prof. Wagener teilt mit, dass das Parken auf Gehwegen häufig zu Schäden an Gehwegplatten führe und ein gesamtstädtisches Problem darstelle.  Ausschussvorsitzender Herr Fercke regt vermehrte Kontrollen durch den Fachbereich Ordnung an der Clemensstraße an und schlägt vor, dass die Verwaltung in einer der kommenden Sitzungen über die allgemeine Parksituation im Stadtgebiet berichtet. Die Ausschussmitglieder stimmen diesem Vorschlag zu.          \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12901",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-124%7C350508100164%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-124",
+        "name": "Einrichtung einer Linksabbiegerampel an der Kreuzung Pallasstraße / B235",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C350508100164%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C350508100164%7C1",
+          "fileName": "be_350508100164_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-124%7C350508100164%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 414234,
+          "text": " 5 Einrichtung einer Linksabbiegerampel an der Kreuzung Pallasstraße / B235 (2024/160)    Herr Thiel erläutert das allgemeine Verfahren zur Prüfung solcher Anträge. Die Entscheidung obliege der Unfallkommission, die sich aus den jeweiligen Straßenverkehrs-, Straßenbau- und Polizeibehörden zusammensetzt. Die Beschlüsse dieser Kommission seien bindend.  Im vorliegenden Fall habe die Unfallkommission beschlossen, dass die bereits umgesetzte Verbesserung der Beleuchtungssituation und die noch durchzuführende Neumarkierung der Linksabbiegertaschen ausreichend seien, da sich die Unfallhäufigkeit bereits reduziert habe. Zusätzlich werde das vom Rat beschlossene Verbot von sogenannten U-Turns noch vom Landesbetrieb Straßen.NRW umgesetzt. Für die Einrichtung einer Linksabbiegerampel als ultima ratio werde derzeit keine Notwendigkeit gesehen.  RM Herr Bettinger, RM Herr Schneider und RM Biletzke berichten, dass es an der Kreuzung weiterhin zu gefährlichen Situationen, unter anderem auch für Fußgänger, käme und bitten Herrn Thiel diese Beobachtungen an die Unfallkommission zurückzumelden.  Der Betriebsausschuss 1 nimmt die Ausführungen der Verwaltung zur Kenntnis.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11692",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-124%7C350508100166%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-124",
+        "name": "Planung einer Lichtsignalanlage an der Einmündung Cottenburgstraße/Christinenstraße",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C350508100166%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C350508100166%7C1",
+          "fileName": "be_350508100166_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-124%7C350508100166%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 400028,
+          "text": "  6 Planung einer Lichtsignalanlage an der Einmündung Cottenburgstraße/Christinenstraße (2024/162)    Der Betriebsausschuss 1 beschließt einstimmig die Entfernung der Fußgängerüberwege an der Einmündung Cottenburgstraße/ Christinenstraße zugunsten der Errichtung einer Lichtsignalanlage in enger Abstimmung mit den Planungen zur Umsetzung der Fahrradstraße Schiller-/Christinenstraße.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11318",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-124%7C350508100165%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-124",
+        "name": "Sachstandsbericht zur Einführung von Bodycams für den Kommunalen Ordnungsdienst",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C350508100165%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C350508100165%7C1",
+          "fileName": "be_350508100165_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-124%7C350508100165%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 420427,
+          "text": " 8 Sachstandsbericht zur Einführung von Bodycams für den Kommunalen Ordnungsdienst (2024/161)    Herr Treese fasst den Sachstandsbericht zusammen. Die Einführung von Bodycams für den Kommunalen Ordnungsdienst (KOD) sei rechtlich zulässig. Es läge im Ermessen des jeweiligen Mitarbeitenden, ob sie/ er eine Situation als Bedrohungslage einschätzt und die Kamera einschaltet. Er stellt klar, dass das Ziel keine flächendeckende Videoüberwachung sei, sondern die Erhöhung der Sicherheit der Einsatzkräfte. Eine Verwendung der Bodycams sei grundsätzlich auch in anderen Tätigkeitsbereichen (z.B. Verkehrsüberwachung und Gewerbeaußendienst) vorstellbar. Die betroffenen Mitarbeiter*innen ständen der Verwendung von Bodycams grundsätzlich positiv gegenüber. Einzelheiten zur Anwendung seien in einer Dienstanweisung zu regeln.   SB Herr Sperling berichtet von Erfahrungen der Polizei, wonach das sogenannte Pre-Recording für die Beweissicherung von großer Bedeutung sei.   Der Betriebsausschuss 1 nimmt den Bericht der Verwaltung zur Kenntnis und beauftragt die Verwaltung mit der Umsetzung im Rahmen einer Testphase.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/13107",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-124%7C351908100173%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-124",
+        "name": "Antrag der CDU-Fraktion vom 19.08.2024_Positionierung der Abfallbehälter im Stadtgarten",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C351908100173%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C351908100173%7C1",
+          "fileName": "be_351908100173_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-124%7C351908100173%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 413993,
+          "text": " 9 Antrag der CDU-Fraktion vom 19.08.2024_Positionierung der Abfallbehälter im Stadtgarten (2024/169)    RM Herr Schneider begründet den Antrag.  Auch RM Frau Mintrop-Werkle sieht einen Mehrbedarf an Abfallbehälter im Stadtgarten. Ihre Nachzählung habe ergeben, dass sich im Stadtgarten 31 Sitzbänke ohne Abfallbehälter in unmittelbarer Nähe befinden würden und insbesondere dort eine starke Verschmutzung festzustellen sei.   Der Betriebsausschuss 1 empfiehlt dem Rat der Stadt einstimmig, die Verwaltung zu beauftragen, die Positionierung der Abfallbehälter im Stadtgarten zu überprüfen und diese verstärkt neben den Sitzgelegenheiten zu positionieren.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/13109",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-124%7C351908100174%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-124",
+        "name": "Antrag der CDU-Fraktion vom 19.08.2024_Errichtung einer Lichtquelle entlang der Suderwicher Straße",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C351908100174%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C351908100174%7C1",
+          "fileName": "be_351908100174_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-124%7C351908100174%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 394491,
+          "text": "  10 Antrag der CDU-Fraktion vom 19.08.2024_Errichtung einer Lichtquelle entlang der Suderwicher Straße (2024/170)    Bei einer Enthaltung wird der Antrag mangels eigener Zuständigkeit an den Kreistag verwiesen.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/15496",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-124%7C352208100181%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-124",
+        "name": "Gemeinsamer Antrag der Fraktionen SPD, Bündnis 90/ Die GRÜNEN vom 21.08.2024_Verkehrsberuhigung Ickerner-Straße",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C352208100181%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C352208100181%7C1",
+          "fileName": "be_352208100181_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-124%7C352208100181%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 436268,
+          "text": " 11 Gemeinsamer Antrag der Fraktionen SPD, Bündnis 90/ Die GRÜNEN vom 21.08.2024_Verkehrsberuhigung Ickerner-Straße (2024/177)    RM Herr Schneider übt inhaltliche Kritik an den im Antrag vorgeschlagenen Maßnahmen.   Herr Thiel ordnet die Vorschläge rechtlich ein. Die notwendige Änderung der Straßenverkehrsordnung sei noch nicht im Bundesgesetzblatt veröffentlicht und somit noch nicht in Kraft getreten. Zukünftig könnten Tempo 30-Zonen miteinander verbunden werden, sofern diese nicht mehr als 500m voneinander entfernt sind. Querungshilfen seien nicht an jeder Stelle sinnvoll, eine Einzelfallprüfung sei notwendig. Ein Einsatz des Panzerbllitzers an der Ickerner Straße habe ergeben, dass die derzeitig zulässige Höchstgeschwindigkeit von 50 km/h von den Autofahrern eingehalten wird. Abschließend kündigt Herr Thiel an, die Unfallstatistiken für den Ickerner Knoten bis zur Ratssitzung nachzuliefern.  Nach weiterer Diskussion empfiehlt der Betriebsausschuss 1 dem Rat der Stadt bei einer Enthaltung und sechs Gegenstimmen, die Verwaltung zu beauftragen, für den Bereich der Ickerner Straße (hier gemeint die Ickerner Straße ab Kreuzung Friedhof-/ Vinckestraße bis Ickerner Knoten) in Abstimmung mit Straßen NRW prüfen zu lassen:  1. Inwiefern eine Möglichkeit zur Einrichtung einer Geschwindigkeitsbeschränkung unterhalb von 50 km/h besteht. Dies insbesondere vor dem Hintergrund der im Juni im Bund beschlossenen Neufassung der Straßenverkehrsordnung.   2. Ob die Errichtung von Zebrastreifen und/ oder Querungshilfen an Stellen möglich ist, an denen Menschen typischerweise die Straße queren. (Zum Beispiel zwischen Christuskirche und Markt Ickern).  3. Inwiefern die Verkehrssituation für Radfahrende, gerade zwischen (Christuskirche und Markt Ickern) unter Einbezug der Maßnahmen des Nahmobilitätskonzeptes oder durch zusätzliche und/ oder breitere Radwege sicherer gestaltet werden kann.  Darüber hinaus ist von Seiten der Stadt darzustellen / zu prüfen:  1. Inwiefern die Verkehrssituation für Radfahrende ohne Ziel Ickern durch die Einrichtung einer Fahrradstraße Friedrichstraße / Ruprechtstraße / Emscherstraße eine sichere Umfahrung gestaltet werden kann.  2. Inwieweit die Überprüfung der Unfallstelle Ickerner Knoten regelmäßig erfolgt und ob ein Umbau des Kreisels zur Verkehrssicherheit erfolgen soll.  3. Ob der Bau des Kreisels Ickerner/ Vinckestraße im Nahmobilitätskonzept priorisiert ist und in naher Zukunft beginnt.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/15873",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-124%7C351908100176%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-124",
+        "name": "Antrag der CDU-Fraktion vom 19.08.2024_ Prüfung der Anschaffung einer Dokumentenausgabebox (Dokubox)",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C351908100176%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C351908100176%7C1",
+          "fileName": "be_351908100176_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-124%7C351908100176%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 431473,
+          "text": " 12 Antrag der CDU-Fraktion vom 19.08.2024_ Prüfung der Anschaffung einer Dokumentenausgabebox (Dokubox) (2024/172)    RM Frau Mintrop-Werkle begrüßt die Anschaffung einer Dokumentenausgabebox. Diese sei insbesondere für Berufstätige mit langen Arbeitszeiten sinnvoll. Ihre Recherchen hätten ergeben, dass die Dokubox der Stadt Menden mit 48 Ausgabefächern circa 20.000  gekostet hat.  BG Herr Eckhardt teilt mit, dass eine verwaltungsinterne Prüfung bereits durchgeführt worden sei. Insbesondere vor dem Hintergrund, dass Ausweisdokumente zukünftig auch postalisch zugestellt werden dürfen, wird derzeit keine Notwendigkeit zur Anschaffung einer Dokubox gesehen. Er kündigt jedoch an, die Einschätzung weiterer Fachbereiche einzuholen.  RM Frau Seibel berichtet von den positiven Erfahrungen der Stadt Herten mit der Dokubox. Nicht nur die Bürger*innen, sondern auch die Mitarbeitenden der Stadtverwaltung würden von dieser profitieren.  RM Herr Schneider und RM Herr Bettinger wünschen sich eine Vergleichsrechnung unter Berücksichtigung möglicher Einsparungen im Bereich der Portokosten. RM Herr Prof. Wagener merkt an, dass auch die Dokubox Folgekosten verursacht.  Der Betriebsausschuss 1 empfiehlt dem Rat der Stadt einstimmig, die Verwaltung zu beauftragen, die Anschaffung einer Dokumentenausgabebox (Dokubox) unter Berücksichtigung der Inanspruchnahme etwaiger Fördermittel zu prüfen und nach positivem Ergebnis dem Rat der Stadt Castrop-Rauxel sowie den Betriebsausschüssen 1 und 3 einen Zeitplan und ein Konzept zur Anschaffung und Nutzung einer solchen Dokumentenausgabebox zeitnah zur Beschlussfassung vorzulegen.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-124%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-124",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "14",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C6%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-124%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 14",
+          "size": 407403,
+          "text": " 14 Anfragen der Ausschussmitglieder    RM Herr Bettinger erkundigt sich, weshalb Pömpel in der Mitte des Kreisverkehres an der Herner Straße angebracht wurden.   SB Herr Epkenhaus thematisiert die nach seinen Beobachtungen zugenommene Anzahl von Diebstählen in Einzelhandelsgeschäften und fragt, wie die Kommunalpolitik und Stadtverwaltung die Geschäftsleute unterstützen kann. SB Herr Gadde verweist auf das Präventionskommissariat im Polizeipräsidium.    RM Herr Biletzke berichtet, dass die Mülltonnen an der Detmolder Straße wiederholt falsch befüllt wurden und fragt nach möglichen Schulungen für die Hausbewohner*innen.    SB Herr Sperling fragt nach dem Sachstand seiner Anfrage aus der vorherigen Sitzung (Die Grünphasen der Lichtsignalanlage an der B 235 von der Zuwegung zum kath. Krankenhaus zum Seniorenzentrum sei für Fußgänger*innen zu kurz).    Ausschussvorsitzender Herr Fercke macht darauf aufmerksam, dass die Grünfläche in Mitten des Engelsburgplatzes ungeeigneter Weise als Aufenthaltsort mit Kleingartencharakter genutzt werde.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-124%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-124",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "15",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C4%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-124%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-124%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 15",
+          "size": 368731,
+          "text": " 15 Mitteilungen der Verwaltung    Keine     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-124%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-124",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-124%7Czt_0%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-124",
+        "name": "Mündlicher Bericht zu einer ordnungsbehördlichen Maßnahme",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-124%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-124",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2024-09-04T19:30:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-124",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-B1-124",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-08-22",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2024-B1-124",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2024-B1-124",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "d5491ba0a8908322b40c00502abcb1e1de0894d0",
+      "size": 440653,
+      "text": "Tagesordnung zur Sitzung des Betriebsausschusses 1 (Kultur, Ordnung, Ausländerwesen und Feuerwehr) am Mittwoch, 04.09.2024 um 17:00 Uhr im Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel,   I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner   2. Einwände gegen die letzte Niederschrift   3. Raserszene in Castrop-Rauxel; mündlicher Bericht der Polizei   4. Bürgerantrag gemäß § 24 GO NRW vom 28.12.2023 _ Ordnen des Parkens an der Clemensstraße durch Beschilderung und Markierung   5. Einrichtung einer Linksabbiegerampel an der Kreuzung Pallasstraße / B235   6. Planung einer Lichtsignalanlage an der Einmündung Cottenburgstraße/Christinenstraße   7. Sachstandsbericht zur Einführung von Bodycams für den Kommunalen Ordnungsdienst   8. Antrag der CDU-Fraktion vom 19.08.2024_Positionierung der Abfallbehälter im Stadtgarten   9. Antrag der CDU-Fraktion vom 19.08.2024_Errichtung einer Lichtquelle entlang der Suderwicher Straße   10. Gemeinsamer Antrag der Fraktionen SPD, Bündnis 90/ Die GRÜNEN vom 21.08.2024_Verkehrsberuhigung Ickerner-Straße   11. Antrag der CDU-Fraktion vom 19.08.2024_ Prüfung der Anschaffung einer Dokumentenausgabebox (Dokubox)   12. Anfragen der Ausschussmitglieder   13. Mitteilungen der Verwaltung                     II. Nichtöffentliche Sitzung:  1. Mündlicher Bericht zu einer ordnungsbehördlichen Maßnahme   2. Anfragen der Ausschussmitglieder   3. Mitteilungen der Verwaltung     Malte Fercke Ausschussvorsitzender \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-124/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Betriebsausschusses 1 (Kultur, Ordnung, Ausländerwesen und Feuerwehr)",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/B1"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/73",
+      "https://castroprauxel.gremien.info/oparl/person/1029",
+      "https://castroprauxel.gremien.info/oparl/person/1087",
+      "https://castroprauxel.gremien.info/oparl/person/400",
+      "https://castroprauxel.gremien.info/oparl/person/1058",
+      "https://castroprauxel.gremien.info/oparl/person/1059",
+      "https://castroprauxel.gremien.info/oparl/person/112",
+      "https://castroprauxel.gremien.info/oparl/person/817",
+      "https://castroprauxel.gremien.info/oparl/person/1045",
+      "https://castroprauxel.gremien.info/oparl/person/649",
+      "https://castroprauxel.gremien.info/oparl/person/1007",
+      "https://castroprauxel.gremien.info/oparl/person/416",
+      "https://castroprauxel.gremien.info/oparl/person/1057",
+      "https://castroprauxel.gremien.info/oparl/person/420",
+      "https://castroprauxel.gremien.info/oparl/person/1050",
+      "https://castroprauxel.gremien.info/oparl/person/1199",
+      "https://castroprauxel.gremien.info/oparl/person/58",
+      "https://castroprauxel.gremien.info/oparl/person/267",
+      "https://castroprauxel.gremien.info/oparl/person/999"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-B1-124",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-09-12",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-B1-124",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-B1-124",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 627444,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2024-09-04T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-B1-124",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-09-12",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-B1-124",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-B1-124",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 627444,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/202710100036",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=202710100036%7C20161107105553.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2016-11-07",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=202710100036%7C20161107105553.pdf%7C",
+        "fileName": "20161107105553.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C202710100036%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/202710100036",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "bd5a2531837fdb656fc409d85ba9c6174a8408d0",
+        "size": 240725,
+        "text": "Gebührenbedarfsberechnung Wochenmärkte 2017",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=202710100036%7C20161107105605.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2016-11-07",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=202710100036%7C20161107105605.pdf%7C",
+        "fileName": "20161107105605.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C202710100036%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/202710100036",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "6cb21410fb8dfcc2eed87b2321db871fc126b50e",
+        "size": 274933,
+        "text": "Gebührensatzung zur Marktsatzung 2017",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-15%7C202710100036%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7224",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2016-EUV-15",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2016-10-27",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/202710100036",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=202710100036&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=202710100036&id=69",
+      "fileName": "202710100036",
+      "id": "https://castroprauxel.gremien.info/oparl/file/202710100036",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2016/EUV/037",
+      "size": 170993,
+      "text": "Datum: 27.10.2016 TB I 96 86 340 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 23.11.2016 TOP: I.8 Drucksache-Nr. 2016/EUV/037 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 23.11.2016 8 Rat der Stadt 24.11.2016 31 Betreff: Gebührenbedarfsberechnung 2017 - Wochenmärkte und Erlass einer Gebührensatzung für die Wochenmärkte in Castrop-Rauxel Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt die Gebührenbedarfsberechnung 2017 „Wochenmärkte“ (Anlage 1) zur Kenntnis und beschließt die als Anlage 2 beigefügte Gebührensatzung für die Wochenmärkte in der Stadt Castrop-Rauxel. ________________________ Werner\fSachverhalt: Seit dem Jahre 2014 ist der EUV Stadtbetrieb auch als Veranstalter der Wochenmärkte in der Castroper Altstadt (3 x wöchentlich), Ickern (2 x wöchentlich) und Habinghorst (2 x wöchentlich) tätig. Bislang war aufgrund des Einsatzes vorzutragender Überschüsse aus vergangenen Jahren noch keine Standgeldanpassung notwendig geworden. Allerdings sind einerseits wegen der Umbaumaßnahme auf dem Castroper Marktplatz nennenswerte zusätzliche Kosten für den in die Fußgängerzone verlegten Wochenmarkt entstanden und anderseits stehen keine weiteren Überschussvorträge mehr zur Verfügung. Eine Erhebung der Marktstandsgelder ist daher nach aller Voraussicht geboten. Zur Deckung der mit dem Betrieb der Wochenmärkte anfallenden Kosten sollte daher die vorgeschlagene rd. 10 %-ige Erhöhung des Standgeldes sowohl angemessen als auch ausreichend sein. Diese Erhöhung erscheint auch unter dem Aspekt angemessen, dass die letzte Standgeldanpassung im Jahr 2001 erfolgte. Es ergeben sich folgende Änderungen: Die Tagesgebühr pro angefangene lfd. m Verkaufsfront beträgt seit 2001 ab 2017 bei Propagandisten auf allen Wochenmärkten 5,00 € 5,50 € bei allen anderen Marktbeschickern auf den Wochenmärkten Ickern und Castrop bei markttäglicher Bezahlung 2,95 € 3,25 € bei halbjährlicher Verpflichtung mit mtl. Vorauszahlung 2,55 € 2,80 € auf dem Wochenmarkt in Habinghorst bei markttäglicher Bezahlung 2,45 € 2,70 € bei halbjährlicher Verpflichtung mit mtl. Vorauszahlung 2,25 € 2,45 € Für Markthändler, die sämtliche Wochenmärkte beschicken, soll zukünftig eine günstigere Gebühr gelten. Gemäß § 5 Abs. 2 Ziffer 7 der Kommunalunternehmenssatzung ist der Verwaltungsrat für den Erlass von Satzungen im Rahmen der übertragenen Aufgabenbereiche zuständig. Gemäß § 9 Abs. 2 der Kommunalunternehmenssatzung bedürfen Entscheidungen von grundsätzlicher Bedeutung der Zustimmung des Rates. Vor öffentlicher Bekanntmachung ist somit die vom Verwaltungsrat beschlossene Gebührensatzung noch vom Rat der Stadt zu billigen. Weiterer Bericht in der Sitzung. Anlagen (Gebührenbedarfsberechnung und Satzung)Gebührenbedarfsberechnung 2017 - Wochenmärkte undErlass einer Gebührensatzung für die Wochenmärkte in Castrop-Rauxel2016/EUV/037%anl%;Gebührenbedarfsberechnung Wochenmärkte 2017 Gebührenbedarfsberechnung Wochenmärkte 2017Gebührensatzung zur Marktsatzung 2017 Gebührensatzung zur Marktsatzung 2017 ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Gebührenbedarfsberechnung 2017 - Wochenmärkte und \r\nErlass einer Gebührensatzung für die Wochenmärkte in Castrop-Rauxel",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2016/EUV/037",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

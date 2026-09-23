@@ -1,0 +1,128 @@
+{
+  "council_id": "muenster",
+  "record_type": "meeting",
+  "source_id": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14584",
+  "modified_at": "2026-03-13T16:36:15+01:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "consultation": "https://oparl.stadt-muenster.de/bodies/0001/consultations/90375",
+        "created": "2026-02-10T15:13:42+01:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/281650",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14584",
+        "modified": "2026-02-10T15:13:47+01:00",
+        "name": "Bestellung einer Schriftführung und Stellvertretung",
+        "number": "1",
+        "order": 1,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      },
+      {
+        "created": "2026-01-13T15:48:35+01:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/280244",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14584",
+        "modified": "2026-02-10T15:13:47+01:00",
+        "name": "Verpflichtung neuer Mitglieder",
+        "number": "2",
+        "order": 2,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      },
+      {
+        "created": "2026-01-13T15:48:50+01:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/280245",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14584",
+        "modified": "2026-02-10T15:13:47+01:00",
+        "name": "Eingänge und Mitteilungen",
+        "number": "3",
+        "order": 3,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      },
+      {
+        "consultation": "https://oparl.stadt-muenster.de/bodies/0001/consultations/90170",
+        "created": "2026-01-13T15:52:35+01:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/280246",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14584",
+        "modified": "2026-02-10T15:13:47+01:00",
+        "name": "Feststellung des Abstimmungsergebnisses des Bürgerentscheids im Stadtbezirk Münster-Mitte am 08.02.2026",
+        "number": "4",
+        "order": 4,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      },
+      {
+        "created": "2026-01-13T15:52:51+01:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/280247",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14584",
+        "modified": "2026-02-10T15:13:47+01:00",
+        "name": "Verschiedenes",
+        "number": "5",
+        "order": 5,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00578734.pdf",
+        "created": "2026-01-15T08:52:08+01:00",
+        "date": "2026-01-15",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00578734.pdf",
+        "fileName": "00578734.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/578734",
+        "mimeType": "application/pdf",
+        "modified": "2026-02-10T15:16:27+01:00",
+        "name": "Tagesordnung öffentlich",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "created": "2026-01-06T12:51:53+01:00",
+    "end": "2026-02-10T17:00:00+01:00",
+    "id": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14584",
+    "location": {
+      "created": "2024-07-10T17:10:22+02:00",
+      "id": "https://oparl.stadt-muenster.de/bodies/0001/locations/rm/116863",
+      "locality": "",
+      "modified": "2024-07-10T17:11:23+02:00",
+      "postalCode": "",
+      "room": "Fresno-Zimmer, 2. Etage",
+      "streetAddress": "",
+      "subLocality": "",
+      "type": "https://schema.oparl.org/1.1/Location"
+    },
+    "modified": "2026-03-13T16:36:15+01:00",
+    "name": "Sitzung",
+    "organization": [
+      "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/314"
+    ],
+    "participant": [
+      "https://oparl.stadt-muenster.de/bodies/0001/people/110931",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/110599",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/110582",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/110799",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/113780",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/113598",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/108170",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/113641",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/112508",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/108683",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/110899"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00580068.pdf",
+      "created": "2026-02-08T16:00:12+01:00",
+      "date": "2026-02-13",
+      "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00580068.pdf",
+      "fileName": "00580068.pdf",
+      "id": "https://oparl.stadt-muenster.de/bodies/0001/files/580068",
+      "mimeType": "application/pdf",
+      "modified": "2026-03-13T16:36:15+01:00",
+      "name": "Niederschrift öffentlich mit",
+      "type": "https://schema.oparl.org/1.1/File"
+    },
+    "start": "2026-02-10T16:00:00+01:00",
+    "type": "https://schema.oparl.org/1.1/Meeting"
+  }
+}

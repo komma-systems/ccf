@@ -1,0 +1,316 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-47",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-47%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-47",
+        "name": "Risikoorientierte Prüfplanung\r\nhier: Bericht über den Bearbeitungsstand der Prüfplanung der Vorjahre, \r\nVorstellung der Prüfplanung 2024\r\n- mündlicher Bericht -",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-RPA-47%7Czt_0%7C1",
+          "date": "2024-04-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-RPA-47%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-RPA-47%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 405019,
+          "text": "  1 Risikoorientierte Prüfplanung hier: Bericht über den Bearbeitungsstand der Prüfplanung der Vorjahre,  Vorstellung der Prüfplanung 2024 - mündlicher Bericht -    Herr Pepping erläutert den Bearbeitungsstand der Prüfungsplanungen der Vorjahre und stellt die Prüfungsplanung für das Jahr 2024 vor.   Die zugehörige PowerPoint-Präsentation wird der Niederschrift als Anlage 1 beigefügt.  Der Rechnungsprüfungsausschuss nimmt den Bericht zur Kenntnis.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-47%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-47",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-RPA-47%7C6%7C1",
+          "date": "2024-04-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-RPA-47%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-RPA-47%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 385757,
+          "text": "  2 Anfragen der Ausschussmitglieder    Herr Piehl erkundigt sich, ob der aktuelle Stand der neuen Konferenztechnik im Ratssaal der Endausbau sei und beklagt die schlechte Klang- bzw. Übertragungsqualität. Herr Eckhardt teilt hierzu mit, dass die Installation noch nicht abgeschlossen sei und teilt dessen Meinung.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-47%7C998%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-47",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-RPA-47%7C998%7C1",
+          "date": "2024-04-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-RPA-47%7C998%7C1",
+          "fileName": "be_998_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-RPA-47%7C998%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 367451,
+          "text": "  3 Mitteilungen der Verwaltung    Keine Mitteilungen.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11134",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-47%7C352503100083%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-47",
+        "name": "Prüfung des Jahresabschlusses der Stadt Castrop-Rauxel zum 31.12.2021",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11127",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-47%7C350403100068%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-47",
+        "name": "Bericht der Gemeindeprüfungsanstalt NRW (gpa NRW) über eine überörtliche Prüfung gemäß § 105 Gemeindeordnung NRW (GO NRW) im Jahr 2021/2023\r\nhier: Überörtliche Prüfung der Staatszuweisungen in der Stadt Castrop-Rauxel",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11133",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-47%7C352503100082%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-47",
+        "name": "Bericht der Fachaufsicht des Kreissozialamtes (Fachdienst 50) vom 25.09.2023 über die Prüfung beim Bereich Soziales - Leistungsabteilung",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11135",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-47%7C352503100085%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-47",
+        "name": "Bericht über die Vergabeprüfungen im Jahr 2023",
+        "number": "4",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11125",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-47%7C350403100066%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-47",
+        "name": "Bericht über die Prüfung des Jahresabschlusses des Westfälischen Landestheaters e.V. (WLT) zum 31.12.2022 (04/2023)",
+        "number": "5",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11126",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-47%7C350403100067%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-47",
+        "name": "Bericht über die Prüfung der Verwendungsnachweise für die Jahre 2021 und 2022 für das Förderprogramm 'Aufholen nach Corona für Kinder und Jugendliche' (06/2023)",
+        "number": "6",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11128",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-47%7C350403100069%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-47",
+        "name": "Bericht über die Prüfung der Rechnungsergebnisse 2022 für die Wochenmärkte und Kirmessen (10/2023)",
+        "number": "7",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11132",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-47%7C351903100081%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-47",
+        "name": "Bericht über die Prüfung der Sachaufwendungen der Stadt Castrop-Rauxel sowie Realisierung von Erstattungsansprüchen gegenüber Dritten für die Durchführung der Bundestagswahl 2021 und der Landtagswahl 2022 (11/2023)",
+        "number": "8",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11129",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-47%7C350403100070%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-47",
+        "name": "Bericht über die Prüfung der Zahlungsabwicklung (12/2023)",
+        "number": "9",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11131",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-47%7C351903100080%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-47",
+        "name": "Bericht über die Prüfung der Benutzungsgebühren für Flüchtlings- und Obdachlosenunterkünfte in 2022 (14/2023)",
+        "number": "10",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11130",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-47%7C350403100071%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-47",
+        "name": "Bericht über die Prüfung derGeltendmachung vorrangiger zweckgleicher Geldleistungen bei stationären Hilfen nach dem SGB VIII in 2022 (16/2023)",
+        "number": "11",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-47%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-47",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "12",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-47%7C997%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-47",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "12",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2024-RPA-47%7C20240417085832-0_ni_2024-RPA-47_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2024-04-17",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2024-RPA-47%7C20240417085832-0_ni_2024-RPA-47_1.pdf",
+        "fileName": "20240417085832-0_ni_2024-RPA-47_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2024-RPA-47%7C1",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Anlage 1 (TOP I_1 Präsentation Prüfungsplanung)",
+        "size": 717472,
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2024-RPA-47%7C20240417085838-0_ni_2024-RPA-47_2.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2024-04-17",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2024-RPA-47%7C20240417085838-0_ni_2024-RPA-47_2.pdf",
+        "fileName": "20240417085838-0_ni_2024-RPA-47_2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2024-RPA-47%7C2",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Anlage 2 (TOP II_1 Präsentation Jahresabschlussprüfung 21)",
+        "size": 6902954,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2024-04-10T19:00:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-47",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-RPA-47",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-03-27",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2024-RPA-47",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2024-RPA-47",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "f6790e6059a5c51ff84e80b116c1c6ef3d71cec3",
+      "size": 435811,
+      "text": "Tagesordnung zur Sitzung des Rechnungsprüfungsausschusses am Mittwoch, 10.04.2024 um 17:00 Uhr im Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel,   I. Öffentliche Sitzung:  1. Risikoorientierte Prüfplanung hier: Bericht über den Bearbeitungsstand der Prüfplanung der Vorjahre,  Vorstellung der Prüfplanung 2024 - mündlicher Bericht    2. Anfragen der Ausschussmitglieder   3. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  1. Prüfung des Jahresabschlusses der Stadt Castrop-Rauxel zum 31.12.2021   2. Bericht der Gemeindeprüfungsanstalt NRW (gpa NRW) über eine überörtliche Prüfung gemäß § 105 Gemeindeordnung NRW (GO NRW) im Jahr 2021/2023 hier: Überörtliche Prüfung der Staatszuweisungen in der Stadt Castrop-Rauxel   3. Bericht der Fachaufsicht des Kreissozialamtes (Fachdienst 50) vom 25.09.2023 über die Prüfung beim Bereich Soziales  Leistungsabteilung   4. Bericht über die Vergabeprüfungen im Jahr 2023   5. Bericht über die Prüfung des Jahresabschlusses des Westfälischen Landestheaters e.V. (WLT) zum 31.12.2022 (04/2023)   6. Bericht über die Prüfung der Verwendungsnachweise für die Jahre 2021 und 2022 für das Förderprogramm  Aufholen nach Corona für Kinder und Jugendliche  (06/2023)   7. Bericht über die Prüfung der Rechnungsergebnisse 2022 für die Wochenmärkte und Kirmessen (10/2023)   8. Bericht über die Prüfung der Sachaufwendungen der Stadt Castrop-Rauxel sowie Realisierung von Erstattungsansprüchen gegenüber Dritten für die Durchführung der Bundestagswahl 2021 und der Landtagswahl 2022 (11/2023)   9. Bericht über die Prüfung der Zahlungsabwicklung (12/2023)   10. Bericht über die Prüfung der Benutzungsgebühren für Flüchtlings- und Obdachlosenunterkünfte in 2022 (14/2023)   11. Bericht über die Prüfung derGeltendmachung vorrangiger zweckgleicher Geldleistungen bei stationären Hilfen nach dem SGB VIII in 2022 (16/2023)   12. Anfragen der Ausschussmitglieder  12. Mitteilungen der Verwaltung     Hans-Hugo Kurrek Ausschussvorsitzender  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-47/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Rechnungsprüfungsausschusses",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/RPA"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/1031",
+      "https://castroprauxel.gremien.info/oparl/person/596",
+      "https://castroprauxel.gremien.info/oparl/person/389",
+      "https://castroprauxel.gremien.info/oparl/person/318",
+      "https://castroprauxel.gremien.info/oparl/person/906",
+      "https://castroprauxel.gremien.info/oparl/person/667",
+      "https://castroprauxel.gremien.info/oparl/person/1189",
+      "https://castroprauxel.gremien.info/oparl/person/1086",
+      "https://castroprauxel.gremien.info/oparl/person/873",
+      "https://castroprauxel.gremien.info/oparl/person/1057",
+      "https://castroprauxel.gremien.info/oparl/person/814",
+      "https://castroprauxel.gremien.info/oparl/person/1185",
+      "https://castroprauxel.gremien.info/oparl/person/58",
+      "https://castroprauxel.gremien.info/oparl/person/242",
+      "https://castroprauxel.gremien.info/oparl/person/931",
+      "https://castroprauxel.gremien.info/oparl/person/498",
+      "https://castroprauxel.gremien.info/oparl/person/928",
+      "https://castroprauxel.gremien.info/oparl/person/1114",
+      "https://castroprauxel.gremien.info/oparl/person/560",
+      "https://castroprauxel.gremien.info/oparl/person/999",
+      "https://castroprauxel.gremien.info/oparl/person/661"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-RPA-47",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-04-24",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-RPA-47",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-RPA-47",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 453433,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2024-04-10T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-RPA-47",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-04-24",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-RPA-47",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-RPA-47",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 453433,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

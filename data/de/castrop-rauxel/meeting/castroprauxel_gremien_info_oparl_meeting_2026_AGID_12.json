@@ -1,0 +1,157 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/2026-AGID-12",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AGID-12%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AGID-12",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AGID-12%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AGID-12",
+        "name": "Sachstandsbericht \"Sanierung Altstadt Castrop-Rauxel\"",
+        "number": "2",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AGID-12%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AGID-12",
+        "name": "Bericht über die \"Inklusive Wanderung\" am 11.07.2026\r\nmündlicher Bericht: Herr Trzeziak / Lebenshilfe Waltrop e.V.",
+        "number": "3",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AGID-12%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AGID-12",
+        "name": "Vorstellung des Blinden- und Sehbehindertenvereins Recklinghausen e.V.",
+        "number": "4",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AGID-12%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AGID-12",
+        "name": "Bericht aus der \"Arbeitsgruppe Öffentlichkeitsarbeit\" und Rückblick Aktionstag \"Mit dem Rollator sicher unterwegs\"\r\nmündlicher Bericht: Herr Trzeziak",
+        "number": "5",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AGID-12%7Czt_4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AGID-12",
+        "name": "Bericht aus der Arbeitsgruppe \"Stille Stunde in Supermärkten\"",
+        "number": "6",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17307",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AGID-12%7C400109100218%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AGID-12",
+        "name": "Antrag von BÜNDNIS 90 / DIE GRÜNEN vom 31.08.2026 \"Prüfauftrag: Einführung des \"Hidden Disabilities Sunflower\" - Programms bei der Stadt Castrop-Rauxel\"",
+        "number": "7",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17575",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AGID-12%7C403006100193%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AGID-12",
+        "name": "Antrag der SPD-Ratsfraktion vom 30.06.2026 zur Gesundheitsversorgung in Castrop-Rauxel zukunftssicher, wohnortnah, sozial, gerecht und vernetzt gestalten",
+        "number": "8",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AGID-12%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AGID-12",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "9",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AGID-12%7C998%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AGID-12",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "10",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AGID-12%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AGID-12",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-AGID-12%7C997%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-AGID-12",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-09-10T00:00:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/2026-AGID-12",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=2026-AGID-12",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-09-02",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=2026-AGID-12",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2026-AGID-12",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "99c3ab708b06f3be7d121b5a5ce8e6b834e6eab4",
+      "size": 210624,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/2026-AGID-12/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "eingeladen",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschuss für Generationen, Inklusion und Diversität",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/AGID"
+    ],
+    "organization_active_1": "1",
+    "start": "2026-09-10T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting"
+  }
+}

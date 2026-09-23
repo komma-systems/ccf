@@ -1,0 +1,51 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36074",
+  "modified_at": "2026-07-10T13:37:20+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367448.pdf",
+        "created": "2026-07-10T09:45:27+02:00",
+        "date": "2026-07-10",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367448.pdf",
+        "fileName": "00367448.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367448",
+        "mimeType": "application/pdf",
+        "modified": "2026-07-10T13:37:20+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141085",
+        "authoritative": true,
+        "created": "2026-07-10T11:08:34+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68320",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24542",
+        "modified": "2026-09-23T10:39:12+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36074",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-10T09:21:15+02:00",
+    "date": "2026-07-10",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36074",
+    "modified": "2026-07-10T13:37:20+02:00",
+    "name": "Umbesetzung in Gremien gemäß § 113 GO NRW",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/0884/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

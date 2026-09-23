@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/181607100017",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-9%7C181607100017%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/1664",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2015-EUV-9",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2015-07-16",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/181607100017",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=181607100017&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=181607100017&id=69",
+      "fileName": "181607100017",
+      "id": "https://castroprauxel.gremien.info/oparl/file/181607100017",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2015/EUV/018",
+      "size": 90950,
+      "text": "Datum: 16.07.2015 TB I 9686-380 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 26.08.2015 TOP: I.7 Drucksache-Nr. 2015/EUV/018 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 26.08.2015 7 Rat der Stadt 27.08.2015 Betreff: Neubildung des Genossenschaftsrates der Emschergenossenschaft 2015 bis 2020 Hier: Bestellung eines Mitglieds Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € x nein Förderung € Beschlussvorschlag: Der Verwaltungsrat empfiehlt dem Rat der Stadt Castrop-Rauxel folgenden Beschluss zu fassen: Der Rat der Stadt Castrop-Rauxel wählt für die Neubildung des Genossenschaftsrates 2015 bis 2020 _________________________________ als Mitglied in den Genossenschaftsrat der Emschergenossenschaft. ________________________ Werner Sachverhalt: Die fünfjährige Amtsperiode der derzeitigen Genossenschaftsratsmitglieder und ihrer Stellvertreter endet in diesem Jahr. Die Neuwahl des Genossenschaftsrates obliegt der Genossenschaftsversammlung. Die nächste Genossenschaftsversammlung findet am 18.11.2015 statt. Der Genossenschaftsrat, der aus 15 Mitgliedern besteht, unterbreitet der Genossenschaftsversammlung Vorschläge für die Wahl der Genossenschaftsratsmitglieder. In der Sitzung des Genossenschaftsrates, die der Genossenschaftsversammlung vorausgeht, werden diese Vorschläge für die Genossenschaftsversammlung vorbereitet. Bisher wird die Stadt Castrop-Rauxel durch das Mitglied des Rates, Herrn Rajko Kravanja als stellvertretendes Mitglied im Genossenschaftsrat vertreten. Um eine ordnungsgemäße Einladung zur Genossenschaftsversammlung am 18.11.2015 bzw. zur vorlaufenden Genossenschaftsratssitzung sicherstellen zu können, bittet die Emschergenossenschaft, die Nennung des Vertreters der Stadt Castrop-Rauxel im Genossenschaftsrat vorzunehmen. Gemäß § 15 Absatz 3 in Verbindung mit § 12 Absatz 1 und 2 Emschergenossenschaftsgesetz kann nicht Mitglied des Genossenschaftsrates sein, wer Delegierte oder Delegierter in der Genossenschaftsversammlung ist. In der Sitzung des Rates am 18.06.2015 die Ratsmitglieder Herrn Udo Behrenspöhler und Herrn Wolfgang Helsper sowie den Vorstadt des EUV Herrn Michael Werner als Delegierte für die Genossenschaftsversammlung 2015 bis 2020 gewählt. Ebenso darf ein Genosse nicht durch ein Genossenschaftsmitglied vertreten werden, die oder der in einem Dienstverhältnis zu einem anderen Genossen steht. Die Wiederwahl des bisherigen stellvertretenden Mitglieds ist gemäß § 15 Absatz 6 Emschergenossenschaftsgesetz zulässig. Weiterer Bericht in der Sitzung.Neubildung des Genossenschaftsrates der Emschergenossenschaft2015 bis 2020 Hier: Bestellung eines Mitglieds2015/EUV/018%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Neubildung des Genossenschaftsrates der Emschergenossenschaft \r\n2015 bis 2020\r\nHier: Bestellung eines Mitglieds",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2015/EUV/018",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

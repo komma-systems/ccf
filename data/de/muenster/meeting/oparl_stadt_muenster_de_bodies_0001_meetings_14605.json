@@ -1,0 +1,46 @@
+{
+  "council_id": "muenster",
+  "record_type": "meeting",
+  "source_id": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14605",
+  "modified_at": "2026-08-18T10:10:13+02:00",
+  "deleted_at": null,
+  "data": {
+    "created": "2026-04-20T11:16:07+02:00",
+    "end": "2026-07-09T18:42:00+02:00",
+    "id": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14605",
+    "location": {
+      "created": "2020-10-06T14:20:58+02:00",
+      "id": "https://oparl.stadt-muenster.de/bodies/0001/locations/rm/108876",
+      "locality": "",
+      "modified": "2021-09-21T15:28:25+02:00",
+      "postalCode": "",
+      "room": "Rotunde, 6. Etage",
+      "streetAddress": "",
+      "subLocality": "",
+      "type": "https://schema.oparl.org/1.1/Location"
+    },
+    "modified": "2026-08-18T10:10:13+02:00",
+    "name": "3. Sitzung",
+    "organization": [
+      "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/262"
+    ],
+    "participant": [
+      "https://oparl.stadt-muenster.de/bodies/0001/people/110810",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/113849",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/110599",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/110582",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/109457",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/113914",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/108143",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/113952",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/113931",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/112508",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/110583",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/110223",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/110102",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/110285"
+    ],
+    "start": "2026-07-09T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.1/Meeting"
+  }
+}

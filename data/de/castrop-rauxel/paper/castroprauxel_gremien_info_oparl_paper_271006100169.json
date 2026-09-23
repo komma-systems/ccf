@@ -1,0 +1,114 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/271006100169",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271006100169%7C20200610131502-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-10",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271006100169%7C20200610131502-0.pdf%7C",
+        "fileName": "20200610131502-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271006100169%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271006100169",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "bc53e700bdef383fefa311c5d415cd4bc861b617",
+        "size": 76228,
+        "text": "StellungnahmeAntragKatzenkastration130120(2)",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271006100169%7C20200610131502-1.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-10",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271006100169%7C20200610131502-1.pdf%7C",
+        "fileName": "20200610131502-1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271006100169%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271006100169",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "1c0b99281aa7c58574b7000f44462b69a026925a",
+        "size": 46223,
+        "text": "Vorlage Änderung Verordnung",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271006100169%7C20200610131502-2.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-10",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271006100169%7C20200610131502-2.pdf%7C",
+        "fileName": "20200610131502-2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271006100169%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271006100169",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "980d1e58b80874c8915ca6537fd36ee179bfd431",
+        "size": 757674,
+        "text": "161213_Position FD 39 zu § 13b TierSchG",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271006100169%7C20200610131503-3.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-10",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271006100169%7C20200610131503-3.pdf%7C",
+        "fileName": "20200610131503-3.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271006100169%7C4",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271006100169",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 4",
+        "sha1Checksum": "1da514507d7c06bac17159edd09c0a7199d1d722",
+        "size": 131668,
+        "text": "Antrag Katzenkastration",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-118%7C271006100169%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/9055",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-118",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-06-10",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/271006100169",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271006100169&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271006100169&id=69",
+      "fileName": "271006100169",
+      "id": "https://castroprauxel.gremien.info/oparl/file/271006100169",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/153",
+      "size": 11106,
+      "text": " Bereich Ordnungswesen und Bürgerservice 2020/153 öffentlich  Az:     Datum: 10.06.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Rat der Stadt 25.06.2020    Betreff  Antrag der Fraktionen Bündnis 90 / Die Grünen, CDU, Die Linke, FDP, FWI und SPD vom 10.06.2020_Einführung einer Kastrations- und Kennzeichnungspflicht von Freigängerkatzen im Stadtgebiet von Castrop-Rauxel  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \fBeschlussvorschlag  Siehe Antrag.  \f\f \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Antrag der Fraktionen Bündnis 90 / Die Grünen, CDU, Die Linke, FDP, FWI und SPD vom 10.06.2020_Einführung einer Kastrations- und Kennzeichnungspflicht von Freigängerkatzen im Stadtgebiet von Castrop-Rauxel",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/153",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

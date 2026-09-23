@@ -1,0 +1,62 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36210",
+  "modified_at": "2026-08-25T07:21:45+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368879.pdf",
+        "created": "2026-08-25T07:17:57+02:00",
+        "date": "2026-08-25",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368879.pdf",
+        "fileName": "00368879.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368879",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-25T07:21:45+02:00",
+        "name": "Große Anfrage CDU",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368880.pdf",
+        "created": "2026-08-25T07:20:30+02:00",
+        "date": "2026-08-25",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368880.pdf",
+        "fileName": "00368880.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368880",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-25T07:21:45+02:00",
+        "name": "Große Anfrage der CDU-Fraktion",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141407",
+        "created": "2026-08-25T07:22:06+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68574",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24666",
+        "modified": "2026-09-09T22:21:29+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/43"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36210",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-25T07:17:24+02:00",
+    "date": "2026-08-25",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36210",
+    "modified": "2026-08-25T07:21:45+02:00",
+    "name": "Umgestürzter Baum in unmittelbarer Nähe des Kinderspielplatzes \"Cronenfeld-Samba Trasse\" - Große Anfrage der CDU-Fraktion",
+    "paperType": "Große Anfrage CDU",
+    "reference": "VO/1012/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

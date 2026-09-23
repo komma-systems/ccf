@@ -1,0 +1,47 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36339",
+  "modified_at": "2026-09-16T12:12:56+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370148.pdf",
+        "created": "2026-09-16T11:05:50+02:00",
+        "date": "2026-09-16",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370148.pdf",
+        "fileName": "00370148.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370148",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-16T12:12:57+02:00",
+        "name": "Gemeinsamer Antrag Rat",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141875",
+        "created": "2026-09-16T11:52:28+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68821",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24642",
+        "modified": "2026-09-23T19:35:20+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/275"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36339",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-16T10:09:00+02:00",
+    "date": "2026-09-16",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36339",
+    "modified": "2026-09-16T12:12:56+02:00",
+    "name": "Digitale Parkraumkontrolle; gemeinsamer Antrag der Fraktionen von SPD und CDU",
+    "paperType": "Gemeinsamer Antrag Rat",
+    "reference": "VO/1129/26",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

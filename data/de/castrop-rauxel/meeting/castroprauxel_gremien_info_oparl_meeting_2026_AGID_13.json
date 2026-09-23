@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/2026-AGID-13",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-11-19T00:00:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/2026-AGID-13",
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Sitzungsort wird noch bekanntgegeben, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/2026-AGID-13/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Sitzungsort wird noch bekanntgegeben",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "terminiert",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschuss für Generationen, Inklusion und Diversität",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/AGID"
+    ],
+    "organization_active_1": "1",
+    "start": "2026-11-19T17:00:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "meeting",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25523",
+  "modified_at": "2026-07-29T12:44:05+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "created": "2026-06-24T11:57:01+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/140872",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25523",
+        "modified": "2026-06-24T11:57:01+02:00",
+        "name": "Erwerb des ehemaligen Kaufhof-Gebäudes am Neumarkt durch die Stadt",
+        "number": "1",
+        "order": 1,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      },
+      {
+        "consultation": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68221",
+        "created": "2026-06-24T11:57:01+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/140873",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25523",
+        "modified": "2026-07-03T09:50:59+02:00",
+        "name": "Erwerb des ehemaligen Kaufhof-Gebäudes am Neumarkt durch die Stadt",
+        "number": "1",
+        "order": 2,
+        "public": true,
+        "result": "ungeändert beschlossen",
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      },
+      {
+        "consultation": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68223",
+        "created": "2026-06-24T11:57:01+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/140874",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25523",
+        "modified": "2026-07-03T09:38:41+02:00",
+        "name": "Erwerb des ehemaligen Kaufhof-Gebäudes am Neumarkt durch die Stadt",
+        "number": "1",
+        "order": 3,
+        "public": true,
+        "result": "ungeändert beschlossen",
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      },
+      {
+        "consultation": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68222",
+        "created": "2026-06-24T11:57:01+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/140875",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25523",
+        "modified": "2026-07-03T09:38:54+02:00",
+        "name": "Erwerb des ehemaligen Kaufhof-Gebäudes am Neumarkt durch die Stadt",
+        "number": "1",
+        "order": 4,
+        "public": true,
+        "result": "ungeändert beschlossen",
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      }
+    ],
+    "created": "2026-06-22T10:53:35+02:00",
+    "end": "2026-07-02T17:21:00+02:00",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25523",
+    "invitation": {
+      "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00366364.pdf",
+      "created": "2026-06-25T08:53:31+02:00",
+      "date": "2026-06-25",
+      "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00366364.pdf",
+      "fileName": "00366364.pdf",
+      "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/366364",
+      "mimeType": "application/pdf",
+      "modified": "2026-06-25T12:12:23+02:00",
+      "name": "Einladung öffentlicher Teil",
+      "type": "https://schema.oparl.org/1.1/File"
+    },
+    "location": {
+      "created": "2026-06-22T10:53:35+02:00",
+      "description": "Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal",
+      "id": "http://oparl.wuppertal.de/oparl/bodies/0001/locations/si/25523",
+      "modified": "2026-07-29T12:44:05+02:00",
+      "type": "https://schema.oparl.org/1.1/Location"
+    },
+    "modified": "2026-07-29T12:44:05+02:00",
+    "name": "öffentliche/nicht öffentliche Sitzung des Ausschusses für Stadtentwicklung, Wirtschaft, Bauen und Standortmarketing",
+    "organization": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/279",
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/273",
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39"
+    ],
+    "start": "2026-07-02T16:00:00+02:00",
+    "type": "https://schema.oparl.org/1.1/Meeting"
+  }
+}

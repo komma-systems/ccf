@@ -1,0 +1,44 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "meeting",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25493",
+  "modified_at": "2026-08-10T11:38:59+02:00",
+  "deleted_at": null,
+  "data": {
+    "created": "2026-06-09T08:41:39+02:00",
+    "end": "2026-06-19T18:05:00+02:00",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25493",
+    "location": {
+      "created": "2026-06-09T08:41:39+02:00",
+      "description": "Rathaus Barmen, Raum-A-258, Johannes-Rau-Platz 1, 42275 Wuppertal",
+      "id": "http://oparl.wuppertal.de/oparl/bodies/0001/locations/si/25493",
+      "modified": "2026-08-10T11:38:59+02:00",
+      "type": "https://schema.oparl.org/1.1/Location"
+    },
+    "modified": "2026-08-10T11:38:59+02:00",
+    "name": "nicht öffentliche Sitzung des Dialog Beirates Neubau Moschee",
+    "organization": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/286"
+    ],
+    "participant": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/people/11451",
+      "http://oparl.wuppertal.de/oparl/bodies/0001/people/13712",
+      "http://oparl.wuppertal.de/oparl/bodies/0001/people/34",
+      "http://oparl.wuppertal.de/oparl/bodies/0001/people/13882",
+      "http://oparl.wuppertal.de/oparl/bodies/0001/people/14510",
+      "http://oparl.wuppertal.de/oparl/bodies/0001/people/14544",
+      "http://oparl.wuppertal.de/oparl/bodies/0001/people/14005",
+      "http://oparl.wuppertal.de/oparl/bodies/0001/people/14429",
+      "http://oparl.wuppertal.de/oparl/bodies/0001/people/11156",
+      "http://oparl.wuppertal.de/oparl/bodies/0001/people/10626",
+      "http://oparl.wuppertal.de/oparl/bodies/0001/people/14159",
+      "http://oparl.wuppertal.de/oparl/bodies/0001/people/13892",
+      "http://oparl.wuppertal.de/oparl/bodies/0001/people/13714",
+      "http://oparl.wuppertal.de/oparl/bodies/0001/people/29",
+      "http://oparl.wuppertal.de/oparl/bodies/0001/people/14372",
+      "http://oparl.wuppertal.de/oparl/bodies/0001/people/10933"
+    ],
+    "start": "2026-06-19T16:00:00+02:00",
+    "type": "https://schema.oparl.org/1.1/Meeting"
+  }
+}

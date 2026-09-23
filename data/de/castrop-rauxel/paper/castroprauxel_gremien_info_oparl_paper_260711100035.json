@@ -1,0 +1,83 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/260711100035",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=260711100035%7C20191107115646.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-11-07",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=260711100035%7C20191107115646.pdf%7C",
+        "fileName": "20191107115646.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C260711100035%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/260711100035",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "b6af4c5365bba7e2873dfe1efbd23d8f8e780d2b",
+        "size": 25772,
+        "text": "Synopse_Änderung_Gebührensatzung zur Marktsatzung 2020 (2)",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=260711100035%7C20191114105900.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-11-14",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=260711100035%7C20191114105900.pdf%7C",
+        "fileName": "20191114105900.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C260711100035%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/260711100035",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "ac13252dd387c50f86724a0fe06cf914ee3c8fcd",
+        "size": 191877,
+        "text": "Analge 1 - Gebührensatzung zur Marktsatzung 2020 ",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-EUV-28%7C260711100035%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8685",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-EUV-28",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-11-07",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/260711100035",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=260711100035&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=260711100035&id=69",
+      "fileName": "260711100035",
+      "id": "https://castroprauxel.gremien.info/oparl/file/260711100035",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/EUV/036",
+      "size": 81329,
+      "text": "/  \f  Datum: 07.11.2019    TB I 9686-120      Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 27.11.2019 TOP: Drucksache-Nr. 2019/EUV/036     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 27.11.2019 10  Rat der Stadt 28.11.2019     Betreff: Änderung der Gebührensatzung für die Wochenmärkte in der Stadt Castrop-Rauxel     Finanzielle Auswirkungen gem. Wirtschaftsplan  X ja Gesamtkosten        nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat beschließt die als Anlage beigefügte Gebührensatzung für die Wochenmärkte in der Stadt Castrop-Rauxel.    \f  \f_______________________ Werner   \fSachverhalt: Seit dem Jahre 2014 ist der EUV Stadtbetrieb auch als Veranstalter der Wochenmärkte in der  Castroper Altstadt, Ickern und Habinghorst tätig.   Eine Erhebung der Marktstandsgelder ist nach Ergebnis der Rechnungsprüfung für die Wochenmärkte gem. Betriebskostenabrechnung (BKA 2017) erforderlich und geboten. Zur Deckung der mit dem Betrieb der Wochenmärkte anfallenden Kosten soll daher die vorgeschlagene rd. 10 %-ige Erhöhung des Standgeldes erfolgen.  Diese Erhöhung erscheint auch unter dem Aspekt angemessen, dass die letzte Standgeldanpassung zum Jahr 2017 erfolgte.   Die einzelnen Erhöhungen sind der Synopse (Anlage 2) zu entnehmen.  Gemäß § 5 Abs. 2 Ziffer 7 der Kommunalunternehmenssatzung ist der Verwaltungsrat für den Erlass von Satzungen im Rahmen der übertragenen Aufgabenbereiche zuständig. Gemäß § 9 Abs. 2 der Kommunalunternehmenssatzung bedürfen Entscheidungen von grundsätzlicher Bedeutung der Zustimmung des Rates. Vor öffentlicher Bekanntmachung ist somit die vom Verwaltungsrat beschlossene Gebührensatzung noch vom Rat der Stadt zu billigen.   Weiterer Bericht in der Sitzung  Anlage 1 Gebührensatzung Anlage 2 Synopse zur Änderung der Gebührensatzung    \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Änderung der Gebührensatzung für die Wochenmärkte in der Stadt Castrop-Rauxel",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/EUV/036",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36068",
+  "modified_at": "2026-09-09T13:18:46+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367261.pdf",
+        "created": "2026-07-08T10:14:40+02:00",
+        "date": "2026-07-08",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367261.pdf",
+        "fileName": "00367261.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367261",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-09T13:18:47+02:00",
+        "name": "Antrag FDP / WfW Rat AU",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368861.pdf",
+        "created": "2026-08-24T12:44:44+02:00",
+        "date": "2026-08-24",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368861.pdf",
+        "fileName": "00368861.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368861",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-09T13:18:47+02:00",
+        "name": "Beschlusslauf",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141076",
+        "authoritative": true,
+        "created": "2026-07-08T10:52:56+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68310",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24653",
+        "modified": "2026-07-29T09:06:23+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36068",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141077",
+        "authoritative": true,
+        "created": "2026-07-08T10:53:28+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68311",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24542",
+        "modified": "2026-09-23T10:39:11+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36068",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141193",
+        "created": "2026-08-07T12:04:34+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68337",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24684",
+        "modified": "2026-09-17T08:59:31+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/278"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36068",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141380",
+        "authoritative": true,
+        "created": "2026-08-24T12:37:19+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68565",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24690",
+        "modified": "2026-09-16T10:07:34+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/272"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36068",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141398",
+        "created": "2026-08-24T14:44:53+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68563",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24624",
+        "modified": "2026-09-17T09:54:28+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/273"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36068",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-08T10:08:29+02:00",
+    "date": "2026-07-08",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36068",
+    "modified": "2026-09-09T13:18:46+02:00",
+    "name": "Hitzeschutz an Kitas, Schulen sowie Alten- und Pflegeeinrichtungen konsequent ausbauen",
+    "paperType": "Antrag FDP / WfW Rat AU",
+    "reference": "VO/0879/26",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

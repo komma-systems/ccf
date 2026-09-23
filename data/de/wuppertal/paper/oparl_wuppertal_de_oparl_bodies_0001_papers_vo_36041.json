@@ -1,0 +1,74 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36041",
+  "modified_at": "2026-09-01T08:52:58+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00366691.pdf",
+        "created": "2026-06-30T14:19:43+02:00",
+        "date": "2026-06-30",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00366691.pdf",
+        "fileName": "00366691.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/366691",
+        "mimeType": "application/pdf",
+        "modified": "2026-07-01T13:29:28+02:00",
+        "name": "Große Anfrage die Linke",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141025",
+        "authoritative": true,
+        "created": "2026-06-30T14:37:02+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68270",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24671",
+        "modified": "2026-07-08T20:10:08+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/267"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36041",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141538",
+        "created": "2026-08-31T09:06:21+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68270",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24672",
+        "modified": "2026-09-23T18:12:20+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/267"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36041",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141565",
+        "created": "2026-09-01T08:53:15+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68649",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24624",
+        "modified": "2026-09-17T09:50:22+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/273"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36041",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-06-30T14:09:12+02:00",
+    "date": "2026-06-30",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36041",
+    "modified": "2026-09-01T08:52:58+02:00",
+    "name": "Umsetzungsstand, Rahmenbedingungen und Kriterien zur bedarfsgerechten Ausgestaltung der Offenen Ganztagsschule (OGS) in Wuppertal",
+    "paperType": "Große Anfrage die Linke",
+    "reference": "VO/0856/26",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

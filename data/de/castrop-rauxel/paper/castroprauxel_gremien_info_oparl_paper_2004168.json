@@ -1,0 +1,57 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/2004168",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/000184%7C2004168%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/1260",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000184",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_000150%7C2004168%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/1262",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000150",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2004-06-04",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/2004168",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2004168&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2004168&id=69",
+      "fileName": "2004168",
+      "id": "https://castroprauxel.gremien.info/oparl/file/2004168",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2004/168",
+      "size": 11231,
+      "text": "sitzungsvorlage;schulausschuss;betriebsausschuss;ausschuss;jugend;soziales;modellvorhaben;selbstständige;zwischenbericht;steuergruppe;recklinghausen;haushaltsstelle;berührung;gesamtkosten;rahmen;kooperationsvereinbarung;projekt;modellregion;schulen;schulträgern;land;nordrhein;westfalen;projektleitung;steuerung;modellvorhabens;region;bildung;schulaufsicht;schulträger;unterrichtung;modellvorhaben;selbstständige;schule;;zwischenbericht;der;regionalen;steuergruppe;recklinghausen;2004168;,2004/168;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Modellvorhaben ''Selbstständige Schule'';\r\nZwischenbericht der regionalen Steuergruppe Recklinghausen",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2004/168",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

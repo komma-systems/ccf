@@ -1,0 +1,50 @@
+{
+  "council_id": "muenster",
+  "record_type": "paper",
+  "source_id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056587",
+  "modified_at": "2026-09-10T12:05:31+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00589053.pdf",
+        "created": "2026-09-10T09:35:50+02:00",
+        "date": "2026-09-10",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00589053.pdf",
+        "fileName": "00589053.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/589053",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-10T09:38:39+02:00",
+        "name": "Berichtsvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://oparl.stadt-muenster.de/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/288568",
+        "created": "2026-09-10T09:02:19+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91614",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14505",
+        "modified": "2026-09-22T15:03:09+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/88"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056587",
+        "role": "Bericht",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-20T14:26:17+02:00",
+    "date": "2026-08-20",
+    "id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056587",
+    "modified": "2026-09-10T12:05:31+02:00",
+    "name": "Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen",
+    "paperType": "Vorlagen",
+    "reference": "V/0469/2026",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "https://oparl.stadt-muenster.de/bodies/0001/organizations/at/100319"
+    ]
+  }
+}

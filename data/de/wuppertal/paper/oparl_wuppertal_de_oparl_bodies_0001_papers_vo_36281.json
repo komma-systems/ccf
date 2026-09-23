@@ -1,0 +1,87 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36281",
+  "modified_at": "2026-09-22T12:17:49+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369285.pdf",
+        "created": "2026-09-02T11:54:00+02:00",
+        "date": "2026-09-09",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369285.pdf",
+        "fileName": "00369285.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369285",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-10T08:34:11+02:00",
+        "name": "Bericht",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369414.pdf",
+        "created": "2026-09-03T11:25:01+02:00",
+        "date": "2026-09-03",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369414.pdf",
+        "fileName": "00369414.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369414",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-10T08:34:10+02:00",
+        "name": "Kennzahlen Ranger WP 2025",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369415.pdf",
+        "created": "2026-09-03T11:25:51+02:00",
+        "date": "2026-09-03",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369415.pdf",
+        "fileName": "00369415.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369415",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-10T08:34:10+02:00",
+        "name": "Kennzahlen Ranger WP 1.HJ 2026",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141653",
+        "created": "2026-09-03T14:12:06+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68701",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24642",
+        "modified": "2026-09-23T17:43:35+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/275"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36281",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141660",
+        "created": "2026-09-04T12:56:12+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68698",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24684",
+        "modified": "2026-09-17T08:34:26+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/278"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36281",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-02T11:50:21+02:00",
+    "date": "2026-09-02",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36281",
+    "modified": "2026-09-22T12:17:49+02:00",
+    "name": "Einsatz der Ranger",
+    "paperType": "Bericht",
+    "reference": "VO/1078/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/73"
+    ]
+  }
+}

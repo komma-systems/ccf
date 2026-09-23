@@ -1,0 +1,122 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/112403100111",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=112403100111%7C20100324164114.JPG%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=112403100111%7C20100324164114.JPG%7C",
+        "fileName": "20100324164114.JPG",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C112403100111%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/112403100111",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "6024ba0e752cbde696affa619c6692d9cb09a5cb",
+        "size": 2963735,
+        "text": "1 Fotomontage Perspektive (ohne Edeka-Neubau im Vordergrund)",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=112403100111%7C20100324164149.JPG%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=112403100111%7C20100324164149.JPG%7C",
+        "fileName": "20100324164149.JPG",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C112403100111%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/112403100111",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "1cdbe7f4018b4630f5f9bd6f7297187422d710d8",
+        "size": 2966138,
+        "text": "2 Fotomontage Seitenansicht",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=112403100111%7C20100324164154.JPG%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=112403100111%7C20100324164154.JPG%7C",
+        "fileName": "20100324164154.JPG",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C112403100111%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/112403100111",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "7baadf004ad0061e9bf35d1074cce90456f13a8e",
+        "size": 3030119,
+        "text": "3 Standort",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=112403100111%7C20100324164159.JPG%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=112403100111%7C20100324164159.JPG%7C",
+        "fileName": "20100324164159.JPG",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C112403100111%7C4",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/112403100111",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 4",
+        "sha1Checksum": "d658c2e869cd14ec98f48ee690f24d37cb7190cf",
+        "size": 719107,
+        "text": "4 Konstruktionsskizze",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-B1-35%7C112403100111%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/4038",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B1-35",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B1"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-B3-37%7C112403100111%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/4009",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B3-37",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2010-03-24",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/112403100111",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=112403100111&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=112403100111&id=69",
+      "fileName": "112403100111",
+      "id": "https://castroprauxel.gremien.info/oparl/file/112403100111",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2010/108",
+      "size": 175736,
+      "text": "bereich stadtplanung 2010/108 öffentlich az: 61-18-30 datum: 24.03.2010 sitzungsvorlage beratungsfolge datum top-nr. betriebsausschuss 1 (ausschuss für öffentliche ordnung, sport und kultur) 21.04.2010 betriebsausschuss 3 (ausschuss für stadtentwicklung, bau und verkehr) 22.04.2010 betreff künstlerische gestaltung des landschaftsbauwerks schwerin hier: schweriner ring finanzielle auswirkungen x keine haushaltsmäßige berührung auswirkungen siehe sachverhalt beschlussvorschlag der betriebsausschuss 1 und der betriebsausschuss 3 nehmen den bericht zur kenntnis. ______________________ ______________________ d o b r i n d t e c k h a r d t technischer beigeordneter beigeordneter sachverhalt entwurf nach vorabstimmung im beirat für kunst und stadtgestaltung im dezember 2009 sowie nach beratung mit dem vorsitzenden im märz 2010 soll angestrebt werden, einen entwurf des örtlichen künstlers jan bormann, arbeitstitel: ‚schweriner ring’, umzusetzen. ein gut 4,00 m großer stahlring soll auf dem plateau des landschaftsbauwerks schwerin platziert werden, der das bauwerk herunterzurollen droht. mit einem augenzwinkern kommt somit ein abfallprodukt aus der stahlindustrie zum einsatz, dessen einfachheit der form einen orientierungspunkt am kreisel neuroder platz und der dortmunder straße schaffen soll. finanzierung die finanzierung der maßnahme soll ausschließlich über dritte erfolgen, so dass der haushalt der stadt dadurch nicht belastet wird. erste finanzierungszusagen liegen bereits vor. anlage 1: fotomontage perspektive (ohne edeka-neubau im vordergrund) anlage 2: fotomontage seitenansicht anlage 3: standort mit sichtachsen anlage 4: konstruktionsskizze\r\n\r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Künstlerische Gestaltung des Landschaftsbauwerks Schwerin\r\nhier: 'Schweriner Ring'",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2010/108",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3",
+      "https://castroprauxel.gremien.info/oparl/organization/B1"
+    ]
+  }
+}

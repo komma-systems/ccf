@@ -1,0 +1,90 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/252310100255",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=252310100255%7C20191023112908.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-10-23",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=252310100255%7C20191023112908.pdf%7C",
+        "fileName": "20191023112908.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C252310100255%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/252310100255",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "93cc270a725d053c2aa314b69a502bd75d51da5a",
+        "size": 773172,
+        "text": "Anlage 1 Übersicht zum Geltungsbereich",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=252310100255%7C20191030160143.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-10-30",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=252310100255%7C20191030160143.pdf%7C",
+        "fileName": "20191030160143.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C252310100255%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/252310100255",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "65fc1eada9839a3867e0d0c383f89535384e8f04",
+        "size": 193973,
+        "text": "Anlage 2 Bebauungsplan Nr. 27_1969",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-UMWA-93%7C252310100255%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8617",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-UMWA-93",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-B3-93%7C252310100255%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8618",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-B3-93",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-10-23",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/252310100255",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=252310100255&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=252310100255&id=69",
+      "fileName": "252310100255",
+      "id": "https://castroprauxel.gremien.info/oparl/file/252310100255",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/245",
+      "size": 159979,
+      "text": " Bereich Stadtplanung und Bauordnung 2019/245 öffentlich  Az: 61-26/258   Datum: 23.10.2019    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Umweltausschuss 19.11.2019   Betriebsausschuss 3 (Bauen, Verkehr und Sport) 21.11.2019    Betreff  Bebauungsplan Nr. 258  Wohngebiet Dingener Straße hier: Beschluss zur Aufstellung des Bebauungsplans nach § 2 Abs. 1 BauGB  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Der Betriebsausschuss 3 beschließt, den Bebauungsplan Nr. 258 Wohngebiet Dingener Straße aufzustellen. Der räumliche Geltungsbereich des Bebauungsplans ist in der zum Beschluss gehörenden Anlage 1 dargestellt.  Die Verwaltung wird mit der Planerstellung beauftragt und zum Abschluss eines städtebaulichen Vertrages mit dem Vorhabenträger ermächtigt.   \f\fLenort\u000bTechnische Beigeordnete  Sachverhalt  Geltungsbereich Der ca. 1,9 ha große Geltungsbereich des Bebauungsplanes Nr. 258 liegt im Stadtteil Dingen und umfasst die Flächen des ehemaligen Steinkohlen-Bergwerks Graf Schwerin mit den beiden seinerzeit hier betriebenen Schachtanlagen 3 und 4. Das Gebiet liegt dabei eingebettet zwischen den Wohnstrukturen an der Schieferbergstraße im Nordwesten sowie den Wohngebäuden an der Dingener Straße im Südosten. Im Süden und Osten grenzen Waldflächen an das Gebiet an.  Der genaue räumliche Geltungsbereich ist der als Anlage 1 beigefügten Übersichtsskizze zu entnehmen. Er umfasst die folgenden Flurstücke in der Gemarkung Dingen, Flur 3: 146, 210 367, 368, 452, 453, 465, 479, 480, 488, 489.  Die bergbauliche Nutzung ist heute im Gelände kaum noch zu erkennen, da alle Betriebsgebäude abgerissen wurden. Die Schächte wurden verfüllt, mit einer Stahlbetonplatte abgedeckt und im Jahr 2013/ 2014 im Auftrag der Bergwerkseigentümerin gesichert.  Planungsanlass und -erfordernis Ein privater Investor hat die Flächen des ehemaligen Bergwerksgeländes Graf Schwerin III/IV mit dem Ziel erworben, das Gelände zu sanieren und für eine Wohnnutzung vorzubereiten.  Für das Gelände gilt derzeit der rechtskräftige Bebauungsplan Nr. 27, der unmittelbar nach Aufgabe der Kohleförderung im Jahr 1969 aufgestellt wurde und bereits eine wohnbauliche Nachnutzung der Fläche vorsah (siehe Anlage 2). Dieser ist hinsichtlich seiner Planinhalte jedoch nicht mehr zeitgemäß. Zur Schaffung der planungsrechtlichen Voraussetzungen für ein der heutigen Nachfragesituation gerecht werdendes Angebot an Wohnbaugrundstücken ist eine Überplanung des Gebietes mit dem Bebauungsplan Nr. 258 erforderlich und im Sinne einer städtebaulich geordneten Entwicklung zudem geboten.  Allgemeine Ziele und Zwecke der Planung Mit der Aufstellung des Bebauungsplanes Nr. 258 wird das Ziel verfolgt, das brachliegende Areal des ehemaligen Zechenstandortes Graf Schwerin III/IV einer höherwertigen und städtebaulich sinnvollen Wohnnutzung zuzuführen.  Der Stadtteil Dingen mit seiner in den letzten Jahren kontinuierlich rückläufigen Einwohnerzahl soll auf diese Weise langfristig als attraktiver Wohnstandort gestärkt und im Rahmen der örtlichen Erfordernisse bedarfsgerecht weiterentwickelt werden.  Die vorgesehene Wohnbauentwicklung auf einer Brachfläche entspricht dabei dem planerischen Grundsatz einer flächensparsamen Siedlungsentwicklung i. S. d. § 1a Abs. 2 BauGB, da hierüber vorhandene Infrastrukturen genutzt und die Neuinanspruchnahme von unbelasteten Flächen im Außenbereich vermieden werden.  Vor diesem Hintergrund ist das Gelände im Flächennutzungsplan 2025 der Stadt Castrop-Rauxel (FNP), wie auch im vorausgehenden FNP als Wohnbaufläche dargestellt.   Insgesamt dient die vorgesehene Wiedernutzbarmachung des ehemaligen Zechengeländes der Stärkung der Wohnfunktion Dingens und der bedarfsgerechten Eigenentwicklung des Stadtteils. Voraussichtliche Inhalte der Planung Zur Realisierung des geplanten Wohngebietes wird der Bebauungsplan voraussichtlich ein allgemeines Wohngebiet (WA) mit einem an die örtlichen Bebauungsstrukturen angepassten Maß der baulichen Nutzung festsetzen. Weitere wesentliche Planinhalte umfassen die für die Gebietserschließung notwendigen Verkehrsflächen, die Bauweise (z.B. Einzel-, Doppelhäuser, Reihenhäuser), die Anordnung der Baugrundstücke sowie Grünflächen. Denkbar ist auch die Anlage eines Quartiersspielplatzes.  Die aktuelle Idee des Vorhabenträgers umfasst zudem die Umsetzung eines klimaneutralen Wohngebietes mit energieeffizienten Wohnhäusern und der Nutzung von regenerativen Energiequellen. Im Rahmen des Bebauungsplanverfahrens werden die diesbezüglichen Möglichkeiten in Abstimmung mit dem Vorhabenträger geprüft.  Die konkreten Planinhalte werden im Rahmen des Bauleitplanverfahrens zwischen der Stadt und dem Investor abgestimmt und in einem städtebaulichen Konzept festgehalten, der Grundlage für die konkreten Bebauungsplanfestsetzungen sein wird. Der am 28.10.2019 erfolgte erste Bürgerdialog hat Anregungen und Hinweise der Bürgerinnen und Bürger aufgenommen, die frühzeitig in die planerischen Entwurfsideen einfließen.   Voraussichtliche Auswirkungen der Planung Die Plangebietsfläche ist im Altlastenkataster der Stadt Castrop-Rauxel und des Kreises Recklinghausen weitestgehend als Altlastenfläche erfasst. Mit der Inanspruchnahme der Fläche ist daher zunächst die Untersuchung der Bodenqualität und ggf. eine Bodenverbesserung verbunden.  Das geplante Wohnquartier führt voraussichtlich zu einer zusätzlichen Flächenversiegelung. Der vorgesehenen wohnbaulichen Nachnutzung einer geeigneten Brachfläche wird jedoch aus Nachhaltigkeitsgründen ein Vorrang vor der Entwicklung neuer Baugebiete im Außenbereich eingeräumt.  Die umweltbezogenen Auswirkungen dieser Bauleitplanung, einschließlich der artenschutzrechtlichen Belange und des mit der Planung verursachten Eingriffs in Natur und Landschaft werden im Rahmen der Umweltprüfung nach § 2 Abs. 4 BauGB zum Bebauungsplan umfassend ermittelt und bewertet. Für die nicht vermeidbaren erheblichen Umweltauswirkungen werden Ausgleichsmaßnahmen im Plangebiet selbst oder auf externen Flächen festgelegt und im Rahmen des Bebauungsplanverfahrens verbindlich geregelt.  Im Rahmen der Umweltprüfung werden auch die klimabezogenen Auswirkungen der Planung behandelt. Das Ziel des Vorhabenträgers, ein klimaschonendes und nachhaltiges Quartier mit weitgehend regenerativer Energiegewinnung zu entwickeln, ist diesbezüglich positiv zu bewerten.  Der Vorhabenträger übernimmt sämtliche Planungskosten sowie die Kosten für die für den Bebauungsplan notwendigen Fachgutachten. Hierzu ist im Vorfeld eine vertragliche Vereinbarung mit dem Vorhabenträger abzuschließen. Die hoheitlichen Aufgaben verbleiben bei der Verwaltung. Im Gegenzug wird für den Personalaufwand eine Gebühr vom Investor erhoben.  Weitere Vorgehensweise Der Bebauungsplan Nr. 258 wird gem. § 2 BauGB im Normalverfahren aufgestellt. Nach dem Aufstellungsbeschluss durch den Betriebsausschuss 3 erfolgt zunächst die Weiterentwicklung und Konkretisierung des städtebaulichen Konzepts und auf dieser Grundlage die Erarbeitung des Vorentwurfs des Bebauungsplans. Für die Erarbeitung sind darüber hinaus voraussichtlich verschiedene Fachgutachten erforderlich.  Den nächsten Verfahrensschritt stellt die frühzeitige Beteiligung der Öffentlichkeit gem. \u000b§ 3 Abs. 1 sowie der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB dar.  Im Anschluss ist die Beschlussfassung über den Bebauungsplanentwurf sowie die öffentliche Auslegung und Beteiligung der Behörden sowie sonstigen Träger öffentlicher Belange vorgesehen.   Anlagen  Anlage 1: Übersichtsskizze zum Geltungsbereich des Bebauungsplanes  Anlage 2: Bebauungsplan Nr. 27 (1969)       \f     Mitzeichnung 12 67 EUV       \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Bebauungsplan Nr. 258 \r\n„Wohngebiet Dingener Straße“\r\nhier: Beschluss zur Aufstellung des Bebauungsplans nach § 2 Abs. 1 BauGB",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/245",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ]
+  }
+}

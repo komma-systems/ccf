@@ -1,0 +1,115 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/272005100135",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272005100135%7C20200520103142-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-20",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272005100135%7C20200520103142-0.pdf%7C",
+        "fileName": "20200520103142-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272005100135%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272005100135",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "53dd1c241fb03df47d81aa94fd3913d046402b0a",
+        "size": 3304270,
+        "text": "Anlage 1 Eingangskriterien",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272005100135%7C20200520121639-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-20",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272005100135%7C20200520121639-0.pdf%7C",
+        "fileName": "20200520121639-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272005100135%7C4",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272005100135",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 4",
+        "sha1Checksum": "f674498ee4a72d492d1dfd0da14dce36a027624e",
+        "size": 578612,
+        "text": "Anlage 2 Rote Band",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272005100135%7C20200520121734-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-20",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272005100135%7C20200520121734-0.pdf%7C",
+        "fileName": "20200520121734-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272005100135%7C5",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272005100135",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 5",
+        "sha1Checksum": "aed40f60390818c04fcf64817ec84f9672448278",
+        "size": 31778,
+        "text": "Analge 3 EmscherSideGallery",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-UMWA-96%7C272005100135%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8951",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-UMWA-96",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B3-99%7C272005100135%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8952",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B3-99",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-118%7C272005100135%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8953",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-118",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-05-20",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/272005100135",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272005100135&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272005100135&id=69",
+      "fileName": "272005100135",
+      "id": "https://castroprauxel.gremien.info/oparl/file/272005100135",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/114",
+      "size": 259359,
+      "text": " Bereich Stadtentwicklung und Statistik 2020/114  öffentlich  Az:     Datum: 20.05.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Umweltausschuss 16.06.2020   Betriebsausschuss 3 (Bauen, Verkehr und Sport) 18.06.2020   Rat der Stadt 25.06.2020    Betreff  Internationale Gartenausstellung Metropole Ruhr 2027 hier:  Unsere Gärten  in der Stadt Castrop-Rauxel  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \fBeschlussvorschlag Der Rat der Stadt Castrop-Rauxel nimmt den Sachverhalt zur Kenntnis. nimmt die Projektsteckbriefe Das Rote Band und EmscherSideGallery zur Kenntnis. stimmt den grundsätzlichen Projektzielen zu und beauftragt die Verwaltung die Planungen a) Das Rote Band sowie                   b) EmscherSideGallery weiterzuführen und Fördermöglichkeiten zu prüfen.   \f  \fRajko Kravanja      Bettina Lenort Bürgermeister      Stadtbaurätin Sachverhalt  A  Ausgangslage und Konzeption Im Jahr 2027 findet in der Metropole Ruhr die Internationale Gartenausstellung (kurz: IGA 2027) statt. Eine ausführliche Information nebst einstimmiger Beschlussfassung zur Unterstützung des IGA-Prozesses erfolgte im Haupt- und Finanzausschuss der Stadt Castrop-Rauxel am 26.09.2017 (Drucksache 2017/171). Die weitere politische Auseinandersetzung mit der IGA 2027 und deren Durchführung fand am 26.11.2018 im Kreistag statt (Drucksache Kreis Recklinghausen 2018/170).  Das Konzept der IGA 2027 sieht drei unterschiedliche Ausstellungsebenen vor: Ebene: Zukunftsgärten Die kostenpflichtigen Hauptstandorte der IGA 2027 sind der Rheinpark in Duisburg, dieZukunftsinsel Gelsenkirchen (Nordsternpark und Emscherinsel) und Emscher Nordwärts in Dortmund.  Die zwei Zukunftsgärten mit Sonderausstellungen,  Emscherland  (Castrop-Rauxel/ Recklinghausen) und Bergkamen/ Lünen ergänzen die kostenpflichtigen Schaustandorte. Der Eintritt in die Sonderausstellungen ist kostenfrei.  Ebene: Unsere Gärten Auf der Ebene Unsere Gärten werden vorhandene und neue städtebauliche, landschaftliche und touristische Projekte der Region identifiziert und weiter qualifiziert. Diese Ebene ist ein essenzieller Bestandteil der Präsentation des Ruhrgebiets als neue grüne Städtelandschaft. Grünflächen sollen aufgewertet und zu Themenrouten verbunden werden, die die Metropolregion durchziehen.   Ebene: Meine Gärten Auf dieser Ebene soll bürgerschaftliches Engagement und die Identifikation mit der Region gefördert werden. Vereine und Privatinitiativen können dabei ihre nachbarschaftlichen Grün-Initiativen präsentieren.  B  IGA 2027 in Castrop-Rauxel Die Stadt Castrop-Rauxel ist gemeinsam mit der Stadt Recklinghausen mit dem Natur- und Erlebnispark Emscher als eintrittsfreie Sonderausstellung auf der ersten Ebene der Zukunftsgärten bei der IGA 2027 vertreten. Das über das Projekt Emscherland initiierte Projekt stellt somit einen der Haupteventstandorte in der Metropole Ruhr dar. Das Projekt wird seitens der Emschergenossenschaft koordiniert und finanziert.  Über die zweite Ebene Unsere Gärten besteht die Möglichkeit kommunale Projektideen einzureichen, die sich wiederum in investive, infrastrukturelle und Präsentationsprojekte untergliedern. Für Maßnahmen der Projektfamilie Unsere Gärten stehen keine eigens definierten Fördermittel zur Verfügung. Die Refinanzierung der investiven Maßnahmen ist über entsprechende Fördermittel (z.B. EFRE, Städtebauförderung) beabsichtigt.  Für Investitionen und investitionsbegleitende Maßnahmen ist derzeit von einer Förderquote von ca. 80 % und einem kommunalen Eigenanteil von ca. 20% auszugehen. Unter Vorbehalt einer Förderung sind daher der kommunale Eigenanteil sowie die nicht förderfähigen Kosten inklusive Folgekosten in den kommenden Haushaltsjahren zu berücksichtigen.  Die Auswahl, Qualifizierung und Filterung der Maßnahmenmeldungen erfolgt in Anlehnung an Prozesse der NRW-Strukturfördermaßnahme Regionale gemeinsam mit den Kommunen und dem Land. In einem mehrstufigen Verfahren wird die IGA-Förderfähigkeit ermittelt. Der sog. IGA-Stempel und damit das positive Durchlaufen von unterschiedlichen Kommunikations- und Bewertungsprozessen erleichtert die Förderzugänge etwaiger Fördermittel. Für die Ebene Unsere Gärten wurden 2016/2017 folgende Präsentationsprojekte dem RVR gemeldet:  Golfplatz Castrop-Rauxel AGR-Deponie Pöppinghausen Parkkomplex Rotes Band (Nachmeldung auf Grundlage des HFA-Beschlusses vom 26.09.2017 Drucksache 2017/171). Aus heutiger Sicht, unter Einbeziehung der Bewertungskriterien der IGA-Gremien (vgl. Anlage 1) ist seitens der Verwaltung eine Modifizierung der Projektmeldungen beabsichtigt: Rücknahme der Projekte Golfplatz Castrop-Rauxel (fehlende Innovation/ Internationalität/ Zukunftsthema) und AGR Deponie Pöppinghausen (Begehung der Deponie wird auch zukünftig nicht möglich sein). Neuanmeldung der Maßnahme Bodendenkmal Burg Henrichenburg für die Präsentationsebene und damit die Einbindung in das Netz der während der IGA zu besuchenden Projekte. Verschiebung des Projektes Rotes Band innerhalb der zweiten Ebene von einem Präsentationsprojekt zu einer investiven Maßnahme. Neumeldung der Maßnahme EmscherSideGallary als investive Maßnahme.  Zu 3: Das Rote Band soll durch multimediale Präsentationsformen zu einem Rundgang in die Entwicklung der Gartentypen und Landschaftsgestaltung im Kontext von Stadt- und Industriegeschichte ausgebaut und erlebbar gemacht werden. Auf kleinem Raum wird eine Vielfalt an Parkanlagen, kulturell bedeutenden Gebäuden und Siedlungszeugnissen auf innovative Weise präsentiert. Dabei sollen multimediale Formen der Präsentation gefunden werden, die über QR-Codes bis hin zu Geocachingrouten gehen können. Vgl. Anlage 1. Teilaspekte der Maßnahme: Analoge und digitale Überarbeitung und Anpassung der Route Rotes Band  QR-Codegestützte Informationsaufbereitung für jeden einzelnen Standort inklusive Beschilderung und Aufbereitung der Flächen rund um den Standort des Schildes. Erarbeitung einer Geocachingroute für die Zielgruppe Familien.  Zu 4:  Unter dem Motto Von der IBA zur IGA und ggf. darüber hinaus soll das Projekt die Verbindung zwischen Stadt-, Industrie- und Landschaftsgeschichte in Form von Graffiti-Kunst aufgreifen. Graffiti-Kunst stellt den internationalen Aspekt des Projektes dar, sie ist ohne Sprache für jedermann verständlich.  Im Rahmen verschiedener Workshops unter Leitung eines international bekannten Künstlers, sollen gemeinsam mit unterschiedlichen Akteuren (Bürger, Vereinen, ) Bilder entstehen, die an der Wand der BAB 2 aufgesprüht werden.  Ziel des Projektes ist, getreu dem Motto Von der IBA zur IGA in moderner und junge Zielgruppen ansprechender Form, ein Kunstwerk am Spannungsbogen zwischen den Zukunftsgärten in Dortmund und am Wasserkreuz entstehen zu lassen. Vgl. Anlage 2  Die Sammlung von Maßnahmen wurde offiziell Ende 2019 beendet. Vorbehaltlich dieses Beschlusses wurden bereits beide Maßnahmen vorsorglich dem IGA Projektteam gemeldet. Eine Konkretisierung der dritten Ebene Meine Gärten steht derzeit noch nicht im Fokus der Bearbeitung. Ab Mitte 2020 soll mit dem Aufbau eines Netzwerkes für den Teilhabeprozess Mein Garten begonnen werden. E Kosten Da die investiven Projekte zurIGA2027 noch nicht abschließend geplant bzw. ausgewählt sind, können sowohl die Kosten als auch die Refinanzierungsmaßnahmen (Förderungen) noch nicht final benannt werden. Erste Kostenschätzungen sehen wie folgt aus: Das Rote Band:   75.000,00  brutto EmscherSideGallary:  150.000,00  brutto. Unter Vorbehalt einer Förderung sind kommunale Eigenanteile sowie die nicht förderfähigen Kosten inklusive Folgekosten voraussichtlich in den Haushaltsjahren 2026/27 zu berücksichtigen. Die konkreten Angaben zu den finanziellen Auswirkungen der investiven Maßnahmen werden dem Rat der Stadt zu einem späteren Zeitpunkt vorgelegt   Anlage 1: Eingangskriterien Unsere Gärten Anlage 2: Projektsteckbrief Das Rote Band Anlage 3:  Projektsteckbrief EmscherSideGallary       Beteiligte Bereiche 12 67    Kurzzeichen/ Datum        \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Internationale Gartenausstellung Metropole Ruhr 2027\r\nhier: 'Unsere Gärten' in der Stadt Castrop-Rauxel",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/114",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

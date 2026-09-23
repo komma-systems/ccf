@@ -1,0 +1,183 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/2026-HFA-139",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-HFA-139%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-HFA-139",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17522",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-HFA-139%7C400209100221%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-HFA-139",
+        "name": "Abberufung der von der Sparkasse Vest Recklinghausen in den Aufsichtsrat der FORUM Castrop-Rauxel Betriebsgesellschaft mbH entsandten Mitglieder\r\nhier: Genehmigung einer gemäß § 60 Abs. 1 S. 2 GO NRW getroffenen Dringlichkeitsentscheidung",
+        "number": "2",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17525",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-HFA-139%7C400209100219%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-HFA-139",
+        "name": "Zusammenführung der FORUM Castrop-Rauxel Betriebsgesellschaft mbH und der Wirtschaft & Marketing Castrop-Rauxel GmbH (neue Firma: Wirtschaft & Events Castrop-Rauxel GmbH)",
+        "number": "3",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17527",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-HFA-139%7C400209100220%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-HFA-139",
+        "name": "Vertretung der Stadt Castrop-Rauxel in der Gesellschafterversammlung und im Aufsichtsrat der Wirtschaft & Events Castrop-Rauxel GmbH",
+        "number": "4",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17523",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-HFA-139%7C402707100206%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-HFA-139",
+        "name": "Inanspruchnahme der \"Größenabhängigen Befreiungen\" von der Verpflichtung zur Aufstellung eines kommunalen Gesamtabschlusses für das Haushaltsjahr 2025 (§ 116a GO NRW)",
+        "number": "5",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17580",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-HFA-139%7C400909100243%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-HFA-139",
+        "name": "Umsetzung des Gesetzes über den Nordrhein-Westfalen-Plan für gute Infrastruktur 2025 bis 2036 (NRW-Infrastrukturgesetz 2025 bis 2036); hier: Entwurf einer \"Dynamischen Projektliste\"",
+        "number": "6",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17585",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-HFA-139%7C401109100247%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-HFA-139",
+        "name": "Neubau Feuer- und Rettungswache (FURCAS): Sachstand",
+        "number": "7",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17531",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-HFA-139%7C400909100241%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-HFA-139",
+        "name": "Neuwahl von zwei stellvertretenden Mitgliedern des Verwaltungsrates des EUV Stadtbetrieb Castrop-Rauxel - Anstalt des öffentlichen Rechts",
+        "number": "8",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17534",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-HFA-139%7C400709100232%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-HFA-139",
+        "name": "Rettungsdienstgebühren - Gebührenkalkulation 2026 und Neufassung der Gebührensatzung zum 01.07.2026",
+        "number": "9",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17582",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-HFA-139%7C401409100249%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-HFA-139",
+        "name": "Annahme der landesweiten Übergangslösung zur Behandlung von Fehlfahrten und Fehleinsätzen im Rettungsdienst für das Gebührenjahr 2026",
+        "number": "10",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17578",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-HFA-139%7C401609100252%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-HFA-139",
+        "name": "Weiteres Vorgehen auf der Industriebrache ehem. Steinkohlekraftwerk Rauxel",
+        "number": "11",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17529",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-HFA-139%7C400709100236%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-HFA-139",
+        "name": "Fortsetzung und Ausweitung des Betreuungsangebotes \"Übermittagsbetreuung\" an Grundschulen der Stadt Castrop-Rauxel und Anpassung der Elternbeitragssatzung",
+        "number": "12",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-HFA-139%7C2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-HFA-139",
+        "name": "Anfragen der Ratsmitglieder",
+        "number": "13",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-HFA-139%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-HFA-139",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "14",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-HFA-139%7C3%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-HFA-139",
+        "name": "Anfragen der Ratsmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-HFA-139%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-HFA-139",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-09-24T00:00:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/2026-HFA-139",
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/2026-HFA-139/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "eingeladen",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Haupt- und Finanzausschusses",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA"
+    ],
+    "organization_active_1": "1",
+    "start": "2026-09-24T16:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting"
+  }
+}

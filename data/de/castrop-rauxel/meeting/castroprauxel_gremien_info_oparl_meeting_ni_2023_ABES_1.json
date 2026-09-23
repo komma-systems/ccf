@@ -1,0 +1,308 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-1",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-1%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-1",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-1%7C1%7C1",
+          "date": "2023-09-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-1%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-1%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 369301,
+          "text": "1 Fragestunde für Einwohnerinnen und Einwohner   Keine Fragen. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-1%7C55%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-1",
+        "name": "Bericht zum Bürger*innenbudget",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-1%7C55%7C1",
+          "date": "2023-09-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-1%7C55%7C1",
+          "fileName": "be_55_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-1%7C55%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 378290,
+          "text": "2 Bericht zum Bürger*innenbudget   Leiterin Bürgerbeteiligung, Sport und Stärkung des Ehrenamtes Frau Stannek berichtet den Ausschussmitgliedern über das Bürger*innenbudget.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-1%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-1",
+        "name": "Bericht des Castroper Turnverein 1874 e. V.",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-1%7Czt_1%7C1",
+          "date": "2023-09-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-1%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-1%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 409979,
+          "text": "3 Bericht des Castroper Turnverein 1874 e. V.   Der Vorsitzende des Castroper Turnvereins Herr Holger Stabenau stellt den Castroper Turnverein und die kommenden Veranstaltungen vor. Der Verein bietet mehr Sportarten an. Hierzu zählen Badminton, Faustball, Handball, Kanu, Judo, Karate, Volleyball und Turnen. Ergänzend dazu verfügt der Verein über eine Herzsportgruppe. Der Castroper Turnverein feiert nächstes Jahr sein 150-jähriges Bestehen. Die Mitgliedszahl des Vereins liegt bei ca. 470 Mitgliedern und ist steigend. Jedoch steht der Verein in Konkurrenz zu ansässigen Fitnessstudios.  Er betont, dass das Ehrenamt sehr wichtig für die Vereine ist. Ohne die ehrenamtliche Mithilfe und Geld durch das Land NRW wäre der Umbau des Vereinshauses nicht möglich gewesen. Es sei auch möglich, das Vereinshaus zu mieten.   Er ergänzt, dass bei den Kanuten 3 Mitglieder im Landeskader und 1 Mitglied im Bundeskader vertreten sind.   Anschließend beantwortet Herr Stabenau die Anfragen der Ausschussmitglieder.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10738",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-1%7C331807100185%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-1",
+        "name": "Ausstattung städtischer Sportanlagen mit Defibrillatoren",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-1%7C331807100185%7C1",
+          "date": "2023-09-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-1%7C331807100185%7C1",
+          "fileName": "be_331807100185_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-1%7C331807100185%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 420528,
+          "text": "4 Ausstattung städtischer Sportanlagen mit Defibrillatoren (2023/177)   Leiterin Bürgerbeteiligung, Sport und Stärkung des Ehrenamtes Frau Stannek erläutert die Vorlage. Bei der Ausstattung der städtischen Sportanlagen mit Defibrillatoren wurde der Ist-Zustand erhoben und eine Rangliste erstellt. Da jedes Jahr nur 15000 Euro für die Ausstattung zur Verfügung stehen, wird die Maßnahme über die nächsten Jahre nach Platzierung in der Rangliste umgesetzt.   Der Ausschuss für Bürgeranliegen, Ehrenamt und Sport empfiehlt dem Rat der Stadt einstimmig wie folgt zu beschließen:   Der Rat der Stadt beschließt vorbehaltlich des Haushaltsbeschlusses die Anschaffung von Defibrillatoren für die städtischen Sporthallen und Sportplätze gem. Sachverhalt. Im Jahr 2024 werden bei Kontierung 50052/420102/0811002/ALT202 Auszahlungsmittel in Höhe von 15.000 für die Ausstattung der Sportplätze benötigt. In den Jahren 2025 und 2026 werden bei Kontierung 50052/420101/0811002/ALT202 Auszahlungsmittel in Höhe von jährlich 15.000  für die Ausstattung der Sporthallen benötigt.  Abstimmungsergebnis: Einstimmig angenommen  Ja-Stimmen: 15  Nein-Stimmen: -  Enthaltungen: -     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10741",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-1%7C332107100186%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-1",
+        "name": "Bericht zur Ehrenamtskarte NRW",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-1%7C332107100186%7C1",
+          "date": "2023-09-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-1%7C332107100186%7C1",
+          "fileName": "be_332107100186_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-1%7C332107100186%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 397145,
+          "text": "5 Bericht zur Ehrenamtskarte NRW (2023/178)   Leiterin Bürgerbeteiligung, Sport und Stärkung des Ehrenamtes Frau Stannek weist ergänzend zur Vorlage daraufhin, dass zeitnah ein Newsletter der Wirtschaftsförderung an die Betriebe gesendet wird, indem die Betriebe auf die Ehrenamtskarte hingewiesen wird.  Der Ausschuss nimmt die Vorlage zur Kenntnis.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10742",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-1%7C332107100188%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-1",
+        "name": "Anfragen von Vereinen",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-1%7C332107100188%7C1",
+          "date": "2023-09-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-1%7C332107100188%7C1",
+          "fileName": "be_332107100188_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-1%7C332107100188%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 395098,
+          "text": "6 Anfragen von Vereinen (2023/180)   Leiterin Bürgerbeteiligung, Sport und Stärkung des Ehrenamtes Frau Stannek erläutert die Vorlage und weist daraufhin, dass der Antrag nach den jetzigen Regelungen abgelehnt werden muss und bittet um Änderungsvorschläge seitens der Ausschussmitglieder.  Nach einer kurzen Diskussion nehmen die Ausschussmitglieder die Anfrage zur Kenntnis.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-1%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-1",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-1%7C6%7C1",
+          "date": "2023-09-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-1%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-1%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 388183,
+          "text": "7 Anfragen der Ausschussmitglieder   Ausschussmitglied Herr Schlegel fragt an, ob am Stadion an der Bahnhofstraße ein Fangnetz installiert werden kann.  Leiterin Bürgerbeteiligung, Sport und Stärkung des Ehrenamtes Frau Stannek antwortet, dass eine Installation baulich nicht möglich ist, da dort Leitungen im Boden verlaufen.  Ausschussmitglied Herr Strauß erkundigt sich nach den baulichen Fortschritten an der Emscher.  Erste Beigeordnete Frau Kleff antwortet, dass es hier keinen aktuellen Sachstand ihrerseits gibt.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-1%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-1",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-1%7C4%7C1",
+          "date": "2023-09-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-1%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-1%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 390616,
+          "text": "8 Mitteilungen der Verwaltung   Leiterin Bürgerbeteiligung, Sport und Stärkung des Ehrenamtes Frau Stannek gibt bekannt, dass die Bürgerbefragung zur nordwestlichen Innenstadt bis 03.09.2023 auf CONSUL verfügbar ist.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-1%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-1",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-1%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-1",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2023-ABES-1%7C20230725075959-0_2023-ABES-1_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2023-07-25",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2023-ABES-1%7C20230725075959-0_2023-ABES-1_1.pdf",
+        "fileName": "20230725075959-0_2023-ABES-1_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2023-ABES-1%7C1",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Flyer ABES 2023-08-08",
+        "size": 2263066,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2023-08-08T18:25:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-1",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2023-ABES-1",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-07-25",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2023-ABES-1",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2023-ABES-1",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "64f9119d5a8891166cee7fc3198b8d20a8e7f0e1",
+      "size": 424323,
+      "text": "Amtliche Bekanntmachung der Tagesordnung zur Sitzung des Ausschusses für Bürgeranliegen, Ehrenamt und Sport am Dienstag, 08.08.2023 um 17:30 Uhr Vereinsheim des Castroper Turnverein 1874 e.V., Wartburgstraße 270  I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner  2. Bericht zum Bürger*innenbudget  3. Bericht des Castroper Turnverein 1874 e. V.  4. Ausstattung städtischer Sportanlagen mit Defibrillatoren  5. Bericht zur Ehrenamtskarte NRW  6. Anfragen von Vereinen  7. Anfragen der Ausschussmitglieder  8. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  1. Anfragen der Ausschussmitglieder  2. Mitteilungen der Verwaltung    Schulte Ausschussvorsitzende \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Vereinsheim des Castroper Turnverein 1874 e.V., Wartburgstraße 270, 44577 Castrop-Rauxel",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-1/location",
+      "locality": "Castrop-Rauxel",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "postalCode": "44577",
+      "room": "Vereinsheim des Castroper Turnverein 1874 e.V.",
+      "streetAddress": "Wartburgstraße 270",
+      "subLocality": "Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung Ausschuss für Bürgeranliegen, Ehrenamt und Sport",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/ABES"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/389",
+      "https://castroprauxel.gremien.info/oparl/person/812",
+      "https://castroprauxel.gremien.info/oparl/person/73",
+      "https://castroprauxel.gremien.info/oparl/person/626",
+      "https://castroprauxel.gremien.info/oparl/person/961",
+      "https://castroprauxel.gremien.info/oparl/person/309",
+      "https://castroprauxel.gremien.info/oparl/person/1072",
+      "https://castroprauxel.gremien.info/oparl/person/1043",
+      "https://castroprauxel.gremien.info/oparl/person/874",
+      "https://castroprauxel.gremien.info/oparl/person/1073",
+      "https://castroprauxel.gremien.info/oparl/person/39",
+      "https://castroprauxel.gremien.info/oparl/person/1208",
+      "https://castroprauxel.gremien.info/oparl/person/1052",
+      "https://castroprauxel.gremien.info/oparl/person/269",
+      "https://castroprauxel.gremien.info/oparl/person/1137",
+      "https://castroprauxel.gremien.info/oparl/person/1037",
+      "https://castroprauxel.gremien.info/oparl/person/984"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-ABES-1",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-10-04",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-ABES-1",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-ABES-1",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 472923,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2023-08-08T17:35:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-ABES-1",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-10-04",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-ABES-1",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-ABES-1",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 472923,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

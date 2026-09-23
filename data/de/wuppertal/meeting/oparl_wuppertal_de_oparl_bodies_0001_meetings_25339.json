@@ -1,0 +1,26 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "meeting",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25339",
+  "modified_at": "2026-05-18T08:38:46+02:00",
+  "deleted_at": null,
+  "data": {
+    "created": "2026-05-18T08:36:23+02:00",
+    "end": "2027-07-07T00:00:00+02:00",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25339",
+    "location": {
+      "created": "2026-05-18T08:36:23+02:00",
+      "description": "Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal",
+      "id": "http://oparl.wuppertal.de/oparl/bodies/0001/locations/si/25339",
+      "modified": "2026-05-18T08:38:46+02:00",
+      "type": "https://schema.oparl.org/1.1/Location"
+    },
+    "modified": "2026-05-18T08:38:46+02:00",
+    "name": "öffentliche/nicht öffentliche Sitzung des Ausschusses für öffentliche Ordnung, Bürgerservice und Digitalisierung & Betriebsausschuss ESW",
+    "organization": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/275"
+    ],
+    "start": "2027-07-07T16:00:00+02:00",
+    "type": "https://schema.oparl.org/1.1/Meeting"
+  }
+}

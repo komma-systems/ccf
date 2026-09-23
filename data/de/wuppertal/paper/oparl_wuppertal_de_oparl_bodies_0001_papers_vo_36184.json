@@ -1,0 +1,62 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36184",
+  "modified_at": "2026-09-08T13:17:14+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368794.pdf",
+        "created": "2026-08-21T07:32:34+02:00",
+        "date": "2026-09-04",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368794.pdf",
+        "fileName": "00368794.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368794",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T13:17:14+02:00",
+        "name": "Antwort auf Anfragen",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368795.pdf",
+        "created": "2026-08-21T07:42:04+02:00",
+        "date": "2026-08-21",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368795.pdf",
+        "fileName": "00368795.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368795",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T13:17:14+02:00",
+        "name": "Große Anfrage Die Linke BV Vohwinkel",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141344",
+        "created": "2026-08-21T09:27:09+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68551",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24585",
+        "modified": "2026-08-26T12:40:30+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/42"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36184",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-19T13:23:03+02:00",
+    "date": "2026-08-21",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36184",
+    "modified": "2026-09-08T13:17:14+02:00",
+    "name": "Antwort auf Anfrage von Die Linke - Bebauungsplan 1267 - west. Bahnstraße / Buntenbeck -",
+    "paperType": "Antwort auf Anfragen",
+    "reference": "VO/0972/26/1-A",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/82"
+    ]
+  }
+}

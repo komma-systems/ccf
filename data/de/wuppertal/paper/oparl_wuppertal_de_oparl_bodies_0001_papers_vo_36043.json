@@ -1,0 +1,61 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36043",
+  "modified_at": "2026-07-01T07:40:34+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00366694.pdf",
+        "created": "2026-06-30T14:44:22+02:00",
+        "date": "2026-06-30",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00366694.pdf",
+        "fileName": "00366694.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/366694",
+        "mimeType": "application/pdf",
+        "modified": "2026-07-01T11:01:08+02:00",
+        "name": "Große Anfrage AfD",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141027",
+        "created": "2026-07-01T07:41:03+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68272",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24653",
+        "modified": "2026-07-06T12:08:22+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36043",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141028",
+        "authoritative": true,
+        "created": "2026-07-01T07:45:26+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68273",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24542",
+        "modified": "2026-09-04T07:44:20+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36043",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-06-30T14:32:38+02:00",
+    "date": "2026-07-01",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36043",
+    "modified": "2026-07-01T07:40:34+02:00",
+    "name": "Unfall-Statistik im Zusammenhang mit E-Scootern",
+    "paperType": "Große Anfrage AfD",
+    "reference": "VO/0857/26",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

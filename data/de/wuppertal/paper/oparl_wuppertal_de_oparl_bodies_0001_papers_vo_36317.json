@@ -1,0 +1,60 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36317",
+  "modified_at": "2026-09-09T13:11:22+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369687.pdf",
+        "created": "2026-09-09T09:22:10+02:00",
+        "date": "2026-09-09",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369687.pdf",
+        "fileName": "00369687.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369687",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-09T13:11:22+02:00",
+        "name": "Antrag B90/Grüne Rat",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369691.pdf",
+        "created": "2026-09-09T09:38:51+02:00",
+        "date": "2026-09-09",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369691.pdf",
+        "fileName": "00369691.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369691",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-09T13:11:22+02:00",
+        "name": "Waldeckstraße Radverkehrsanlage Anlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141759",
+        "authoritative": true,
+        "created": "2026-09-09T13:06:21+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68778",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24630",
+        "modified": "2026-09-21T11:47:57+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/274"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36317",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-09T09:17:49+02:00",
+    "date": "2026-09-09",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36317",
+    "modified": "2026-09-09T13:11:22+02:00",
+    "name": "TOP 9, Waldeckstraße - Einrichtung einer Radverkehrsanlage im Zuge der Straßensanierung, Vorlage VO/0611/26",
+    "paperType": "Antrag B90/Gr Rat",
+    "reference": "VO/1109/26",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

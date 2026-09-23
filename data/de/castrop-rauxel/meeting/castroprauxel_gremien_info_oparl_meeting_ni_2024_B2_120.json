@@ -1,0 +1,374 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-120",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-120%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-120",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-120%7C1%7C1",
+          "date": "2024-05-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-120%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-120%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 369597,
+          "text": "  1 Fragestunde für Einwohnerinnen und Einwohner   Keine Fragen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-120%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-120",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-120%7CProtokoll%7C1",
+          "date": "2024-05-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-120%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-120%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 371658,
+          "text": "  2 Einwände gegen die letzte Niederschrift   Keine Einwände.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-120%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-120",
+        "name": "Begrüßung durch Herrn Krimpmann\r\n- Schulleiter der Willy-Brandt-Gesamtschule -",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-120%7Czt_2%7C1",
+          "date": "2024-05-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-120%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-120%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 392258,
+          "text": "  3 Begrüßung durch Herrn Krimpmann - Schulleiter der Willy-Brandt-Gesamtschule -   Herr Krimpmann begrüßt den Ausschuss in den schulischen Räumlichkeiten und gibt einen kurzen Einblick in den Schulalltag. Insbesondere berichtet er von den aktuellen Herausforderungen. Dabei betont er, dass es zunehmend schwieriger wird die Eltern der Schülerinnen und Schüler zu erreichen und miteinzubeziehen. Er regte in diesem Zusammenhang an, eine zentrale Stelle einzurichten, die sich mit Synergieeffekten aus Drittmitteln beschäftigen soll, sodass diese ermittelt und passgenau an Schulen weitergegeben werden könnten.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-120%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-120",
+        "name": "Konzepte und Maßnahmen zur Vermittlung von Ausbildungsplätzen\r\n- Ansätze in der Jugendberufshilfe -\r\n",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-120%7Czt_0%7C1",
+          "date": "2024-05-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-120%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-120%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 401355,
+          "text": "  4 Konzepte und Maßnahmen zur Vermittlung von Ausbildungsplätzen - Ansätze in der Jugendberufshilfe -   Herr Langensiepen, Geschäftsführer CAS-Wirtschaftsförderungs- und Stadtteilmanagement GmbH, stellt die aktuellen und zukünftigen Maßnahmen vor. Dabei berichtet er über die beiden bereits bestehenden Konzepte Börsentag Handwerk und Infotag Gesundheitsberufe. Beide Formate werden von allen Beteiligten sehr gut angenommen. Zusätzlich gibt er einen Einblick in neue zukünftige Formate. Dieses Jahr soll das Konzept zur Nachhaltigkeitsmesse  Klima und Karriere umgesetzt werden. Zum einen sollen Bürgerinnen und Bürger über energetische Themen aufgeklärt werden, zum anderen stellen sich Betriebe in ihrer Rolle als Arbeitgeber vor. Es sind sowohl Aufsteller als auch Vorträge für diesen Tag geplant. Ein weiteres Konzept Tag der Ausbildung wird voraussichtlich nächstes Jahr durchgeführt.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11180",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-120%7C351501100002%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-120",
+        "name": "Zweiter Sachstandsbericht zum Handlungskonzept Wohnen",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-120%7C351501100002%7C1",
+          "date": "2024-05-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-120%7C351501100002%7C1",
+          "fileName": "be_351501100002_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-120%7C351501100002%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 407038,
+          "text": "  5 Zweiter Sachstandsbericht zum Handlungskonzept Wohnen (2024/003)   Frau Reuter, Bereichsleiterin des Bereichs Stadtentwicklung und Statistik, stellt beispielhaft ein paar Analyseergebnisse in Bezug auf das vorliegende Handlungskonzept Wohnen vor. Dabei geht sie insbesondere auf die festgestellten Bedarfe ein. Sie erläutert unter anderem, dass in Zukunft ein Generationswechsel besser vorbereitet werden soll. Im Idealfall werden in jedem Stadtteil barrierearme bzw. barrierefreie Wohnungen existieren, sodass Menschen mit diesem Bedarf zumindest nicht aus ihrem bekannten Umfeld wegziehen müssten.  Der Betriebsausschuss 2 der Stadt Castrop-Rauxel nimmt die bisherigen Ausarbeitungen gem. Sachverhaltsdarstellung und Anlage 1 des Protokolls (Anlage 1_Sachstand HK Wohnen) zur Kenntnis.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-B2-120%7Czt_3%7C1%7C20240506100329-0_zt_3_1.pdf",
+            "date": "2024-05-06",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-B2-120%7Czt_3%7C1%7C20240506100329-0_zt_3_1.pdf",
+            "fileName": "20240506100329-0_zt_3_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-B2-120%7Czt_3%7C1%7C20240506100329-0_zt_3_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "tomorrathon_Castrop-Rauxel_2024",
+            "size": 2237468,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-120%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-120",
+        "name": "Vorstellung des tomorrathon vom 06. bis  08. September 2024 in Castrop-Rauxel -  Ideenfestival für ein nachhaltiges und lebenswertes Morgen\r\n- Karsten Zygowski -",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-120%7Czt_3%7C1",
+          "date": "2024-05-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-120%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-120%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 414106,
+          "text": "  6 Vorstellung des tomorrathon vom 06. bis 08. September 2024 in Castrop-Rauxel -  Ideenfestival für ein nachhaltiges und lebenswertes Morgen - Karsten Zygowski -   Herr Zygowski stellt das Format tomorrathon vor. Dabei werden zunächst Herausforderung gesammelt, die auf vorgegebenen Aktionsfelder basieren. Am ersten Veranstaltungstag werden einige Herausforderung aus der Sammlung vorgestellt. Anschließend werden am zweiten Tag Lösungsansätze in Powerworkshops erarbeitet. Am letzten Tag findet ein Abschlussfest statt. Die ausgearbeiteten Lösungen werden von einer Jury bewertet. Der beste Lösungsansatz erhält ein Startbudget für die Umsetzung. Insgesamt basiert das Format auf Ehrenamt und Spenden von Unternehmen aus der Privatwirtschaft. Weitere Informationen lassen sich der PowerPoint-Präsentation entnehmen, welche dem Protokoll als Anlage 2 (tomorrathon_Castrop-Rauxel_2024) beigefügt ist.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-B2-120%7Czt_1%7C1%7C20240503094610-0_zt_1_1.pdf",
+            "date": "2024-05-03",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-B2-120%7Czt_1%7C1%7C20240503094610-0_zt_1_1.pdf",
+            "fileName": "20240503094610-0_zt_1_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-B2-120%7Czt_1%7C1%7C20240503094610-0_zt_1_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Anmeldungen Sek. I Anlage B2 April24 SJ 2024_2025",
+            "size": 198871,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-120%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-120",
+        "name": "Aktueller Sachstandsbericht zur Schulentwicklungsplanung\r\n- Anmeldezahlen Sekundarstufe I\r\n- Neugründung der Grundschule\r\n",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-120%7Czt_1%7C1",
+          "date": "2024-05-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-120%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-120%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 411879,
+          "text": "  7 Aktueller Sachstandsbericht zur Schulentwicklungsplanung - Anmeldezahlen Sekundarstufe I - Neugründung der Grundschule   Frau Kruck berichtet über den aktuellen Stand bezüglich des Anmeldeverfahrens an Grundschulen für das Schuljahr 2024/2025. Die Anmeldezahlen sind dem Protokoll als Anlage 3 (Anmeldungen Sek. I Anlage B2 April24 SJ 2024_2025) beigefügt.  Frau Kruck berichtet über den Sachstand bzgl. der Neugründung der Grundschule. Ein Bestimmungsverfahren ist dabei erforderlich, welches insgesamt sehr umfangreich ist und einige Beteiligungen erfordert. Aktuell wird ein Abstimmungsverfahren durchgeführt. Hierfür wurden alle einzubeziehenden Eltern auf unterschiedlichen Kanälen informiert. Das Verzeichnis wird in der Zeit vom 22.04.2024 bis zum 24.04.2024 ausgelegt. Die geheime Wahl findet anschließend vom 29.04.2024 bis zum 02.05.2024 im Rathaus statt.  Die Beschließung der Schulform wird im Anschluss im Rat und im Betriebsausschuss 2 behandelt.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11181",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-120%7C351004100103%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-120",
+        "name": "Verpflegungskonzept an Schulen in Castrop-Rauxel",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-120%7C351004100103%7C1",
+          "date": "2024-05-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-120%7C351004100103%7C1",
+          "fileName": "be_351004100103_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-120%7C351004100103%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 413414,
+          "text": "  8 Verpflegungskonzept an Schulen in Castrop-Rauxel (2024/103)   Der Betriebsausschuss 2 nimmt den Entwurf des gesamtstädtischen Verpflegungskonzeptes für die Schulen in Castrop-Rauxel zur Kenntnis. Das Konzept soll nach interfraktioneller Beratung in der nächsten Sitzungsfolge beschlossen werden. Hierbei gilt es die Verpflegungskonzepte der verschiedenen Schulformen für die folgenden Jahre festzulegen und gemäß der Empfehlung des Deutschen Instituts für Ernährung auszuschreiben.  Mindestens 30% Bio ist bereits gegeben. Eine Steigerung auf 50 % wird angestrebt. Die Evaluation unter Beteiligung von Schüler*innen, Eltern und Schulen ist zu gewährleisten. Soziale Aspekte und die Teilnahme an Bundes- und Landesprogrammen zur Förderung der gesunden Ernährung als Teil des Schullebens sind fortlaufend zu prüfen und zu beantragen.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11177",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-120%7C350304100096%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-120",
+        "name": "Antrag der CDU-Fraktion vom 25.03.2024 zur Einladung der Initiative 'Kurve kriegen'",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-120%7C350304100096%7C1",
+          "date": "2024-05-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-120%7C350304100096%7C1",
+          "fileName": "be_350304100096_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-120%7C350304100096%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 406576,
+          "text": "  9 Antrag der CDU-Fraktion vom 25.03.2024 zur Einladung der Initiative  Kurve kriegen  (2024/097)    Frau Graeber erläutert den Antrag der CDU-Fraktion und betont, dass die Initiative Kurve kriegen viele gute Ansätze aufweist. Sie regt an, Referenten aus der Initiative in den Betriebsausschuss 2 einzuladen. Die Vorsitzende Frau Lasser-Moryson erwidert, dass bereits Kontakt aufgenommen wurde und in der nächsten Sitzung des Betriebsausschusses 2 über das Projekt berichtet wird.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-120%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-120",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-120%7C6%7C1",
+          "date": "2024-05-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-120%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-120%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 372334,
+          "text": "  10 Anfragen der Ausschussmitglieder   Keine Anfragen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-120%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-120",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-120%7C4%7C1",
+          "date": "2024-05-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-120%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-120%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 366743,
+          "text": "  11 Mitteilungen der Verwaltung   Keine Mitteilungen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-120%7C999%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-120",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-120%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-120",
+        "name": "Mitteilungen der Verwaltung\r\n- Aktueller Sachstand zum Landesprojekt",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2024-04-18T19:07:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-120",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-B2-120",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-04-05",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2024-B2-120",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2024-B2-120",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "6a1d25be8753c0d110416db237768bc7ba3d4955",
+      "size": 437390,
+      "text": "Amtliche Bekanntmachung der Tagesordnung zur Sitzung des Betriebsausschusses 2 (Familie, Jugend, Soziales und Bildung) am Donnerstag, 18.04.2024 um 17:00 Uhr in der Willy-Brandt-Gesamtschule, Bahnhofstraße 160, 44575 Castrop-Rauxel,   I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner  2. 3. Einwände gegen die letzte Niederschrift Begrüßung durch Herrn Krimpmann - Schulleiter der Willy-Brandt-Gesamtschule -  4. Konzepte und Maßnahmen zur Vermittlung von Ausbildungsplätzen - Ansätze in der Jugendberufshilfe -  5. Zweiter Sachstandsbericht zum Handlungskonzept Wohnen  6. Aktueller Sachstandsbericht zur Schulentwicklungsplanung - Anmeldezahlen Sekundarstufe I - Neugründung der Grundschule  7. Verpflegungskonzept an Schulen in Castrop-Rauxel  8. Antrag der CDU-Fraktion vom 25.03.2024 zur Einladung der Initiative  Kurve kriegen   9. Anfragen der Ausschussmitglieder  10. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  1. Anfragen der Ausschussmitglieder  2. Mitteilungen der Verwaltung - Aktueller Sachstand zum Landesprojekt   \u000b Katrin Lasser-Moryson Ausschussvorsitzende \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "außerhalb des Rathauses, Info siehe Bekanntmachung, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-120/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "außerhalb des Rathauses, Info siehe Bekanntmachung",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Betriebsausschusses 2 (Familie, Jugend, Soziales und Bildung)",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/597",
+      "https://castroprauxel.gremien.info/oparl/person/694",
+      "https://castroprauxel.gremien.info/oparl/person/812",
+      "https://castroprauxel.gremien.info/oparl/person/138",
+      "https://castroprauxel.gremien.info/oparl/person/1032",
+      "https://castroprauxel.gremien.info/oparl/person/1062",
+      "https://castroprauxel.gremien.info/oparl/person/389",
+      "https://castroprauxel.gremien.info/oparl/person/1043",
+      "https://castroprauxel.gremien.info/oparl/person/858",
+      "https://castroprauxel.gremien.info/oparl/person/309",
+      "https://castroprauxel.gremien.info/oparl/person/977",
+      "https://castroprauxel.gremien.info/oparl/person/895",
+      "https://castroprauxel.gremien.info/oparl/person/1060",
+      "https://castroprauxel.gremien.info/oparl/person/1061",
+      "https://castroprauxel.gremien.info/oparl/person/1118",
+      "https://castroprauxel.gremien.info/oparl/person/1190",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/1147",
+      "https://castroprauxel.gremien.info/oparl/person/949"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-B2-120",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-05-08",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-B2-120",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-B2-120",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 487567,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2024-04-18T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-B2-120",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-05-08",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-B2-120",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-B2-120",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 487567,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

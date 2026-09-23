@@ -1,0 +1,445 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-135",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-135%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-135",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-135%7C1%7C1",
+          "date": "2026-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-135%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-135%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 156305,
+          "text": "1 Fragestunde für Einwohnerinnen und Einwohner   Es werden keine Fragen an das Gremium gerichtet.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-135%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-135",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-135%7Czt_0%7C1",
+          "date": "2026-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-135%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-135%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 164236,
+          "text": "2 Einwände gegen die letzte Niederschrift   Gegen die Niederschrift der letzten Ausschusssitzung werden keine Einwände erhoben.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-135%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-135",
+        "name": "Vortrag des Sozialarbeiters Herrn Schmidt aus dem Bereich Migration und Obdachlosenhilfe zu Housing First",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-135%7Czt_1%7C1",
+          "date": "2026-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-135%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-135%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 174080,
+          "text": "3 Vortrag des Sozialarbeiters Herrn Schmidt aus dem Bereich Migration und Obdachlosenhilfe zu Housing First   Herr Schmidt berichtet über das Konzept Housing First. Dabei erläutert er, was unter Housing First zu verstehen ist, wie erfolgreich das Konzept in der Praxis funktioniert und wie in Castrop-Rauxel mit obdachlosen Menschen verfahren wird. Die Präsentation ist der Niederschrift beigefügt.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-135%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-135",
+        "name": "Bericht der Verbraucherzentrale Castrop-Rauxel durch Frau Sommer",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-135%7Czt_2%7C1",
+          "date": "2026-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-135%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-135%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 175084,
+          "text": "4 Bericht der Verbraucherzentrale Castrop-Rauxel durch Frau Sommer   Frau Sommer stellt den Jahresbericht der Verbraucherzentrale Castrop-Rauxel vor. Sie berichtet über die Aufgaben der Verbraucherzentrale, aktuelle Arbeitsschwerpunkte sowie die Entwicklung der Beratungszahlen. Im vergangenen Jahr wurden insgesamt 6.252 Verbraucheranliegen bearbeitet. Darüber hinaus erläutert sie die Energierechtsberatung sowie die in Castrop-Rauxel bestehende Schlichtungsstelle als besonderes Angebot.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17550",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-135%7C402206100172%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-135",
+        "name": "Antrag der CDU-Fraktion_Nacht der Ausbildung",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-135%7C402206100172%7C1",
+          "date": "2026-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-135%7C402206100172%7C1",
+          "fileName": "be_402206100172_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-135%7C402206100172%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 184612,
+          "text": "5 Antrag der CDU-Fraktion Nacht der Ausbildung (2026/166)   Der Antragsteller Herr Ehm begründet den Antrag. Er weist daraufhin, dass ein entsprechender Antrag bereits im Jahr 2022 gestellt worden sei. Da das Thema auf der Prioritätenliste jedoch höher eingestuft werden solle, werde der Antrag erneut gestellt. Herr Schelte und Frau Sagiroglou kritisieren das Vorgehen. Frau Lasser-Moryson betont, dass der übliche Weg den Antrag auf der Prioritätenliste höher einzustufen mehrfach erfolglos versucht worden sei. Der Antrag wird mehrstimmig beschlossen.    Abstimmungsergebnis:   Ja-Stimmen: 11  Nein-Stimmen: -  Enthaltungen: 2       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17541",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-135%7C401906100166%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-135",
+        "name": "Antrag CDU-Ratsfraktion vom 19.06.2026 Projekttag zum Tag des Grundgesetzes",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-135%7C401906100166%7C1",
+          "date": "2026-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-135%7C401906100166%7C1",
+          "fileName": "be_401906100166_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-135%7C401906100166%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 176708,
+          "text": "6 Antrag CDU-Ratsfraktion vom 19.06.2026 Projekttag zum Tag des Grundgesetzes (2026/160)   Der Antragsteller Herr Ehm begründet den Antrag. Nach kurzer Diskussion wird der Antrag mehrstimmig beschlossen.    Abstimmungsergebnis:   Ja-Stimmen: 17  Nein-Stimmen: 1  Enthaltungen: -       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17577",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-135%7C403006100194%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-135",
+        "name": "Antrag B90/Die Grünen-Ratsfraktion vom 23.06.2026 Vorstellung der Ergebnisse des Arbeitskreises schulische Förderung zum Thema Schulabsentismus",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-135%7C403006100194%7C1",
+          "date": "2026-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-135%7C403006100194%7C1",
+          "fileName": "be_403006100194_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-135%7C403006100194%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 184476,
+          "text": "7 Antrag B90/Die Grünen-Ratsfraktion vom 23.06.2026 Vorstellung der Ergebnisse des Arbeitskreises schulische Förderung zum Thema Schulabsentismus (2026/188)   Die Antragstellerin Frau Demir begründet den Antrag. Der Antrag wird einstimmig beschlossen.     Abstimmungsergebnis:   Ja-Stimmen: 18  Nein-Stimmen: -  Enthaltungen: -       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17538",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-135%7C401906100164%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-135",
+        "name": "Schulwegsicherung in Castrop-Rauxel;\r\nschriftlicher Bericht der Verwaltung",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-135%7C401906100164%7C1",
+          "date": "2026-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-135%7C401906100164%7C1",
+          "fileName": "be_401906100164_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-135%7C401906100164%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 180883,
+          "text": "8 Schulwegsicherung in Castrop-Rauxel; schriftlicher Bericht der Verwaltung (2026/158)   Frau Kleff berichtet über den aktuellen Sachstand der Schulwegsicherung in Castrop-Rauxel. Sie erläutert, dass bereits ein guter Sachstand erreicht worden sei. Gleichzeitig bestehe weiterhin Entwicklungsbedarf, sodass die Schulwegsicherung kontinuierlich weiterentwickelt werden solle. Der Bericht der Verwaltung zur bestehenden und seit Jahren strukturiert praktizierten Schulwegsicherung in Castrop-Rauxel wird zur Kenntnis genommen.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-135%7Czt_4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-135",
+        "name": "Aktuelle Sachstände Schule",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-135%7Czt_4%7C1",
+          "date": "2026-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-135%7Czt_4%7C1",
+          "fileName": "be_zt_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-135%7Czt_4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 162808,
+          "text": "9 Aktuelle Sachstände Schule   Frau Kleff berichtet, dass die Anträge auf Einrichtung von Familiengrundschulzentren an der Erich-Kästner-Schule sowie an der Cottenburgschule voraussichtlich bewilligt werden. Der entsprechende Antrag der Sonnenscheingrundschule werden hingegen voraussichtlich angelehnt.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17559",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-135%7C402906100188%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-135",
+        "name": "Antrag der AFD-Fraktion vom 28.06.2026_Prüfung der Einrichtung eines Fußgängerüberwegs (Zebrastreifen) an der \r\nRecklinghauser Straße im Bereich der Hausnummer 329",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-135%7C402906100188%7C1",
+          "date": "2026-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-135%7C402906100188%7C1",
+          "fileName": "be_402906100188_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-135%7C402906100188%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 196552,
+          "text": "10 Antrag der AFD-Fraktion vom 28.06.2026_Prüfung der Einrichtung eines Fußgängerüberwegs (Zebrastreifen) an der  Recklinghauser Straße im Bereich der Hausnummer 329 (2026/182)   Der Antragsteller Herr Schwickerath begründet den Antrag. Der Antrag wird mehrstimmig abgelehnt.  Frau Lasser-Moryson weist ergänzend darauf hin, dass grundsätzlich jeder Antrag in jedem Ausschuss gestellt werden könne, dies jedoch nicht in jedem Fall sinnvoll sei. Der Antrag falle thematisch nicht in den Zuständigkeitsbereich des Betriebsausschusses 2.     Abstimmungsergebnis:   Ja-Stimmen: 3  Nein-Stimmen: 15  Enthaltungen: -       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17573",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-135%7C403006100193%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-135",
+        "name": "Antrag der SPD-Ratsfraktion vom 30.06.2026 zur Gesundheitsversorgung in Castrop-Rauxel zukunftssicher, wohnortnah, sozial, gerecht und vernetzt gestalten",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-135%7C403006100193%7C1",
+          "date": "2026-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-135%7C403006100193%7C1",
+          "fileName": "be_403006100193_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-135%7C403006100193%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 197487,
+          "text": "11 Antrag der SPD-Ratsfraktion vom 30.06.2026 zur Gesundheitsversorgung in Castrop-Rauxel zukunftssicher, wohnortnah, sozial, gerecht und vernetzt gestalten (2026/187)   Die Antragstellerin Frau Lückel begründet Antrag. Der Antrag wird in die nächste Sitzung des Ausschusses für Generationen, Inklusion und Diversität am 10.09.2026 geschoben. Außerdem soll der Antrag erst in der Sitzung des Rates der Stadt am 24.09.2026 beraten werden.     Abstimmungsergebnis:   Ja-Stimmen: 18  Nein-Stimmen: -  Enthaltungen: -       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-135%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-135",
+        "name": "Bericht der ersten Beigeordneten Frau Kleff zum Hitzeschutz in Castrop-Rauxel",
+        "number": "13",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-135%7Czt_3%7C1",
+          "date": "2026-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-135%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-135%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 13",
+          "size": 171903,
+          "text": "13 Bericht der ersten Beigeordneten Frau Kleff zum Hitzeschutz in Castrop-Rauxel   Frau Kleff berichtet über die Hitzeschutzmaßnahmen in Castrop-Rauxel. Der Bericht der Verwaltung wird zur Kenntnis genommen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-135%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-135",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "14",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-135%7C6%7C1",
+          "date": "2026-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-135%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-135%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 14",
+          "size": 175610,
+          "text": "14 Anfragen der Ausschussmitglieder   Frau Sagirogloou bittet um die Bereitstellung einer Übersicht über kostenfreie Angebote für Kinder und Jugendliche. Frau Kleff sagt zu, die entsprechende Liste zur Verfügung zu stellen.  Frau Gösmann erkundigt sich nach dem Sachstand des Neubaus von zewi Klassenräumen an der Grundschule Alter Garten. Frau Kruck berichtete, dass hierzu derzeit Gespräche zwischen dem Bereich 60 (Immobilienmanagement) und den beauftragten Architekten geführt werden. Frau Gösmann weist daraufhin, dass derzeit drei Klassen in einem Pavillon unterrichtet würden, der von einem Wasserschaden betroffen sei und keinen ausreichenden Hitzeschutz biete. Sie fragt nach den weiteren Planungen. Frau Kleff sagt zu, sich nach dem aktuellen Sachstand zu erkundigen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-135%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-135",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "15",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-135%7C4%7C1",
+          "date": "2026-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-135%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-135%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 15",
+          "size": 152478,
+          "text": "15 Mitteilungen der Verwaltung   Es liegen keine Mitteilungen der Verwaltung vor.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-135%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-135",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-135%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-135",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2026-B2-135%7C20260701150104-0_2026-B2-135_2.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2026-07-01",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2026-B2-135%7C20260701150104-0_2026-B2-135_2.pdf",
+        "fileName": "20260701150104-0_2026-B2-135_2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2026-B2-135%7C2",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Tischvorlage 2026-190  Die Linke vom 01.07.2026_CAS-Pass",
+        "size": 235673,
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2026-B2-135%7C20260701150035-0_2026-B2-135_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2026-07-01",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2026-B2-135%7C20260701150035-0_2026-B2-135_1.pdf",
+        "fileName": "20260701150035-0_2026-B2-135_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2026-B2-135%7C3",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Anlage zur Tischvorlage 2026-190_Antrag Die Linke-Ratsfraktion vom 01.07.2026 CAS-Pass",
+        "size": 167991,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-07-09T19:04:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-135",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2026-B2-135",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-07-01",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2026-B2-135",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2026-B2-135",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "e738228c9e1ab99fa29a20b2aaae83c5e2def167",
+      "size": 206072,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "außerhalb des Rathauses, Info siehe Bekanntmachung, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-135/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "außerhalb des Rathauses, Info siehe Bekanntmachung",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Betriebsausschusses 2 (Familie, Jugend, Soziales und Bildung)",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/597",
+      "https://castroprauxel.gremien.info/oparl/person/1301",
+      "https://castroprauxel.gremien.info/oparl/person/138",
+      "https://castroprauxel.gremien.info/oparl/person/1032",
+      "https://castroprauxel.gremien.info/oparl/person/1339",
+      "https://castroprauxel.gremien.info/oparl/person/1244",
+      "https://castroprauxel.gremien.info/oparl/person/963",
+      "https://castroprauxel.gremien.info/oparl/person/1305",
+      "https://castroprauxel.gremien.info/oparl/person/817",
+      "https://castroprauxel.gremien.info/oparl/person/1344",
+      "https://castroprauxel.gremien.info/oparl/person/309",
+      "https://castroprauxel.gremien.info/oparl/person/1314",
+      "https://castroprauxel.gremien.info/oparl/person/1317",
+      "https://castroprauxel.gremien.info/oparl/person/1340",
+      "https://castroprauxel.gremien.info/oparl/person/895",
+      "https://castroprauxel.gremien.info/oparl/person/1345",
+      "https://castroprauxel.gremien.info/oparl/person/1372",
+      "https://castroprauxel.gremien.info/oparl/person/1321",
+      "https://castroprauxel.gremien.info/oparl/person/1389",
+      "https://castroprauxel.gremien.info/oparl/person/1380",
+      "https://castroprauxel.gremien.info/oparl/person/1294",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/949",
+      "https://castroprauxel.gremien.info/oparl/person/1289"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-B2-135",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-07-20",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-B2-135",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-B2-135",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 276768,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2026-07-09T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-B2-135",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-07-20",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-B2-135",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-B2-135",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 276768,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

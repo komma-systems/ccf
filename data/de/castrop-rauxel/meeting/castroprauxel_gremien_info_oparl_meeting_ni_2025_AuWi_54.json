@@ -1,0 +1,322 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AuWi-54",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AuWi-54%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AuWi-54",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AuWi-54%7C1%7C1",
+          "date": "2025-03-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AuWi-54%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AuWi-54%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 61626,
+          "text": "  1 Fragestunde für Einwohnerinnen und Einwohner    Keine Fragen.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AuWi-54%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AuWi-54",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AuWi-54%7CProtokoll%7C1",
+          "date": "2025-03-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AuWi-54%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AuWi-54%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 63384,
+          "text": "  2 Einwände gegen die letzte Niederschrift    Keine Einwände.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AuWi-54%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AuWi-54",
+        "name": "Vorstellung des IT-Sicherheitsbeauftragten",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AuWi-54%7Czt_2%7C1",
+          "date": "2025-03-31",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AuWi-54%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AuWi-54%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 81274,
+          "text": "  3 Vorstellung des IT-Sicherheitsbeauftragten    Herr Matzmorr, Leiter des Bereichs Informationstechnik und zentrale Dienste und Herr Dekomien, IT-Sicherheitsbeauftragter der Stadt Castrop-Rauxel, stellen gemeinsam die Arbeit des IT-Sicherheitsbeauftragten vor.   Die Ausschussmitglieder nehmen den Bericht zur Kenntnis.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2025-AuWi-54%7Czt_0%7C1%7C20250324153231-0_zt_0_1.pdf",
+            "date": "2025-03-24",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2025-AuWi-54%7Czt_0%7C1%7C20250324153231-0_zt_0_1.pdf",
+            "fileName": "20250324153231-0_zt_0_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2025-AuWi-54%7Czt_0%7C1%7C20250324153231-0_zt_0_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "IMCR_Praesi_AWED_04-03-2025_FINAL",
+            "size": 1180185,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AuWi-54%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AuWi-54",
+        "name": "Mündlicher Bericht zum Zentrenmanagement Innenstadt",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AuWi-54%7Czt_0%7C1",
+          "date": "2025-03-31",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AuWi-54%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AuWi-54%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 82947,
+          "text": "  4 Mündlicher Bericht zum Zentrenmanagement Innenstadt   Herr Krafczyk, Mitarbeiter des Innenstadtmanagement Castrop-Rauxel, stellt die Inhalte des Jahresberichts anhand der beigefügten Präsentation vor.  Die Rückfrage durch ein Ausschussmitglied, ob sich die Förderung ausschließlich auf die Innenstadt bzw. Altstadt beziehe, wird durch Herrn Krafczyk bejaht, da der förderungsfähige Bereich funktional und räumlich zusammenhängend sein muss. Ein Antrag für den Bereich der Lange Straße wurde folglich abgelehnt.  Die Ausschussmitglieder nehmen den Bericht zur Kenntnis.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AuWi-54%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AuWi-54",
+        "name": "Workshop Altstadtentwicklung",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AuWi-54%7Czt_3%7C1",
+          "date": "2025-03-31",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AuWi-54%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AuWi-54%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 90866,
+          "text": "  5 Workshop Altstadtentwicklung    Herr Langensiepen, Leiter der Wirtschaft und Marketing Castrop-Rauxel GmbH, berichtet den Ausschussmitgliedern zum geplanten Workshop Altstadtentwicklung.  Nachdem im letzten Jahr Erhebungen zur Attraktivität der Altstadt vorgenommen wurden, soll nun in 2025 ein Workshop zur Altstadtentwicklung stattfinden. Im Fokus steht dabei die Frage Wie geht es mit der Innenstadt weiter?. Neben der Wirtschaftsförderung und dem Innenstadtmanagement werden Einzelhändler*innen und Vermieter*innen eingeladen, an dem Austausch teilzunehmen. Eine entsprechende Einladung erfolgt, sobald die Terminplanung abgeschlossen ist.  Die Ausschussmitglieder nehmen die Information zur Kenntnis.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2025-AuWi-54%7Czt_4%7C1%7C20250324153419-0_zt_4_1.pdf",
+            "date": "2025-03-24",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2025-AuWi-54%7Czt_4%7C1%7C20250324153419-0_zt_4_1.pdf",
+            "fileName": "20250324153419-0_zt_4_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2025-AuWi-54%7Czt_4%7C1%7C20250324153419-0_zt_4_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "TOP I.6 Aktueller Stand Glasfaserausbau",
+            "size": 3634597,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AuWi-54%7Czt_4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AuWi-54",
+        "name": "Breitbandausbau - Aktueller Sachstand",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AuWi-54%7Czt_4%7C1",
+          "date": "2025-03-31",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AuWi-54%7Czt_4%7C1",
+          "fileName": "be_zt_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AuWi-54%7Czt_4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 79192,
+          "text": "  6 Breitbandausbau - Aktueller Sachstand    Herr Ratte, Leiter der Wirtschaftsförderung, berichtet anhand der beigefügten Präsentation zum aktuellen Sachstand des Breitbandausbaus. Auf die Rückfrage eines Ausschussmitglieds, wer die Tiefbauarbeiten nach Beendigung abnehme, wird mitgeteilt, dass dies durch die Kolleg*innen des EUV Stadtbetrieb erfolge.  Die Ausschussmitglieder nehmen den Bericht zur Kenntnis.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AuWi-54%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AuWi-54",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AuWi-54%7C6%7C1",
+          "date": "2025-03-31",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AuWi-54%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AuWi-54%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 97619,
+          "text": "  7 Anfragen der Ausschussmitglieder    Herr Langensiepen, Leiter der Wirtschaft und Marketing Castrop-Rauxel GmbH, beantwortet eine Anfrage der CDU Fraktion zum Thema Veranstaltungskalender aus der letzten Sitzung. Es wird mitgeteilt, dass es von April 2024 bis Mai 2025 etwa 13.500 Nutzer*innen geben wird.  Während für 2023 360 Events angemeldet wurden, waren es in 2024 bereits 400 Events. Der Nutzerkreis bezieht sich auf alles Veranstaltenden, wobei parteipolitische Events ausgeschlossen sind. Ebenso ist nicht möglich, wöchentlich stattfindende Termine zu vermerken. Die eingestellten Veranstaltungen werden kontrolliert und ggf. angepasst.  Auf eine in einer der letzten Sitzungen erfolgten Anfrage, ob die Smart Poles mit Kameraattrappen versehen werden können, um Vandalismus vorzubeugen, meldet Herr Langensiepen zurück, dass dies grundsätzlich zwar möglich, derzeit aber nicht in Planung sei, da kein konkreter Anlass vorliege. Die Bildschirme werden nun etwas höher angebracht.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AuWi-54%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AuWi-54",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AuWi-54%7C4%7C1",
+          "date": "2025-03-31",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AuWi-54%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AuWi-54%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 58515,
+          "text": "  8 Mitteilungen der Verwaltung    Keine Mitteilungen.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AuWi-54%7Czt_5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AuWi-54",
+        "name": "Sachstandsbericht Entwicklung Gewerbeflächen",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AuWi-54%7Czt_6%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AuWi-54",
+        "name": "Brachflächenmanagement",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AuWi-54%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AuWi-54",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AuWi-54%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AuWi-54",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "4",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2025-03-04T18:30:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AuWi-54",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2025-AuWi-54",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-02-19",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2025-AuWi-54",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2025-AuWi-54",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "0aa7557caa3031afa7b1a60b572a3436e742d35e",
+      "size": 113409,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Sitzungsraum 3, Europaplatz 1,44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AuWi-54/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Sitzungsraum 3, Europaplatz 1,44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschusses für Wirtschaftsentwicklung und Digitalisierung",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/1031",
+      "https://castroprauxel.gremien.info/oparl/person/748",
+      "https://castroprauxel.gremien.info/oparl/person/645",
+      "https://castroprauxel.gremien.info/oparl/person/626",
+      "https://castroprauxel.gremien.info/oparl/person/1052",
+      "https://castroprauxel.gremien.info/oparl/person/1070",
+      "https://castroprauxel.gremien.info/oparl/person/1069",
+      "https://castroprauxel.gremien.info/oparl/person/837",
+      "https://castroprauxel.gremien.info/oparl/person/420",
+      "https://castroprauxel.gremien.info/oparl/person/814",
+      "https://castroprauxel.gremien.info/oparl/person/1202",
+      "https://castroprauxel.gremien.info/oparl/person/612",
+      "https://castroprauxel.gremien.info/oparl/person/1259",
+      "https://castroprauxel.gremien.info/oparl/person/860",
+      "https://castroprauxel.gremien.info/oparl/person/1240"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-AuWi-54",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-04-10",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2025-AuWi-54",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2025-AuWi-54",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 155046,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2025-03-04T17:00:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-AuWi-54",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-04-10",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2025-AuWi-54",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2025-AuWi-54",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 155046,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

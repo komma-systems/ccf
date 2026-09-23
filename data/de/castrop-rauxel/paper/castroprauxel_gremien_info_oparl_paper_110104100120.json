@@ -1,0 +1,98 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/110104100120",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=110104100120%7C20100401141048.xls%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=110104100120%7C20100401141048.xls%7C",
+        "fileName": "20100401141048.xls",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C110104100120%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/110104100120",
+        "mimeType": "application/vnd.ms-excel",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "30248d9a6fad2e92f5545a51c1ace933bc9f12b4",
+        "size": 20992,
+        "text": "Ermächtigungsübertragungen Betrieb 1 nach 2010",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=110104100120%7C20100401141055.xls%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=110104100120%7C20100401141055.xls%7C",
+        "fileName": "20100401141055.xls",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C110104100120%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/110104100120",
+        "mimeType": "application/vnd.ms-excel",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "558832e15ab9b34a21377051b7dbe41c6cdabf88",
+        "size": 23552,
+        "text": "Erträge u. Aufwendungen PG",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=110104100120%7C20100401141107.xls%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=110104100120%7C20100401141107.xls%7C",
+        "fileName": "20100401141107.xls",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C110104100120%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/110104100120",
+        "mimeType": "application/vnd.ms-excel",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "24eaf1df6ef0357e5ed5c58b8df72a8a54c8254d",
+        "size": 114176,
+        "text": "Investitionen B 1 2010",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-B1-35%7C110104100120%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/4060",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B1-35",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B1"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2010-04-01",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/110104100120",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=110104100120&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=110104100120&id=69",
+      "fileName": "110104100120",
+      "id": "https://castroprauxel.gremien.info/oparl/file/110104100120",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2010/117",
+      "size": 180886,
+      "text": "bereich controlling betrieb 1 2010/117 öffentlich az: bg/c datum: 01.04.2010 sitzungsvorlage beratungsfolge datum top-nr. betriebsausschuss 1 (ausschuss für öffentliche ordnung, sport und kultur) 21.04.2010 betreff entwurf des betriebsbudgets für 2010 finanzielle auswirkungen x keine haushaltsmäßige berührung auswirkungen siehe sachverhalt beschlussvorschlag der betriebsausschuß 1 nimmt den entwurf des betriebsbudgets für das jahr 2010 zur kenntnis. gez. eckhardt __________________________ eckhardt sachverhalt der rat der stadt hat in seiner sitzung am 11.03.2010 den entwurf der haushaltssatzung 2010 und den entwurf des haushaltsplanes einschließlich seiner anlagen zur kenntnis genommen. die planzahlen der betriebshaushalte sollen im paket als gesamthaushalt durch den rat der stadt am 29.04.2010 verabschiedet werden. die veranschlagung nach den regeln des neuen kommunalen finanzwesens (nkf) wird auf produktgruppenebene abgebildet. für den betrieb 1 ergeben sich > für den konsumtiven teil (ehem. verwaltungshaushalt) im ergebnisplan folgende festsetzungen: gesamtbetrag der erträge:                                           5.486.183,-- euro gesamtbetrag der aufwendungen:                            15.326.636,-- euro zu erwartendes ergebnis:                                           -9.840.453,-- euro. die beträge des konsumtiven teils des haushaltes stellen ordentliche erträge und aufwendungen dar (außerordentliche erträge und aufwendungen sowie erträge und aufwendungen aus internen leistungsbeziehungen, die sich gegenseitig ausgleichen, sind nicht berücksichtigt).                                                                                                                                   > sowie für den investiven teil im finanzplan folgende festsetzungen: gesamtbetrag der einzahlungen aus der investitionstätigkeit:                                        123.480,-- euro gesamtbetrag der auszahlungen aus der investitionstätigkeit:                                         510.245,-- euro zu erwartendes ergebnis:                                          - 386.765,-- euro. hier sind neuerdings auch „geringwertige wirtschaftsgüter“ (gwg’s) zu veranschlagen die netto zwischen 60 bis 410 euro liegen und im alten haushaltsrecht zum verwaltungshaushalt zählten. das gleiche gilt auch für die sogenannten festwerte. das sind solche ausgaben die aus vereinfachungsgründen abweichend vom grundsatz der einzelbewertung als ein sachzusammenhang gesehen werden (bücher der stadtbibliothek, ausstattung der klassenräume etc.) beide ausgabearten unterliegen, wie auch die klassischen investitionen, der genehmigungspflicht durch die aufsichtsbehörde. mai bg/c\r\n\r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Entwurf des Betriebsbudgets für 2010",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2010/117",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B1"
+    ]
+  }
+}

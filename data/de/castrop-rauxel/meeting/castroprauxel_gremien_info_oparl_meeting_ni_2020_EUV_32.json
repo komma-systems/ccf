@@ -1,0 +1,312 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2020-EUV-32",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-EUV-32%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2020-EUV-32",
+        "name": "Genehmigung des Protokolls der Sitzung vom 24.06.2020",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2020-EUV-32%7Czt_0%7C1",
+          "date": "2020-09-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2020-EUV-32%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2020-EUV-32%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 5285,
+          "text": "  1 Genehmigung des Protokolls der Sitzung vom 24.06.2020   Keine Anmerkungen.  Der Verwaltungsrat genehmigt das Protokoll vom 24.06.2020 einstimmig.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/9077",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-EUV-32%7C281208100031%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2020-EUV-32",
+        "name": "Zwischenbericht 3 / 2020",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2020-EUV-32%7C281208100031%7C1",
+          "date": "2020-09-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2020-EUV-32%7C281208100031%7C1",
+          "fileName": "be_281208100031_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2020-EUV-32%7C281208100031%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 63291,
+          "text": "  2 Zwischenbericht 3 / 2020 (2020/EUV/031)   Vorstand Herr Werner erläutert das vorliegende Zwischenergebnis 03 / 2020. Er spricht in diesem Zusammenhang diverse coronabedingte Mehraufwendungen an und erläutert deren Auswirkung auf den Jahresabschluss 2020.  Vorstand Herr Werner gibt (wie in der letzten Verwaltungsratssitzung angekündigt) einen aktuellen Stand zu den nachgefragten Baumaßnahmen und teilt den Verwaltungsratsmitgliedern mit, dass die betroffenen Baumaßnahmen alle im Zeitplan liegen und dass die gesetzte Zielvorgabe Umsetzung in 2020 somit voraussichtlich erreicht werden wird.  Der Verwaltungsrat nimmt den Zwischenbericht  3 / 2020 zur Kenntnis.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/9074",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-EUV-32%7C281108100028%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2020-EUV-32",
+        "name": "Feststellung der Jahresrechnung 2019 und Entlastung des Vorstandes",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2020-EUV-32%7C281108100028%7C1",
+          "date": "2020-09-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2020-EUV-32%7C281108100028%7C1",
+          "fileName": "be_281108100028_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2020-EUV-32%7C281108100028%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 57586,
+          "text": "  3 Feststellung der Jahresrechnung 2019 und Entlastung des Vorstandes (2020/EUV/028)   Bürgermeister Herr Kravanja begrüßt Herrn Schwalvenberg von der BDO Wirtschaftsprüfungsgesellschaft und erteilt ihm das Wort.  Herr Schwalvenberg stellt den Verwaltungsratsmitgliedern anhand einer Powerpointpräsenta-tion (siehe Anlage) sowohl den Jahresabschluss 2019 als auch den dazugehörigen Prüfbericht des EUV Stadtbetrieb vor und gibt ergänzende Hinweise zur Vorgehensweise der Jahresprüfung.  Vorstand Herr Werner fügt abschließend hinzu, dass zukünftig weiterhin (coronabedingt) finanzielle Verschlechterungen zu erwarten sind und dass der Zinssatz auch weiterhin auf niedrigem Niveau bleibt bzw. gegen Null stagnieren wird. Des Weiteren informiert er die Verwaltungsratsmitglieder über die aktuelle Höhe der Pensionsrückstellungen, die coronabedingten Mehraufwendungen (personell und materiell) und die Umsatzeinbrüche beim EUV Stadtbetrieb Castrop-Rauxel (insbesondere im Teilbetrieb Abfallwirtschaft).  Der Verwaltungsrat nimmt den Jahresabschluss 2019 sowie den Prüfbericht der BDO AG Wirtschaftsprüfungsgesellschaft zur Kenntnis und beschließt wie folgt:  Die Jahresrechnung 2019 des EUV Stadtbetrieb wird festgestellt. Der zum 31.12.2019 erwirtschaftete Jahresüberschuss in Höhe von 291.991,82 EUR wird wie folgt verwendet: Unter Verrechnung der im Berichtsjahr geleisteten Vorabausschüttung in Höhe von 590.000,00  mit dem Gewinnvortrag von 309.982,98 EUR aus dem Jahr wird der Restbetrag in Höhe von 11.974,80 EUR auf neue Rechnung vorgetragen Der Vorstand des EUV wird uneingeschränkt entlastet.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/9078",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-EUV-32%7C283007100027%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2020-EUV-32",
+        "name": "Risikomanagementbericht 2019",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2020-EUV-32%7C283007100027%7C1",
+          "date": "2020-09-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2020-EUV-32%7C283007100027%7C1",
+          "fileName": "be_283007100027_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2020-EUV-32%7C283007100027%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 72392,
+          "text": "  4 Risikomanagementbericht 2019 (2020/EUV/027)   Vorstand Herr Werner erläutert die Vorlage zum Risikomanagementbericht 2019. Er fügt hinzu, dass versucht wurde, ein umfassendes Bild der Risiken abzubilden.  Herr Dr. Jankovics erkundigt sich, ob es zutreffend ist, dass die Schadensabwehr kleinerer Maßnahmen aus den Rücklagen des städtischen Haushalts finanziert wird bzw. auch Hinweise des GVV auf den Entzug des Versicherungsschutzes gemacht werden.  Vorstand Herr Werner erwidert diesbezüglich, dass es im Bereich Straßeninfrastruktur üblich ist, dass Rückstellungen auf Grundlage der Schadensklassen gebildet werden, um die notwendigsten Reparaturen (große Flächen in der Straßendecke etc.) bzw. Sanierungen unmittelbar durchführen zu können. Hierzu sind laut Aussage von Herrn Werner bis 2021 Rückstellungen im städtischen Haushalt in Höhe von 2,5 Mio.  für Straßen und 1 Mio.  für Brücken gebildet worden.  Herr Dr. Jankovics erkundigt sich daraufhin, welche Risiken/Gefahren sich hieraus für den EUV Stadtbetrieb ergeben können. Vorstand Herr Werner erklärt, dass die Sanierungen zwingend notwendig sind, um die Verkehrssicherungspflicht der Stadt Castrop-Rauxel, - welche dem EUV Stadtbetrieb obliegt  gewährleisten zu können. Er fügt hinzu, dass sich die Notwendigkeit dahingehend verstärken wird, da sich der    § 8 a KAG geändert hat. Sobald der Rat der Stadt das 5-Jahres-Straßen- und Gehwegausbauprogramm für die Stadt Castrop-Rauxel beschlossen hat, kann eine Landesförderungen (bis zu 50 %) im Bereich Straßenbau/Straßensanierung beantragt werden.  Herr Piehl erkundigt sich, wie es aktuell mit der Nachsorge der Altdeponie Pöppinghausen aussieht und ob es diesbezüglich schon etwas Neues gibt.  Vorstand Herr Werner entgegnet, dass es coronabedingt beim Verwaltungsgericht Gelsenkirchen zu einigen zeitlichen Verzögerungen gekommen ist.  Herr Dr. Jankovics erkundigt sich nach dem Liquiditätscontrolling und fragt nach, ab wann dieses beim EUV Stadtbetrieb umgesetzt werden kann.  Vorstand Herr Werner informiert die Verwaltungsratsmitglieder darüber, dass das Liquiditätscontrolling seit dem 01.07.2020  nach Rückkehr einer Kollegin aus längerer Krankheit - personell bearbeitet, monitort werden kann und bereits nachgehalten wird.  Der Verwaltungsrat nimmt den Risikomanagementbericht 2019 zur Kenntnis.  Der Risikomanagementbericht 2019 wird zur Kenntnis genommen.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-EUV-32%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2020-EUV-32",
+        "name": "Laubsammlung Herbst 2020\r\n-mündlicher Bericht-",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2020-EUV-32%7Czt_1%7C1",
+          "date": "2020-09-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2020-EUV-32%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2020-EUV-32%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 51745,
+          "text": "  5 Laubsammlung Herbst 2020 -mündlicher Bericht-   Vorstand Herr Werner gibt einen aktuellen Sachstandsbericht zur bevorstehenden Laubsammlung im Herbst 2020 und informiert die Verwaltungsratsmitglieder über den Ablauf und gibt die wichtigsten Details zur geplanten Aktion bekannt:  14.09.2020  09.10.2020 Aktion Laubsammlung Herbst 2020 19.10.2020  27.10.2020 Sammelcontainer für Laub im Stadtgebiet (13 Standorte)  Herr Melzner bittet den Vorstand Herrn Werner bei den Planungen der Laubsammlung zukünftig zu berücksichtigen, welche Baumarten in welchen Bereichen im Stadtgebiet stehen, da diverse Bäume aufgrund der Trockenheit etc. das Laub schon mindestens 2 Wochen früher verlieren, als andere Bäume (er nennt hier als Beispiel den Eichenweg in Rauxel).  Der Verwaltungsrat nimmt den mündlichen Bericht des Vorstandes zur Kenntnis. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-EUV-32%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2020-EUV-32",
+        "name": "Anpassung der Erfassungslogistik Restabfall, Biomüll, Altpapier und LVP\r\n-mündlicher Bericht-",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2020-EUV-32%7Czt_2%7C1",
+          "date": "2020-09-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2020-EUV-32%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2020-EUV-32%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 107855,
+          "text": "  6 Anpassung der Erfassungslogistik Restabfall, Biomüll, Altpapier und LVP -mündlicher Bericht-   Vorstand Herr Werner informiert die Anwesenden über den aktuellen Sachstand zur Umsetzung der Anpassung der Sammellogistik im Bereich Abfallwirtschaft und führt aus, dass die neue Tourenplanung ab Oktober 2020 umgesetzt werden soll. Er fügt ergänzend hinzu, dass die Umstellung der gelben und der brauen Tonne für Anpassungsprobleme hinsichtlich der neuen Abfahrtage sorgen könnte. Weitere Informationen folgen über die bekannten Medienkanäle.  Im Anschluss daran teilt er mit, dass die Online-Leerungsabfrage von den Bürgerinnen und Bürgern der Stadt Castrop-Rauxel sehr gut angenommen worden ist und auch gut genutzt wird.  Der Verwaltungsrat nimmt den mündlichen Sachstandsbericht Anpassung der Erfassungslogistik Restabfall, Biomüll, Altpapier und LVP des Vorstandes zur Kenntnis. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-EUV-32%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2020-EUV-32",
+        "name": "Platzverweis dem Dreck am 31.10.2020\r\n-mündlicher Bericht-",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2020-EUV-32%7Czt_3%7C1",
+          "date": "2020-09-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2020-EUV-32%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2020-EUV-32%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 107037,
+          "text": "  7 Platzverweis dem Dreck am 31.10.2020 -mündlicher Bericht-   Vorstand Herr Werner teilt mit, dass die im Frühling abgesagte Sammelaktion jetzt am 31.10.2020 stattfinden wird. Er fügt hinzu, dass hierbei selbstverständlich die Schutzmaßnahmen bezüglich des Coronavirus berücksichtigt werden und dass die Abstandsregeln auch während der Durchführung zu beachten sind. Des Weiteren informiert er darüber, dass der EUV Stadtbetrieb den Teilnehmern Handschuhe, Mund- Nasenschutz, Zangen etc. zur Verfügung stellt und das jede Bürgerin und jeder Bürger herzlich eingeladen ist, an der Aktion teilzunehmen.  Der Verwaltungsrat nimmt den mündlichen Bericht Platzverweis dem Dreck am 31.10.2020 des Vorstandes zur Kenntnis. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-EUV-32%7Czt_4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2020-EUV-32",
+        "name": "Anfragen der Verwaltungsratsmitglieder",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2020-EUV-32%7Czt_4%7C1",
+          "date": "2020-09-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2020-EUV-32%7Czt_4%7C1",
+          "fileName": "be_zt_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2020-EUV-32%7Czt_4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 67233,
+          "text": "  8 Anfragen der Verwaltungsratsmitglieder   Herr Dr. Jankovics bedankt sich dafür, dass die Thematik Winterdienst auf Radwegen aufgegriffen und vorangetrieben worden ist und fragt nach, ob es dadurch eventuell zu Gebührenerhöhungen kommen könnte. Er kann durchaus nachvollziehen, dass die finale Umsetzung mit viel Arbeit und intensiver Kommunikation verbunden ist, erkundigt sich aber dennoch, wie die genaue Vorgehensweise aussieht und ob die Regelung auch für Laub gilt oder nur für Schnee und Eisglätte.  Vorstand Herr Werner teilt diesbezüglich mit, dass derzeit eine Liste mit den betroffenen Radwegen erstellt wird, die den Verwaltungsratsmitgliedern im Dezember 2020 im Rahmen der Satzungsberatung vorgelegt werden wird. Er fügt hinzu, dass jedoch nicht das komplette Radwegenetz im Stadtgebiet Castrop-Rauxel Berücksichtigung finden kann, sondern nur die wichtigsten Verbindungsradwege. Bezüglich der Fragen zur Laubentfernung auf Radwegen und zur Gebührenerhöhung teilt der Vorstand Herr Werner mit, dass diese Thematik im Rahmen der Sitzungsvorlage aufgegriffen wird.  Herr Professor Dr. Wagener erkundigt sich nach dem aktuellen Stand zum Ausbau der Fahrradstraße (Wewelingstraße/Bürgerradweg) in Pöppinghausen, da er diesbezüglich schon mehrfach von Anwohnern und von Pöppinghausener Bürgern angesprochen worden ist. Er fügt hinzu, dass diese ihm mitteilten, dass es bereits seitens der Stadt Castrop-Rauxel und dem Landesbetrieb Straßen.NRW eine mündliche Zusage zum Ausbau gegeben habe.  Vorstand Herr Werner führt aus, dass dieses Vorhaben laut Investitionsdringlichkeitsliste 2020 der Stadt Castrop-Rauxel umzusetzen ist, die Stadtverwaltung derzeit allerdings noch auf eine schriftliche Zusage/Bestätigung bezüglich der vorgesehenen finanziellen Förderung wartet, bevor mit der Maßnahme begonnen werden kann. Die erforderliche Untersuchung und die Vorarbeiten sind abgeschlossen. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-EUV-32%7Czt_5%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2020-EUV-32",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2020-EUV-32%7Czt_5%7C1",
+          "date": "2020-09-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2020-EUV-32%7Czt_5%7C1",
+          "fileName": "be_zt_5_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2020-EUV-32%7Czt_5%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 63680,
+          "text": "  9 Mitteilungen des Vorstandes   Der stellvertretende Vorstand Herr Werth-von Kampen informiert die Verwaltungsratsmitglieder darüber, dass die zugesagten Straßenbäume an der Römerstraße nicht wie geplant gepflanzt werden können. Er fügt hinzu, dass es Schwierigkeiten gab, im Straßenraum geeignete Plätze für die Bäume zu finden, da diverse Versorgungsleitungspakete in der Straße verlaufen.   Es ist geplant, dass zum Ersatz eine kleine Grünfläche im Bereich Römerstraße/Germanenstraße mit 2  3 Bäumen (Ersatzpflanzungen) bepflanzt werden könnte. Bezüglich des Bürgerradweges teilt er mit, dass dieser zeitnah umgesetzt wird.  Herr Bürgermeister Kravanja und Vorstand Herr Werner bedanken sich an dieser Stelle für die gute Zusammenarbeit mit dem aktuellen Verwaltungsrat, da dieser mit der heutigen Sitzung mit großer Wahrscheinlichkeit das letzte Mal in dieser Konstellation zusammentritt. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-EUV-32%7Czt_6%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2020-EUV-32",
+        "name": "Personalangelegenheiten\r\n-mündlicher Bericht-",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/9076",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-EUV-32%7C281108100030%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2020-EUV-32",
+        "name": "Grundstücksangelegenheiten",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/9075",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-EUV-32%7C281108100029%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2020-EUV-32",
+        "name": "Grundstücksangelegenheiten",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-EUV-32%7Czt_7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2020-EUV-32",
+        "name": "Sachstand Grundstücksangelegenheit\r\n-mündlicher Bericht-",
+        "number": "4",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-EUV-32%7Czt_8%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2020-EUV-32",
+        "name": "Rechtsangelegenheiten;\r\nSachstandsbericht zu den laufenden Verfahren\r\n-mündlicher Bericht-",
+        "number": "5",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-EUV-32%7Czt_9%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2020-EUV-32",
+        "name": "Anfragen der Verwaltungsratsmitglieder",
+        "number": "6",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-EUV-32%7Czt_10%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2020-EUV-32",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "7",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2020-EUV-32%7C20200921095758-0_ni_2020-EUV-32_2.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-09-21",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2020-EUV-32%7C20200921095758-0_ni_2020-EUV-32_2.pdf",
+        "fileName": "20200921095758-0_ni_2020-EUV-32_2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2020-EUV-32%7C2",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "EUV_Stadtbetrieb_Castrop_Rauxel_AöR pdf",
+        "size": 769171,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2020-08-26T18:20:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2020-EUV-32",
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2020-EUV-32/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Verwaltungsrates EUV",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/133",
+      "https://castroprauxel.gremien.info/oparl/person/596",
+      "https://castroprauxel.gremien.info/oparl/person/775",
+      "https://castroprauxel.gremien.info/oparl/person/176",
+      "https://castroprauxel.gremien.info/oparl/person/241",
+      "https://castroprauxel.gremien.info/oparl/person/626",
+      "https://castroprauxel.gremien.info/oparl/person/817",
+      "https://castroprauxel.gremien.info/oparl/person/389",
+      "https://castroprauxel.gremien.info/oparl/person/344"
+    ],
+    "start": "2020-08-26T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting"
+  }
+}

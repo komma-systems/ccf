@@ -1,0 +1,118 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36188",
+  "modified_at": "2026-09-18T10:26:06+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368768.pdf",
+        "created": "2026-08-20T10:53:37+02:00",
+        "date": "2026-08-20",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368768.pdf",
+        "fileName": "00368768.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368768",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-07T13:05:36+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368769.pdf",
+        "created": "2026-08-20T10:57:40+02:00",
+        "date": "2026-08-20",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368769.pdf",
+        "fileName": "00368769.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368769",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-07T13:05:36+02:00",
+        "name": "P24010_E_LP_01_Lageplan_INDEX 2",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141362",
+        "authoritative": true,
+        "created": "2026-08-21T15:14:44+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68531",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24789",
+        "modified": "2026-09-09T13:50:26+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/44"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36188",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141417",
+        "created": "2026-08-25T09:22:44+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68532",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24738",
+        "modified": "2026-09-21T11:33:47+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/279"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36188",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141540",
+        "created": "2026-08-31T09:06:21+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68534",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24672",
+        "modified": "2026-09-23T18:13:53+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/267"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36188",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141725",
+        "created": "2026-09-09T10:44:31+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68535",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24654",
+        "modified": "2026-09-21T12:13:02+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36188",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141845",
+        "created": "2026-09-16T08:46:02+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68536",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24543",
+        "modified": "2026-09-23T10:41:34+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36188",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-20T10:22:17+02:00",
+    "date": "2026-09-03",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36188",
+    "keyword": [
+      "Klimacheck - JA positive Auswirkung"
+    ],
+    "modified": "2026-09-18T10:26:06+02:00",
+    "name": "ISEK Barmen – Umsetzung des Teilprojektes Mehrgenerationenpark am Heubruch \"Felssporn\"",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/0988/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/74"
+    ]
+  }
+}

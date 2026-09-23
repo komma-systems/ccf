@@ -1,0 +1,50 @@
+{
+  "council_id": "muenster",
+  "record_type": "paper",
+  "source_id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056577",
+  "modified_at": "2026-09-17T16:57:07+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588521.pdf",
+        "created": "2026-08-26T13:54:58+02:00",
+        "date": "2026-08-26",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588521.pdf",
+        "fileName": "00588521.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588521",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-26T14:26:12+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://oparl.stadt-muenster.de/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/288431",
+        "created": "2026-09-08T10:11:29+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91601",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14531",
+        "modified": "2026-09-23T08:00:59+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/483"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056577",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-18T14:46:35+02:00",
+    "date": "2026-08-20",
+    "id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056577",
+    "modified": "2026-09-17T16:57:07+02:00",
+    "name": "Münster Marketing: Bestellung des Abschlussprüfers für den Jahresabschluss 2026",
+    "paperType": "Vorlagen",
+    "reference": "V/0461/2026",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "https://oparl.stadt-muenster.de/bodies/0001/organizations/at/100117"
+    ]
+  }
+}

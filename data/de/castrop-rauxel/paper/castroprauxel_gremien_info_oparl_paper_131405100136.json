@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/131405100136",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2010-AUSLB-35%7C131405100136%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5119",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2010-AUSLB-35",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2012-05-14",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/131405100136",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=131405100136&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=131405100136&id=69",
+      "fileName": "131405100136",
+      "id": "https://castroprauxel.gremien.info/oparl/file/131405100136",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2012/124",
+      "size": 172872,
+      "text": "bereich stabsstelle integration 2012/124 öffentlich az: ib datum: 14.05.2012 sitzungsvorlage beratungsfolge datum top-nr. integrationsrat 06.06.2012 betreff aktueller stand der vorbereitungen der (interkulturellen woche 2012) finanzielle auswirkungen x keine haushaltsmäßige berührung auswirkungen siehe sachverhalt beschlussvorschlag die einzelnen mitglieder des integrationsrates geben eine rückmeldung über ihre beteilung an der interkulturellen woche 2012. ____________________ johannes beisenherz bürgermeister sachverhalt in der letzten integrationsratssitzung hat die integrationsbeauftragte frau dalkilinc die mitglieder des integrationsrates gebeten sich im rahmen der woche zu beteiligen bzw. die informationen an ihre organisation weiterzutragen und um eine beteiligung zu werben. in der integrationsratssitzung sollen nun die rückmeldungen zusammengetragen werden.aktueller stand der vorbereitungen der (interkulturellen woche 2012)2012/124%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Aktueller Stand der Vorbereitungen der (Interkulturellen Woche 2012)",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2012/124",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

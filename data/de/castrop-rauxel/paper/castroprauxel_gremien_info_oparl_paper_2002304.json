@@ -1,0 +1,32 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/2002304",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2002-10-16",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/2002304",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002304&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002304&id=69",
+      "fileName": "2002304",
+      "id": "https://castroprauxel.gremien.info/oparl/file/2002304",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2002/304",
+      "size": 13868,
+      "text": "eigenbetrieb;sitzungsvorlage;werksausschuss;einsatzplan;winterdienst;haushaltsstelle;berührung;gesamtkosten;organisation;durchführung;winterdienstes;winterjahr;winterdiensteinsatz;witterungslagen;kontrollfahrten;winterdiensteinsatzleiter;einsatzleiter;bereitschafts;kontrolldienst;bereitschaft;bereitschaftshandy;polizei;feuerwehr;verkehrsbetriebe;einsätzen;mitarbeiter;bezirke;streubezirke;dringlichkeitsstufe;bundes;landes;hauptsammelstraßen;innenstadt;fußgängerzonen;castrop;rauxel;habinghorst;ickern;sicherstellung;dringlichkeitsstufen;touren;einsatzzeit;regel;tages;gehwege;euv;kehrmaschine;einsatz;beseitigung;eis;schneeglätte;bushaltestellen;fußgängerüberwegen;stellen;handstreuung;einsatzplänen;als;einsatzfahrzeuge;kleintransporter;ladefläche;besatzung;mitarbeitern;streusalz;besen;schneeschiebern;ersatzleute;menge;salzsilo;betriebshof;westring;einsatzplan;winterdienst;2002;/;2003;2002304;,2002/304;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Einsatzplan Winterdienst 2002 / 2003",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2002/304",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

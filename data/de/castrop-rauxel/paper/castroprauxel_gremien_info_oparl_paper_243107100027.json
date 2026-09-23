@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/243107100027",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=243107100027%7C20180824115907.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2018-08-24",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=243107100027%7C20180824115907.pdf%7C",
+        "fileName": "20180824115907.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C243107100027%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/243107100027",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "870d9ce452140afe24c9775408729e748f2be728",
+        "size": 25267,
+        "text": "Anlage Geschäftsordnung Vorstand",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-23%7C243107100027%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7984",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2018-EUV-23",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2018-07-31",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/243107100027",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=243107100027&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=243107100027&id=69",
+      "fileName": "243107100027",
+      "id": "https://castroprauxel.gremien.info/oparl/file/243107100027",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2018/EUV/028",
+      "size": 91453,
+      "text": "/  Datum:  31.07.2018   TB I 9686-500      Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 26.09.2018 TOP: I.4 Drucksache-Nr. 2018/EUV/028     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 26.09.2018 4    Betreff:  Geschäftsverteilungsplan des EUV Stadtbetrieb nebst Vertretungsregelung     Finanzielle Auswirkungen gem. Wirtschaftsplan   ja Gesamtkosten       X nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat nimmt den Geschäftsverteilungsplan für den EUV Stadtbetrieb  zur Kenntnis.   \f  \f    ________________________ Werner  Sachverhalt:  Letztmalig wurde der Geschäftsverteilungsplan des EUV Stadtbetrieb nebst Vertretungsregelung in der Sitzung des Verwaltungsrates am 05. Dezember 2012 (Drucksache: 4/212/2012) vorgestellt und beschlossen.  Mit dem Ausscheiden des stellvertretenden Vorstandes Herrn Wolfgang Linke zum 01.08.2018 sieht der Vorstand das Erfordernis, die bestehende Geschäftsverordnung entsprechend anzupassen, da mit Wiederbestellung des Vorstandes für den EUV Stadtbetrieb - Anstalt des öffentlichen Rechts- Herr Michael Werner und Herr Thorsten Werth- von Kampen als stellvertretender Vorstand jeweils zum 01.01.2018 eine organisatorische Entscheidung durch den Verwaltungsrat getroffen worden ist.  Gemäß der Satzung über das Kommunalunternehmen EUV Stadtbetrieb der Stadt Castrop-Rauxel (hier:§ 8 Abs. 6) ist es vorgesehen, dass der Vorstand einen Geschäftsverteilungsplan erlässt, der auch Bestimmungen über die Vertretungsregelungen und der Unterschriftenberechtigung im Falle einer längerfristigen Abwesenheit des Vorstandes enthält.  Der Entwurf der Geschäftsordnung ist als Anlage beigefügt. \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Geschäftsverteilungsplan des EUV Stadtbetrieb nebst Vertretungsregelung",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2018/EUV/028",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

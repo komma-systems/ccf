@@ -1,0 +1,102 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/272801100030",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272801100030%7C20200128143602-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-28",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272801100030%7C20200128143602-0.pdf%7C",
+        "fileName": "20200128143602-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272801100030%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272801100030",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "ef7af7448703a422fb85cc9936843844740c2c72",
+        "size": 79545,
+        "text": "Antrag_DIE LINKE. Fraktion Aufsuchende_Beratung",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B2-99%7C272801100030%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8797",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B2-99",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B2"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-116%7C272801100030%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8798",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-116",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B2-101%7C272801100030%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8984",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B2-101",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B2"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-118%7C272801100030%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8985",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-118",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-01-28",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/272801100030",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272801100030&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272801100030&id=69",
+      "fileName": "272801100030",
+      "id": "https://castroprauxel.gremien.info/oparl/file/272801100030",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/026",
+      "size": 12710,
+      "text": " Bereich Schule 2020/026 öffentlich  Az:     Datum: 28.01.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 2 (Familie, Jugend, Soziales und Bildung) 20.02.2020 8  Rat der Stadt 27.02.2020 17  Betriebsausschuss 2 (Familie, Jugend, Soziales und Bildung) 18.06.2020 4  Rat der Stadt 25.06.2020    Betreff  Antrag DIE LINKE. vom 20.01.20 zur aufsuchenden Beratung und Begleitung von BürgerInnen in sozialen Angelegenheiten  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag s. Anlage  \f\f   gez. Margita Gudjons DIE LINKE. Fraktion im Rat der Stadt Castrop-Rauxel \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Antrag DIE LINKE. vom 20.01.20\r\nzur aufsuchenden Beratung und Begleitung von BürgerInnen in sozialen Angelegenheiten",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/026",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT",
+      "https://castroprauxel.gremien.info/oparl/organization/B2",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

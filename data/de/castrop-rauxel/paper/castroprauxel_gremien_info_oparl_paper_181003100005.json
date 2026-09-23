@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/181003100005",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-11%7C181003100005%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6467",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2015-EUV-11",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2015-03-10",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/181003100005",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=181003100005&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=181003100005&id=69",
+      "fileName": "181003100005",
+      "id": "https://castroprauxel.gremien.info/oparl/file/181003100005",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2015/EUV/006",
+      "size": 89670,
+      "text": "Datum: 10.03.2015 TB III 9686-230 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 25.03.2015 TOP: I.7 Drucksache-Nr. 2015/EUV/006 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 25.03.2015 7 Betreff: Grünabfallaktion Frühjahr 2015 Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt von der Vorlage zur Durchführung der Grünabfallsammlung im Frühjahr 2015 Kenntnis. ________________________ Werner Sachverhalt: Wie bereits in den Vorjahren praktiziert, wird der EUV Stadtbetrieb Castrop-Rauxel auch im Jahr 2015 den Bürgern der Stadt Castrop-Rauxel bei der Grünabfallentsorgung unterstützend zur Seite stehen. Grünabfälle können im Zeitraum vom 16.03.2014 – 11.04.2014 von allen Privathaushalten, die an die öffentliche Abfallentsorgung angeschlossen sind, in haushaltsüblichen Mengen entsorgt werden. Die Annahme erfolgt am Recyclinghof in Pöppinghausen während der Öffnungszeiten und ist kostenfrei. Die Leerung der Container erfolgt durch Sammelfahrzeuge der Fa. DAR. Die Verwertung findet anschließend entweder in einem Heizkraftwerk oder einer Kompostierungsanlage statt. Seitens des EUV Stadtbetriebes werden auf dem Recyclinghof 1- 2 Mitarbeiter eingesetzt. Weiterer Bericht in der Sitzung.Grünabfallaktion Frühjahr 20152015/EUV/006%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Grünabfallaktion Frühjahr 2015",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2015/EUV/006",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

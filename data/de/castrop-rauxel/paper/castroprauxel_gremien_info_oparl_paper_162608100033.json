@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/162608100033",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7C162608100033%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6144",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2014-EUV-4",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2014-08-26",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/162608100033",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=162608100033&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=162608100033&id=69",
+      "fileName": "162608100033",
+      "id": "https://castroprauxel.gremien.info/oparl/file/162608100033",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2014/EUV/031",
+      "size": 152602,
+      "text": "Datum: 26.08.2014 TB I 9686-700 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 17.09.2014 TOP: I.8 Drucksache-Nr. 2014/EUV/031 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 17.09.2014 8 Betreff: Benennung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2014 für den EUV Stadtbetrieb Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten 32.130,00 € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat beschließt, die BDO Westfalen-Revision GmbH aus Dortmund als Prüfer für den Jahresabschluss 2014 zu benennen. ________________________ Werner Sachverhalt: Gemäß § 5 Abs. 2 Punkt 8 der Satzung für das Kommunalunternehmen der Stadt Castrop-Rauxel „EUV, Stadtbetrieb Castrop-Rauxel“ AöR fällt die Bestellung eines Abschlussprüfers in den Zuständigkeitsbereich des Verwaltungsrates. Die BDO Westfalen-Revision GmbH aus Dortmund hat aufgrund des Beschlusses des Verwaltungsrates bereits den Jahresabschlüsse 2012 und 2013 des EUV Stadtbetrieb Castrop-Rauxel AöR geprüft. Aus Gründen der Wirtschaftlichkeit erscheint es angeraten, auch den Jahresabschluss 2014 durch dasselbe Wirtschaftsprüfungsunternehmen prüfen zu lassen. Durch diese neuerliche Benennung wird auch die Kontinuität im Ablauf der Prüfung sichergestellt und gewährleistet, dass schwerpunktmäßig jeweils andere Geschäftsbereiche geprüft werden können. Mit Schreiben vom 25.08.2014 erklärte sich die BDO Westfalen-Revision GmbH aus Dortmund bereit, zu dem Angebotspreis des Vorjahres auch die Prüfung für den Jahresabschluss 2014 durchzuführen. Die Kosten für die Prüfung des Jahresabschlusses sind im Wirtschaftsplan des EUV Stadtbetriebes für das Wirtschaftsjahr 2014 enthalten. Weiterer Sachvortrag bei Bedarf in der Sitzung.Benennung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2014 für den EUV Stadtbetrieb2014/EUV/031%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Benennung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2014 für den EUV Stadtbetrieb",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2014/EUV/031",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

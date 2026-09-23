@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/271805100129",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271805100129%7C20200518124834-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-18",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271805100129%7C20200518124834-0.pdf%7C",
+        "fileName": "20200518124834-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271805100129%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271805100129",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "29398ec37c928d7c10b808f22902f3979dc1bc75",
+        "size": 240987,
+        "text": "Erinstr_526_Kat",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B3-99%7C271805100129%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8988",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B3-99",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-05-18",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/271805100129",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271805100129&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271805100129&id=69",
+      "fileName": "271805100129",
+      "id": "https://castroprauxel.gremien.info/oparl/file/271805100129",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/109",
+      "size": 40805,
+      "text": " Bereich EUV Stadtbetrieb 2020/109 öffentlich  Az:     Datum: 18.05.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 3 (Bauen, Verkehr und Sport) 18.06.2020    Betreff  Straßenrechtliche Widmung einer Straßenfläche im Erin-Park gemäß § 6 StrWG NW  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Der Betriebsausschuss 3 beschließt gemäß § 6 Straßen- und Wegegesetz des Landes Nordrhein-Westfalen (StrWG NW) in der z. Z. geltenden Fassung die Widmung folgender Straßenfläche im Erin-Park  Erinstraße Gemarkung Castrop Flur 7  Flurstück 526    \f  \f L e n o r t                                                                             W e r n e r  Stadtbaurätin                                                                       Vorstand EUV  \f  Sachverhalt  Um die Erschließung der an dieser Straßenfläche angesiedelten Gewerbebetriebe sicherzustellen, ist es erforderlich, das Flurstück für die Öffentlichkeit zu widmen.   Die Widmung ist für die Öffentlichkeit einer Straße gemäß § 6 Straßen- und Wegegesetz des Landes Nordrhein-Westfalen durch die Straßenbaubehörde zu veranlassen.  Die Stadt Castrop-Rauxel ist Eigentümerin der genannten öffentlichen Verkehrsfläche und trägt die Straßenbaulast.   Die Voraussetzungen für die Widmung sind somit erfüllt und diese ist zu veranlassen.   \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Straßenrechtliche Widmung einer Straßenfläche im Erin-Park gemäß § 6 StrWG NW",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/109",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ]
+  }
+}

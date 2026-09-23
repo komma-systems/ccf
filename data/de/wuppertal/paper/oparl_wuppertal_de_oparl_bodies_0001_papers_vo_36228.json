@@ -1,0 +1,76 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36228",
+  "modified_at": "2026-09-07T09:00:27+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369020.pdf",
+        "created": "2026-08-27T09:13:03+02:00",
+        "date": "2026-08-27",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369020.pdf",
+        "fileName": "00369020.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369020",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-03T11:37:29+02:00",
+        "name": "Bericht",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369101.pdf",
+        "created": "2026-08-31T11:07:57+02:00",
+        "date": "2026-08-31",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369101.pdf",
+        "fileName": "00369101.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369101",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-03T11:37:29+02:00",
+        "name": "Investitioncontrolling_Q2_2026",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141554",
+        "authoritative": true,
+        "created": "2026-08-31T13:18:15+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68616",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24618",
+        "modified": "2026-09-10T16:49:44+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/280"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36228",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141586",
+        "created": "2026-09-01T13:19:59+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68617",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24698",
+        "modified": "2026-09-22T17:49:02+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/270"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36228",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-27T09:10:32+02:00",
+    "date": "2026-08-31",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36228",
+    "modified": "2026-09-07T09:00:27+02:00",
+    "name": "Quartalsreport für Q2/2026 zum Investitionscontrolling GMW",
+    "paperType": "Bericht",
+    "reference": "VO/1027/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/50"
+    ]
+  }
+}

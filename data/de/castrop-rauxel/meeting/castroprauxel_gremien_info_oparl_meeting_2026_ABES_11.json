@@ -1,0 +1,138 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/2026-ABES-11",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-ABES-11%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-ABES-11",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-ABES-11%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-ABES-11",
+        "name": "Vorstellung der Feuerwehr und dem Ehrenamt - mündlicher Bericht ",
+        "number": "2",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16536",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-ABES-11%7C401606100158%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-ABES-11",
+        "name": "Sportstatistik",
+        "number": "3",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17173",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-ABES-11%7C402206100176%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-ABES-11",
+        "name": "Änderung der Zusammensetzung der Jury sowie die Anpassung des Auswahlverfahrens zur Vergabe der Ehrennadel der Stadt Castrop-Rauxel",
+        "number": "4",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17407",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-ABES-11%7C402206100175%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-ABES-11",
+        "name": "Antrag der SPD-Ratsfraktion: Prüfauftrag zur Befreiung von Verwaltungsgebühren bei gemeinwohlorientierten Sondernutzungen im Zusammenhang mit Veranstaltungen",
+        "number": "5",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-ABES-11%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-ABES-11",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "6",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-ABES-11%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-ABES-11",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "7",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-ABES-11%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-ABES-11",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-ABES-11%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-ABES-11",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-07-02T00:00:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/2026-ABES-11",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=2026-ABES-11",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-06-24",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=2026-ABES-11",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2026-ABES-11",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "99c3ab708b06f3be7d121b5a5ce8e6b834e6eab4",
+      "size": 202018,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Feuerwache Frebergstraße, Frebergstraße 1, 44575 Castrop-Rauxel",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/2026-ABES-11/location",
+      "locality": "Castrop-Rauxel",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "postalCode": "44575",
+      "room": "Feuerwache Frebergstraße",
+      "streetAddress": "Frebergstraße 1",
+      "subLocality": "Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "eingeladen",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschuss für Bürgeranliegen, Ehrenamt und Sport",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/ABES"
+    ],
+    "organization_active_1": "1",
+    "start": "2026-07-02T17:30:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting"
+  }
+}

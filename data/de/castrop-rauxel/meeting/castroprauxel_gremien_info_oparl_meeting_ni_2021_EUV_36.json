@@ -1,0 +1,474 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2021-EUV-36%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+        "name": "Genehmigung des Protokolls der Sitzung vom 16.12.2020",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7Czt_0%7C1",
+          "date": "2021-03-30",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2021-EUV-36%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 6547,
+          "text": "1 Genehmigung des Protokolls der Sitzung vom 16.12.2020  Auf Anregung von Verwaltungsratsmitglied Herr Dr. Jankovics wird lediglich der öffentliche Teil des Protokolls behandelt. Der Beschluss über den nichtöffentlichen Teil des Protokolls erfolgt in der nichtöffentlichen Sitzung. Es wird angeregt künftig so zu verfahren. Der Verwaltungsrat beschließt einstimmig das öffentliche Protokoll der Sitzung vom 16. Dezember 2020  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2021-EUV-36%7C302302100000%7C1%7C20210331081724-0_302302100000_1.pdf",
+            "date": "2021-03-31",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2021-EUV-36%7C302302100000%7C1%7C20210331081724-0_302302100000_1.pdf",
+            "fileName": "20210331081724-0_302302100000_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2021-EUV-36%7C302302100000%7C1%7C20210331081724-0_302302100000_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "2021-03-24 korrigierte Vorlage 2021-EUV-001",
+            "size": 251193,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/9346",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2021-EUV-36%7C302302100000%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+        "name": "Beschlusscontrolling 2020",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7C302302100000%7C1",
+          "date": "2021-03-30",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7C302302100000%7C1",
+          "fileName": "be_302302100000_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2021-EUV-36%7C302302100000%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 6431,
+          "text": "2 Beschlusscontrolling zum Verwaltungsrat für das Jahr 2020\u000b(2021/EUV/001)  Verwaltungsratsmitglied Herr Dr. Jankovics bittet in der Vorlage die Abstimmungsergebnisse der Beschlüsse zu ergänzen. Vorstand Herr Werner teilt mit die Ergebnisse in der Vorlage zu ergänzen. Die geänderte Vorlage wird dem Protokoll beigefügt. Der Verwaltungsrat nimmt den Bericht des Vorstandes zum Beschlusscontrolling für den öffentlichen Teil für das Jahr 2020 zur Kenntnis.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/9341",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2021-EUV-36%7C301003100007%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+        "name": "Zwischenbericht 5 / 2020",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7C301003100007%7C1",
+          "date": "2021-04-14",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7C301003100007%7C1",
+          "fileName": "be_301003100007_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2021-EUV-36%7C301003100007%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 7309,
+          "text": "3 Zwischenbericht 5 / 2020\u000b(2021/EUV/008)  Vorstand Herr Werner verweist auf die Vorlage und erläutert, dass, vorbehaltlich der Prüfung des Wirtschaftsprüfers, das prognostizierte Ergebnis des Zwischenberichtes 5/2020 das voraussichtliche Jahresendergebnis 2020 wiederspiegelt. Auf Nachfrage konkretisiert er die pandemiebedingten Aufwendungen. Verwaltungsratsmitglied Herr Prof. Dr. Wagener fragt an, ob die Strategie des EUV Stadtbetrieb im Hinblick auf die Defizite beim Altpapier geändert wird. Vorstand Herr Werner berichtet, dass eine Änderung der bestehenden Verträge unter Einbeziehung des Kreises Recklinghausen und den anderen kreisangehörigen Städten in Vorbereitung ist. Dabei soll die bisherige Abrechnungsgröße von Gewicht auf Volumen geändert werden.  Verwaltungsratsmitglied Herr Dr. Jankovics bittet um Klarstellung, warum sich die Ergebnisse in den Bereichen Energie, Liegenschaften und Abfallentsorgung im Vergleich zum Zwischenbericht 4/2020 deutlich verändert haben. Vorstand Herr Werner erläutert, dass sich die Werte im Zwischenbericht 4/2020 auf lineare Annahmen und Hochrechnungen stützen. Diese Prognosen sind aufgrund der Ist-Werte nicht eingetreten, so dass die Ergebnisse angepasst wurden. Verwaltungsratsmitglied Dr. Jankovics bittet zukünftig vergleichbar auffällig Abweichungen im Zwischenbericht zu erläutern. Der Verwaltungsrat nimmt den Zwischenbericht 5 / 2020 zur Kenntnis.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/9342",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2021-EUV-36%7C301003100008%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+        "name": "Zwischenbericht 1 / 2021",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7C301003100008%7C1",
+          "date": "2021-03-31",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7C301003100008%7C1",
+          "fileName": "be_301003100008_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2021-EUV-36%7C301003100008%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 5718,
+          "text": "4 Zwischenbericht 1 / 2021\u000b(2021/EUV/009)  Vorstand Herr Werner erläutert die Vorlage und weist darauf hin, dass der erste Zwischenbericht auf Grundlage der Gebührenprognose 2021 einen ersten Trend abbildet. Der Verwaltungsrat nimmt den Zwischenbericht  1 / 2021 zur Kenntnis.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/9337",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2021-EUV-36%7C300403100003%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+        "name": "Benennung der Vertreter für die Gesellschafterversammlung der Waschen & Service GmbH, Castrop-Rauxel für die Wahlperiode 2020 bis 2025",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7C300403100003%7C1",
+          "date": "2021-03-25",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7C300403100003%7C1",
+          "fileName": "be_300403100003_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2021-EUV-36%7C300403100003%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 6718,
+          "text": "5 Benennung der Vertreter für die Gesellschafterversammlung der Waschen & Service GmbH, Castrop-Rauxel für die Wahlperiode 2020 bis 2025\u000b(2021/EUV/004)  keine Wortmeldung Der Verwaltungsrat beschließt einstimmig, den Vorsitzenden des Verwaltungsrates, Herrn Bürgermeister Rajko Kravanja und den Vorstand des EUV Stadtbetrieb, Herrn Michael Werner, als Gesellschaftervertreter in die Gesellschaftsversammlung zu entsenden.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/9336",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2021-EUV-36%7C300403100002%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+        "name": "Abschluss einer neuen Abstimmungsvereinbarung mit den Dualen Systemen nach \r\n§ 22 ff. Verpackungsgesetz",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7C300403100002%7C1",
+          "date": "2021-03-31",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7C300403100002%7C1",
+          "fileName": "be_300403100002_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2021-EUV-36%7C300403100002%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 7439,
+          "text": "6 Abschluss einer neuen Abstimmungsvereinbarung mit den Dualen Systemen nach § 22 ff. Verpackungsgesetz\u000b(2021/EUV/003)  Vorstand Herr Werner erläutert die Vorlage und ergänzt, dass auf Grundlage der neuen Abstimmungsvereinbarung im Februar 2021 der neue, ab 2022 geltende Vertrag zwischen der kreisangehörigen Gemeinden und dem Systembetreiber Firma PreZero geschlossen wurde. Vorstand Herr Werner bittet den Vertrag durch Erweiterung des Beschlussvorschlages zu bestätigen. Der Bericht des Vorstandes zur Zeichnung der neuen Abstimmungsvereinbarung rückwirkend zum 01.01.2020 wird zur Kenntnis genommen.\u000bDer Verwaltungsrat bestätigt einstimmig den Abschluss der neuen Abstimmungsvereinbarung mit dem Dualen System nach dem Verpackungsgesetz zum 01.01.2020.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2021-EUV-36%7C300503100006%7C1%7C20210331093556-0_300503100006_1.pdf",
+            "date": "2021-03-31",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2021-EUV-36%7C300503100006%7C1%7C20210331093556-0_300503100006_1.pdf",
+            "fileName": "20210331093556-0_300503100006_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2021-EUV-36%7C300503100006%7C1%7C20210331093556-0_300503100006_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "2021-03-24 korrigierte Vorlage 2021-EUV-007",
+            "size": 161030,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/9340",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2021-EUV-36%7C300503100006%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+        "name": "Online Verwaltungsratssitzungen\r\nArbeitsauftrag vom 16.12.2020",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7C300503100006%7C1",
+          "date": "2021-03-25",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7C300503100006%7C1",
+          "fileName": "be_300503100006_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2021-EUV-36%7C300503100006%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 5601,
+          "text": "7 Online Verwaltungsratssitzungen \u000bArbeitsauftrag vom 16.12.2020\u000b(2021/EUV/007)  Keine Wortmeldung Der Verwaltungsrat nimmt den Sachstandsbericht des Vorstands gemäß dem Arbeitsauftrag des Verwaltungsrates vom 16.12.2020 zur Abhaltung von Online-Verwaltungsratssitzungen zur Kenntnis.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2021-EUV-36%7C301103100010%7C1%7C20210331093617-0_301103100010_1.pdf",
+            "date": "2021-03-31",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2021-EUV-36%7C301103100010%7C1%7C20210331093617-0_301103100010_1.pdf",
+            "fileName": "20210331093617-0_301103100010_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2021-EUV-36%7C301103100010%7C1%7C20210331093617-0_301103100010_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "2021-03-24 korrigierte Vorlage 2021-EUV-011",
+            "size": 262279,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/9344",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2021-EUV-36%7C301103100010%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+        "name": "Änderung der Kommunalunternehmenssatzung",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7C301103100010%7C1",
+          "date": "2021-04-14",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7C301103100010%7C1",
+          "fileName": "be_301103100010_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2021-EUV-36%7C301103100010%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 52180,
+          "text": "8 Änderung der Kommunalunternehmenssatzung\u000b(2021/EUV/011)  Auf Anregung von Verwaltungsratsmitglied Herr Dr. Jankovics wird die Vorlage ergänzt, dass keine finanziellen Auswirkungen für das Unternehmen verbunden sind. Der Verwaltungsrat empfiehlt dem Rat der Stadt Castrop-Rauxel einstimmig die Änderung des §11Absatz4 Satzung für das Kommunalunternehmen der Stadt Castrop-Rauxel EUV, Stadtbetrieb Castrop-Rauxel -AöR- zu beschließen.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2021-EUV-36%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+        "name": "Winterdienstbericht 2021\r\n-mündlicher Bericht-",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7Czt_1%7C1",
+          "date": "2021-04-14",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2021-EUV-36%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 8241,
+          "text": "9 Winterdienstbericht 2021\u000b-mündlicher Bericht-  Vorstand Herr Werner berichtet über die besondere Hausforderung für den Winterdienst, die aufgrund der extremen Wetterlage im Februar 2021 zu bewältigen waren. Er erläutert den Umfang der Einsätze und dankte insbesondere den freiwilligen Feuerwehren und dem Technischen Hilfswerk für ihre unterstützenden Leistungen im Stadtgebiet. Weiter verweist er auf die unterschiedlichen Zuständigkeiten hin, die sich auf das Erscheinungsbild des kommunalen Winterdienstes ausgewirkt haben. Auf Anfrage des Verwaltungsratsmitglieds Herr Papp, warum nach dem Räumen weiterhin eine Schnee-/Eisschicht auf der Fahrbahn verblieb, berichtet Herr Bürgermeister Kravanja von seinem Einsatz auf einem Winterdienstfahrzeug und gab die Erklärung des Fahrers weiter. Vorstand Herr Werner ergänzt, dass diese Wetterlage eine besondere Herausforderung darstellte und eine vollständige Befreiung der Fahrbahn von Eis und Schnee zum Großteil nicht möglich war. Zu der ergänzenden Anfrage des Verwaltungsratsmitglieds Herr Papp, ob eine Bestandsaufnahme der winterbedingten Schlaglöcher in den kommunalen Straßen erstellt wird gibt Vorstand Herr Werner an, dass an, dazu im Betriebsausschuss3 ein Sachstandsbericht erfolgt. Er berichtet über die weiterhin zahlreichen Meldungen von Schlaglöchern über die CasApp. Auf Anfrage des Verwaltungsratsmitglieds Herr Dr. Jankovics, ob der Bereich Stadtgrün und Friedhofswesen der Stadt Castrop-Rauxel den EUV beim diesjährigen Winterdienst unterstützt habe erläuterte der Vorstand Herr Werner, dass die städtischen Kollegen mit der Betreuung der eigenen Wegeflächen vollständig gefordert waren. Der Verwaltungsrat nimmt den mündlichen Bericht des Vorstandes zum Winterdienst 2021 zur Kenntnis.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/9343",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2021-EUV-36%7C301003100009%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+        "name": "Sachstandsbericht zum Umbau des Landwehrbaches im Altstadtbereich\r\nCastrop-Rauxel",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7C301003100009%7C1",
+          "date": "2021-04-14",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7C301003100009%7C1",
+          "fileName": "be_301003100009_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2021-EUV-36%7C301003100009%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 8122,
+          "text": "10 Sachstandsbericht zum Umbau des Landwehrbaches im Altstadtbereich Castrop-Rauxel\u000b(2021/EUV/010)  Vorstand Herr Werner berichtet zur Vorlage und gibt an, dass der Start der umfangreichen Bauarbeiten erfolgt ist. Er beschreibt die geplanten Maßnahmen und erläutert einige besondere Bauausführungen. Eine Besichtigung der Baumaßnahme mit den Mitgliedern des Verwaltungsrates ist aufgrund der pandemischen Einschränkungen zur Zeit nicht möglich. Teile der Baumaßnahme werden videographisch aufgenommen. Diese Aufnahmen sollen zur Information der Bevölkerung im Internet bereitgestellt werden. Letztlich ist zu einem späteren Zeitpunkt geplant, für die Bürgerinnen und Bürger einen Teil der Baumaßnahme zur Besichtigung temporär zu öffnen.  Auf Anfrage des Verwaltungsratsmitglieds Herr Papp erklärt der Vorstand Herr Werner, dass der Vortrieb pro Tag von bis zu 13m geplant ist. Durch mögliche Kampfmittelfunde und andere noch nicht bekannte Hindernisse wird die durchschnittliche Strecke gegebenenfalls deutlich geringer sein. Nach aktueller Planung soll die gesamte Baumaßnahme im Frühjahr 2022 zum Abschluss gebracht werden. Auf Anfrage des Verwaltungsratsmitglieds Herr Steinbach erläutert Vorstand Herr Werner, dass der vorübergehende Verbau von Spundwänden im Bereich des Stadtgartens (Auslaufbauwerk des Gondelteichs) unumgänglich ist. Alle Verbau-Wände werden nach Abschluss der Betonbaumaßnahmen wieder zurückgebaut. Auf Anfrage des Verwaltungsratsmitglieds Herr Steinbach erläutert Vorstand Herr Werner die Maßnahmen im Bereich der ehemaligen Zeche Erin mit den hohen Aufwendungen, bedingt durch die bergbaulichen Einflüsse.  Der Verwaltungsrat des EUV Stadtbetrieb nimmt den Sachstand zur Umbaumaßnahme des Landwehrbaches zur Kenntnis.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2021-EUV-36%7Czt_2%7C1%7C20210422104721-0_zt_2_1.pdf",
+            "date": "2021-04-22",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2021-EUV-36%7Czt_2%7C1%7C20210422104721-0_zt_2_1.pdf",
+            "fileName": "20210422104721-0_zt_2_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2021-EUV-36%7Czt_2%7C1%7C20210422104721-0_zt_2_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Anlage 1 zu TOP I.11 Nahmobilitätskonzept Stadt Castrop-Rauxel",
+            "size": 13199403,
+            "type": "https://schema.oparl.org/1.0/File"
+          },
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2021-EUV-36%7Czt_2%7C1%7C20210422105043-1_zt_2_1.pdf",
+            "date": "2021-04-22",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2021-EUV-36%7Czt_2%7C1%7C20210422105043-1_zt_2_1.pdf",
+            "fileName": "20210422105043-1_zt_2_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2021-EUV-36%7Czt_2%7C1%7C20210422105043-1_zt_2_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Anlage 2 zu TOP I.11 Wegeverbindung",
+            "size": 9607635,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2021-EUV-36%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+        "name": "Anfragen der Verwaltungsratsmitglieder",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7Czt_2%7C1",
+          "date": "2021-04-22",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2021-EUV-36%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 72931,
+          "text": "11 Anfragen der Verwaltungsratsmitglieder  Auf Anfrage von Verwaltungsratsmitglied Herr Dr. Häpke erläutert der Vorstand Herr Werner, dass die Maßnahme zur Errichtung einer Solarpumpenanlage zur Bewässerung des Seniorengartens in Habinghorst umgesetzt wird. Auf Anfrage von Verwaltungsratsmitglied Herr Dr. Häpke erläutert der Vorstand Herr Werner, dass für die Errichtung eines neuen Haltestellenwartehauses an der Beethovenstraße zusätzliche Mittel erforderlich sind, den die Versicherung nur zum Zeitwert ersetzt hat. Der EUV ist bestrebt eine Haltestelle zeitnah barrierefrei zu errichten.  Auf Anfrage von Verwaltungsratsmitglied Herr Piehl erläutert der Vorstand Herr Werner, dass das EUV-Gebäude am Westring eingerüstet ist, weil Dachsanierungsarbeiten erforderlich sind. In Zusammenhang mit diesen Arbeiten werden auch neue Photovoltaik-Module in diesem Dachabschnitt aufgestellt.  Auf Anfrage von Verwaltungsratsmitglied Herr Dr. Jankovics erläutert der Vorstand Herr Werner, dass gemeinsam mit verschiedenen Bereichen der Stadtverwaltung auf der Grundlage des Nahmobilitätskonzeptes für die Radwege die Winterdienstplanung abgestimmt werden soll (siehe anliegenden Übersichtsplan Anlage 1 - Nahmobilitätskonzept Stadt Castrop-Rauxel). Auf Anfrage von Verwaltungsratsmitglied Herr Dr. Jankovics erläutert der Vorstand Herr Werner, dass für den Ausbau der König-Ludwig-Trasse die Verträge zur Unterhaltung im ersten Bauabschnitt auf Castrop-Rauxeler Stadtgebiet geschlossen wurden und ein artenschutzrechtliches Gutachten für den dritten Bauabschnitt in Kürze durch den RVR beauftragt wird.  Auf Anfrage von Verwaltungsratsmitglied Herr Dr. Jankovics erläutert der Vorstand Herr Werner, dass die Erhöhung der Sicherheit bei der Einfahrt zum Marktplatz vom Biesenkampes insbesondere für die temporäre Außengastronomie abgestimmt wird. Auf Anfrage von Verwaltungsratsmitglied Herr Dr. Jankovics erläutert der Vorstand Herr Werner die in Gesprächen mit dem Grundstückseigentümer Firma Uniper abgestimmten Varianten zur Neugestaltung der Rad-/Fußwege in Habinghorst und Ickern (Schwarzer Weg). Verwaltungsratsmitglied Herr Goerke merkt an, dass die bisherigen Wege ertüchtigt werden sollten, da sie von der Bevölkerung sehr hoch frequentiert werden. Vorstand Herr Werner sieht Nachteile in den zahlreichen Vernässungsbereichen, die geschützt werden sollten. Er ergänzt, dass sich die Umsetzung durch abschließende Verabredungen mit den zu beteiligenden Eigentümern sowie die notwendigen finanziellen Mitteln die Gesamtumsetzung zeitlich verzögern kann (siehe anliegenden Übersichtsplan Anlage 2 - Wegeverbindung). Auf Anfrage von Verwaltungsratsmitglied Herr Dr. Jankovics erläutert die Stadtbaurätin Frau Lenort, dass für den Einmündungsbereich Wartburgstraße / Freiheitsstraße derzeit, vor dem Hintergrund der geplanten Projekten (z.B. Emscherland 2020, Sprung über die Emscher) verschiedene Szenarien durch den Straßenbaulastträger Kreis Recklinghausen geprüft werden. Sie geht davon aus, dass dauerhaft eine Lichtzeichenlösung installiert wird. Die prioritäre Bedeutung für den Radverkehr insbesondere entlang der Emscher und des Rhein-Herne-Kanals ist bekannt. Auf Anfrage von Verwaltungsratsmitglied Herr Steinbach erläutert der Vorstand Herr Werner, dass der EUV-Stadtbetrieb bereits mögliche Standorte für die Aufstellung von Verweilbänken im Bereich der ehemaligen Deponie Brandheide festgelegt hat. Derzeit wird der mögliche Umfang mit dem bei diesen Sitzplätzen anfallende Abfallaufkommens geprüft. Entsprechende Gespräche werden auch mit dem Bürgerverein hinsichtlich einer Partnerschaft geführt. Auf Anfrage von Verwaltungsratsmitglied Herr Steinbach erläutert der Vorstand Herr Werner, dass die Zielwerte der Klärung der Sickerwässer der Deponie Brandheide derzeit eingehalten werden. Außerdem sollen in Abstimmung mit dem Kreis Recklinghausen weitere Bäume entlang der Straße Brandheide zur Ergänzung der Eichenallee gepflanzt werden. Verwaltungsratsmitglied Herr Goerke regt an, zur Abrundung der Baumaßnahme in der Römerstraße die eingerichteten Bürgerradwege signalfarblich (rot) darzustellen, die Wege durch Radzeichen auf der Fahrbahn zu verdeutlichen und den Kreuzungsbereich mit der Bundesstraße235 (Henrichenburger Straße) durch Hilfslinien für den Radverkehr im Fahrbahnkreuz sicherer zu machen. Verwaltungsratsmitglied Dr. Jankovics bestärkt insbesondere die Forderung nach einer Erhöhung der Sicherheit im Kreuzungsbereich. Vorstand Herr Werner wird die Anregungen aufgreifen und die Abstimmung mit dem Baulastträger der Bundesstraße Straßen.NRW anstoßen. Aufgrund eines organisatorischen Umbruchs in der Landesbehörde wird kurzfristig ein Ergebnis schwer erzielbar sein.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2021-EUV-36%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7Czt_3%7C1",
+          "date": "2021-03-25",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2021-EUV-36%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2021-EUV-36%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 3869,
+          "text": "12 Mitteilungen des Vorstandes  keine  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2021-EUV-36%7Czt_4%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+        "name": "Personalangelegenheiten\r\n-mündlicher Bericht-",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/9347",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2021-EUV-36%7C302302100001%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+        "name": "Beschlusscontrolling 2020",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/9339",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2021-EUV-36%7C300403100005%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+        "name": "Kanalbaumaßnahme Frankenstraße",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2021-EUV-36%7Czt_5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+        "name": "Sachstand zu einem Standort\r\n-mündlicher Bericht-",
+        "number": "4",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2021-EUV-36%7Czt_6%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+        "name": "Sachstandsbericht Rechtsangelegenheiten des EUV Stadtbetrieb\r\n-mündlicher Bericht-",
+        "number": "5",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/9338",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2021-EUV-36%7C300403100004%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+        "name": "Beteiligungsbericht W & S GmbH für 2019",
+        "number": "6",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2021-EUV-36%7Czt_7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+        "name": "Anfragen der Verwaltungsratsmitglieder",
+        "number": "7",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2021-EUV-36%7Czt_8%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "8",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2021-03-24T18:30:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36",
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Europahalle, Europaplatz 6, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2021-EUV-36/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Europahalle, Europaplatz 6, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Verwaltungsrates EUV",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/176",
+      "https://castroprauxel.gremien.info/oparl/person/748",
+      "https://castroprauxel.gremien.info/oparl/person/596",
+      "https://castroprauxel.gremien.info/oparl/person/389",
+      "https://castroprauxel.gremien.info/oparl/person/318",
+      "https://castroprauxel.gremien.info/oparl/person/1050",
+      "https://castroprauxel.gremien.info/oparl/person/133",
+      "https://castroprauxel.gremien.info/oparl/person/963",
+      "https://castroprauxel.gremien.info/oparl/person/112",
+      "https://castroprauxel.gremien.info/oparl/person/240",
+      "https://castroprauxel.gremien.info/oparl/person/817",
+      "https://castroprauxel.gremien.info/oparl/person/72",
+      "https://castroprauxel.gremien.info/oparl/person/841",
+      "https://castroprauxel.gremien.info/oparl/person/344",
+      "https://castroprauxel.gremien.info/oparl/person/790",
+      "https://castroprauxel.gremien.info/oparl/person/1011"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2021-EUV-36",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2021-04-22",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2021-EUV-36",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2021-EUV-36",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 166560,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2021-03-24T17:00:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2021-EUV-36",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2021-04-22",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2021-EUV-36",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2021-EUV-36",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 166560,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

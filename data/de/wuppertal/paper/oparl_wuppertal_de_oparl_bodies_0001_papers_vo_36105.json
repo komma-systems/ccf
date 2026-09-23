@@ -1,0 +1,78 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36105",
+  "modified_at": "2026-08-27T08:10:43+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367844.pdf",
+        "created": "2026-07-29T10:14:08+02:00",
+        "date": "2026-07-29",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367844.pdf",
+        "fileName": "00367844.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367844",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-27T08:10:43+02:00",
+        "name": "01_Beschluss der Bezirksvertretung",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367845.pdf",
+        "created": "2026-07-29T10:14:18+02:00",
+        "date": "2026-07-29",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367845.pdf",
+        "fileName": "00367845.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367845",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-27T08:10:43+02:00",
+        "name": "02_Antrag Bündnis 90/DIE GRÜNEN",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368847.pdf",
+        "created": "2026-08-24T11:20:41+02:00",
+        "date": "2026-08-25",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368847.pdf",
+        "fileName": "00368847.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368847",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-27T08:10:43+02:00",
+        "name": "Bericht",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141142",
+        "authoritative": true,
+        "created": "2026-07-29T10:20:11+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68379",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24660",
+        "modified": "2026-09-04T06:45:58+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/41"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36105",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-29T10:06:22+02:00",
+    "date": "2026-07-29",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36105",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-08-27T08:10:43+02:00",
+    "name": "Verkehrssituation im Umfeld des CAP-Marktes am Eckbusch",
+    "paperType": "Bericht",
+    "reference": "VO/0912/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/6"
+    ]
+  }
+}

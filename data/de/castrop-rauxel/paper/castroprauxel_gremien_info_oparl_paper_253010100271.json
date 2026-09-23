@@ -1,0 +1,122 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/253010100271",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=253010100271%7C20191031160040.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-10-31",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=253010100271%7C20191031160040.pdf%7C",
+        "fileName": "20191031160040.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C253010100271%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/253010100271",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "4974a6cf90a05c0c9a8d43aa0b27f1bcf49d5f80",
+        "size": 795761,
+        "text": "Anlage 1_aktueller Änderungsbereich",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=253010100271%7C20191031160046.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-10-31",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=253010100271%7C20191031160046.pdf%7C",
+        "fileName": "20191031160046.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C253010100271%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/253010100271",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "ddf98b4e8a9a0752ceb2a753663ca89f13428422",
+        "size": 1633725,
+        "text": "Anlage 2_früherer Änderungsbereich",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=253010100271%7C20191105123124.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-11-05",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=253010100271%7C20191105123124.pdf%7C",
+        "fileName": "20191105123124.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C253010100271%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/253010100271",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "4c99628a3a945f3fcdd6e9fd38473979967a6340",
+        "size": 3603910,
+        "text": "Anlage 3_7. FNP-Änderungsplan",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=253010100271%7C20191105140422.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-11-05",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=253010100271%7C20191105140422.pdf%7C",
+        "fileName": "20191105140422.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C253010100271%7C4",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/253010100271",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 4",
+        "sha1Checksum": "78131cbaf763bc8e165640e8d733704ada436ec7",
+        "size": 5533007,
+        "text": "Anlage 4_Begründung mit Umweltbericht",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-UMWA-93%7C253010100271%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8641",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-UMWA-93",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-B3-93%7C253010100271%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8640",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-B3-93",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-10-30",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/253010100271",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=253010100271&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=253010100271&id=69",
+      "fileName": "253010100271",
+      "id": "https://castroprauxel.gremien.info/oparl/file/253010100271",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/258",
+      "size": 344707,
+      "text": " Bereich Stadtplanung und Bauordnung 2019/258  öffentlich  Az: 61-20-80/007   Datum: 30.10.2019    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Umweltausschuss 19.11.2019   Betriebsausschuss 3 (Bauen, Verkehr und Sport) 21.11.2019    Betreff  7. Änderung des Flächennutzungsplans Planbereich Emscherland / Wasserkreuz hier: Beschluss zur öffentlichen Auslegung der Änderung des Flächennutzungsplans nach § 3 Abs. 2 BauGB  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  Der räumliche Geltungsbereich der 7. Änderung des Flächennutzungsplans wird entsprechend Anlage 1 neu festgelegt.  Der Betriebsausschuss3 nimmt den Entwurf der 7.Änderung des Flächennutzungsplans, Planbereich Emscherland / Wasserkreuz einschließlich Begründung und Umweltbericht zur Kenntnis und beauftragt die Verwaltung diese Flächennutzungsplanänderung in abschließend ausgearbeiteter Fassung zur Einsicht für die Öffentlichkeit nach §3 Abs.2 BauGB für die Dauer eines Monats öffentlich auszulegen und im Internet bereitzustellen.    \f  \f L e n o r t Technische Beigeordnete  \f Sachverhalt  Geltungsbereich Der Planbereich der 7. Änderung des Flächennutzungsplans (FNP) liegt an der Stadtgrenze zu Recklinghausen im Bereich des Durchlasses der Emscher unter dem Rhein-Herne-Kanal. Somit erstreckt sich der Änderungsbereich über die Ortsteile Habinghorst und Henrichenburg. Das einzuleitende FNP-Änderungsverfahren umfasst  eine Fläche zwischen dem Gewerbegebiet Henrichenburg und der Stadtgrenze zu Recklinghausen,  einen Bereich, der von der A 2, der Suderwicher Straße und der Wartburgstraße begrenzt wird, sowie die Wartburginsel, die vom Rhein-Herne-Kanal und der Alten Fahrt umschlossen ist, sowie die Fläche westlich zwischen dem Kanal und der Emscher bzw. der Stadtgrenze zu Recklinghausen. Der Änderungsbereich endet im Süden vor einer Hofstelle. Der Planbereich der Änderung hat eine Größe von rund 20 ha und setzt sich aus drei Teilflächen zusammen. Die geplante Parkfläche erstreckt sich zudem auf Recklinghäuser Stadtgebiet. Insgesamt soll hier eine Fläche von rund 30 ha zu einer Parklandschaft entwickelt werden. Aufgrund der Lage an der Grenze zum Stadtgebiet von Recklinghausen handelt es sich auf dem Gebiet der Stadt Castrop-Rauxel nicht um eine zusammenhängende Fläche. Eine weitere Teilfläche liegt nördlich der A 2. Aufgrund der Konkretisierung der Planung wurde der räumliche Geltungsbereich angepasst. Die Teilfläche südöstlich des Rhein-Herne-Kanals zwischen Emscher und Wartburgstraße ist nicht mehr Gegenstand des Änderungsverfahrens, da hier die bestehende Darstellung beibehalten werden soll. Ein Areal, das von der Autobahn A2, der Wartburgstraße und der Suderwicher Straße umschlossen wird, ist dagegen in das Änderungsverfahren neu aufgenommen worden, da es nachtäglich Eingang in das Konzept gefunden hat und für dessen Umsetzung notwendig ist. Des Weiteren hat sich die Ausdehnung der anzulegenden Emscher-Terrassen Richtung Süden verkleinert, sodass der Änderungsbereich dementsprechend verkleinert wurde. Der frühere Geltungsbereich zum Zeitpunkt des Beschlusses zur Einleitung des Änderungsverfahrens ist Anlage 2 zu entnehmen. In der Umsetzung wird vertraglich geregelt, dass der Park nur errichtet wird, wenn in beiden Städten entsprechendes Planungsrecht geschaffen wurde.  Planungsanlass und -erfordernis Für die Flächen, die innerhalb des Bereichs der FNP-Änderung liegen, sowie für weitere Flächen östlich des Rhein-Herne-Kanals ist zur Umsetzung der Vorhaben der Emschergenossenschaft der Bebauungsplan Nr. 256, Planbereich Emscherland / Wasserkreuz aufzustellen. Die für weite Teile geplante Festsetzung als private Grünfläche mit der Zweckbestimmung Parkanlage ist aufgrund der Darstellung als Fläche für die Landwirtschaft und als Fläche für den Wald derzeit nicht möglich, da der Bebauungsplan in diesem Fall nicht gemäß § 8 Abs.2 BauGB aus dem FNP entwickelt wäre. Eine Änderung des FNP im Zuge eines Parallelverfahrens ist demnach notwendig. Der aufzustellende Bebauungsplan soll ebenfalls der Sicherung der Wartburginsel als Standort für Freizeit und Sportaktivitäten dienen. Eine Änderung der Darstellung von Grünfläche in eine Baufläche im FNP ist geboten, damit die Entwicklung des Bebauungsplans aus dem FNP gewährleistet wird.  Allgemeine Ziele und Zwecke der Planung Im Zuge der Renaturierung der Emscher ist ein ökologischer Schwerpunkt im Bereich Emscher / Suderwicher Bach an der Stadtgrenze von Castrop-Rauxel und Recklinghausen geplant. Das Projekt Natur- und Wasser-Erlebnispark ist Bestandteil des interkommunalen Integrierten Handlungskonzepts Emscherland 2020, das vom Rat der Stadt Castrop-Rauxel am 24.11.2016 als strategisches Rahmenkonzept beschlossen wurde (s. Vorlage Nr. 2016/290). Das Integrierte Handlungskonzept ist Ergebnis der Bewerbung der vier Städte Castrop-Rauxel, Recklinghausen, Herne und Herten um die Ausrichtung einer Landesgartenschau Emscherland 2020. Trotz des mangelnden Zuschlags wurde das inhaltliche und strategische Konzept von der Landesebene positiv bewertet und Fördermittel nach Priorisierung und Qualifizierung der Projekte der Gartenschaubewerbung in Aussicht gestellt. Als Grundlage für die Fördermittelakquise wurde in Zusammenarbeit mit der Emschergenossenschaft und den vier beteiligten Kommunen mit Unterstützung des privaten Planungsbüros Schulten Stadt- und Raumentwicklung das Integrierte Handlungskonzept Emscherland 2020 erarbeitet. Die Gesamtmaßnahme Emscherland 2020 im Bereich Recklinghausen-Suderwich und Castrop-Rauxel besteht aus zusammenhängenden Einzelmaßnahmen. Die Grundlage für alle Vorhaben im Planungsraum bildet die ökologische Verbesserung der Emscher und des Suderwicher Bachs. Die Renaturierung der beiden Fließgewässer wird über ein wasserrechtliches Verfahren genehmigt. Die im Rahmen der Landesgartenschau-Bewerbung ursprünglich als Kernfläche ausgewiesene Fläche am Wasserkreuz [] soll nun als Natur- und Wasser-Erlebnispark hergerichtet werden. Die [] ursprünglich für eine ökologische Entwicklung der Auen am Suderwicher Bach erworbene Fläche im Eigentum der Emschergenossenschaft eignet sich aufgrund ihres guten Zuschnitts, ihrer Nähe zu den dicht besiedelten und sozial benachteiligten Stadtteilen [] sowie der guten Erschließung und Zugänglichkeit für einen Kommunen übergreifenden Stadtpark (Vorlage Nr. 2016/290: 3). Das Hauptareal der künftigen Parkanlage ist auf Recklinghäuser Stadtgebiet gelegen. Lediglich der nördliche Bereich erstreckt sich über das Stadtgebiet von Castrop-Rauxel. Die Aufstellung eines Bebauungsplans ist für die spätere Erteilung von Baugenehmigungen innerhalb der Parkfläche Voraussetzung. Auf dem südöstlich an den Natur- und Wasser-Erlebnispark angrenzenden Areal werden die Emscher-Terrassen mit einer Gesamtgröße von 8ha angelegt. Die Freifläche soll für Freizeit, Aufenthalt und Erholung am Wasser genutzt werden. Das künftig zwischen der Emscher und dem Kanal gelegene Landschaftsbauwerk wird durch Bodenbewegungen modelliert. Das Plateau entsteht aus Bodenaufschüttungen im Zuge der Verbreiterung der Fahrrinne des Kanals sowie des Emscherumbaus. Die gewünschten \u000bGeometrieänderungen werden im Bebauungsplan festgesetzt. Des Weiteren sollen die Teilflächen, die sich durch den Umbau des Wasserkreuzes ergeben haben, [..] einer städtebaulich-freiräumlichen Nutzung zugeführt und mit dem Stadtraum verbunden werden. In diesem Zusammenhang ist ein Wunsch der Stadt Castrop-Rauxel, mit dem Sprung über Emscher und Rhein-Herne-Kanal einen Brückenschlag über beide Gewässer zu realisieren. Damit können die dicht besiedelten Stadtteile Henrichenburg, Habinghorst und Ickern an den Natur- und Wasser-Erlebnispark angebunden werden (Vorlage Nr. 2016/290: 5). Auf östlicher Seite des Kanals steht das Brückenbauwerk auf dem neu anzulegenden Platz der Schichten. Der Platz bildet den Eingangsbereich für den Fuß- und Radverkehr in die zukünftige Parkanlage Emscherland 2020 und dient den Besuchern und Besucherinnen als touristischer Auftakt der Orientierung und Information. Das Areal ist im rechtskräftigen FNP 2025 bereits als Grünfläche dargestellt, sodass sich das Verfahren zur 7.Änderung nicht über diesen Bereich erstreckt. Die Einrichtung eines attraktiven Parks wird zu einem erhöhten Besucheraufkommen führen. Für den ruhenden Verkehr sind entsprechende Angebote zu schaffen, sodass eine Stellplatzanlage auf der Fläche zwischen der A2, der Suderwicher Straße und der Wartburgstraße angelegt werden soll. Die Wartburginsel ist ein etablierter Standort für wasserbezogene Erholung und Sportaktivitäten und dient u.a. den deutschen Ruderern und Kanuten als Olympiastützpunkt. Zur Sicherung eines Entwicklungspotentials der ansässigen Sportvereine sowie der gastronomischen Einrichtung ist der Bereich in den Geltungsbereich des Bebauungsplans aufzunehmen.  Inhalte der Planung Entsprechend den geplanten Parkanlagen im Emscherumfeld soll der FNP im östlich vom Gewerbegebiet Henrichenburg gelegene Teilbereich von Fläche für die Landwirtschaft in Grünfläche mit der Zweckbestimmung Parkanlage geändert werden. Diese bisherige Ackerfläche wird durch die Konzepte ökologisch als vielfältige Kulturlandschaft aufgewertet sowie für die Bevölkerung als Freizeitanlage erschlossen. Das Areal wird bisher von der Darstellung als Fläche für die Wasserwirtschaft, den Hochwasserschutz und die Regelung des Wasserabflusses mit der Zweckbestimmung Gewässerumbaubereich  ökologische Verbesserung überlagert. Diese Darstellung wird obsolet und entfällt durch die 7.FNP-Änderung, da der Suderwicher Bach im nördlichen Bereich bereits naturnah umgestaltet ist und die Renaturierung im südlichen Bereich kurz bevorsteht. Für das Areal westlich des Suderwicher Bachs wird das Landschaftsschutzgebiet Emscheraue im FNP nachrichtlich übernommen. Das Gebiet, das zwischen der Trasse der A2, der Suderwicher Straße und der Wartburgstraße gelegen ist, wird perspektivisch zur Unterbringung des ruhenden Verkehrs für die Besucherinnen und Besucher der neugestalteten Parkanlage genutzt und ist demnach dem Park zugeordnet. Die im wirksamen FNP getroffene Darstellung als Fläche für den Wald wird in weiten Teilen ebenfalls als Grünfläche mit der Zweckbestimmung Parkanlage geändert. In diesem Zusammenhang besteht keine Erforderlichkeit der Darstellung eines gleich großen Bereichs als Fläche für den Wald im übrigen Stadtgebiet, da die Fläche noch nie Wald war und auch keine Kompensationsverpflichtung auf der Fläche besteht. Lediglich für den östlichen Bereich soll die Darstellung als Fläche für den Wald weiterhin Bestand haben, da diese Fläche einen dichten Baumbestand aufweist. Der südöstlich an den ehemaligen Emscherlauf anschließende Bereich zwischen Rhein-Herne-Kanal und Emscher ist als Fläche für die Landwirtschaft dargestellt. Für die Umsetzung der Emscher-Terrassen wird im Zuge des Änderungsverfahrens ebenfalls die Darstellung als Grünfläche mit der Zweckbestimmung Parkanlage gewählt. Die Darstellung des Emscher-Integrationsbereichs als Fläche für Maßnahmen zum Schutz, zur Pflege und zur Entwicklung von Boden, Natur und Landschaft wird weiterhin Bestand haben. Die nachrichtliche Übernahme der Landschaftsschutzgebiete Emscheraue und Pöppinghausen umfasst ebenfalls diesen Bereich. Im wirksamen FNP ist die Wartburginsel als Grünfläche dargestellt. Die Wartburginsel soll durch die künftige Darstellung als Sonderbaufläche S6 Freizeit und Sport an die tatsächliche Nutzung mit Sport- und Freizeitanlagen angepasst werden. Der aufzustellende Bebauungsplan soll der Sicherung der auf der Wartburginsel bestehenden Nutzungen und somit als Standort für Freizeit- und Sportaktivitäten dienen. Eine Änderung der Darstellung von Grünfläche in eine Baufläche ist geboten, damit die Entwicklung des Bebauungsplans aus dem FNP gewährleistet wird. Im Rahmen des Änderungsverfahrens wurde eine landesplanerische Anfrage nach §34 LPlG NRW an den Regionalverband Ruhr (RVR) als Träger der Regionalplanung gestellt. Der RVR hat bestätigt, dass die 7. Änderung des FNP mit den Zielen der Raumordnung im Einklang stehe und dass keine regionalplanerischen Bedenken bestünden.  Auswirkungen der Planung auf das Klima In Folge des Beschlusses zur öffentlichen Auslegung gem. § 3 Abs. 2 BauGB sind keine unmittelbaren Auswirkungen auf das Klima im Castrop-Rauxeler Stadtgebiet zu erwarten. Durch Wirksamwerden der FNP-Änderung, durch anschließender Rechtskraft des Bebauungsplans und damit verbundener Schaffung von Baurecht sowie gegebenenfalls im Rahmen der Zulässigkeit von Vorhaben während der Planaufstellung gem. §33 BauGB ist aufgrund von Umsetzungen der Planung mit Auswirkungen auf das Klima zu rechnen. Die zu erwartenden Klimaauswirkungen, die sich aufgrund der Änderung des FNP ergeben, sind im Rahmen des Umweltberichts prognostiziert und bewertet.  Weitere Vorgehensweise Zur Umsetzung des Vorhabens wird gem. § 8 Abs. 3 BauGB im Parallelverfahren ein Bebauungsplan für die im Außenbereich gelegenen Flächen aufgestellt. In den Geltungsbereich des Bebauungsplans Nr.256, Planbereich Emscherland / Wasserkreuz wird darüber hinaus ein Areal, das östlich des Rhein-Herne-Kanals gelegen ist und perspektivisch für den Platz der Schichten genutzt wird, einbezogen. Zeitgleich zu den Bauleitplanverfahren der Stadt Castrop-Rauxel stellt die Stadt Recklinghausen für die zu realisierende Parkanlage einen Bebauungsplan auf und führt eine Änderung des FNP durch. Die Verfahren der beiden Städte werden miteinander abgestimmt.   Anlagen Anlage 1: Übersichtsskizze des Änderungsbereichs Anlage 2: Übersichtsskizze des früheren Änderungsbereichs (Stand zum Beschluss zur Einleitung des Änderungsverfahrens) Anlage 3: Änderungsplan im aktuellen Entwurfsstand Anlage 4: Begründung mit Umweltbericht im aktuellen Entwurfsstand     Mitzeichnung 12 67 EUV      \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "7. Änderung des Flächennutzungsplans\r\nPlanbereich „Emscherland / Wasserkreuz“\r\nhier: Beschluss zur öffentlichen Auslegung der Änderung des Flächennutzungsplans nach § 3 Abs. 2 BauGB",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/258",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ]
+  }
+}

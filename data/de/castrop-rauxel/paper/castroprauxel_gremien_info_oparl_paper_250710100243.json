@@ -1,0 +1,98 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/250710100243",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=250710100243%7C20191008132440.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-10-08",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=250710100243%7C20191008132440.pdf%7C",
+        "fileName": "20191008132440.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C250710100243%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/250710100243",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "f7f65c7ccfc68db4016965858f8eb5b02ba4bec3",
+        "size": 107156,
+        "text": "2019-10-08_Anlage_1",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=250710100243%7C20191008132459.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-10-08",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=250710100243%7C20191008132459.pdf%7C",
+        "fileName": "20191008132459.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C250710100243%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/250710100243",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "04833ea60f09eea0612b88781cf9ec0481ad8b35",
+        "size": 162930,
+        "text": "2019-10-08_Anlage_2",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=250710100243%7C20191008132521.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-10-08",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=250710100243%7C20191008132521.pdf%7C",
+        "fileName": "20191008132521.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C250710100243%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/250710100243",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "370b6e6fd994468050532f86f83e5e3019f01ffc",
+        "size": 632947,
+        "text": "2019-10-08_Anlage_3",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-B3-93%7C250710100243%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8601",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-B3-93",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-10-07",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/250710100243",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=250710100243&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=250710100243&id=69",
+      "fileName": "250710100243",
+      "id": "https://castroprauxel.gremien.info/oparl/file/250710100243",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/233",
+      "size": 371244,
+      "text": " Bereich EUV Stadtbetrieb 2019/233 öffentlich  Az:     Datum: 07.10.2019    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 3 (Bauen, Verkehr und Sport) 21.11.2019    Betreff  Sachstandsbericht Straßenzustand der Gemeindestraßen in Castrop-Rauxel 2018  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Der Betriebsausschuss 3 nimmt den Sachstandsbericht zum Straßenzustand der Gemeindestraßen in Castrop-Rauxel 2018 zur Kenntnis.         \f  \f L e n o r t                                                                                      W e r n e r  Technische Beigeordnete                                                             Vorstand EUV  \f  Sachverhalt  In Fortschreibung der Berichterstattung aus den Vorjahren erfolgt basierend auf der Straßendatenbank norGIS der aktuelle Sachstand des Straßenzustandes, unter Berücksichtigung der durchgeführten Neubau- und Deckenerneuerungsmaßnahmen, im Zuständigkeitsbereich der Kommune als Straßenbaulastträger (Stand 31.12.2018).  Das gesamte Straßennetz in Castrop-Rauxel beläuft sich auf  311 km Gemeindestraßen  10 km Bundesstraßen  32 km Landesstraßen  14 km Kreisstraßen  11 km sonst. Straßen  Der Straßenzustand wird in acht Zustandsklassen nach den Regelwerken (E EMI 2012 und den AP 9) der Forschungsgesellschaft für Straßen und Verkehrswesen (FGSV) eingeteilt. Die Eingruppierung der Straßen in die entsprechende Zustandsklasse ist von folgenden Faktoren abhängig:  Spurrinnentiefe  Längsebenheit  Griffigkeit  Risse (Netzrisse)  Längs- und Querrisse  Sonstige Schäden der Straßenoberfläche (Flickstellen, Eckabbrüche, Kantenschäden)  hieraus ergeben sich:  Zk 1 => langfristig zu erneuernde Straßen  Zk 2 => langfristig zu erneuernde Straßen  Zk 3 => mittelfristig zu erneuernde Straßen  Zk 4 => mittelfristig zu erneuernde Straßen  Zk 5 => mittelfristig zu erneuernde Straßen  Zk 6 => kurzfristig zu erneuernde Straßen  Zk 7 => kurzfristig zu erneuernde Straßen  Zk 8 => kurzfristig zu erneuernde Straßen  Bei der Beurteilung bilden die Gewährleistung der Verkehrssicherheit und der nachhaltigen Vermögenserhaltung ebenso einen Schwerpunkt der Sanierungs- und Instandsetzungserfordernisse, wie auch die Dimension der Schadensprägung in den betreffenden Straßen. Die entsprechenden Aussagen zum Straßenzustand, im Vergleich zum Jahr 2013, sind in den Anlagen dokumentiert. Straßen der Zustandsklasse 7 und 8 im Stadtgebiet: Übersicht in Anlage 3 In den Jahren 2016 und 2017 wurde der Zustand des Straßennetzes einerseits im Hinblick auf die durchzuführende Inventur und weiterhin als Grundlage für eine aktualisierte Bestands- und Zustandsbewertung mittels Stereobildbefahrung aufgenommen und in 2018 ausgewertet. Zusätzlich dient diese Bestandsaufnahme der Einführung eines neuen Straßendatenbanksystems, in welchem zukünftig auch die Erkenntnisse der regelmä- ßigen Straßenbegehungen einfließen und somit die Entwicklung des Straßenzustands fortlaufend aktualisiert werden kann.  Aufgrund der Komplexität befindet sich die Einführung der neuen Datenbank aktuell weiterhin in der Testphase. Insbesondere die Migration vorhandener Daten aus TIFOSY und das anschließende Verschneiden mit neu erfassten Daten muss besonders sorgfältig kontrolliert und ggfs. korrigiert werden, auch um die Kompatibilität zur Anlagenbuchhaltung der Stadt weiterhin zu gewährleisten. Aus diesem Grund wurde auch auf eine weitergehend vertiefende Darstellung verzichtet.  Weiterer Bericht in der Sitzung.  Anlage 1  Straßenzustand  Zuständigkeit Kommune (m) Anlage 2  Straßenzustand  Zuständigkeit Kommune (%) Anlage 3  Straßen und Gehwege der Zustandsklasse 7 und 8 im Stadtgebiet  \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Sachstandsbericht Straßenzustand der Gemeindestraßen in Castrop-Rauxel 2018",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/233",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ]
+  }
+}

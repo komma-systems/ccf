@@ -1,0 +1,62 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36160",
+  "modified_at": "2026-08-17T11:20:20+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368576.pdf",
+        "created": "2026-08-17T11:13:20+02:00",
+        "date": "2026-08-17",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368576.pdf",
+        "fileName": "00368576.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368576",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-17T11:20:20+02:00",
+        "name": "Gemeinsame große Anfrage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368577.pdf",
+        "created": "2026-08-17T11:17:52+02:00",
+        "date": "2026-08-17",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368577.pdf",
+        "fileName": "00368577.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368577",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-17T11:20:20+02:00",
+        "name": "Gemeinsame Große Anfrage BSW, B90/G und Die Linke",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141296",
+        "created": "2026-08-17T11:21:00+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68485",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24783",
+        "modified": "2026-08-25T12:04:25+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/45"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36160",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-17T11:12:26+02:00",
+    "date": "2026-08-17",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36160",
+    "modified": "2026-08-17T11:20:20+02:00",
+    "name": "Fällungen im Bezirk Oberbarmen - Große Anfrage des BSW, Fraktion Bündnis 90 / Die Grünen und Die Linke",
+    "paperType": "Gemeinsame große Anfrage",
+    "reference": "VO/0964/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

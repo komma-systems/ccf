@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/181003100008",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-11%7C181003100008%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6471",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2015-EUV-11",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2015-03-10",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/181003100008",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=181003100008&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=181003100008&id=69",
+      "fileName": "181003100008",
+      "id": "https://castroprauxel.gremien.info/oparl/file/181003100008",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2015/EUV/009",
+      "size": 155904,
+      "text": "Datum: 10.03.2015 TB I 9686-700 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 25.03.2015 TOP: I.4 Drucksache-Nr. 2015/EUV/009 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 25.03.2015 4 Betreff: Zwischenbericht 1 / 2015 Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt den Zwischenbericht 1 / 2015 zur Kenntnis. ________________________ Werner Sachverhalt: Der Vorstand des EUV Stadtbetrieb Castrop-Rauxel – AöR – hat gem. § 8 Abs. 5 der Satzung für das gleichnamige Kommunalunternehmen der Stadt Castrop-Rauxel den Verwaltungsrat mindestens halbjährlich über die Entwicklung des Vermögens- und Erfolgsplanes schriftlich zu unterrichten. Die nun folgenden Sachverhalte im Zusammenhang mit dem angestrebten Zwischenbericht des EUV Stadtbetriebs Castrop-Rauxel zum 28.02.2015: Die wirtschaftliche Entwicklung des EUV im Januar und Februar 2015: Die Verbuchung der Erträge und Aufwendungen für die ersten zwei Monate des Jahres 2015 ist noch nicht komplett abgeschlossen. Diesbezüglich ist mit gewisser Vorsicht eine belastbare Aussage über die aktuelle wirtschaftliche Entwicklung des EUV verbindlich abzugeben. Die wirtschaftliche Lage der größten Teilbetriebe sehen nach einer ersten Einschätzung folgendermaßen aus: Teilbetrieb III – Abfallentsorgung Die veranlagten Abfallentsorgungsgebühren belaufen sich auf EUR 7.955.995,91 und entsprechen somit beinahe dem Planwert in Höhe von EUR 7.996.126,00. Die sich ergebende Abweichung von EUR 40.130,09 ist von einer untergeordneten Bedeutung (0,5 v. H). Teilbetrieb IV – Duales System: Zurzeit sind lediglich die Hälfte der Leistungsverträge bezüglich des Verkaufs des Altpapiers für das Jahr 2015 abgeschlossen. Die Konditionen entsprechen den Vorjahresverträgen. Eine vertiefende Einschätzung ist in diesem Teilbetrieb derzeit noch nicht möglich. Teilbetrieb V – Stadtentwässerung Die im Teilbetrieb Stadtentwässerung veranlagten Gebühren belaufen sich auf EUR 16.402.561,05. Dagegen ist der Plan - Wert mit EUR 16.084.370 zu beziffern. Daraus ergibt sich eine Abweichung in Höhe von EUR 318.191,05. Dies entspricht 1,98 v.H. Teilbetrieb VI – Straßenreinigung/Winterdienst Der Ist-Wert der Straßenreinigungsgebühren beträgt EUR 1.191.525,67 und der Plan - Wert EUR 1.263.530,00. Eine Abweichung von EUR 72.004,33 entspricht 5,7 v.H. Der veranlagte Wert beim Winterdienst/Straßenreinigung beträgt EUR 383.701,98, der Plan -Wert beläuft sich auf EUR 386.405,00, somit ergibt sich eine Abweichung in Höhe von EUR 2.703,02 (0,7 v.H ). Teilbetrieb VI – Straßenreinigung/Winterdienst: Da das tatsächliche Ergebnis des Teilbetriebes vom Winterhalbjahr 2015 insbesondere in der 2. Hälfte 2015 abhängt, ist zurzeit noch keine fixierte Aussage über das beim Teilbetrieb VI erzielte Ergebnis möglich. Andere Teilbetriebe entwickeln sich im Rahmen der Ansätze des Wirtschaftsplanes 2015. Weiterer Sachvortrag in der Sitzung.Zwischenbericht 1 / 20152015/EUV/009%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Zwischenbericht 1 / 2015",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2015/EUV/009",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

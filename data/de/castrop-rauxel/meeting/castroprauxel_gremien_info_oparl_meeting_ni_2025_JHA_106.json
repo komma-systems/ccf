@@ -1,0 +1,428 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-106",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-106%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-106",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7C1%7C1",
+          "date": "2025-06-25",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-106%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 369600,
+          "text": "  1 Fragestunde für Einwohnerinnen und Einwohner   Keine Fragen.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-106%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-106",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7CProtokoll%7C1",
+          "date": "2025-06-25",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-106%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 371660,
+          "text": "  2 Einwände gegen die letzte Niederschrift   Keine Einwände.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-106%7C11%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-106",
+        "name": "Mündlicher Bericht aus dem Kinder- und Jugendparlament",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7C11%7C1",
+          "date": "2025-06-25",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7C11%7C1",
+          "fileName": "be_11_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-106%7C11%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 385745,
+          "text": "  3 Mündlicher Bericht aus dem Kinder- und Jugendparlament   Frau Parasseril gibt einen Rück- und Ausblick auf die Projekte des Kinder- und Jugendparlaments. Der Jugendhilfeausschuss nimmt den Bericht zur Kenntnis.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-106%7C39%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-106",
+        "name": "Mündlicher Bericht aus der AG 1,  AG 2 und AG 3",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7C39%7C1",
+          "date": "2025-06-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7C39%7C1",
+          "fileName": "be_39_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-106%7C39%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 409948,
+          "text": "  4 Mündlicher Bericht aus der AG 1,  AG 2 und AG 3   AG 1  Herr Junglas berichtet von der letzten Sitzung der AG 1 am 21.05.2025. Diskutiert wurde in Verbindung mit der anstehenden Kommunalwahl der Umgang mit einer möglichen Präsenz der AfD in Gremien und Arbeitsgemeinschaften. Zudem war der neue Kinder- und Jugendförderplan der Stadt Castrop-Rauxel Thema, der nach der Kommunalwahl beschlossen werden soll.   AG 2  Frau Wimber berichtet von der am 13.05.2025 stattgefundenen Sitzung der AG 2. Die Sitzung richtete sich nur an Träger und Fachberatungen, nicht an die Politik. Erörtert wurden fachliche Themen, wie die Weiterentwicklung der flexiblen Betreuungsangebote in Kindertageseinrichtungen, die neue Personalverordnung für Kindertagesbetreuung sowie die Kapazitäten und Nutzung von Überhangplätzen zur Versorgung insbesondere von Kindern mit festgestelltem Sprachförderbedarf, die bisher keine Kindertageseinrichtung besuchen. Frau Wimber berichtet zudem vom stattgefundenen Fachtag zum Übergang KiTa - Grundschule sowie von dem geplanten Fachtag Familienzentren am 04.07.2025.   AG 3  Herr Herber berichtet, dass in der AG 3 wegen Ausfall des geplanten Tagesordnungspunktes keine inhaltlichen Themen behandelt wurden. Er verabschiedet sich selbst nach über 20 Jahres Ausschusstätigkeit aus persönlichen Gründen aus der AG 3 und dem JHA.    Der Jugendhilfeausschuss nimmt die Berichte zur Kenntnis und bedankt sich bei Herrn Herber für die langjährige Ausschussarbeit.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-106%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-106",
+        "name": "Vorstellung der Antidiskriminierungsberatungsstelle im Agora Kultur-und Bildungszentrum der griechischen Gemeinde in Castrop-Rauxel e. V. - mündlicher Bericht durch Frau Ines Carralero y Martinez",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7Czt_1%7C1",
+          "date": "2025-06-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-106%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 411364,
+          "text": "  5 Vorstellung der Antidiskriminierungsberatungsstelle im Agora Kultur-und Bildungszentrum der griechischen Gemeinde in Castrop-Rauxel e. V. - mündlicher Bericht durch Frau Ines Carralero y Martinez   Frau Carralero y Martinez berichtet von der seit November 2024 im Aufbau befindlichen neuen Antidiskriminierungsberatungsstelle im Agora Kultur-und Bildungszentrum. Beratungen finden bereits statt, Sprechzeiten werden an verschiedenen Orten, z.B. dem Berufskolleg oder dem Bürgerzentrum in Merklinde angeboten. Derzeit liegt der Fokus auf der Netzwerkarbeit, wozu neben der Vorstellung in Gremien z.B. auch der Besuch von Moscheegemeinden, Altenheimen, Behindertenwohnheimen etc. gehört. Die Beratungsstelle richtet sich an jeden, der Diskriminierung erfährt und sich im geschützten Raum psychosozial aber auch juristisch beraten lassen möchte. Ziel ist zudem die Einrichtung von sogenannten Safe-Space-Räumen für bestimmt Gruppen.   Frau Carralero y Martinez stellt zudem den Erklärfilm der Beratungsstellen für Antidiskriminierungsarbeit (ADA) als Teil des Landesprogramms Integrationsagenturen NRW, gefördert vom Ministerium für Kinder, Jugend, Familie, Gleichstellung, Flucht und Integration des Landes Nordrhein-Westfalen (MKJFGFI) vor. Weitere Informationen und der Erklärfilm finden sich unter www.ada.nrw .   Der Jugendhilfeausschuss nimmt den Bericht zur Kenntnis.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/13796",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-106%7C382805100107%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-106",
+        "name": "Gemeinsamer Antrag der SPD Ratsfraktion und Fraktion Bündnis 90 / Die Grünen vom 27.05.2025_Konzept zur Weiterentwicklung öffentlicher Räume",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7C382805100107%7C1",
+          "date": "2025-06-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7C382805100107%7C1",
+          "fileName": "be_382805100107_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-106%7C382805100107%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 425191,
+          "text": "  6 Gemeinsamer Antrag der SPD Ratsfraktion und Fraktion Bündnis 90 / Die Grünen vom 27.05.2025_Konzept zur Weiterentwicklung öffentlicher Räume (2025/104)    Herr Korkutan erläutert den Antrag. Auf den Einwand, dass bereits Anträge zur sicheren Zuwegung von Orten, die häufig von Kindern und Jugendlichen genutzt werden, im Betriebsausschuss 3 gestellt wurden, betont er, dass sich der vorliegende Antrag insbesondere auf die Umgestaltung öffentlicher Räume zu Begegnungsorten bezieht.  Herr John ergänzt, dass der Jugendhilfeausschuss für konzeptionelle Entscheidungen verantwortlich sein soll, betroffene Bereiche und Gremien aber selbstverständlich wo erforderlich eingebunden werden. Insofern wird der Beschlussvorschlag unter Nummer3 erweitert. An dieser Stelle handele es sich zunächst um die Initiierung. Im Rahmen der weiteren Planung und Konzepterstellung seien Themen, wie Einbindung des Ordnungsamtes, Vandalismusvorbeugung etc. mitzudenken.  Der Jugendhilfeausschuss trifft einstimmig folgenden Beschluss:  Die Verwaltung wird beauftragt, ein Konzept zur Weiterentwicklung öffentlicher Räume zu attraktiven, generationenübergreifenden Begegnungsorten  mit besonderem Fokus auf die Bedürfnisse von Jugendlichen  zu erarbeiten. Mögliche Gestaltungselemente können u. a. beinhalten: zusätzliche Sitzgelegenheiten und Tische, überdachte Aufenthaltsbereiche (z. B. Pavillons), Freizeiteinrichtungen wie Tischtennisplatten, Erhaltung und Aufwertung der bestehenden Grünflächen und Landschaftselemente, barrierefreie und inklusive Gestaltung, umweltverträgliche Beleuchtungskonzepte zur Erhöhung der Sicherheit in den Abendstunden. Bestandteil des Konzepts soll die Identifikation geeigneter öffentlicher Flächen sein, die sich besonders für eine Umsetzung eignen. In Betracht gezogen werden sollen insbesondere der Erin-Park, die Rennwiese sowie der Volkspark Ickern. Das erarbeitete Konzept ist dem Jugendhilfeausschuss, weiteren Fachausschüssen und dem Rat zur weiteren Beratung und Beschlussfassung vorzulegen.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/13797",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-106%7C382705100106%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-106",
+        "name": "Verwaltungsbericht Hilfen zur Erziehung 2024",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7C382705100106%7C1",
+          "date": "2025-06-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7C382705100106%7C1",
+          "fileName": "be_382705100106_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-106%7C382705100106%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 413426,
+          "text": "  7 Verwaltungsbericht Hilfen zur Erziehung 2024 (2025/103)   Herr Zemsky erläutert den Verwaltungsbericht. Die Anzahl an Mitteilungen nach § 8a SGB VIII und insbesondere der tatsächlich festgestellten Kindeswohlgefährdungen ist gestiegen. Zudem ist insgesamt weitestgehend eine Fallzahlensteigerung sowohl bei ambulanten als auch stationären Hilfen zu verzeichnen, was in Kombination mit der Kostensteigerung bei den einzelnen Leistungen insgesamt zu einer erheblichen Steigerung der Gesamtausgaben geführt hat. Diese Entwicklung sei jedoch nicht spezifisch, sondern NRW weit zu beobachten. Die Anzahl an festgestellten Kindeswohlgefährdungen liegt im Vergleich zur amtlichen Statistik sogar unter dem NRW weiten Durchschnitt, was insbesondere auch auf die präventive Arbeit des Jugendamtes zurückzuführen sei.   Der Jugendhilfeausschuss nimmt den Verwaltungsbericht Hilfen zur Erziehung 2024 zur Kenntnis.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2025-JHA-106%7Czt_0%7C1%7C20250627141346-0_zt_0_1.pdf",
+            "date": "2025-06-27",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2025-JHA-106%7Czt_0%7C1%7C20250627141346-0_zt_0_1.pdf",
+            "fileName": "20250627141346-0_zt_0_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2025-JHA-106%7Czt_0%7C1%7C20250627141346-0_zt_0_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Sozialbericht_2025",
+            "size": 5764372,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-106%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-106",
+        "name": "Vorstellung des Sozialberichtes 2025 der Stadt Castrop-Rauxel - mündlicher Bericht durch Frau Heyer, Stabsstelle Bildung, Vielfalt und Teilhabe",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7Czt_0%7C1",
+          "date": "2025-07-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-106%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 404756,
+          "text": "  8 Vorstellung des Sozialberichtes 2025 der Stadt Castrop-Rauxel - mündlicher Bericht durch Frau Heyer, Stabsstelle Bildung, Vielfalt und Teilhabe   Frau Heyer stellt den Aufbau des Sozialberichts und die Zusammenstellung des statistischen Materials vor. Die Bildung von Gesamt- und kleinräumigen Teilindizes, erlaubt eine detailliertere Betrachtungsweise, macht Unterschiede sichtbar und ermöglicht die Identifizierung von Schwerpunktthemen und somit Initiierung passgenauer Maßnahmen in den verschiedenen Sozialräumen. Der Sozialbericht lasse darüber hinaus durchaus auch Rückschlüsse auf positive Auswirkungen beispielsweise von sozialen Einrichtungen zu, gleichzeitig könne er aber natürlich nur Auswertungen im Rahmen der vorhandenen Datenlage liefern. Für den nächsten Sozialbericht sei die Erhebung weiterer Daten, z.B. zu den Themen Senioren und Altersarmut, geplant.    Der Sozialbericht hängt dem Protokoll als Anlage an.   Der Jugendhilfeausschuss nimmt den Bericht zur Kenntnis.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-106%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-106",
+        "name": "Jugendschutz als Querschnittsaufgabe - Vorstellung und mündlicher Bericht durch Frau Idczak, Sachgebietsleiterin Jugendförderung ",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7Czt_2%7C1",
+          "date": "2025-07-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-106%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 397635,
+          "text": "  9 Jugendschutz als Querschnittsaufgabe - Vorstellung und mündlicher Bericht durch Frau Idczak, Sachgebietsleiterin Jugendförderung    Frau Idczak berichtet, dass die Aufgaben des erzieherischen Kinder- und Jugendschutzes durch das ganze Team Jugendarbeit im Querschnitt wahrgenommen werden, nachdem die Stelle einige Zeit ungesetzt war. Die Teams der einzelnen Jugendzentren spezialisieren sich jeweils auf verschiedene Präventionsaufgaben.   Der Jugendhilfeausschuss nimmt den Bericht zur Kenntnis.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-106%7Czt_4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-106",
+        "name": "Konsum von Lachgas bei Kindern und Jugendlichen - mündlicher Bericht zur Anfrage in der Sitzung vom 12.03.2025",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7Czt_4%7C1",
+          "date": "2025-07-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7Czt_4%7C1",
+          "fileName": "be_zt_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-106%7Czt_4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 415543,
+          "text": "  10 Konsum von Lachgas bei Kindern und Jugendlichen - mündlicher Bericht zur Anfrage in der Sitzung vom 12.03.2025   Herr Lümmen (Fachstelle Jungenarbeit, Kooperation Jugendhilfe/Schule) informiert zum Thema Konsum und Wirkung von Lachgas. Problematisch sei insbesondere, dass inzwischen an vielen Stellen große Kartuschen mit bis zu 100 Konsumeinheiten freiverkäuflich auch für Kinder und Jugendliche erhältlich seien, gleichzeitig ein Problembewusstsein bei der betroffenen Altersgruppe gar nicht vorhanden sei. Das Thema Lachgaskonsum wird daher in Zukunft als Block in die Einheiten zur Cannabisprävention (8. / 9. Klasse) aufgenommen.   Herr Kirac (Aufsuchende Jugendarbeit) berichtet, dass ein Termin an der Grundschule Am Busch mit dem Kommunalen Ordnungsdienst und der Polizei stattgefunden habe, sich das Problem in der Zwischenzeit aber wohl bereits relativiert habe. Die konsumierenden Jugendlichen konnten von der Aufsuchenden Jugendarbeit leider nicht erreicht werden.   Der Jugendhilfeausschuss nimmt den Bericht zur Kenntnis.   Da der Rat der Stadt in seiner nächsten Sitzung bereits über eine Ordnungsbehördliche Verordnung zum Verkaufsverbot an Minderjährige beschließen wird, ist man sich im Ausschuss darüber einig, dass eine verstärkte Aufklärung und Präventionsarbeit in dieser Angelegenheit der richtige Weg sei.          \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-106%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-106",
+        "name": "Soziale Wunschplattform \"CRIDS\" - Vorstellung des Projektes durch den Vorsitzendenden des Jugendamtselternbeirates Herrn Krauße",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7Czt_3%7C1",
+          "date": "2025-07-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-106%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 405253,
+          "text": "  11 Soziale Wunschplattform  CRIDS  - Vorstellung des Projektes durch den Vorsitzendenden des Jugendamtselternbeirates Herrn Krauße   Herr Krauße stellt die soziale Wunschplattform www.crids.de vor. Hinter CRIDS (Charity und Kids) steckt die Idee, Wünsche z.B. von sozialen Einrichtungen, KiTas oder Vereinen online zu stellen, so dass die Gelegenheit besteht, passgenaue Spenden zu leisten. Es handelt sich um eine rein ehrenamtliche Initiative. In Zukunft sind weitere Aktionen, wie die Sammlung, Aufbereitung und Weitergabe gebrauchter Spielsachen, geplant.   Der Jugendhilfeausschuss nimmt den Bericht zur Kenntnis.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/13798",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-106%7C382705100105%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-106",
+        "name": "Weiterentwicklung und Ausbau von Flexibilisierung der Betreuungszeiten in Kitas im Kita-Jahr 2025/2026",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7C382705100105%7C1",
+          "date": "2025-07-02",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7C382705100105%7C1",
+          "fileName": "be_382705100105_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-106%7C382705100105%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 422533,
+          "text": "  12 Weiterentwicklung und Ausbau von Flexibilisierung der Betreuungszeiten in Kitas im Kita-Jahr 2025/2026 (2025/102)   Frau Wimber erläutert die Sitzungsvorlage und betont, dass alle Einrichtungen, die einen Antrag gestellt haben, bei der Mittelverteilung berücksichtigt wurden.   Der Jugendhilfeausschuss beauftragt die Verwaltung einstimmig, den pauschalierten Zuschuss des Landes nach § 48 Kinderbildungsgesetzt (KiBiz - in der ab 01.08.2020 gültigen Fassung) zur Flexibilisierung der Betreuungszeiten in Höhe von 350.768,24  zuzüglich des 25-prozentigen Eigenanteils des Jugendamtes von 87.692,06  entsprechend der durch die örtliche Jugendhilfeplanung festgelegten Kriterien in benannter Höhe an die aufgeführten sieben Kindertageseinrichtungen weiterzuleiten.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-106%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-106",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "13",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7C6%7C1",
+          "date": "2025-07-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-106%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 13",
+          "size": 387950,
+          "text": "  13 Anfragen der Ausschussmitglieder   Frau Bludau erwähnt lobend den neuen Spielplatz an der Grimbergstraße. Sie regt in diesem Zusammenhang an, im Rahmen der weiteren Spielplatzplanung weiterhin auch die kleinen, ortsnahen Spielplätze zu berücksichtigen, da diese regelmäßig ebenfalls gut frequentiert werden.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-106%7C998%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-106",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "14",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7C998%7C1",
+          "date": "2025-06-25",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-106%7C998%7C1",
+          "fileName": "be_998_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-106%7C998%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 14",
+          "size": 367865,
+          "text": "  14 Mitteilungen der Verwaltung   Keine Mitteilungen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-106%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-106",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "15",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-106%7C997%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-106",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "16",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2025-06-12T18:20:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-106",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2025-JHA-106",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-05-28",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2025-JHA-106",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2025-JHA-106",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "81a62ac4428a7ad1afa5e34659013785b1a91a85",
+      "size": 432739,
+      "text": "Tagesordnung zur Sitzung des Jugendhilfeausschusses am Donnerstag, 12.06.2025 um 17:00 Uhr im Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel   I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner  2. Einwände gegen die letzte Niederschrift  3. Mündlicher Bericht aus dem Kinder- und Jugendparlament  4. Mündlicher Bericht aus der AG 1,  AG 2 und AG 3  5. Vorstellung der Antidiskriminierungsberatungsstelle im Agora Kultur-und Bildungszentrum der griechischen Gemeinde in Castrop-Rauxel e. V. - mündlicher Bericht durch Frau Ines Carralero y Martinez  6. Gemeinsamer Antrag der SPD Ratsfraktion und Fraktion Bündnis 90 / Die Grünen vom 27.05.2025_Konzept zur Weiterentwicklung öffentlicher Räume  7. Verwaltungsbericht Hilfen zur Erziehung 2024  8. Vorstellung des Sozialberichtes 2025 der Stadt Castrop-Rauxel - mündlicher Bericht durch Frau Heyer, Stabsstelle Bildung, Vielfalt und Teilhabe  9. Jugendschutz als Querschnittsaufgabe - Vorstellung und mündlicher Bericht durch Frau Idczak, Sachgebietsleiterin Jugendförderung   10. Konsum von Lachgas bei Kindern und Jugendlichen - mündlicher Bericht zur Anfrage in der Sitzung vom 12.03.2025  11. Soziale Wunschplattform  CRIDS  - Vorstellung des Projektes durch den Vorsitzendenden des Jugendamtselternbeirates Herrn Krauße  12. Weiterentwicklung und Ausbau von Flexibilisierung der Betreuungszeiten in Kitas im Kita-Jahr 2025/2026  13. Anfragen der Ausschussmitglieder  14. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  15. Anfragen der Ausschussmitglieder  16. Mitteilungen der Verwaltung    Sebastian J o h n Ausschussvorsitzender \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-106/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Jugendhilfeausschusses",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/JHA"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/138",
+      "https://castroprauxel.gremien.info/oparl/person/694",
+      "https://castroprauxel.gremien.info/oparl/person/1053",
+      "https://castroprauxel.gremien.info/oparl/person/667",
+      "https://castroprauxel.gremien.info/oparl/person/858",
+      "https://castroprauxel.gremien.info/oparl/person/1064",
+      "https://castroprauxel.gremien.info/oparl/person/873",
+      "https://castroprauxel.gremien.info/oparl/person/1198",
+      "https://castroprauxel.gremien.info/oparl/person/752",
+      "https://castroprauxel.gremien.info/oparl/person/1187",
+      "https://castroprauxel.gremien.info/oparl/person/1061",
+      "https://castroprauxel.gremien.info/oparl/person/1097",
+      "https://castroprauxel.gremien.info/oparl/person/851",
+      "https://castroprauxel.gremien.info/oparl/person/1078",
+      "https://castroprauxel.gremien.info/oparl/person/906",
+      "https://castroprauxel.gremien.info/oparl/person/529",
+      "https://castroprauxel.gremien.info/oparl/person/1227",
+      "https://castroprauxel.gremien.info/oparl/person/1236",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/926",
+      "https://castroprauxel.gremien.info/oparl/person/951",
+      "https://castroprauxel.gremien.info/oparl/person/572"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-JHA-106",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-07-02",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2025-JHA-106",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2025-JHA-106",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 506957,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2025-06-12T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-JHA-106",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-07-02",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2025-JHA-106",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2025-JHA-106",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 506957,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

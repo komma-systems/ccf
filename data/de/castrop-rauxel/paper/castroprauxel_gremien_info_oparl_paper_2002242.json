@@ -1,0 +1,68 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/2002242",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/000037%7C2002242%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/296",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000037",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_000011%7C2002242%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/297",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000011",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_000012%7C2002242%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/298",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000012",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2002-08-29",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/2002242",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002242&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002242&id=69",
+      "fileName": "2002242",
+      "id": "https://castroprauxel.gremien.info/oparl/file/2002242",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2002/242",
+      "size": 12791,
+      "text": "eigenbetrieb;sitzungsvorlage;werksausschuss;haupt;unternehmenssatzung;euv;stadtbetrieb;castrop;rauxel;aör;haushaltsstelle;berührung;gesamtkosten;anstalt;rechts;anstalten;verordnung;unternehmen;einrichtungen;kommunalunternehmensverordnung;kuv;abs;rechtsverhältnisse;bestimmungen;vorstandes;verwaltungsrates;stammkapitals;wirtschaftsführung;vermögensverwaltung;rechnungslegung;mindestinhalt;geschäftsordnung;all;einzelbestandteile;kommunalunternehmenssatzung;textfassung;auftrag;rechnung;festlegungen;erläuterungen;satzungstext;sachvortrag;werksausschusssitzung;beschluss;der;unternehmenssatzung;des;euv;stadtbetrieb;castrop-rauxel;aör;2002242;,2002/242;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Beschluss der Unternehmenssatzung des EUV, Stadtbetrieb Castrop-Rauxel, AöR",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2002/242",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

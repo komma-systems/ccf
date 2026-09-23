@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/221011100049",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=221011100049%7C20171110102537.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2017-11-10",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=221011100049%7C20171110102537.pdf%7C",
+        "fileName": "20171110102537.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C221011100049%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/221011100049",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "827dfdf2493662476fff0a20d219cc6b9513f54b",
+        "size": 441501,
+        "text": "Gebührenbedarfsberechnung 2018",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2017-EUV-19%7C221011100049%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7706",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2017-EUV-19",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2017-11-10",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/221011100049",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=221011100049&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=221011100049&id=69",
+      "fileName": "221011100049",
+      "id": "https://castroprauxel.gremien.info/oparl/file/221011100049",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2017/EUV/049",
+      "size": 149250,
+      "text": "Datum: 10.11.2017 TB I 9686-340 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 29.11.2017 TOP: I.3 Drucksache-Nr. 2017/EUV/049 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 29.11.2017 3 Betreff: Gebührenbedarfsberechnung 2018 – Klärschlammentsorgung Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € x nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt die als Anlage beigefügte Gebührenbedarfsberechnung 2018 -Klärschlammentsorgung- zur Kenntnis und beschließt, die Klärschlammgebühren nicht zu ändern. ________________________ Werner Sachverhalt: Gemäß beiliegender Gebührenbedarfsberechnung ist erkennbar, dass sich für das Jahr 2018 eine Klärschlammgebühr in Höhe von 58,41 € (VJ: 58,47 €) ergibt. Eine Änderung der Klärschlammgebühr ist demnach nicht notwendig. Weiterer Bericht in der Sitzung. Anlage Gebührenbedarfsberechnung%anl%;Gebührenbedarfsberechnung 2018 ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Gebührenbedarfsberechnung 2018 – Klärschlammentsorgung",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2017/EUV/049",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

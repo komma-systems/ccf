@@ -1,0 +1,510 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-125%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C1%7C1",
+          "date": "2024-12-05",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-125%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 370869,
+          "text": " 1 Fragestunde für Einwohnerinnen und Einwohner    Keine     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-125%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-125%7CProtokoll%7C1",
+          "date": "2024-12-05",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-125%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-125%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 372792,
+          "text": " 2 Einwände gegen die letzte Niederschrift    Keine      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12047",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-125%7C350611100234%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+        "name": "Niederschrift über die Beschlüsse des Betriebsausschusses 1 (Ausschuss für Kultur, Ordnung, Ausländerwesen und Feuerwehr);\r\nhier: Bestellung von Schriftführerinnen",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C350611100234%7C1",
+          "date": "2024-12-05",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C350611100234%7C1",
+          "fileName": "be_350611100234_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-125%7C350611100234%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 396590,
+          "text": " 3 Niederschrift über die Beschlüsse des Betriebsausschusses 1 (Ausschuss für Kultur, Ordnung, Ausländerwesen und Feuerwehr); hier: Bestellung von Schriftführerinnen (2024/225)    Die Verwaltung zieht die Vorlage zurück.           \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-B1-125%7Czt_0%7C1%7C20241206120304-0_zt_0_1.pdf",
+            "date": "2024-12-06",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-B1-125%7Czt_0%7C1%7C20241206120304-0_zt_0_1.pdf",
+            "fileName": "20241206120304-0_zt_0_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-B1-125%7Czt_0%7C1%7C20241206120304-0_zt_0_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Präsentation Raserszene in CR B1 04.12.2024",
+            "size": 824621,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-125%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+        "name": "Raserszene in Castrop-Rauxel; mündlicher Bericht der Polizei",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-125%7Czt_0%7C1",
+          "date": "2024-12-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-125%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-125%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 416201,
+          "text": " 4 Raserszene in Castrop-Rauxel; mündlicher Bericht der Polizei    Frau Polizeidirektorin Barto berichtet über die Raser- und Tuningszene in Castrop-Rauxel. Es wird auf die beigefügte Präsentation verwiesen.  RM Herr Schneider thematisiert die Treffen auf dem Parkplatz des WLT/ SG Castrop an der Bahnhofstraße. Die dort durch quietschende Reifen verursachte Ruhestörung sei selbst in 800 Metern Entfernung ganzjährig zu vernehmen. Er fragt nach der Beschwerdelage. Frau Barto teilt mit, dass im gesamten Zuständigkeitsbereich ihrer Behörde im vergangenen Jahr rd. 40 illegale Rennen im Sinne des §315d StGB festgestellt worden seien. Im Jahr 2024 wären rd. 1.000 Geschwindigkeitsverstöße in Castrop-Rauxel durch die Polizei festgestellt worden. Die Anzahl an Beschwerden sei eher gering, da die Polizei häufig nicht benachrichtigt werde. Auf die Frage hin, wie man die Polizei am besten auf beobachtete Verstöße aufmerksam machen könne teilt Frau Bartos mit, dass eine E-Mail an die zentrale Eingabestelle häufig die zielführendste Möglichkeit sei. Eine Meldung könne auch über den Notruf 110 erfolgen, allerdings würden Ruhestörungen je nach Einsatzlage nachrangig bearbeitet. RM Herr Bettinger ergänzt, dass er gute Erfahrungen mit einem Anruf direkt bei der Polizeiwache in Castrop-Rauxel gemacht hätte.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12337",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-125%7C350611100235%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+        "name": "Einrichtung von Waffenverbotszonen;\r\nSachstandsbericht der Verwaltung",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C350611100235%7C1",
+          "date": "2024-12-05",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C350611100235%7C1",
+          "fileName": "be_350611100235_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-125%7C350611100235%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 412087,
+          "text": "  5 Einrichtung von Waffenverbotszonen; Sachstandsbericht der Verwaltung (2024/226)    Herr Thiel fasst den Sachstandsbericht zusammen.  Die Zuständigkeit für den Erlass von Waffenverbotszonenverordnungen liege nicht bei den Kommunen. In NRW sei das Landesamt für Zentrale Polizeiliche Dienste (LZPD) auf Antrag der jeweils zuständigen Kreispolizeibehörde- zuständig.   Der Betriebsausschuss 1 nimmt den Bericht der Verwaltung zur Kenntnis.            \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12881",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-125%7C351811100258%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+        "name": "Antrag der CDU-Fraktion vom 15.11.2024_Maßnahmen gegen Messerkriminalität",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C351811100258%7C1",
+          "date": "2024-12-05",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C351811100258%7C1",
+          "fileName": "be_351811100258_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-125%7C351811100258%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 418473,
+          "text": "  6 Antrag der CDU-Fraktion vom 15.11.2024_Maßnahmen gegen Messerkriminalität (2024/249)   1. Bei einer Gegenstimme und einer Enthaltung empfiehlt der Betriebsausschuss 1 dem Rat der Stadt mehrheitlich, die Verwaltung zu beauftragen, zu prüfen, welche Maßnahmen aus dem 10- Punkte Plan des NRW- Innenministeriums zur Bekämpfung von Messergewalt auch in Castrop-Rauxel in Kooperation mit der Polizei und dem Kreis umgesetzt oder evtl. angepasst werden können. Die Ergebnisse der Prüfung sind dem Betriebsausschuss 1, dem Betriebsausschuss 2 sowie dem Rat mit entsprechenden Maßnahme-Vorschlägen zur Beratung und Beschlussfassung vorzulegen.  2. Der Bürgermeister wird beauftragt, den Rat über die Beratungen und Ergebnisse der  Sitzung der Hauptverwaltungsbeamten im Kreishaus vom 11. September zu informieren, an denen auch die Polizei anwesend war und das Thema Messerkriminalität behandelt wurde.              \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12079",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-125%7C352111100271%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+        "name": "Gemeinsamer Antrag der Fraktionen SPD, Bündnis 90 Die GRÜNEN vom 19.11.2024_Einführung von Waffenverbotszonen im Stadtgebiet",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C352111100271%7C1",
+          "date": "2024-12-05",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C352111100271%7C1",
+          "fileName": "be_352111100271_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-125%7C352111100271%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 425739,
+          "text": " 7 Gemeinsamer Antrag der Fraktionen SPD, Bündnis 90 Die GRÜNEN vom 19.11.2024_Einführung von Waffenverbotszonen im Stadtgebiet (2024/261)    RM Herr Bettinger stellt fest, dass es sich bei dem Antrag nicht um denselben handele, der als Dringlichkeitsantrag in die Ratssitzung am 12.09.2024 eingebracht werden sollte (vgl. Tischvorlage 2024/195). In dieser Sitzung sei der Antrag, anders als im aktuellen Antrag behauptet, auch nicht an den Betriebsausschuss 1 verwiesen, sondern zurückgezogen worden. Aufgrund der größeren Öffentlichkeit hätte der Antrag im Rat behandelt werden sollen.  SB Herr Sperling teilt mit, dass der Antrag aufgrund der von der Verwaltung vorgestellten Zuständigkeiten obsolet sei. Seine Fraktion hätte vollstes Vertrauen darin, dass das Polizeipräsidium alles im Rahmen seiner rechtlichen Möglichkeiten in dieser Angelegenheit unternehme.  Der Antragsteller zieht seinen Antrag zurück.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/13196",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-125%7C353110100226%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+        "name": "Öffnungszeiten Bürgerbüro",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C353110100226%7C1",
+          "date": "2024-12-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C353110100226%7C1",
+          "fileName": "be_353110100226_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-125%7C353110100226%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 430845,
+          "text": " 8 Öffnungszeiten Bürgerbüro (2024/217)    BG Herr Eckhardt stellt Herrn Mitterhofer als kommissarische Leitung des Bürgerbüros vor und stellt heraus, dass der zweite Absatz der Sitzungsvorlage missverständlich sei. Schon bevor das Bürgerbüro ein eigenständiger Bereich wurde, seien notwenige Veränderungsprozesse der damals angespannten Lage eingeleitet worden. Derzeit läge keine Beschwerdelage vor und die späten Termine am Donnerstag würden gut angenommen. Herr Mitterhofer ergänzt, dass auch ihm aktuell keine Beschwerden bekannt seien und er die Stimmung der Mitarbeiter*innen als gut wahrnehme.   RM Herr Schneider begründet den Änderungsantrag.  RM Frau Seibel entgegnet, dass die Vorlage der Verwaltung nachvollziehbar sei und ihre Fraktion dem Änderungsantrag nicht zustimmen werde. Des Weiteren gibt sie zu bedenken, dass die Sicherheit der Mitarbeiter*innen an den Samstagen gewährleistet sein müsse und datenschutzrechtliche Bestimmungen einzuhalten seien.  RM Herr Bettinger appelliert an die Koalition und die Verwaltung die Interessen der Bürger*innen ernst zu nehmen. Die Probephase und anschließende Evaluation im vergangenen Jahr habe gezeigt, dass Öffnungszeiten am Samstag benötigt würden. RM Herr Kahl entgegnet, dass die meisten ihm bekannten Arbeitnehmer*innen auch einen Termin im Rahmen der erweiterten Öffnungszeiten von Montag bis Freitag wahrnehmen könnten. Er erkundigt sich nach den Anwendungsfällen des Bürgerkoffers. Laut Herrn Mitterhofer sei dieser überwiegend für den Einsatz in Alten- und Pflegeeinrichtungen während der regulären Öffnungszeiten gedacht.  Als weitergehender Antrag wird sodann zunächst der Änderungsantrag abgestimmt: Bei 6 Dafür-Stimmen und einer Enthaltung lehnt der Betriebsausschuss 1 mehrheitlich ab, die Verwaltung zu beauftragen, nach Prüfung einen entsprechenden Beschlussvorschlag dem Rat der Stadt und dem Betriebsausschuss 1 vorzulegen, der beinhaltet, dass zukünftig an jedem 1. Samstag im Monat in der Stadtbibliothek in der Castrop-Rauxeler Altstadt ein zusätzliches Angebot für Dienstleistungen des Bürgerbüros zwischen 09:00 Uhr und 12:00 Uhr neben dem Angebot im Rathaus für die Bürgerinnen und Bürger geschaffen wird. In allen anderen Wochen des Jahres, für die die obige Samstagsregel nicht gilt, soll für das Bürgerbüro entgegen der bisherigen Regel folgende Öffnungszeit an Donnerstagen gelten: 08:00  12.30 Uhr und 14.00  18:30 Uhr. Ansonsten bleiben die bisherigen Öffnungszeiten bestehen.  Der Betriebsausschuss 1 empfiehlt dem Rat der Stadt einstimmig, für das Bürgerbüro folgende Öffnungszeit an Donnerstagen: 08:00  12.30 Uhr und 14.00  18:30 Uhr zu beschließen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/15878",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-125%7C351811100260%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+        "name": "Antrag der CDU-Fraktion vom 15.11.2024_Erweiterung der Service-Dienstleistungen im Bürgerbüro",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C351811100260%7C1",
+          "date": "2024-12-05",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C351811100260%7C1",
+          "fileName": "be_351811100260_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-125%7C351811100260%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 414561,
+          "text": " 9 Antrag der CDU-Fraktion vom 15.11.2024_Erweiterung der Service-Dienstleistungen im Bürgerbüro (2024/251)    RM Herr Kahl fragt, um welche Art von Dokumenten es sich handeln könne. Herr Mitterhofer führt aus, dass ein kleiner Teil von Sachverhalten aus dem Führerscheinwesen umfasst wäre.   Der Betriebsausschuss 1 empfiehlt dem Rat der Stadt einstimmig, die Verwaltung zu beauftragen, zu prüfen, ob die Abholung von Dokumenten, die durch den Kreis Recklinghausen erteilt werden, durch die Bürger*innen der Stadt Castrop-Rauxel im Bürgerbüro abgeholt werden können. Das Prüfergebnis ist dem Rat und dem Betriebsausschuss 1 zur Beratung und Beschlussfassung vorzulegen.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12890",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-125%7C352110100222%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+        "name": "Neufassung der Benutzungs- und Entgeltordnung für die Räume im Bürgerhaus sowie des Nutzungsvertrags",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C352110100222%7C1",
+          "date": "2024-12-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C352110100222%7C1",
+          "fileName": "be_352110100222_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-125%7C352110100222%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 400588,
+          "text": " 10 Neufassung der Benutzungs- und Entgeltordnung für die Räume im Bürgerhaus sowie des Nutzungsvertrags (2024/214)    Der Betriebsausschuss 1 empfiehlt dem Rat der Stadt einstimmig, die Neufassung der Benutzungs- und Entgeltordnung für die Räume im Bürgerhaus sowie des Nutzungsvertrages zu beschließen.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-125%7C350711100238%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+        "name": "Änderung der Wahlwerbesatzung der Stadt Castrop-Rauxel\nVorlage ist noch nicht veröffentlicht worden.",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C350711100238%7C1",
+          "date": "2024-12-05",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C350711100238%7C1",
+          "fileName": "be_350711100238_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-125%7C350711100238%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 389709,
+          "text": "  11 Änderung der Wahlwerbesatzung der Stadt Castrop-Rauxel (2024/229)    Die Verwaltung zieht die Vorlage zurück.           \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/15876",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-125%7C350511100228%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+        "name": "Antrag der FDP-Fraktion vom 04.11.2024_Nutzungs- und Verwertungsrechte an Kunstobjekten im öffentlichen Raum",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C350511100228%7C1",
+          "date": "2024-12-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C350511100228%7C1",
+          "fileName": "be_350511100228_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-125%7C350511100228%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 420697,
+          "text": " 12 Antrag der FDP-Fraktion vom 04.11.2024_Nutzungs- und Verwertungsrechte an Kunstobjekten im öffentlichen Raum (2024/219)    RM Herr Bettinger begründet den Antrag.  BG Herr Eckhardt stellt klar, dass die Stadt aufgrund der angespannten Haushaltssituation in nächster Zeit keine Kunstwerke erwerben könne. Die Aufarbeitung des städtischen Kunstbesitzes sei in Umsetzung, verzögere sich aber aufgrund personeller Engpässe im Stadtarchiv.  1. Der Betriebsausschuss 1 empfiehlt dem Rat der Stadt Castrop-Rauxel einstimmig, die Verwaltung zu beauftragen, zu prüfen, ob sie beim Kauf oder Annahme von Kunst und anderen Objekten, die im öffentlichen Raum auf städtischen Flächen aufgestellt werden, zukünftig auch alle Nutzungs- und Verwertungsrechte erhalten kann. Hierzu schaut sie sich auch Praxisbeispiele aus umliegenden Kommunen an und entwirft ggf. einen Mustervertrag. Über die gewonnenen Informationen berichtet sie zurück in den Betriebsausschuss 1. 2. Die Stadt Castrop-Rauxel prüft, ob an allen Kunstobjekten auf städtischen Flächen erkennbar ist, wer Urheber des Werkes ist und welchen Rechten das Werk unterliegt. Hier kann ggf. mit einem QR-Code auf die städtische Webseite mit weiteren Informationen verwiesen werden.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12985",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-125%7C351811100259%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+        "name": "Antrag der CDU-Fraktion vom 15.11.2024_Verkehrsberuhigung Dammstraße",
+        "number": "13",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C351811100259%7C1",
+          "date": "2024-12-09",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C351811100259%7C1",
+          "fileName": "be_351811100259_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-125%7C351811100259%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 13",
+          "size": 413287,
+          "text": " 13 Antrag der CDU-Fraktion vom 15.11.2024_Verkehrsberuhigung Dammstraße (2024/250)    RM Herr Schneider betont die Bedeutung der Dammstraße als Schulweg.  Bei einer Gegenstimme empfiehlt der Betriebsausschuss 1 dem Rat der Stadt Castrop-Rauxel mehrheitlich, die Verwaltung zu beauftragen, zu prüfen, welche verkehrsberuhigenden Maßnahmen an der Dammstraße ergriffen werden können, um den Verkehrsfluss der vorgeschriebenen 20 km/h und Durchfahrtsbeschränkung sicherzustellen.          \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12078",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-125%7C352111100270%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+        "name": "Gemeinsamer Antrag der Fraktionen SPD, Bündnis 90 Die GRÜNEN vom 19.11.2024_Konzept zur Umsetzung von Tempo 30 vor Zebrastreifen",
+        "number": "14",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C352111100270%7C1",
+          "date": "2024-12-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C352111100270%7C1",
+          "fileName": "be_352111100270_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-125%7C352111100270%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 14",
+          "size": 422173,
+          "text": " 14 Gemeinsamer Antrag der Fraktionen SPD, Bündnis 90 Die GRÜNEN vom 19.11.2024_Konzept zur Umsetzung von Tempo 30 vor Zebrastreifen (2024/260)    RM Herr Bettinger erkundigt sich, wie viele Stellen im Stadtgebiet von der beantragten Änderung betroffen wären. Herr Thiel gibt zu bedenken, dass die Verwaltungsvorschriften zur geänderten Straßenverkehrsordnung noch nicht vorlägen.  RM Frau Seibel schlägt vor, den Antrag in einen Prüfauftrag unter Einbeziehung der neuesten Rechtslage umzuformulieren.  Sodann beschließt der Betriebsausschuss 1 bei einer Enthaltung einstimmig, die Verwaltung zu beauftragen, unter Einbeziehung der neuesten Rechtslage zu prüfen, ob und an welchen Stellen im Stadtgebiet die Umsetzung von Tempo 30 vor Fußgängerüberwegen (sog. Zebrastreifen) möglich ist. Dazu sind die Erkenntnisse aus der Schulwegsicherung einzubeziehen.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12893",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-125%7C352611100277%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+        "name": "Antrag der Fraktionen SPD und B90/Die Grünen vom 19.11.2024_Prüfauftrag zur Einrichtung von Fahrrad-Zonen im Stadtgebiet",
+        "number": "15",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C352611100277%7C1",
+          "date": "2024-12-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C352611100277%7C1",
+          "fileName": "be_352611100277_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-125%7C352611100277%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 15",
+          "size": 402616,
+          "text": "  15 Antrag der Fraktionen SPD und B90/Die Grünen vom 19.11.2024_Prüfauftrag zur Einrichtung von Fahrrad-Zonen im Stadtgebiet (2024/267)    Der Antrag wird einstimmig in den Betriebsausschuss 3 verwiesen.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12329",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-125%7C350611100231%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+        "name": "Antrag der FDP-Fraktion vom 04.11.2024_Sperrmüll",
+        "number": "16",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C350611100231%7C1",
+          "date": "2024-12-12",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C350611100231%7C1",
+          "fileName": "be_350611100231_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-125%7C350611100231%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 16",
+          "size": 394475,
+          "text": " 16 Antrag der FDP-Fraktion vom 04.11.2024_Sperrmüll (2024/222)    Durch Beschluss des Ausschusses für Klima- und Umweltschutz wird der Antrag als erledigt betrachtet.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-125%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "17",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C6%7C1",
+          "date": "2024-12-09",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-125%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 17",
+          "size": 415701,
+          "text": " 17 Anfragen der Ausschussmitglieder    RM Frau Seibel erkundigt sich nach dem Sachstand der Ertüchtigung des unteren Teils der Cottenburgstraße (Ecke Cottenburgschlucht) im Sinne der Schulwegsicherheit. Herr Thiel wird eine Antwort nachreichen.   RM Frau Seibel thematisiert einen Presseartikel der Ruhr Nachrichten zu einer CDU-Umfrage zum Thema Sicherheit in Castrop-Rauxel mit einem Foto von Herrn Thiel. Sie fragt in diesem Zusammenhang nach möglichen Interessenkonflikten zwischen Herrn Thiels Tätigkeit als Leitung des Bereiches Ordnung und seiner Stellung als designierter Bürgermeisterkandidat bei der Kommunalwahl 2025. BG Herr Eckhardt teilt mit, dass er keine Zweifel an der Beachtung des Neutralitätsgebotes habe. Herr Thiel führt aus, dass es nicht seine Umfrage gewesen sei und sein Foto irrtümlich im Artikel verwendet wurde. Um Bedenken hinsichtlich der Neutralität vorzubeugen, werde die Wahlwerbesatzung durch die stellvertretende Bereichsleitung, Herr Treese, bearbeitet.    SB Herr Gadde berichtet über die lange Bearbeitungsdauer bei der Anmeldung einer Veranstaltung. Er regt an, die Verwaltungsprozesse zu überdenken und dem Antragsteller nach Antragstellung eine Rückantwort mit Zuordnung eines Aktenzeichens zu übermitteln. Herr Treese teilt mit, dass die Genehmigung einer Veranstaltung aus verschiedenen Teilgenehmigungen unterschiedlicher Fachabteilungen bestehen würde. Eingehende Anträge würden von einer zentralen Ansprechperson an die Fachabteilungen weitergeleitet. Momentan werde das Antragsverfahren unter Einbeziehung der Digitalisierungsbeauftragten überarbeitet. Ausschussvorsitzender Herr Fercke schlägt vor, dass der Bereich 32 über das Genehmigungsverfahren für Veranstaltungen in einer der kommenden Sitzungen berichten könnte.    RM Herr Kahl teilt mit, dass durch das Weihnachtsdorf nur noch drei Behindertenparkplätze auf dem Markt vorhanden seien und diese häufig missbräuchlich genutzt würden.   RM Herr Schneider berichtet, dass die sich stetig verändernde Verkehrsführung in Folge der Bauarbeiten auf der B235 zwischen Engelsburgplatz und Amtstraße häufig zu Verkehrsunfällen führen würde. Er bittet um Benachrichtigung der zuständigen Stellen.   RM Herr Schneider bittet um Überprüfung der Dauer der Rotphasen der Linksabbiegerampel am Engelsburgplatz von der Bahnhofstraße kommend.  SB Herr Sperling berichtet erneut, dass die Grünphasen der Lichtsignalanlage an der B235 von der Zuwegung zum kath. Krankenhaus zum Seniorenzentrum für Fußgänger*innen zu kurz seien. RM Herr Steinbach bestätigt dies. Herr Thiel schlägt einen Ortstermin vor. Er will diesen mit der Verkehrsabteilung des Bereiches Ordnung und Herrn Sperling abstimmen.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-125%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "18",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C4%7C1",
+          "date": "2024-12-12",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B1-125%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B1-125%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 18",
+          "size": 421457,
+          "text": " 18 Mitteilungen der Verwaltung    Herr Thiel teilt zu verschiedenen Anträgen den aktuellen Bearbeitungsstand mit:   Sperrung von Straßen im Nahbereich von Schulen (2024/052)  Unter Beteiligung zahlreicher Interessenvertretungen wurden Ortstermine an den verschiedenen Schulen durchgeführt. Eine probeweise Umsetzung der Maßnahmen für 6 bis 12 Monate ist ab Anfang 2025 zunächst an der Grundschule Alter Garten, der Waldschule, der Löwenherzschule und der Wilhelmschule geplant. Weitere Planungen betreffen das EBG.   Grünpfeile für das Rechtsabbiegen von Radfahrenden bei Rot (2024/116)  Das Anbringen der Verkehrszeichen wurde angeordnet. Eine Pressemitteilung folgt.   Beschaffung einer weiteren semistationären Geschwindigkeitsmessanlage  (2024/096)  Die Einrichtung der zur Bearbeitung notwendigen Stellen wurde von der Kommunalaufsicht für das Haushaltsjahr 2024 abgelehnt. Für das Jahr 2025 wird von einer Zustimmung seitens der Kommunalaufsichtsbehörde ausgegangen, da eine Refinanzierung der zusätzlichen Stellen über die voraussichtlichen Mehrerträge dargestellt werden kann. Zusammen mit der Verlängerung des Vertrages für den ersten Panzerblitzer wurde daher die Beschaffung eines weiteren ausgeschrieben. Die Verlagerung einer halben Stelle innerhalb des Bereiches Ordnung zu den Geschwindigkeitsverstößen sorgt zukünftig für mehr Flexibilität bei der Überwachung.    Aufbringung von Radfahrer-Piktogrammen (2023/197)  Eine Verwaltungsvorlage wird für das kommende Jahr angekündigt.   Markierungen auf der Bochumer Straße  Die Hinweismarkierungen auf der Bochumer Straßen wurden erneuert.    Bürgerantrag: Ordnen des Parkens an der Clemensstraße (2024/032)  Es wurden Halteverbote ausgewiesen. Parkbuchten sollen noch markiert werden.  Ausschussvorsitzender Herr Fercke gibt bekannt, dass er den Vorsitz über den Betriebsausschuss 1 aus gesundheitlichen Gründen mit Beginn des Jahres 2025 abgeben wird. BG Herr Eckhardt und weitere Ausschussmitglieder bedanken sich bei Herrn Fercke für die vertrauensvolle Zusammenarbeit und konstruktive Sitzungsführung.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-125%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B1-125%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2024-12-04T19:30:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-B1-125",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-11-21",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2024-B1-125",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2024-B1-125",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "46332e55f7823b3d1551e2a0fdd1e7b6c4a8f6a2",
+      "size": 442052,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "DIEZE Sitzungsraum, Erinstraße 6, Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B1-125/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "DIEZE Sitzungsraum, Erinstraße 6, Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Betriebsausschusses 1 (Kultur, Ordnung, Ausländerwesen und Feuerwehr)",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/B1"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/73",
+      "https://castroprauxel.gremien.info/oparl/person/1029",
+      "https://castroprauxel.gremien.info/oparl/person/748",
+      "https://castroprauxel.gremien.info/oparl/person/400",
+      "https://castroprauxel.gremien.info/oparl/person/1058",
+      "https://castroprauxel.gremien.info/oparl/person/1059",
+      "https://castroprauxel.gremien.info/oparl/person/292",
+      "https://castroprauxel.gremien.info/oparl/person/112",
+      "https://castroprauxel.gremien.info/oparl/person/817",
+      "https://castroprauxel.gremien.info/oparl/person/1045",
+      "https://castroprauxel.gremien.info/oparl/person/649",
+      "https://castroprauxel.gremien.info/oparl/person/1007",
+      "https://castroprauxel.gremien.info/oparl/person/420",
+      "https://castroprauxel.gremien.info/oparl/person/1050",
+      "https://castroprauxel.gremien.info/oparl/person/416",
+      "https://castroprauxel.gremien.info/oparl/person/837",
+      "https://castroprauxel.gremien.info/oparl/person/58",
+      "https://castroprauxel.gremien.info/oparl/person/267",
+      "https://castroprauxel.gremien.info/oparl/person/1258",
+      "https://castroprauxel.gremien.info/oparl/person/999"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-B1-125",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-12-12",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-B1-125",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-B1-125",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 648515,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2024-12-04T17:00:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-B1-125",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-12-12",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-B1-125",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-B1-125",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 648515,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

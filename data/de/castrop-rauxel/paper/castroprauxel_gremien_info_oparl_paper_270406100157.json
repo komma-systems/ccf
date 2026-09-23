@@ -1,0 +1,123 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/270406100157",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270406100157%7C20200610114731-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-10",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270406100157%7C20200610114731-0.pdf%7C",
+        "fileName": "20200610114731-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270406100157%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270406100157",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "d8fc2a83ac6a14efae485f0e2317817206b7d230",
+        "size": 654701,
+        "text": "Anlage 2 - Gesellschaftsvertrag CAS -Wirtschaftsförderungs- und Stadtteilmanagementgesellschaft Stand 09.06.2020",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270406100157%7C20200610114736-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-10",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270406100157%7C20200610114736-0.pdf%7C",
+        "fileName": "20200610114736-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270406100157%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270406100157",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "4055a249b90b1b190fdececcd2672fd34273378d",
+        "size": 28767672,
+        "text": "Anlage 3 - Abschlussbericht ExperConsult vom 07.02.2019 zur Weiterentwicklung und Optimierung der Wirtschaftsförderung der stadt Castrop-Rauxel",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270406100157%7C20200616153817-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-16",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270406100157%7C20200616153817-0.pdf%7C",
+        "fileName": "20200616153817-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270406100157%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270406100157",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "6a27ba86062a035913db1fe8a935bab0accbd2a7",
+        "size": 38823570,
+        "text": "Anlage 4 - Bericht ExperConsult vom 11.10.2019 zur Finanzierung der zukünftigen Wirtschaftsförderung und des Stadtteilmanagements_",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-HFA-103%7C270406100157%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/9018",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-HFA-103",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-118%7C270406100157%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/9019",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-118",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-AuWi-32%7C270406100157%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/9020",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-AuWi-32",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-06-04",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/270406100157",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270406100157&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270406100157&id=69",
+      "fileName": "270406100157",
+      "id": "https://castroprauxel.gremien.info/oparl/file/270406100157",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/141",
+      "size": 350677,
+      "text": " Bereich Finanzen 2020/141 öffentlich  Az: 20-11-50-61   Datum: 04.06.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Haupt- und Finanzausschuss 25.06.2020 6  Rat der Stadt 25.06.2020 6  Ausschuss für Wirtschaftsentwicklung 16.06.2020 14  Verwaltungsrat EUV 24.06.2020    Betreff  Gründung einer städtischen Wirtschaftsförderungs- und Stadtteilmanagementgesellschaft mit beschränkter Haftung (CAS - Wirtschaftsförderungs- und Stadtteilmanagement GmbH)  \f     Finanzielle Auswirkungen      keine haushaltsmäßige Berührung     X Auswirkungen siehe Sachverhalt    \f      \fBeschlussvorschlag   Der Rat der Stadt Castrop-Rauxel beschließt:  Die Stadt Castrop-Rauxel schließt mit dem EUV Stadtbetrieb Castrop-Rauxel AöR den als Anlage 2 zu dieser Vorlage beigefügten Gesellschaftsvertrag. Der Abschluss der genannten vertraglichen Vereinbarung erfolgt mit dem Ziel der Gründung einer städtischen Wirtschaftsförderungs- und Stadtteilmanagement Gesellschaft mit beschränkter Haftung (CAS  Wirtschaftsförderungs- und Stadtteilmanagement GmbH).    Der beabsichtigte Abschluss der unter Ziffer 1 genannten vertraglichen Vereinbarung sowie die Gründung der CAS  Wirtschaftsförderungs- und Stadtteilmanagement GmbH ist dem Landrat des Kreises Recklinghausen in seiner Funktion als Untere Kommunalaufsichtsbehörde gemäß § 115 Abs. 1 GO NRW anzuzeigen. Die Zustimmung des Rates erfolgt daher unter dem Vorbehalt eines positiven Verlaufs des Anzeigeverfahrens bei der Kommunalaufsichtsbehörde. Zudem ist die Bezirksregierung Münster als zuständige Behörde nach dem Stärkungspaktgesetz über die beabsichtigte Gründung der Gesellschaft zu informieren. Die Zustimmung des Rates erfolgt darüber hinaus unter dem Vorbehalt des Abschlusses eines personalrechtlichen Beteiligungsverfahrens.   Die Verwaltung wird beauftragt, den Gesellschaftsvertrag mit dem EUV Stadtbetrieb Castrop-Rauxel AöR unbeschadet der Beschlussfassung zu vorstehender Ziffer 2 zu schließen und die notarielle Gründung der Gesellschaft (CAS  Wirtschaftsförderungs- und Stadtteilmanagement GmbH) nach Abschluss des Anzeigeverfahrens bei der Kommunalaufsichtsbehörde vorzunehmen.   Die Verwaltung wird darüber hinaus beauftragt, den Rat zu dessen nächster Sitzung über den Verfahrensstand zu informieren.    \f\f    K r a v a n j a       E c k h a r d t  Bürgermeister      Erster Beigeordneter/ Stadtkämmerer  \fSachverhalt:   Um die kommunale Wirtschaftsförderung in Castrop-Rauxel einschließlich des Stadtmarketings optimal und professionell aufzustellen, wurde durch die Gemeindeprüfungsanstalt (GPA) NRW eine externe Vergabe für ein Konzept zur Neuaufstellung der Wirtschaftsförderung in Auftrag gegeben. Das Gutachten wurde durch die ExperConsult Wirtschaftsförderung & Investitionen GmbH & Co. KG, Dortmund, durchgeführt. Vorschlag im Gutachten ist die Gründung einer GmbH.   Die Empfehlungen zur Neuorientierung der Wirtschaftsförderung in der Stadt Castrop-Rauxel wurden dem HFA und Rat am 21.02.2019 zur Kenntnis gegeben (Vorlage 2019/050).  In seiner Sitzung am 04.04.2019 beauftragte der Rat die Verwaltung mit den Vorbereitungen zur Gründung einer CAS - Wirtschaftsförderungs- und Stadtteilmanagement GmbH (Vorlage 2019/085).  In der Ratssitzung am 30.04.2020 (Vorlage 2020/090) erfolgte eine Änderung der Anstaltssatzung für das Kommunalunternehmen der Stadt Castrop-Rauxel EUV Stadtbetrieb, Anstalt öffentlichen Rechts, um dem EUV die zukünftige Betätigung in dem in Rede stehenden Aufgabenfeld zu ermöglichen.   Nunmehr ist beabsichtigt, die Gründung der CAS - Wirtschaftsförderungs- und Stadtteilmanagement GmbH als gemeinsame Gesellschaft der Stadt Castrop-Rauxel und des EUV Stadtbetriebs AöR konkret umzusetzen.  Mehrheitsgesellschafterin der CAS - Wirtschaftsförderungs- und Stadtteilmanagement GmbH soll entgegen der Sitzungsvorlage 2020/090 nunmehr die Stadt Castrop-Rauxel mit 12.750 von 25.000 Geschäftsanteilen (51 %) sein. Minderheitsgesellschafterin soll dagegen die EUV Stadtbetrieb Castrop-Rauxel AöR mit 49 % der Gesellschaftsanteile werden.   Hinsichtlich der finanziellen Auswirkungen wird auf den im Abschlussbericht der ExperConsult Wirtschaftsförderung & Investitionen GmbH & Co. KG, Dortmund, ausgewiesenen Businessplan für die ersten fünf Jahre (Abschlussbericht vom 07.02.2019) sowie auf den ergänzenden Bericht zur Finanzierung der zukünftigen Wirtschaftsförderung und des Stadtteilmanagements in der Stadt Castrop-Rauxel vom 11.10.2019 verwiesen. Die genannten Berichte sind dieser Vorlage als Anlagen 3 und 4 beigefügt.    Die Verlustabdeckung (Erträge ./. Aufwendungen) der zu gründenden Gesellschaft erfolgt durch die Stadt Castrop-Rauxel in Form eines Zuschusses, um der GmbH die Mittel zur Verfügung zu stellen, die im allgemeinen öffentlichen Interesse liegenden Aufgaben der kommunalen Wirtschaftsförderung sowie des Stadteilmanagements erfüllen zu können.  Gleichzeitig soll dies im Hinblick auf die aktuelle Haushaltsplanung insofern haushaltsneutral erfolgen, als dass die Aufwendungen und Erträge, die derzeit noch bei der im Kernhaushalt der Stadt angesiedelten Wirtschaftsförderung veranschlagt sind, Eingang in die zukünftigen Wirtschaftspläne der neuen Gesellschaft finden bzw. dort berücksichtigt werden. Darüber hinaus sollen auch die Aktivitäten der FORUM GmbH, die diese bislang im Bereich der Wirtschaftsförderung erbracht hat, zukünftig durch die neue Gesellschaft wahrgenommen und die entsprechenden finanziellen Ressourcen dort bereitgestellt werden. Dies ist dann - ungeachtet coronabedingter Effekte im laufenden Jahr - mit einer entsprechenden Reduzierung des Zuschussbedarfes der FORUM GmbH in zukünftigen Haushaltsjahren verbunden.   Sofern bereits vorhandenes Personal nicht bzw. nicht unmittelbar bei der CAS - Wirtschaftsförderungs- und Stadtteilmanagement GmbH eingestellt wird, hat die Gesellschaft die anfallenden Aufwendungen der Stadt Castrop-Rauxel zu erstatten. Hierzu bedarf es nach Gründung der Gesellschaft entsprechender vertraglicher Vereinbarungen. Darüber hinaus wird die CAS - Wirtschaftsförderungs- und Stadtteilmanagement GmbH weitere Aufwendungen insbesondere aus noch zu akquirierenden Fördermitteln finanzieren.  Letztlich wird der Rat der Stadt Castrop-Rauxel im Rahmen seiner Budgethoheit bzw. die Stadt Castrop-Rauxel als Mehrheitsgesellschafterin in der Gesellschafterversammlung, die wiederum u. a. über die jeweiligen Wirtschaftspläne zu entscheiden hat, maßgebliche Entscheidungs- und damit Steuerungsmöglichkeiten insbesondere über die Höhe der Verlustabdeckung in den einzelnen Wirtschaftsjahren geltend machen können.  Im Gründungsjahr fallen bei der Stadt investive Auszahlungen in Höhe von 12.750  für den Erwerb der Gesellschaftsanteile an. Die vom Rat beschlossene Investitions-Dringlichkeitsliste 2020/2021 sieht einen entsprechenden Ansatz nicht vor. Die Finanzierung soll durch entsprechende Minderauszahlungen bei anderen (geplanten) investiven Maßnahmen erfolgen. Angesichts der bezogen auf den Gesamthaushalt vergleichsweise geringen Höhe des zusätzlichen Finanzierungsbedarfes erscheint dies aus Sicht der Verwaltung unproblematisch. Gleichwohl soll eine Entscheidung, aus welcher Planposition die benötigten Mittel in Anspruch genommen werden können, aus verwaltungsökonomischen Gründen erst dann erfolgen, wenn die Einlage tatsächlich zu leisten ist. Unter Hinweis auf die Regelungen in § 9 Ziffer III der Haushaltssatzung 2020/2021 entscheidet über die Mittelbereitstellung dann zu gegebener Zeit der Stadtkämmerer.   Aufgrund der im vorliegenden Fall zu berücksichtigenden Besonderheiten und unter Hinweis auf die vorstehenden Ausführungen wird auf eine Darstellung der wirtschaftlichen Auswirkungen in der ansonsten obligatorischen Anlage 1 ausnahmsweise verzichtet. Wie bereits oben dargestellt, geht die Verwaltung davon aus, dass die Finanzierung des notwendigen Zuschusses an die neue Gesellschaft - unbeschadet weitergehender Beschlüsse des Rates der Stadt Castrop-Rauxel - letztlich haushaltsneutral dargestellt werden kann.     Der Entwurf des Gesellschaftsvertrages sieht in § 16 eine Verlustabdeckung in Höhe von maximal 1 Mio.  pro Geschäftsjahr vor. Diese Verlustabdeckung beschränkt sich dabei regelmäßig auf den von der Stadt an die Gesellschaft jährlich zu zahlenden Zuschuss (s. o.). Der in § 16 genannte Maximalbetrag liegt dabei bewusst deutlich oberhalb der von ExperConsult prognostizierten Zuschussbedarfe der Gesellschaft durch die Stadt Castrop-Rauxel. Die gewählte Obergrenze soll dabei zum einen Handlungsoptionen in atypischen Situationen gewährleisten, zum anderen soll vermieden werden, dass - eine wirtschaftliche Darstellbarkeit seitens der Stadt Castrop-Rauxel vorausgesetzt - der Gesellschaftsvertrag in zukünftigen Wirtschaftsjahren nur wegen einer Erhöhung des Höchstbetrages der Verlustabdeckung geändert werden muss (Notarzwang!). Gleichzeitig ist der so definierte Deckel mit Blick auf die Leistungsfähigkeit der Stadt Castrop-Rauxel als angemessen zu beurteilen.    Gemäß § 115 Abs. 1 GO NRW ist die beabsichtigte Gründung der Gesellschaft zunächst der Kommunalaufsichtsbehörde (Landrat des Kreises Recklinghausen) anzuzeigen. Die Anzeige des Vorhabens muss unverzüglich, spätestens jedoch sechs Wochen vor Beginn des Vollzugs erfolgen. Darüber hinaus ist die Bezirksregierung Münster als zuständige Behörde nach den Bestimmungen des Stärkungspaktgesetzes NRW zu informieren.  Die Gründung der Gesellschaft kann folglich nach positivem Abschluss des Anzeigeverfahrens bzw. nach Abschluss der Konsultationen mit der Bezirksregierung Münster erfolgen.      Anlagen:  Anlage 1 Finanzielle Auswirkungen (gesonderter Hinweis auf Darstellungen im Sachverhalt)  Anlage 2 Gesellschaftsvertrag  Anlage 3 Abschlussbericht der ExperConsult vom 07.02.2019: Weiterentwicklung und Optimierung der Wirtschaftsförderung der Stadt Castrop-Rauxel   Anlage 4 Zusatzbericht der ExperConsult vom 11.10.2019: Finanzierung der zukünftigen Wirtschaftsförderung und des Stadtteilmanagements in der Stadt Castrop-Rauxel       EUV Bereich 20   gez. Werner   gez. Brenk  \f  \fAnlage 1  - Finanzielle Auswirkungen     \fSiehe Sachverhaltsdarstellung; aufgrund der Besonderheiten des vorliegenden Entscheidungsgegenstandes wird auf die Darstellung der finanziellen Auswirkungen in dem nachstehenden Formblatt verzichtet. Für die Stadt Castrop-Rauxel ist davon auszugehen, dass die Auswirkungen grundsätzlich haushaltsneutral dargestellt werden können. Hinsichtlich des beabsichtigten Erwerbs der entsprechenden Geschäftsanteile (investive Auszahlung) wird ebenfalls auf die Sachverhaltsdarstellung verwiesen. Für den Erwerb der Geschäftsanteile sind bei einer Beteiligungsquote von 51 % Auszahlungen in Höhe von 12.750  erforderlich.   I. Mittelbedarf: davon                                        Ergebnisplan              Aufwendungen:    - Erträge von Dritten:    = Städtischer Eigenanteil:                   davon       Finanzplan Auszahlungen:   - Einzahlungen von Dritten:   = Städtischer Finanzierungsanteil:          Die benötigten Haushaltsmittel stehen zur Verfügung:                \f JA  Buchungsstelle:   NEIN  Siehe Erläuterungen / Angabe von Deckungsvorschlägen \f Erläuterungen / Angabe von Deckungsvorschlägen:   \f Bei Maßnahmen des Finanzplanes:  Die Maßnahme ist in der vom Rat beschlossenen Dringlichkeitsliste enthalten.  Die Maßnahme ist in die vom Rat beschlossene Dringlichkeitsliste zusätzlich aufzunehmen bzw. eine     Erweiterung der Maßnahme ist vorzunehmen.  Die Maßnahme ist in die vom Rat zu beschließende Dringlichkeitsliste aufzunehmen. \f II. Auswirkungen auf die mittelfristige Haushaltsplanung: Ergebnisplan 2020 2021 2022 2023 insgesamt  Personalaufwendungen          Sachaufwendungen          Zinsaufwendungen       Aufwendungen für Abschreib.       Zusätzliche Erträge          Mindererträge          Summe           Die Finanzierung ist innerhalb der mittelfristigen Haushaltsplanung für die Produktgruppe  \f   gesichert    nicht gesichert \f                                                                  \f   \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Gründung einer städtischen Wirtschaftsförderungs- und Stadtteilmanagementgesellschaft mit beschränkter Haftung\r\n(CAS - Wirtschaftsförderungs- und Stadtteilmanagement GmbH)",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/141",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT",
+      "https://castroprauxel.gremien.info/oparl/organization/AuWi",
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

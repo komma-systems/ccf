@@ -1,0 +1,63 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36072",
+  "modified_at": "2026-07-13T07:44:20+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367367.pdf",
+        "created": "2026-07-09T13:20:47+02:00",
+        "date": "2026-07-09",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367367.pdf",
+        "fileName": "00367367.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367367",
+        "mimeType": "application/pdf",
+        "modified": "2026-07-13T07:44:20+02:00",
+        "name": "Antwort auf Anfragen",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367793.pdf",
+        "created": "2026-07-23T11:57:32+02:00",
+        "date": "2026-07-23",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367793.pdf",
+        "fileName": "00367793.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367793",
+        "mimeType": "application/pdf",
+        "modified": "2026-07-23T11:57:32+02:00",
+        "name": "Zukunft des Grundstücks Obere Lichtenplatzer Straße – Gründe für die Aussetzung der Vermarktung und weiteres Vorgehen der Verwaltun- Antworten auf Nachfragen der FDP_WfW-Fraktion",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141084",
+        "authoritative": true,
+        "created": "2026-07-09T14:20:12+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68318",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24542",
+        "modified": "2026-09-23T10:39:40+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36072",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-09T12:48:30+02:00",
+    "date": "2026-07-09",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36072",
+    "modified": "2026-07-13T07:44:20+02:00",
+    "name": "Antwort auf die große Anfrage der Fraktion FDP / WFW vom 06.07.2026 Zukunkft des Grundstücks Obere Lichtenplatzer Straße",
+    "paperType": "Antwort auf Anfragen",
+    "reference": "VO/0878/26/1-A",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/49"
+    ]
+  }
+}

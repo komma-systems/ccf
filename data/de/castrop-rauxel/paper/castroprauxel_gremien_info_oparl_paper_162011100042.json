@@ -1,0 +1,82 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/162011100042",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=162011100042%7C20141121090541.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=162011100042%7C20141121090541.pdf%7C",
+        "fileName": "20141121090541.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C162011100042%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/162011100042",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "c0618f7dee543c60bc3296535896d41af1640f6f",
+        "size": 283776,
+        "text": "Anlage 1 - Gebührenbedarfsberechung Klärschlamm 2015",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=162011100042%7C20141121090603.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=162011100042%7C20141121090603.pdf%7C",
+        "fileName": "20141121090603.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C162011100042%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/162011100042",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "2dab36e4cc9bc208bbadc4f6a9a5973877b55124",
+        "size": 431670,
+        "text": "Anlage 2 - Klärschlammsatzung 2015",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-6%7C162011100042%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6301",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2014-EUV-6",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2014-11-20",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/162011100042",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=162011100042&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=162011100042&id=69",
+      "fileName": "162011100042",
+      "id": "https://castroprauxel.gremien.info/oparl/file/162011100042",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2014/EUV/040",
+      "size": 154085,
+      "text": "Datum: 20.11.2014 TB VII/GBA 9686-340 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 10.12.2014 TOP: Drucksache-Nr. 2014/EUV/040 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 10.12.2014 Rat der Stadt 11.12.2014 Betreff: Gebührenbedarfsberechnung 2015 Klärschlammentsorgung und Erlass einer Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen, abflusslose Gruben) in der Stadt Castrop-Rauxel Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt die Gebührenbedarfsberechnung 2015 Klärschlammentsorgung (Anlage 1) zur Kenntnis. Er beschließt die als Anlage 2 beigefügte Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen, abflusslose Gruben) in der Stadt Castrop-Rauxel ________________________ Werner Sachverhalt: Nach der anliegenden Gebührenbedarfsberechnung verändert sich der Gebührensatz 2015 für einen cbm abgefahrenen Grubeninhalt durch eine Erhöhung der Unternehmerkosten und gestiegene Verwaltungskosten (Personal- und Sachkosten) auf 58,47 €/cbm gegenüber 56,94 € in 2014. Hinsichtlich der Berechnung und Erläuterungen wird auf Anlage 1 verwiesen. Außerdem macht die Verordnung zur Selbstüberwachung von Abwasseranlagen (Selbstüberwachungsverordnung Abwasser –SüwVO Abw - eine Änderung der Satzung notwendig. Die aufgrund des Landeswassergesetzes NRW erlassene SüwVO Abw regelt Einzelheiten zur Zustands-und Funktionsprüfung bei privaten Abwasserleitungen. Gemäß § 5 Abs. 2 Ziff. 1 der Satzung für das Kommunalunternehmen der Stadt Castrop-Rauxel, EUV, Stadtbetrieb Castrop-Rauxel – AöR – ist der Verwaltungsrat für den Erlass von Satzungen im Rahmen des übertragenen Aufgabenbereiches zuständig. Bezüglich des Erlasses von Satzungen hat der Rat der Stadt Castrop-Rauxel gem. § 9 Abs. 1 der o.g. Satzung ein Weisungsrecht. Vor der öffentlichen Bekanntmachung der Satzung ist somit die vom Verwaltungsrat beschlossene Satzung vom Rat der Stadt Castrop-Rauxel zu billigen. Weiterer Bericht in der Sitzung.Gebührenbedarfsberechnung 2015 Klärschlammentsorgung und Erlasseiner Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen, abflusslose Gruben) in der Stadt Castrop-Rauxel2014/EUV/040%anl%;Anlage 1 - Gebührenbedarfsberechung Klärschlamm 2015Anlage 2 - Klärschlammsatzung 2015 ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Gebührenbedarfsberechnung 2015 Klärschlammentsorgung und Erlass \r\neiner Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen, abflusslose Gruben) in der Stadt Castrop-Rauxel",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2014/EUV/040",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36167",
+  "modified_at": "2026-08-18T10:06:40+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368613.pdf",
+        "created": "2026-08-18T10:02:10+02:00",
+        "date": "2026-08-18",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368613.pdf",
+        "fileName": "00368613.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368613",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-18T10:06:41+02:00",
+        "name": "Antrag Vertreter Die Linke",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141311",
+        "authoritative": true,
+        "created": "2026-08-18T10:06:25+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68496",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24585",
+        "modified": "2026-09-03T06:28:48+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/42"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36167",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-18T09:58:20+02:00",
+    "date": "2026-08-18",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36167",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-08-18T10:06:40+02:00",
+    "name": "Verkehrsbeobachtung: Regelung der Verantwortlichkeiten in der Bezirksvertretung für das Geschwindigkeitsmessgerät - Antrag des Vertreters von Die Linke",
+    "paperType": "Antrag die Linke",
+    "reference": "VO/0971/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

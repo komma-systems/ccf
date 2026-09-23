@@ -1,0 +1,65 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36116",
+  "modified_at": "2026-09-10T12:32:08+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368871.pdf",
+        "created": "2026-08-24T15:05:11+02:00",
+        "date": "2026-08-24",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368871.pdf",
+        "fileName": "00368871.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368871",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-10T12:32:09+02:00",
+        "name": "Bericht",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368963.pdf",
+        "created": "2026-08-26T10:56:07+02:00",
+        "date": "2026-08-26",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368963.pdf",
+        "fileName": "00368963.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368963",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-10T12:32:09+02:00",
+        "name": "Anlage01_Quartalsbericht_II_2026_Wohnraumentwicklung",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141475",
+        "created": "2026-08-26T12:47:05+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68392",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24738",
+        "modified": "2026-09-21T11:38:52+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/279"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36116",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-31T12:50:28+02:00",
+    "date": "2026-08-26",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36116",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-10T12:32:08+02:00",
+    "name": "Quartalsbericht II/2026 zur Wohnraumentwicklung",
+    "paperType": "Bericht",
+    "reference": "VO/0922/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/106"
+    ]
+  }
+}

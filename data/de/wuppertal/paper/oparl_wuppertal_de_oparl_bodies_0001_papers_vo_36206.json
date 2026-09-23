@@ -1,0 +1,50 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36206",
+  "modified_at": "2026-08-26T06:34:45+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368918.pdf",
+        "created": "2026-08-25T15:14:17+02:00",
+        "date": "2026-08-25",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368918.pdf",
+        "fileName": "00368918.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368918",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-26T06:34:45+02:00",
+        "name": "Gemeinsamer Antrag BV",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141403",
+        "created": "2026-08-25T06:07:54+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68570",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24570",
+        "modified": "2026-09-02T08:59:56+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/47"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36206",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-24T14:59:52+02:00",
+    "date": "2026-08-25",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36206",
+    "modified": "2026-08-26T06:34:45+02:00",
+    "name": "Mehrfachsporthalle Rauental zeitgemäß für Schule und Vereinssport bauen",
+    "paperType": "Gemeinsamer Antrag BV",
+    "reference": "VO/1008/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "council_id": "muenster",
+  "record_type": "paper",
+  "source_id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056593",
+  "modified_at": "2026-09-08T10:09:02+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588497.pdf",
+        "created": "2026-08-25T16:07:10+02:00",
+        "date": "2026-08-25",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588497.pdf",
+        "fileName": "00588497.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588497",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-02T14:40:50+02:00",
+        "name": "Anlage 2 - Konzept_AIQ",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588498.pdf",
+        "created": "2026-08-25T16:38:55+02:00",
+        "date": "2026-08-25",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588498.pdf",
+        "fileName": "00588498.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588498",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-02T14:40:50+02:00",
+        "name": "Anlage 1 - Eckpunkte_Quartiersentwicklung",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588568.pdf",
+        "created": "2026-08-28T13:13:55+02:00",
+        "date": "2026-08-28",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588568.pdf",
+        "fileName": "00588568.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588568",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-02T14:40:50+02:00",
+        "name": "Berichtsvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://oparl.stadt-muenster.de/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/287855",
+        "created": "2026-08-26T10:25:04+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91628",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14493",
+        "modified": "2026-09-10T13:36:37+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/448"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056593",
+        "role": "Bericht",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/287996",
+        "created": "2026-08-31T11:16:29+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91627",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14502",
+        "modified": "2026-09-17T09:37:09+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/586"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056593",
+        "role": "Bericht",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/288235",
+        "created": "2026-09-02T10:01:15+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91662",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14500",
+        "modified": "2026-09-21T12:25:38+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/560"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056593",
+        "role": "Bericht",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/288346",
+        "created": "2026-09-04T10:04:30+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91664",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14534",
+        "modified": "2026-09-07T15:24:35+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/588"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056593",
+        "role": "Bericht",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/289518",
+        "created": "2026-09-16T13:48:24+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91663",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14533",
+        "modified": "2026-09-16T13:49:05+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/380"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056593",
+        "role": "Bericht",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-21T12:58:27+02:00",
+    "date": "2026-08-21",
+    "id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056593",
+    "modified": "2026-09-08T10:09:02+02:00",
+    "name": "Altengerechte, inklusive Quartierstreffs (AIQ) - Konzept",
+    "paperType": "Vorlagen",
+    "reference": "V/0474/2026",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "https://oparl.stadt-muenster.de/bodies/0001/organizations/at/100047"
+    ]
+  }
+}

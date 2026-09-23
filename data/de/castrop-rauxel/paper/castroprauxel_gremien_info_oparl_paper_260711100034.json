@@ -1,0 +1,83 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/260711100034",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=260711100034%7C20191107113215.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-11-07",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=260711100034%7C20191107113215.pdf%7C",
+        "fileName": "20191107113215.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C260711100034%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/260711100034",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "0922de5a81296efe8bee9bad301460c854105c51",
+        "size": 59006,
+        "text": "Marktsatzung 2019 Entwurf_formatiert(2) (2)",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=260711100034%7C20191107113242.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-11-07",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=260711100034%7C20191107113242.pdf%7C",
+        "fileName": "20191107113242.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C260711100034%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/260711100034",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "5dedb3d046f305ea1e2186aeaeca783f76ba5fe1",
+        "size": 112750,
+        "text": "Synopse_Marktsatzung 2019 (2)",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-EUV-28%7C260711100034%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8684",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-EUV-28",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-11-07",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/260711100034",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=260711100034&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=260711100034&id=69",
+      "fileName": "260711100034",
+      "id": "https://castroprauxel.gremien.info/oparl/file/260711100034",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/EUV/035",
+      "size": 199689,
+      "text": "/   Datum: 07.11.2019    TB VII 9686-120      Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 27.11.2019 TOP: Drucksache-Nr. 2019/EUV/035     X Öffentliche Sitzung   Nichtöffentliche Sitzung   Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 27.11.2019 9  Rat der Stadt 28.11.2019     Betreff: Änderung  der Satzung für die Wochenmärkte in der Stadt Castrop-Rauxel  Wochenmarktsatzung   vom 26.11.2015     Finanzielle Auswirkungen gem. Wirtschaftsplan   ja Gesamtkosten       X nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat beschließt die als Anlage 1 beigefügte Satzung für die Wochenmärkte in der Stadt Castrop-Rauxel -Wochenmarktsatzung-.    \f  \f _________________________ Werner   Sachverhalt: Der EUV hat zum 01.01.2014 die Aufgaben im Bereich der Kirmesveranstaltungen und Wochenmärkte durch Geschäftsbesorgungsvertrag übertragen bekommen. Zu den Aufgaben gehört insbesondere auch die Bearbeitung der einschlägigen Satzungen.   1. Der EUV möchte zum Jahr 2020 ein Verbot der Ausgabe von Plastik-Einweggeschirr sowie Kunststofftüten auf seinen Wochenmärkten einführen. Nach Angaben des GVM (Gesellschaft für Verpackungsmarktforschung) werden in Deutschland jährlich alleine etwa 2 Milliarden Plastiktüten verbraucht. Diese bestehen ebenso wie Einweggeschirr aus fossilem Rohöl und verursachen durch ihre Produktion CO2-Emissionen. Bei nicht sachgerechtem Recycling kommt hinzu, dass der vollständige Zerfall von Plastik mehrere Jahrzehnte andauert. Aus Gründen des Umweltschutzes wird daher folgende Regelung unter § 5 (Verhalten auf dem Wochenmarkt) hinzugefügt:   (1) Speisen und Getränke, welche zum sofortigen Verzehr abgegeben werden, dürfen nicht in Plastik-Einweggeschirr ausgegeben werden. Von dieser Bestimmung können in begründeten Einzelfällen Ausnahmen zugelassen werden.  (2) Die Herausgabe von Kunststofftüten durch die Teilnehmer ist nicht gestattet. In begründeten Einzelfällen können Ausnahmen zugelassen werden.   2. Der EUV begreift den Wochenmarkt  neben seiner vorwiegenden Funktion zur Nahversorgung  auch als Begegnungsstätte für den soziokulturellen Austausch innerhalb der Kommune. In der Vergangenheit hat es mitunter Differenzen mit politischen Parteien, Aktionsbündnissen, Künstlern und der ansässigen Kaufmannschaft hinsichtlich der Einbindung zum Wochenmarkt gegeben. Dies war bedingt durch den bisherigen Wortlaut in der Marktsatzung, § 5 Abs. 3  () Insbesondere ist es während der Verkaufszeit auf den Wochenmärkten untersagt a) Werbematerial aller Art oder sonstige Gegenstände aller Art zu verteilen oder auszulegen ().  Von dieser Regelung durfte gem. § 13 der Satzung nur in begründeten Einzelfällen abgewichen werden, sofern die Sicherheit und Ordnung des Marktes nicht beeinträchtigt wurde. Durch die Verlegung des Wochenmarktes in die Altstadt ist das Festhalten an der traditionellen Regelung nicht mehr zeitgemäß und soll geöffnet werden. Politische Parteien, Bürgerinitiativen, Vereine, Interessenverbände und ansässige Kaufmannschaft haben ein nachvollziehbares Interesse daran, dass ihnen die Zulassung zu sozialen, gemeinnützigen, kulturellen, sportlichen oder gesellschaftspolitischen Zielen bzw. Aktionen gewährt wird, so lange die Interessen des Marktes gewahrt werden.  Es wird daher unter § 6 (Standplätze) eingefügt:   Der Veranstalter kann politische Parteien, Bürgerinitiativen, Vereine und Interessenverbände (Gruppierungen) und ansässige Kaufmannschaft mit sozialen, gemeinnützigen, musikalisch-kulturellen, sportlichen oder gesellschaftspolitischen Zielsetzungen zum Wochenmarkt zulassen. Dabei müssen die Interessen des Marktes gewahrt werden. Die Standplätze werden von der Marktaufsicht zugewiesen und befinden sich in der Regel am Rande des Marktes. Die Gruppierungen sollen den Standort der Aufstellung bei dem Veranstalter in dem Zeitraum von zwei bis vier Wochen vor dem Veranstaltungstag schriftlich beantragen. Eine Reservierung von mehreren Terminen oder Standplätzen durch eine Gruppierung ist ausgeschlossen.  Der Antrag muss enthalten:  a. Genaue Angaben zu Zweck / Thema, Ort und Zeitpunkt des Standes  b. Name, Anschrift und Telefonnummer des Veranstalters und der Aufsichtsperson des Standes   Markthändler, die Waren gemäß § 1 der Wochenmarktverordnung anbieten genießen Vorrang. Die Zulassung von Standplätzen für politische Parteien, Bürgerinitiativen, Vereinen, Interessenverbänden und der ansässigen Kaufmannschaft sind weitestgehend zu berücksichtigen.   Ein Rechtsanspruch auf Zulassung eines Standplatzes besteht nicht.   3. Das bisher unter § 5 Abs.3 lit. g) normierte Mitführverbot von Tieren ist nicht mehr zeitgemäß und wird daher gestrichen.  Die Änderungen sind in einer Synopse gegenübergestellt.  Gemäß § 5 Abs. 2 Ziffer 1 der Kommunalunternehmenssatzung ist der Verwaltungsrat für den Erlass von Satzungen im Rahmen des übertragenen Aufgabenbereiches zuständig. Bezüglich des Erlasses von Satzungen hat der Rat der Stadt Castrop-Rauxel gem. § Abs. 1 der o. g. Satzung ein Weisungsrecht. Vor der öffentlichen Bekanntmachung der Satzung ist somit die vom Verwaltungsrat beschlossene Satzung vom Rat der Stadt zu billigen.  Weiterer Bericht in der Sitzung.  Anlage 1 Wochenmarktsatzung Anlage 2 Synopse zur Änderung der Marktsatzung  \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Änderung  der Satzung für die Wochenmärkte in der Stadt Castrop-Rauxel  –Wochenmarktsatzung –  vom 26.11.2015",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/EUV/035",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

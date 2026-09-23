@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/243005100018",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=243005100018%7C20180530124131.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2018-05-30",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=243005100018%7C20180530124131.pdf%7C",
+        "fileName": "20180530124131.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C243005100018%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/243005100018",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "ca0e2f5e1a596cec93387c6080a2a3b46860a2b8",
+        "size": 188452,
+        "text": "Entwurf 1 Anlage Vertrag",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7C243005100018%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7906",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2018-EUV-22",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2018-05-30",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/243005100018",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=243005100018&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=243005100018&id=69",
+      "fileName": "243005100018",
+      "id": "https://castroprauxel.gremien.info/oparl/file/243005100018",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2018/EUV/019",
+      "size": 93172,
+      "text": "/   Datum: 30.05.2018    TB VII 9686-360      Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 20.06.2018 TOP: Drucksache-Nr. 2018/EUV/019     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 20.06.2018 5  Haupt- und Finanzausschuss 05.07.2018   Rat der Stadt 05.07.2018     Betreff: Flottenmanagement     Finanzielle Auswirkungen gem. Wirtschaftsplan  X ja Gesamtkosten        nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat stimmt der Aufgabenübernahme und dem Abschluss der Dienstleistungsvereinbarung zur Übernahme von Flottenmanagementaufgaben zwischen den Vertragspartnern Stadt Castrop-Rauxel und EUV zu.   \f  \f ________________________ Werner \fSachverhalt: Unter Bezugnahme auf die Vorlage und Berichterstattung in der nichtöffentlichen  Sitzung des Verwaltungsrates vom 07.03.2018  ergaben sich zwischenzeitlich die nachstehenden Aktualisierungen:  Die Vertragsverhandlungen zwischen der Stadt Castrop-Rauxel und dem EUV wurden erfolgreich fortgeführt.  Die Stadt Castrop-Rauxel und der EUV einigten sich auf den finalen Text einer Dienstleistungsvereinbarung zur Übernahme von Flottenmanagementaufgaben, die die gemeinsame Ausrichtung und Entwicklung beider Fuhrpark-Organisationsformen zusammenfasst.  Die Änderung der strategischen Zielsetzungen bedarf nach erfolgter Beschlussfassung im Verwaltungsrat zusätzlich der Zustimmungen durch den Haupt- und Finanzausschuss sowie den Rat.  Mit erfolgter Vertragsunterzeichnung sind in Kürze die rechtlichen Grundlagen für einen wirtschaftlichen, umweltfreundlichen und leistungsfähigen Gesamtfuhrpark geschaffen.  Der Projektstart ist zeitnah für den 01.08.2018 terminiert.  Die Vertragslaufzeit beträgt zunächst 10 Jahre.  Weiterer Bericht in der Sitzung.     \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Flottenmanagement",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2018/EUV/019",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

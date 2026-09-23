@@ -1,0 +1,32 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/2002208",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2002-06-10",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/2002208",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002208&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002208&id=69",
+      "fileName": "2002208",
+      "id": "https://castroprauxel.gremien.info/oparl/file/2002208",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2002/208",
+      "size": 13293,
+      "text": "eigenbetrieb;sitzungsvorlage;werksausschuss;aufnahme;kommunaldarlehens;haushaltsstelle;berührung;gesamtkosten;verhandlungsergebnis;werner;mönch;kassenliquidität;euv;kommunaldarlehen;ermächtigung;wirtschaftsplan;teilbetrieb;vermittlungsgesellschaften;abgabe;angebotes;darlehen;eigenbetriebes;rechtsform;darlehn;flick;finanz;vermittlungs;kiel;landesbank;berlin;zinssatz;bayerische;restlaufzeit;konditionen;schuldendienstbetrag;gläubigerin;aufnahme;eines;kommunaldarlehens;in;höhe;von;5400000--;euro;2002208;,2002/208;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Aufnahme eines Kommunaldarlehens in Höhe von 5.400.000,-- Euro",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2002/208",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

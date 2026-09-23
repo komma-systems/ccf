@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/242202100013",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=242202100013%7C20180223120851.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2018-02-23",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=242202100013%7C20180223120851.pdf%7C",
+        "fileName": "20180223120851.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C242202100013%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/242202100013",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "b570b15d2586133a6641ee5419f294b12581bbfb",
+        "size": 124768,
+        "text": "Zwischenbericht 5_2017 zu VR Sitzung 07.03.2018",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-21%7C242202100013%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7823",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2018-EUV-21",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2018-02-22",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/242202100013",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=242202100013&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=242202100013&id=69",
+      "fileName": "242202100013",
+      "id": "https://castroprauxel.gremien.info/oparl/file/242202100013",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2018/EUV/014",
+      "size": 163910,
+      "text": "/  Datum: 22.02.2018   TB I 9686-700      Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 07.03.2018 TOP: I.2 Drucksache-Nr. 2018/EUV/014     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 07.03.2018 2    Betreff:  Zwischenbericht  5 / 2017     Finanzielle Auswirkungen gem. Wirtschaftsplan  X ja Gesamtkosten        nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat nimmt den Zwischenbericht  5 / 2017 zur Kenntnis.   \f  \f   ________________________ Werner \f Sachverhalt:  Der Vorstand des EUV Stadtbetrieb Castrop-Rauxel  AöR  hat gem. § 8 Abs. 5 der Satzung der Stadt Castrop-Rauxel den Verwaltungsrat mindestens halbjährlich über die Entwicklung des Vermögens- und Erfolgsplanes des EUV Stadtbetrieb Castrop-Rauxel schriftlich zu unterrichten. Es wird regelmäßig vierteljährlich berichtet, zuletzt in der Sitzung des Verwaltungsrates am 29.11.2017 (Zwischenbericht 4 / 2017; Drucksache 2017/EUV/061). Das Ergebnis des Gesamtbetriebes EUV wird in diesem Zwischenbericht mit 753 Tsd. Euro und entspricht nahezu dem Planwert 2017 mit 745 Tsd. Euro. Für den Zwischenbericht 5 / 2017 kam es im IV. Quartal 2017 (Stichtag 31.12.2017) zu folgenden wesentlichen Veränderungen: Im Zuge der Erstellung des Gesamtabschlusses mit der Stadt Castrop-Rauxel kann es erforderlich sein, dass die Rückstellungen für Pensionen und Beihilfen der Beamte angepasst werden müssen. Der Vorgang unterliegt aktuell einer eingehenden Prüfung durch den EUV. Inwiefern die Anpassung in den einzelnen Teilbetrieben ergebniswirksam und gegebenenfalls gebührenrelevant ist, muss unter Berücksichtigung der gesetzlichen Vorgaben geprüft werden.  Für die gebührenfinanzierten Teilbetriebe sowie dem Teilbetrieb Energie ergibt sich mit Bezug auf den Zwischenbericht 4 / 2017 folgende vorläufige Feststellung: Teilbetrieb III  Abfallentsorgung Der Teilbetrieb III weist wie im vorhergehenden Zwischenbericht ein Ergebnis von kalkuliert - 40 Tsd. Euro aus, der Planwert liegt bei - 84 Tsd. Euro. Das verbesserte Ergebnis stammt hauptsächlich aus überplanmäßigen Umsatzerlösen aus Abfallbeseitigungsgebühren, Entgelte für Altpapier und kommunale Schrott- und Elektroverkäufe sowie Sonderleistungen Sperrmüll. Dagegen stehen höhere Aufwendungen für periodenfremde Aufwendungen aus der Abrechnung des Recyclinghofes. Das prognostizierte Ergebnis des TB III liegt voraussichtlich um 44 Tsd. besser als der Planansatz 2017. Teilbetrieb IV  Duales System  Der Teilbetrieb IV weist eine negative Prognose in Höhe von - 84 Tsd. Euro aus (Plan - 92 Tsd. Euro). Dem überplanmäßigen Umsatz aus Entgelten für Altpapier stehen Mindereinnahmen für PPK-Verpackungen DSD gegenüber. Das prognostizierte Ergebnis des TB IV liegt voraussichtlich leicht über dem Planansatz (Verbesserung um 8 Tsd. Euro).  Teilbetrieb V  Stadtentwässerung Der Teilbetrieb V wird nach dem jetzigen Stand mit einem voraussichtlichen Ergebnis i. H. v. 1.013 Tsd. Euro abschließen (Plan 996 Tsd. Euro). Die Umsatzerlöse für die Kanalbenutzungsgebühren liegen höher als geplant, jedoch werden bei weiteren Erträgen, insbesondere den Erträgen aus anderen Teilbetrieben, Mindererlöse erwartet. Die Reparaturen für Kanäle und technische Anlagen liegen leicht erhöht gegenüber dem Planansatz, werden jedoch durch Einsparungen ausgeglichen. Das Zinsergebnis wird besser als geplant ausgewiesen, da der EUV lediglich Darlehen für Umschuldungen getätigt hat und eine Neuaufnahme nicht erforderlich wurde. Die Entscheidung über die Kostenumlage für die Pumpwerksentflechtung ist weiterhin offen  und Verhandlungen (gerichtliches Verfahren zwischen der Emschergenossenschaft und der RAG AG sowie Vergleichsgespräche) laufen. Eine tragfähige Entscheidung wird in 2018 erwartet. Das prognostizierte Ergebnis des TB V liegt voraussichtlich leicht über dem Planansatz 2017 (Verbesserung um 17 Tsd. Euro). Teilbetrieb VI  Straßenreinigung/Winterdienst Das Ergebnis im Teilbetrieb Straßenreinigung/Winterdienst wird voraussichtlich bei - 25 Tsd. Euro (Plan - 3 Tsd. Euro) liegen. Die Reinigungsleistung wurde gem. Satzung u.a. für die Ickerner Straße reduziert, so dass nun Mindererlöse aus Gebühren für Straßenreinigung in Höhe von 47 Tsd. Euro vorliegen, die nur teilweise durch Einsparungen bei den Aufwendungen gedeckt werden können. Teilbetrieb VIII  Energie: Für den Teilbetrieb VIII wird für das Jahr 2017 ein negatives Ergebnis in Höhe von - 45 Tsd. Euro (Plan - 25  Tsd. Euro) aufgrund geringerer Umsätze prognostiziert. Für 2 Photovoltaikanlagen sind technische Mängel unterjährig festgestellt worden, die zu einer geringeren Auslastung und damit zu einem geringeren Ertrag führen. Der Versicherungsschutz für den Ertragsausfall wird zur Zeit geprüft. Ferner fallen ungeplante Rückstellungsaufwendungen für Rückbauverpflichtungen für 2017 in Höhe von rd. 4 Tsd. Euro an. Teilbetrieb XI -Wochenmärkte: Das Ergebnis des Teilbetriebes XI wird auf - 15 Tsd. Euro prognostiziert, die Planung für 2017 sieht ein ausgeglichenes Ergebnis vor. Die weitere Akquise des EUV für eine gute Auslastung der Wochenmarktflächen sowie Abstimmung mit den gewerbetreibenden Marktbeschickern erfolgt laufend. Andere Teilbetriebe entwickeln sich im Rahmen des Wirtschaftsplanes 2017. Weiterer Sachvortrag in der Sitzung.    \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Zwischenbericht  5 / 2017",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2018/EUV/014",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

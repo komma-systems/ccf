@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/260503100006",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=260503100006%7C20190305105302.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-03-05",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=260503100006%7C20190305105302.pdf%7C",
+        "fileName": "20190305105302.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C260503100006%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/260503100006",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "fc4ff3166d0b8bbeb1f35e5bcb287bd6b9a20306",
+        "size": 2232509,
+        "text": "Umbau und Erweiterung EUV",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-EUV-25%7C260503100006%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8330",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-EUV-25",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-03-05",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/260503100006",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=260503100006&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=260503100006&id=69",
+      "fileName": "260503100006",
+      "id": "https://castroprauxel.gremien.info/oparl/file/260503100006",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/EUV/007",
+      "size": 89627,
+      "text": "/   Datum:  05.03.2019    TB I 9686-500       Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 20.03.2019 TOP: I.2 Drucksache-Nr. 2019/EUV/007     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 20.03.2019 2    Betreff:  Umbau und Erweiterung EUV Verwaltung Westring 215     Finanzielle Auswirkungen gem. Wirtschaftsplan  X ja Gesamtkosten        nein Förderung   \f       \f Beschlussvorschlag:  Die Entwurfsplanung zum Neubau mit Heizzentrale wird zur Kenntnis genommen.                        \f  \f   ________________________ Werner \fSachverhalt:  Mündlicher Bericht des Vorstandes in der Sitzung.   \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Umbau und Erweiterung EUV Verwaltung Westring 215",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/EUV/007",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

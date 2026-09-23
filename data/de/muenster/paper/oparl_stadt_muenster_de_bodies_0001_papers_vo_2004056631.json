@@ -1,0 +1,50 @@
+{
+  "council_id": "muenster",
+  "record_type": "paper",
+  "source_id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056631",
+  "modified_at": "2026-09-21T08:37:46+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588837.pdf",
+        "created": "2026-09-07T09:45:08+02:00",
+        "date": "2026-09-07",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588837.pdf",
+        "fileName": "00588837.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588837",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-21T08:37:46+02:00",
+        "name": "Originalantrag",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://oparl.stadt-muenster.de/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/288354",
+        "created": "2026-09-07T09:46:00+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91706",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14506",
+        "modified": "2026-09-16T08:19:40+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/91"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056631",
+        "role": "Antrag",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-07T08:57:09+02:00",
+    "date": "2026-09-07",
+    "id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056631",
+    "modified": "2026-09-21T08:37:46+02:00",
+    "name": "Verdeutlichung der Tempo 30 Zone auf den Straßen Dachsleite und Coerheide",
+    "paperType": "Antrag an die BV Nord",
+    "reference": "A-N/0018/2026",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "https://oparl.stadt-muenster.de/bodies/0001/organizations/at/100324"
+    ]
+  }
+}

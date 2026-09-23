@@ -1,0 +1,90 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36171",
+  "modified_at": "2026-09-01T10:02:33+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368661.pdf",
+        "created": "2026-08-18T13:26:05+02:00",
+        "date": "2026-08-18",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368661.pdf",
+        "fileName": "00368661.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368661",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-01T10:02:34+02:00",
+        "name": "02 Aufbauplan",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368662.pdf",
+        "created": "2026-08-18T13:26:05+02:00",
+        "date": "2026-08-18",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368662.pdf",
+        "fileName": "00368662.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368662",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-01T10:02:34+02:00",
+        "name": "09 LP",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368663.pdf",
+        "created": "2026-08-18T13:26:05+02:00",
+        "date": "2026-08-18",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368663.pdf",
+        "fileName": "00368663.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368663",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-01T10:02:34+02:00",
+        "name": "17 Antrag geschwärzt",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368664.pdf",
+        "created": "2026-08-18T13:26:49+02:00",
+        "date": "2026-08-18",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368664.pdf",
+        "fileName": "00368664.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368664",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-01T10:02:34+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141361",
+        "authoritative": true,
+        "created": "2026-08-21T15:14:44+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68505",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24789",
+        "modified": "2026-09-09T12:26:18+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/44"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36171",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-18T13:00:38+02:00",
+    "date": "2026-08-18",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36171",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-01T10:02:33+02:00",
+    "name": "Veranstaltung \"Familienfest IWM\" 26.09.-27.09.2026 auf dem Johannes-Rau-Platz",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/0974/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/6"
+    ]
+  }
+}

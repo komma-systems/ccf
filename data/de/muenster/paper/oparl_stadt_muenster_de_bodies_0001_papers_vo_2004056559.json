@@ -1,0 +1,98 @@
+{
+  "council_id": "muenster",
+  "record_type": "paper",
+  "source_id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056559",
+  "modified_at": "2026-08-26T09:17:51+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588038.pdf",
+        "created": "2026-08-12T08:35:25+02:00",
+        "date": "2026-08-12",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588038.pdf",
+        "fileName": "00588038.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588038",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-25T11:27:19+02:00",
+        "name": "Anlage 4 - Beschlussvorlage_WVG_Anteile und GV - WLE",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588039.pdf",
+        "created": "2026-08-12T08:35:26+02:00",
+        "date": "2026-08-12",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588039.pdf",
+        "fileName": "00588039.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588039",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-25T11:27:19+02:00",
+        "name": "Anlage 1 - WVG-Gesellschafterliste - Stand 31.12.2025",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588040.pdf",
+        "created": "2026-08-12T08:35:27+02:00",
+        "date": "2026-08-12",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588040.pdf",
+        "fileName": "00588040.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588040",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-25T11:27:19+02:00",
+        "name": "Anlage 2 - Synopse GV WVG",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588041.pdf",
+        "created": "2026-08-12T08:35:27+02:00",
+        "date": "2026-08-12",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588041.pdf",
+        "fileName": "00588041.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588041",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-25T11:27:19+02:00",
+        "name": "Anlage 3 - Beschlussvorlage_WVG_Anteile und GV - RVM",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588456.pdf",
+        "created": "2026-08-24T14:02:36+02:00",
+        "date": "2026-08-24",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588456.pdf",
+        "fileName": "00588456.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588456",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-25T11:27:19+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://oparl.stadt-muenster.de/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/287860",
+        "created": "2026-08-26T13:44:34+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91570",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14523",
+        "modified": "2026-09-14T16:31:22+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/523"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056559",
+        "role": "Vorberatung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-12T08:32:05+02:00",
+    "date": "2026-08-12",
+    "id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056559",
+    "modified": "2026-08-26T09:17:51+02:00",
+    "name": "Westfälische Verkehrsgesellschaft mbH (WVG): Erwerb von WVG-eigenen Geschäftsanteilen durch Regionalverkehr Münsterland GmbH (RVM) und Westfälische Landes-Eisenbahn GmbH (WLE); Änderung des Gesellschaftsvertrages der WVG",
+    "paperType": "Vorlagen",
+    "reference": "V/0445/2026",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "https://oparl.stadt-muenster.de/bodies/0001/organizations/at/100019"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/180511100034",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=180511100034%7C20151105145520.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=180511100034%7C20151105145520.pdf%7C",
+        "fileName": "20151105145520.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C180511100034%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/180511100034",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "f0c82c82b417e8a3b4dbbd62bb332dc2d8b86b58",
+        "size": 851962,
+        "text": "Gebührenbedarfsberechnung 2016 - Abfallentsorgung",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C180511100034%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6791",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2015-EUV-10",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2015-11-05",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/180511100034",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=180511100034&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=180511100034&id=69",
+      "fileName": "180511100034",
+      "id": "https://castroprauxel.gremien.info/oparl/file/180511100034",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2015/EUV/035",
+      "size": 148914,
+      "text": "Datum: 05.11.2015 TB III 9686-340 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 25.11.2015 TOP: I.5 Drucksache-Nr. 2015/EUV/035 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 25.11.2015 5 Betreff: Gebührenbedarfsberechnung 2016 - Abfallentsorgung Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € x nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt die Gebührenbedarfsberechnung 2016 Abfallentsorgung (Anlage 1) zur Kenntnis. Er beschließt, die Abfallgebühren nicht zu ändern. ________________________ Werner Vorstand Sachverhalt: Nach der anliegenden Gebührenbedarfsberechnung für das Jahr 2016 ergibt sich ein Preis je Liter Abfall von 1,87 € (VJ: 1,85 €). Eine Änderung der Abfallgebühr ist demnach nicht notwendig. Weiterer Bericht in der Sitzung.Gebührenbedarfsberechnung 2016 - Abfallentsorgung2015/EUV/035%anl%;Gebührenbedarfsberechnung 2016 - Abfallentsorgung Gebührenbedarfsberechnung 2016 - Abfallentsorgung ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Gebührenbedarfsberechnung 2016 - Abfallentsorgung",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2015/EUV/035",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-6",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-6%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-6",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-ABES-6%7C1%7C1",
+          "date": "2024-07-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-ABES-6%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-ABES-6%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 388090,
+          "text": "1 Fragestunde für Einwohnerinnen und Einwohner   Fr. Sperz fragt an, wer der/die Ansprechpartner*in für die Organisation und Gestaltung der Sportplätze in Castrop-Rauxel ist.  Fr. Stannek antwortet, dass die Zuständigkeit in ihren Bereich fällt und gibt ihre Kontaktdaten zur weiteren Klärung an Fr. Sperz weiter.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-6%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-6",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-ABES-6%7CProtokoll%7C1",
+          "date": "2024-07-02",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-ABES-6%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-ABES-6%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 371574,
+          "text": "2 Einwände gegen die letzte Niederschrift   Keine Einwände.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-6%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-6",
+        "name": "Bericht des Stadtteilvereins \"Unser Habinghorst e. V.\" - mündlicher Bericht",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-ABES-6%7Czt_0%7C1",
+          "date": "2024-07-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-ABES-6%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-ABES-6%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 403753,
+          "text": "3 Bericht des Stadtteilvereins  Unser Habinghorst e. V.  - mündlicher Bericht   SB Adil Tamouh stellt den Stadtteilverein Unser Habinghorst e. V. vor.  Er erklärt, dass der Verein nächstes Jahr 10 Jahre alt wird und über 50 Mitglieder verfügt und stellt die Aktivitäten des Vereins vor.  Hierzu zählen:  Essen mit Nachbarn,  Fahrradtouren mit Kinden,  Malwettbewerbe,  ein Erzählcafe,  ein 1-wöchiger Nähkurs,  Stadtteilspaziergänge, Trödelmarkt.  Er weist darauf hin, dass das nächste Sommerfest am 07.07.2024 stattfindet. Ende August ist ein kulinarisches Fest im Seniorengarten geplant.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-6%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-6",
+        "name": "Vorstellung Kompass - mündlicher Bericht",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-ABES-6%7Czt_1%7C1",
+          "date": "2024-07-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-ABES-6%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-ABES-6%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 395921,
+          "text": "4 Vorstellung Kompass - mündlicher Bericht   Frau Maxi Heyer von der Stabsstelle Bildung, Vielfalt und Teilhabe stellt den Kompass (https://www.guterstart.nrw.de/castrop-rauxel.suche) vor.  Sie erklärt, dass es sich hierbei um ein kostenfreies Angebot vom Kinder- und Jugendministerium handelt. Das Ziel der Seite ist es, alle Infos gebündelt für Kinder, Jugendliche und Familien auf einer Seite darzustellen. Für den Inhalt der Angebote sind die Erfasser zuständig, die Stadtverwaltung übernimmt den redaktionellen Part. Bisher sind laut Frau Heyer 114 Angebote verfügbar.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-ABES-6%7Czt_2%7C1%7C20240702085517-0_zt_2_1.pdf",
+            "date": "2024-07-02",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-ABES-6%7Czt_2%7C1%7C20240702085517-0_zt_2_1.pdf",
+            "fileName": "20240702085517-0_zt_2_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-ABES-6%7Czt_2%7C1%7C20240702085517-0_zt_2_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Zusammen im Quartier_Ausschuss für Bürgeranliegen",
+            "size": 2463405,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-6%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-6",
+        "name": "Zusammen im Quartier - mündlicher Bericht -",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-ABES-6%7Czt_2%7C1",
+          "date": "2024-07-02",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-ABES-6%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-ABES-6%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 399969,
+          "text": "5 Zusammen im Quartier - mündlicher Bericht -   Frau Teschlade von der Stabsstelle Bildung, Vielfalt und Teilhabe stellt das Projekt Zusammen im Quartier vor (siehe Anlage).  RM Frau Breilmann bittet darum, darüber nachzudenken, die Rundgänge sowie den Ausschuss später als 17:30 Uhr beginnen zu lassen.  Ausschussmitglied Herr Tamouh erwidert, dass dies aufgrund der Schließungszeiten der Geschäfte schwierig umzusetzen ist.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-ABES-6%7Czt_3%7C1%7C20240711095958-0_zt_3_1.pdf",
+            "date": "2024-07-11",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-ABES-6%7Czt_3%7C1%7C20240711095958-0_zt_3_1.pdf",
+            "fileName": "20240711095958-0_zt_3_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-ABES-6%7Czt_3%7C1%7C20240711095958-0_zt_3_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Fahrradstraße Lange Straße_Blatt 1",
+            "size": 5556002,
+            "type": "https://schema.oparl.org/1.0/File"
+          },
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-ABES-6%7Czt_3%7C1%7C20240711095959-1_zt_3_1.pdf",
+            "date": "2024-07-11",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-ABES-6%7Czt_3%7C1%7C20240711095959-1_zt_3_1.pdf",
+            "fileName": "20240711095959-1_zt_3_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-ABES-6%7Czt_3%7C1%7C20240711095959-1_zt_3_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Fahrradstraße Lange Straße_Blatt 2",
+            "size": 1109860,
+            "type": "https://schema.oparl.org/1.0/File"
+          },
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-ABES-6%7Czt_3%7C1%7C20240711100000-2_zt_3_1.pdf",
+            "date": "2024-07-11",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-ABES-6%7Czt_3%7C1%7C20240711100000-2_zt_3_1.pdf",
+            "fileName": "20240711100000-2_zt_3_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-ABES-6%7Czt_3%7C1%7C20240711100000-2_zt_3_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Fahrradstraße Lange Straße_Blatt 3",
+            "size": 1227906,
+            "type": "https://schema.oparl.org/1.0/File"
+          },
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-ABES-6%7Czt_3%7C1%7C20240711100000-3_zt_3_1.pdf",
+            "date": "2024-07-11",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-ABES-6%7Czt_3%7C1%7C20240711100000-3_zt_3_1.pdf",
+            "fileName": "20240711100000-3_zt_3_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-ABES-6%7Czt_3%7C1%7C20240711100000-3_zt_3_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Fahrradstraße Lange Straße_Blatt 4",
+            "size": 1302822,
+            "type": "https://schema.oparl.org/1.0/File"
+          },
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-ABES-6%7Czt_3%7C1%7C20240711100000-4_zt_3_1.pdf",
+            "date": "2024-07-11",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-ABES-6%7Czt_3%7C1%7C20240711100000-4_zt_3_1.pdf",
+            "fileName": "20240711100000-4_zt_3_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-ABES-6%7Czt_3%7C1%7C20240711100000-4_zt_3_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Fahrradstraße Lange Straße_Blatt 5",
+            "size": 1279537,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-6%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-6",
+        "name": "Fahrradstraße Lange Straße - mündlicher Bericht -",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-ABES-6%7Czt_3%7C1",
+          "date": "2024-07-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-ABES-6%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-ABES-6%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 409315,
+          "text": "6 Fahrradstraße Lange Straße - mündlicher Bericht -   Herr Werner vom EUV Stadtbetrieb berichtete über die derzeit laufenden Abstimmungen zur Umsetzung des Projektes Fahrradstraße Lange Straße. Bei der Umsetzung wird es erforderlich sein, (2,8 km) vorhandene Markierung, 75 Stück Piktogramme, 77 Stück Verkehrszeichen/Masten, 1400 qm Fahrbahnfläche zu demarkieren und 540 qm Reibeplastik (rot) aufzubringen.  Diese Maßnahmen sind erforderlich, um die in der Anlage beigefügte Übersicht der entsprechenden Neumarkierung der Fahrradstraße Lange Straße von der Habinghorster Straße bis zum Postplatz umzusetzen. Die entsprechenden Pläne sind mit dem Bereich Ordnungswesen und der Stadtentwicklung aber auch im Hinblick auf die Abstimmung im Zusammenhang mit der Förderung Soziale Stadt Habinghorst bei der Bezirksregierung abgestimmt.  Der Ausschuss begrüßt die Einrichtung der Fahrradstraße und bittet um weiteren Bericht im Rahmen der Umsetzung. Herr Werner teilt mit, dass die Maßnahme erst nach Freigabe des Haushaltes sowie bei offener Witterung (insbesondere Markierungsarbeiten) erfolgen kann. In diesem Zusammenhang wies er auf die Einrichtung einer Querungsmöglichkeit in Höhe Querstraße über die Habinghorster Straße (Mittelinsel) mittels Bordsteinabsenkung hin.  RM Frau Breilmann gibt an, dass die Ampelanlage auf der Römerstr. regelmäßig ausfällt. Herr Werner vom EUV Stadtbetrieb gibt dies an den Störungsdienst vom Landesbetrieb Straßenbau NRW weiter.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11198",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-6%7C350703100073%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-6",
+        "name": "Anliegenstatistik",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-ABES-6%7C350703100073%7C1",
+          "date": "2024-07-02",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-ABES-6%7C350703100073%7C1",
+          "fileName": "be_350703100073_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-ABES-6%7C350703100073%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 377933,
+          "text": "7 Anliegenstatistik (2024/074)   Der Ausschuss nimmt die Vorlage zur Kenntnis.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11199",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-6%7C351505100123%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-6",
+        "name": "Sportstatistik",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-ABES-6%7C351505100123%7C1",
+          "date": "2024-07-11",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-ABES-6%7C351505100123%7C1",
+          "fileName": "be_351505100123_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-ABES-6%7C351505100123%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 378033,
+          "text": "8 Sportstatistik (2024/120)   Der Ausschuss nimmt die Vorlage zur Kenntnis.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-6%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-6",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-ABES-6%7C6%7C1",
+          "date": "2024-07-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-ABES-6%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-ABES-6%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 394334,
+          "text": "9 Anfragen der Ausschussmitglieder   Ausschussmitglied Herr Strauß fragt an, ob der Verwaltung bekannt ist, dass es seitens der Bürger aus dem Stadtteil Habinghorst Bestrebungen gibt, den Sportplatz zu erhalten.  Frau Stannek antwortet, dass dies der Verwaltung nicht bekannt ist und es Gespräch gab und weiterhin Gespräche geben wird.  Ausschussmitglied Frau Parasseril gibt an, dass eine junge Person auf der Lange Straße ausgeraubt wurde und erkundigt sich nach der Gewährleistung der Sicherheit von Kindern.  Erste Beigeordnete Frau Kleff antwortet, dass die eins der Themen ist, die im Quartier in den Blick genommen werden und eine Zusammenarbeit mit Polizei, Streetworker und Ordnungsamt für notwendige zukünftige Maßnahmen erfolgt.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-6%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-6",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-ABES-6%7C4%7C1",
+          "date": "2024-07-02",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-ABES-6%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-ABES-6%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 367671,
+          "text": "10 Mitteilungen der Verwaltung   Keine Mitteilungen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-6%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-6",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-6%7C997%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-6",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2024-05-28T18:45:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-6",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-ABES-6",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-05-15",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2024-ABES-6",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2024-ABES-6",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "d9bd0f408c86a836cb8f49ef6fa2e35f08c5f179",
+      "size": 428855,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Fridtjof Nansen Realschule, Forum, Lange Str. 18, 44579 Castrop-Rauxel",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-6/location",
+      "locality": "Castrop-Rauxel",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "postalCode": "44579",
+      "room": "Fridtjof Nansen Realschule, Forum",
+      "streetAddress": "Lange Str. 18",
+      "subLocality": "Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschuss für Bürgeranliegen, Ehrenamt und Sport",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/ABES"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/389",
+      "https://castroprauxel.gremien.info/oparl/person/812",
+      "https://castroprauxel.gremien.info/oparl/person/1003",
+      "https://castroprauxel.gremien.info/oparl/person/906",
+      "https://castroprauxel.gremien.info/oparl/person/961",
+      "https://castroprauxel.gremien.info/oparl/person/963",
+      "https://castroprauxel.gremien.info/oparl/person/1072",
+      "https://castroprauxel.gremien.info/oparl/person/874",
+      "https://castroprauxel.gremien.info/oparl/person/1073",
+      "https://castroprauxel.gremien.info/oparl/person/39",
+      "https://castroprauxel.gremien.info/oparl/person/1208",
+      "https://castroprauxel.gremien.info/oparl/person/1052",
+      "https://castroprauxel.gremien.info/oparl/person/269",
+      "https://castroprauxel.gremien.info/oparl/person/1137"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-ABES-6",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-07-29",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-ABES-6",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-ABES-6",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 475691,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2024-05-28T17:30:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-ABES-6",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-07-29",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-ABES-6",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-ABES-6",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 475691,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

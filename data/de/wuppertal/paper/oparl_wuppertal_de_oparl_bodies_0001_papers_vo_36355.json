@@ -1,0 +1,60 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36355",
+  "modified_at": "2026-09-23T07:28:34+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370338.pdf",
+        "created": "2026-09-21T09:52:49+02:00",
+        "date": "2026-09-22",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370338.pdf",
+        "fileName": "00370338.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370338",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T07:28:34+02:00",
+        "name": "Antrag SPD",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141917",
+        "created": "2026-09-21T11:28:02+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68858",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24654",
+        "modified": "2026-09-21T12:13:02+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36355",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141918",
+        "created": "2026-09-21T11:28:45+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68859",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24543",
+        "modified": "2026-09-23T10:41:34+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36355",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-21T09:50:02+02:00",
+    "date": "2026-09-21",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36355",
+    "modified": "2026-09-23T07:28:34+02:00",
+    "name": "Gremienumbesetzung; Antrag der SPD-Fraktion",
+    "paperType": "Antrag SPD",
+    "reference": "VO/1142/26",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

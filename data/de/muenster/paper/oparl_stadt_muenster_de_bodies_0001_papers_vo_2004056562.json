@@ -1,0 +1,62 @@
+{
+  "council_id": "muenster",
+  "record_type": "paper",
+  "source_id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056562",
+  "modified_at": "2026-09-11T09:45:59+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588460.pdf",
+        "created": "2026-08-24T14:17:00+02:00",
+        "date": "2026-09-10",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588460.pdf",
+        "fileName": "00588460.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588460",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-11T09:45:59+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00589062.pdf",
+        "created": "2026-09-10T11:36:52+02:00",
+        "date": "2026-09-10",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00589062.pdf",
+        "fileName": "00589062.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/589062",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-11T09:45:59+02:00",
+        "name": "A_KS_0001_2021_A_KS_0001_2021",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://oparl.stadt-muenster.de/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/288673",
+        "created": "2026-09-10T13:33:01+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91750",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14493",
+        "modified": "2026-09-10T13:36:44+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/448"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056562",
+        "role": "Vorberatung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-12T15:16:32+02:00",
+    "date": "2026-08-31",
+    "id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056562",
+    "modified": "2026-09-11T09:45:59+02:00",
+    "name": "Anregung nach § 24 GO NRW \"Förderprogramm altersgerechte Wohngebäude\"",
+    "paperType": "Vorlagen",
+    "reference": "V/0448/2026",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "https://oparl.stadt-muenster.de/bodies/0001/organizations/at/100304"
+    ]
+  }
+}

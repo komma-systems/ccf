@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/131801100024",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-AUSLB-33%7C131801100024%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/4985",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-AUSLB-33",
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2012-01-18",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/131801100024",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=131801100024&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=131801100024&id=69",
+      "fileName": "131801100024",
+      "id": "https://castroprauxel.gremien.info/oparl/file/131801100024",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2012/024",
+      "size": 172596,
+      "text": "bereich stabsstelle integration 2012/024 öffentlich az: datum: 18.01.2012 sitzungsvorlage beratungsfolge datum top-nr. integrationsrat 01.02.2012 betreff aktueller stand projekt: potenziale der migrantenökonomie in castrop-rauxel finanzielle auswirkungen x keine haushaltsmäßige berührung auswirkungen siehe sachverhalt beschlussvorschlag der integrationsrat nimmt den bericht und die informationen zur kenntnis johannes beisenherz bürgermeister sachverhalt die integrationsbeauftragte frau ayla dalkilinc berichtet über den aktuellen stand des projektes und informiert über die anstehenden veranstaltungen.aktueller stand projekt:potenziale der migrantenökonomie in castrop-rauxel2012/024%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Aktueller Stand Projekt: 'Potenziale der Migrantenökonomie in Castrop-Rauxel'",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2012/024",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

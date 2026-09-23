@@ -1,0 +1,465 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C101%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Konsensliste",
+        "number": "2",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Anträge nach § 24 GO NRW",
+        "number": "3",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17469",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C402708100215%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Bürgerantrag gemäß §24 GO NRW vom 10.08.2026_ Ordnungsgeld nach Falschparken",
+        "number": "3.1",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17511",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C401009100245%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Bürgerantrag gemäß § 24 GO NRW_Raserei in der Bladenhorster Straße",
+        "number": "3.2",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17512",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C401009100246%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Bürgerantrag gemäß § 24 GO NRW_Notfall-Programm gegen Überhitzung",
+        "number": "3.3",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17510",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400709100234%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Zukünftige interkommunale Zusammenarbeit der Feuerwehren der Städte Castrop-Rauxel, Datteln und Waltrop - gemeinsame Absichtserklärung",
+        "number": "4",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17466",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C401408100212%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Öffentlich-rechtliche Vereinbarung über die gegenseitige Unterstützung der\r\nFeuerwehren Castrop-Rauxel und Waltrop in stadtgrenznahen Randgebieten",
+        "number": "5",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17521",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400209100221%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Abberufung der von der Sparkasse Vest Recklinghausen in den Aufsichtsrat der FORUM Castrop-Rauxel Betriebsgesellschaft mbH entsandten Mitglieder\r\nhier: Genehmigung einer gemäß § 60 Abs. 1 S. 2 GO NRW getroffenen Dringlichkeitsentscheidung",
+        "number": "6",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17526",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400209100219%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Zusammenführung der FORUM Castrop-Rauxel Betriebsgesellschaft mbH und der Wirtschaft & Marketing Castrop-Rauxel GmbH (neue Firma: Wirtschaft & Events Castrop-Rauxel GmbH)",
+        "number": "7",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17528",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400209100220%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Vertretung der Stadt Castrop-Rauxel in der Gesellschafterversammlung und im Aufsichtsrat der Wirtschaft & Events Castrop-Rauxel GmbH",
+        "number": "8",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17524",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C402707100206%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Inanspruchnahme der \"Größenabhängigen Befreiungen\" von der Verpflichtung zur Aufstellung eines kommunalen Gesamtabschlusses für das Haushaltsjahr 2025 (§ 116a GO NRW)",
+        "number": "9",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17581",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400909100243%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Umsetzung des Gesetzes über den Nordrhein-Westfalen-Plan für gute Infrastruktur 2025 bis 2036 (NRW-Infrastrukturgesetz 2025 bis 2036); hier: Entwurf einer \"Dynamischen Projektliste\"",
+        "number": "10",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17584",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C401109100247%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Neubau Feuer- und Rettungswache (FURCAS): Sachstand",
+        "number": "11",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17532",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400909100241%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Neuwahl von zwei stellvertretenden Mitgliedern des Verwaltungsrates des EUV Stadtbetrieb Castrop-Rauxel - Anstalt des öffentlichen Rechts",
+        "number": "12",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17533",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400709100232%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Rettungsdienstgebühren - Gebührenkalkulation 2026 und Neufassung der Gebührensatzung zum 01.07.2026",
+        "number": "13",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17583",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C401409100249%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Annahme der landesweiten Übergangslösung zur Behandlung von Fehlfahrten und Fehleinsätzen im Rettungsdienst für das Gebührenjahr 2026",
+        "number": "14",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17530",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400709100236%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Fortsetzung und Ausweitung des Betreuungsangebotes \"Übermittagsbetreuung\" an Grundschulen der Stadt Castrop-Rauxel und Anpassung der Elternbeitragssatzung",
+        "number": "15",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17468",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C401908100213%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Tätigkeitsbericht zur SiKo Ruhr (Stand: August 2026)",
+        "number": "16",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17492",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400709100225%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Gemeinsamer Antrag der SPD- und CDU-Fraktion vom 05.09.2026_Kommunaler Ordnungsdienst",
+        "number": "17",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17576",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C403006100193%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Antrag der SPD-Ratsfraktion vom 30.06.2026 zur Gesundheitsversorgung in Castrop-Rauxel zukunftssicher, wohnortnah, sozial, gerecht und vernetzt gestalten",
+        "number": "18",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17508",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400909100242%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Antrag AFD-Ratsfraktion vom 08.09.2026 - Bedarfsanalyse zur Weiterentwicklung der Öffnungszeiten der Kinder- und Jugendzentren in Castrop-Rauxel",
+        "number": "19",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17500",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400709100238%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Antrag B90/Die Grünen-Ratsfraktion vom 07.09.2026 - \"Luisa ist hier!\" nach Castrop-Rauxel bringen",
+        "number": "20",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17502",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400709100239%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Antrag B90/Die Grünen-Ratsfraktion vom 07.09.2026 Beteiligung am Förderprogramm \"Coole KiTas\"",
+        "number": "21",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17490",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400709100231%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Antrag der Ratsfraktion Bündnis 90/ Die Grünen vom 07.09.2026 - Klimaangepasste Sanierung des Altstadtpflasters",
+        "number": "22",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17494",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400709100233%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Antrag der Fraktion Bündnis90/Die Grünen vom 05.09.2026: Anpassung der Bäderordnung zum Verbot von Brillen mit integrierter Videokamera",
+        "number": "23",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17496",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400709100235%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Antrag der CDU-Fraktion vom 05.09.2026: Beauftragung der Verwaltung, die möglichen Maßnahmenvorschläge der Deutschen Gesellschaft für das Bäderwesen, die in der letzten B3-Sitzung vorgesellt wurden, auf Umsetzbarkeit für das Parkbad Nord zu überprüfen.",
+        "number": "24",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17504",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400809100240%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Gemeinsamer Antrag der SPD-Fraktion und der CDU-Fraktion vom 07.09.2026: Prüfung der Entwicklung von Freiflächen-Photovoltaikprojekten in Castrop-Rauxel",
+        "number": "25",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17465",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C401208100211%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Sachstandsbericht zu der Konzeptstudie zur Erarbeitung des KRiS-Gestaltungsraumes \"Links und Rechts der Emscher\"",
+        "number": "26",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17477",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400709100224%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Antrag der SPD- und CDU- Ratsfraktion vom 07.09.2026 - Ganzheitliches Entwicklungskonzept für den Neuroder Platz - Ökologie, Aufenthaltsqualität und Parkraumsicherung Hand in Hand",
+        "number": "27",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17479",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400709100226%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Antrag der SPD- und CDU- Ratsfraktion vom 07.09.2026 - Strategische Bekämpfung von Hitze- und Starkregen- Hotspots in der Innenstadt unter Nutzung von Fördermitteln von Bund und Land",
+        "number": "28",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17483",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400709100228%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Antrag der SPD- und CDU- Ratsfraktion vom 07.09.2026 - Umsetzung der Verkehrsplanung und des Mobilitätshubs in der nordwestlichen Innenstadt unter Einbeziehung von Fördermitteln",
+        "number": "29",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17485",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400709100229%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Antrag der Ratsfraktion Bündnis 90/ Die Grünen vom 07.09.2026 - Umgestaltung des Neuroder Platzes",
+        "number": "30",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17588",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400709100227%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Gemeinsamer Antrag der SPD-Fraktion und der CDU-Fraktion_Einsatz von KI in der Verwaltung der Stadt Castrop-Rauxel",
+        "number": "31",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17487",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400709100230%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Gemeinsamer Antrag der SPD-Fraktion und der CDU-Fraktion_Prüfung der Weiterentwicklung des Hauses der Wirtschaft zu einem Start-up- und Gründercampus",
+        "number": "32",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17519",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C401509100250%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Antrag Bündnis 90 / Die Grünen Ratsfraktion vom 14.09.2026_Digitalisierung und Aufwertung des Beschlusscontrolling",
+        "number": "33",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17579",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C401609100252%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Weiteres Vorgehen auf der Industriebrache ehem. Steinkohlekraftwerk Rauxel",
+        "number": "34",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17509",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C400409100223%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Beirat für Kunst und Stadtgestaltung der Stadt Castrop-Rauxel \r\nhier: Berufung des Fachmitglieds Landschaftsarchitekt*in",
+        "number": "35",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C102%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Ausschussumbesetzungen",
+        "number": "36",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17463",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C402807100208%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Umbesetzung des Jugendhilfeausschusses",
+        "number": "36.1",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17520",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C401509100251%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Ausschussumbesetzung der AfD-Fraktion",
+        "number": "36.2",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17586",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C402209100254%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Ausschussumbesetzungen der Gruppe BSW",
+        "number": "36.3",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Anfragen der Ratsmitglieder",
+        "number": "37",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "38",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C3%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Anfragen der Ratsmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-RAT-164%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-09-24T00:00:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=2026-RAT-164",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-09-16",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=2026-RAT-164",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2026-RAT-164",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "99c3ab708b06f3be7d121b5a5ce8e6b834e6eab4",
+      "size": 226697,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/2026-RAT-164/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "eingeladen",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Rates der Stadt",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ],
+    "organization_active_1": "1",
+    "start": "2026-09-24T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting"
+  }
+}

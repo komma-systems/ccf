@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/180911100038",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=180911100038%7C20151109150316.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=180911100038%7C20151109150316.pdf%7C",
+        "fileName": "20151109150316.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C180911100038%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/180911100038",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "43829fc1aa2a4025c4be8e257525136a3c35acf1",
+        "size": 617195,
+        "text": "Kreislaufwirtschafts- und Abfallsatzung 2016",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C180911100038%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6775",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2015-EUV-10",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2015-11-09",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/180911100038",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=180911100038&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=180911100038&id=69",
+      "fileName": "180911100038",
+      "id": "https://castroprauxel.gremien.info/oparl/file/180911100038",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2015/EUV/039",
+      "size": 137967,
+      "text": "Datum: 09.11.2015 TB III 9686-340 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 25.11.2015 TOP: I.4 Drucksache-Nr. 2015/EUV/039 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 25.11.2015 4 Rat der Stadt 26.11.2015 Betreff: Erlass einer Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel (Kreislaufwirtschafts- und Abfallsatzung) Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € x nein Förderung € Beschlussvorschlag: Der Verwaltungsrat beschließt die als Anlage 1 beigefügte Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel (Kreislaufwirtschafts- und Abfallsatzung). ________________________ Werner Vorstand Sachverhalt: Die Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel wurde in einzelnen Regelungen und redaktionellen Änderungen angepasst. Insbesondere soll zukünftig die Verwendung von Müllschleusen nicht mehr zulässig sein. Weiterhin wurden Regelungen zur missbräuchlichen Nutzung von Müllbehältern getroffen sowie zur Gebührenpflicht bei Fehlbefüllungen. Gemäß § 5 Abs. 2 Ziffer 1 der Kommunalunternehmenssatzung ist der Verwaltungsrat für den Erlass von Satzungen im Rahmen des übertragenen Aufgabenbereiches zuständig. Bezüglich des Erlasses von Satzungen hat der Rat der Stadt Castrop-Rauxel gem. § 9 Abs. 1 der o. g. Satzung ein Weisungsrecht. Vor der öffentlichen Bekanntmachung der Satzung ist somit die vom Verwaltungsrat beschlossene Satzung vom Rat der Stadt zu billigen. Weiterer Bericht in der Sitzung.Erlass einer Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel (Kreislaufwirtschafts- und Abfallsatzung)2015/EUV/039%anl%;Kreislaufwirtschafts- und Abfallsatzung 2016 Kreislaufwirtschafts- und Abfallsatzung 2016 ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Erlass einer Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel (Kreislaufwirtschafts- und Abfallsatzung)",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2015/EUV/039",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

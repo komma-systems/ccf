@@ -1,0 +1,87 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36111",
+  "modified_at": "2026-08-26T16:24:52+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367869.pdf",
+        "created": "2026-07-29T15:07:56+02:00",
+        "date": "2026-08-18",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367869.pdf",
+        "fileName": "00367869.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367869",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-26T16:24:53+02:00",
+        "name": "Antwort auf Anfragen",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368607.pdf",
+        "created": "2026-08-18T09:43:13+02:00",
+        "date": "2026-08-18",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368607.pdf",
+        "fileName": "00368607.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368607",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-26T16:24:52+02:00",
+        "name": "Anlage 02 - Antwort auf Anfrage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368608.pdf",
+        "created": "2026-08-18T09:43:54+02:00",
+        "date": "2026-08-18",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368608.pdf",
+        "fileName": "00368608.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368608",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-26T16:24:52+02:00",
+        "name": "Anlage 01 - Große Anfrage der Fraktion WFW/FDP",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368609.pdf",
+        "created": "2026-08-18T09:45:22+02:00",
+        "date": "2026-08-18",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368609.pdf",
+        "fileName": "00368609.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368609",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-26T16:24:52+02:00",
+        "name": "Anlage 03 - Protokollauszug",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141299",
+        "authoritative": true,
+        "created": "2026-08-17T11:26:36+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68389",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24690",
+        "modified": "2026-09-02T17:17:17+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/272"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36111",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-29T15:02:58+02:00",
+    "date": "2026-08-07",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36111",
+    "modified": "2026-08-26T16:24:52+02:00",
+    "name": "Zukunft des Grundstücks Obere Lichtenplatzer Straße - Gründe für die Aussetzung und weiteres Vorgehen der Verwaltung",
+    "paperType": "Antwort auf Anfragen",
+    "reference": "VO/0918/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/49"
+    ]
+  }
+}

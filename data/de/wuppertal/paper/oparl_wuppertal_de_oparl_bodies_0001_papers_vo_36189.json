@@ -1,0 +1,66 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36189",
+  "modified_at": "2026-08-26T16:26:01+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368771.pdf",
+        "created": "2026-08-20T12:13:27+02:00",
+        "date": "2026-08-24",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368771.pdf",
+        "fileName": "00368771.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368771",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-26T16:26:02+02:00",
+        "name": "Bericht",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368793.pdf",
+        "created": "2026-08-20T15:15:44+02:00",
+        "date": "2026-08-20",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368793.pdf",
+        "fileName": "00368793.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368793",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-26T16:26:02+02:00",
+        "name": "Anlage 01 Bericht 2. Quartal 2026",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141379",
+        "authoritative": true,
+        "created": "2026-08-24T12:37:19+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68537",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24690",
+        "modified": "2026-09-15T08:24:50+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/272"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36189",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-20T12:10:33+02:00",
+    "date": "2026-08-20",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36189",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-08-26T16:26:01+02:00",
+    "name": "II. Quartalsbericht 2026 KIJU",
+    "paperType": "Bericht",
+    "reference": "VO/0989/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/52"
+    ]
+  }
+}

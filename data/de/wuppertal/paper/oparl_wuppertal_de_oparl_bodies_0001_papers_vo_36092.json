@@ -1,0 +1,165 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36092",
+  "modified_at": "2026-08-24T07:23:48+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367765.pdf",
+        "created": "2026-07-21T16:10:15+02:00",
+        "date": "2026-08-07",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367765.pdf",
+        "fileName": "00367765.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367765",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-18T09:56:23+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368319.pdf",
+        "created": "2026-08-04T12:02:47+02:00",
+        "date": "2026-08-04",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368319.pdf",
+        "fileName": "00368319.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368319",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-18T09:56:23+02:00",
+        "name": "Anlage 01 - Geltungsbereich",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368320.pdf",
+        "created": "2026-08-04T12:05:42+02:00",
+        "date": "2026-08-04",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368320.pdf",
+        "fileName": "00368320.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368320",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-18T09:56:23+02:00",
+        "name": "Anlage 04 - Fassadenpläne Planteil 1",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368321.pdf",
+        "created": "2026-08-04T12:05:43+02:00",
+        "date": "2026-08-04",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368321.pdf",
+        "fileName": "00368321.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368321",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-18T09:56:23+02:00",
+        "name": "Anlage 04 - Fassadenpläne Planteil 2",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368423.pdf",
+        "created": "2026-08-06T16:50:05+02:00",
+        "date": "2026-08-06",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368423.pdf",
+        "fileName": "00368423.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368423",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-18T09:56:23+02:00",
+        "name": "Anlage 03 - Begründung",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368424.pdf",
+        "created": "2026-08-06T16:50:24+02:00",
+        "date": "2026-08-06",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368424.pdf",
+        "fileName": "00368424.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368424",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-18T09:56:23+02:00",
+        "name": "Anlage 02 - Satzung",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368459.pdf",
+        "created": "2026-08-12T07:30:54+02:00",
+        "date": "2026-08-12",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368459.pdf",
+        "fileName": "00368459.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368459",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-18T09:56:23+02:00",
+        "name": "Anlage 05 - Geltungsbereich der Aufhebungen",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141189",
+        "authoritative": true,
+        "created": "2026-08-06T09:08:35+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68351",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24585",
+        "modified": "2026-09-03T06:27:16+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/42"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36092",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141415",
+        "created": "2026-08-25T09:22:44+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68352",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24738",
+        "modified": "2026-09-21T11:33:52+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/279"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36092",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141712",
+        "created": "2026-09-09T10:44:30+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68353",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24654",
+        "modified": "2026-09-21T12:13:02+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36092",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141833",
+        "created": "2026-09-16T08:46:01+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68354",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24543",
+        "modified": "2026-09-23T10:41:34+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36092",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-21T15:51:37+02:00",
+    "date": "2026-08-06",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36092",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-08-24T07:23:48+02:00",
+    "name": "Gestaltungs- und Erhaltungssatzung - Kaiserstraße / Vohwinkeler Straße -",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/0899/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/82"
+    ]
+  }
+}

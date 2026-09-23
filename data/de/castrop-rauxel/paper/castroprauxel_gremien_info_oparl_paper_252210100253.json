@@ -1,0 +1,74 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/252210100253",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=252210100253%7C20191023092749.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-10-23",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=252210100253%7C20191023092749.pdf%7C",
+        "fileName": "20191023092749.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C252210100253%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/252210100253",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "35448508bb9a3d87b5b503dd62418c8690466e2a",
+        "size": 997020,
+        "text": "Anlage 1 - Übersichtsskizze zum Geltungsbereich",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-UMWA-93%7C252210100253%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8615",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-UMWA-93",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-B3-93%7C252210100253%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8616",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-B3-93",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-10-22",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/252210100253",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=252210100253&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=252210100253&id=69",
+      "fileName": "252210100253",
+      "id": "https://castroprauxel.gremien.info/oparl/file/252210100253",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/242",
+      "size": 154701,
+      "text": " Bereich Stadtplanung und Bauordnung 2019/242 öffentlich  Az: 60-20-009   Datum: 22.10.2019    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Umweltausschuss 19.11.2019   Betriebsausschuss 3 (Bauen, Verkehr und Sport) 21.11.2019    Betreff  9. Änderung des Flächennutzungsplans Planbereich Südlich der Recklinghauser Straße hier: Beschluss zur Einleitung der 9. Änderung des Flächennutzungsplans nach § 2 Abs. 1 BauGB  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Der Betriebsausschuss 3 beschließt, die Änderung des Flächennutzungsplans für den Planbereich Südlich der Recklinghauser Straße einzuleiten.  Der räumliche Geltungsbereich der 9. Änderung des Flächennutzungsplans ist in der zum Beschluss gehörenden Anlage 1 dargestellt.  \f  \fLenort\u000bTechnische Beigeordnete \f  Sachverhalt  Planbereich Der Planbereich der 9. Flächennutzungsplanänderung liegt im Stadtteil Habinghorst und umfasst die folgenden Bereiche südlich der Recklinghauser Straße: Teilbereich der Fläche des Supermarkts, Sportplatz des Vereins VfB Habinghorst sowie den östlich an den Sportplatz angrenzenden Park (sog. Nordlager). Der räumliche Geltungsbereich der 9. Änderung des Flächennutzungsplans ist in der zum Beschluss gehörenden Anlage 1 dargestellt.  Planungsanlass und -erfordernis Über die 9. Änderung des Flächennutzungsplanes soll dieser an die folgenden für den unter Punkt 1. angeführten Planbereich veränderten Entwicklungsziele angepasst werden, die parallel über den Bebauungsplan Nr. 257 planungsrechtlich gesichert werden sollen: So ist für eine geordnete Weiterentwicklung und langfristige Sicherung des im Plangebiet ansässigen Supermarktes die Festsetzung des Standortes als sonstiges Sondergebiet gem. § 11 Abs. 3 BauNVO vorgesehen. Der angrenzende Sportplatz und ggf. Teile des Nordlagers sollen zudem bedarfsgerecht für eine Wohnnutzung entwickelt werden. Aufgrund der städtebaulich integrierten Lage des Sportplatzes mit bereits vorhandenen Wohnstrukturen im näheren Umfeld sowie den angrenzenden Freiflächen des Nordlagers bietet der Bereich optimale Voraussetzungen für die Entwicklung eines attraktiven Wohnquartiers. Über die Sicherung des Supermarkts werden zudem wichtige Voraussetzungen für langfristig funktionierende Versorgungsstrukturen im Stadtgebiet geschaffen (siehe Vorlage 2019/243).  Im Flächennutzungsplan 2025 (FNP 2025) der Stadt Castrop-Rauxel wird der Standort des Supermarktes derzeit noch als Wohnbaufläche dargestellt. Der Sportplatz und das Nordlager werden als Grünfläche mit der Zweckbestimmung Sportplatz bzw. Parkanlage dargestellt. Aufgrund der geänderten Entwicklungsvorstellungen für diese Flächen ist der Flächennutzungsplan entsprechend anzupassen.  Inhalte und Auswirkungen der Planung Gemäß den o. g. Entwicklungszielen soll der bislang als Wohnbaufläche dargestellte Standort des Supermarktes als Sonderbaufläche und der Sportplatz anstatt der Grünfläche in eine Wohnbaufläche geändert werden. Ob und in welchem Umfang das Nordlager ebenfalls für eine wohnbauliche Entwicklung in Anspruch genommen werden soll, wird im Rahmen des Bauleitplanverfahrens geprüft.  Die umweltbezogenen Auswirkungen der 9. Änderung des Flächennutzungsplanes werden im Rahmen der Umweltprüfung abgearbeitet. Das Ergebnis der Umweltprüfung wird in einem Umweltbericht, der separater Bestandteil der Begründung zu dieser FNP-Änd-erung sein wird, ausführlich beschrieben. Zum Untersuchungsgegenstand gehören dabei auch die klimabezogenen Auswirkungen der Planung.  Der Vorhabenträger übernimmt für den Teilbereich des Supermarkts sämtliche Planungskosten sowie die Kosten der für diesen Bereich ggf. notwendigen Fachgutachten (z.B. Einzelhandelsgutachten). Hierzu ist im Vorfeld eine vertragliche Vereinbarung mit dem Vorhabenträger abzuschließen.  Die im Zusammenhang mit den städtischen Entwicklungsflächen entstehenden Kosten für die bauleitplanerischen Leistungen sowie ggf. einzuholende Fachgutachten sind über den städtischen Haushalt zu leisten. Mit der 9. Änderung des Flächennutzungsplanes ist zudem ein entsprechender Personalaufwand verbunden.  Verfahrensablauf Die 9. Änderung des Flächennutzungsplans und die Aufstellung des Bebauungsplans \u000bNr. 257, Planbereich Südlich der Recklinghauser Straße werden im weiteren Verfahrensverlauf gemäß § 8 Abs. 3 BauGB gleichzeitig durchgeführt (Parallelverfahren). Zudem erfolgt die 9. Änderung des Flächennutzungsplanes im Normalverfahren nach \u000b§ 2 BauGB.  Nach dem Beschluss zur 9. Änderung des Flächennutzungsplanes durch den Betriebsausschuss 3 erfolgt zunächst die Erarbeitung des Vorentwurfs. Die nächsten Verfahrensschritte sind die frühzeitige Öffentlichkeitsbeteiligung nach § 3 Abs. 1 BauGB sowie die frühzeitige Beteiligung der Behörden und Träger öffentlicher Belange nach § 4 Abs. 1 BauGB.  Im Anschluss ist die Beschlussfassung über den Bebauungsplanentwurf sowie die öffentliche Auslegung und Beteiligung der Behörden und sonstigen Träger öffentlicher Belange vorgesehen.  Anlagen  Anlage 1: Übersichtsskizze zum Geltungsbereich       Mitzeichnung 12 67         \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "9. Änderung des Flächennutzungsplans\r\nPlanbereich „Südlich der Recklinghauser Straße“\r\nhier: Beschluss zur Einleitung der 9. Änderung des Flächennutzungsplans nach § 2 Abs. 1 BauGB",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/242",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ]
+  }
+}

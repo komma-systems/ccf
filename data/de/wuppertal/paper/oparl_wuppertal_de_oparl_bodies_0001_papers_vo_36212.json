@@ -1,0 +1,89 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36212",
+  "modified_at": "2026-09-08T10:54:46+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369034.pdf",
+        "created": "2026-08-27T13:15:04+02:00",
+        "date": "2026-09-07",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369034.pdf",
+        "fileName": "00369034.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369034",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T10:54:47+02:00",
+        "name": "Antwort auf Anfragen",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369605.pdf",
+        "created": "2026-09-07T16:15:33+02:00",
+        "date": "2026-09-07",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369605.pdf",
+        "fileName": "00369605.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369605",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T10:54:46+02:00",
+        "name": "Anlage 1 - Projektstatus gef Ausbau 2026-08",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369606.pdf",
+        "created": "2026-09-07T16:15:34+02:00",
+        "date": "2026-09-07",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369606.pdf",
+        "fileName": "00369606.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369606",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T10:54:46+02:00",
+        "name": "Anlage 2 - Beschlussvorlage-VO-0686-17",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369607.pdf",
+        "created": "2026-09-07T16:15:34+02:00",
+        "date": "2026-09-07",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369607.pdf",
+        "fileName": "00369607.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369607",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T10:54:46+02:00",
+        "name": "Anlage 3 - Argumentative Betrachtung Betreibermodell",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141517",
+        "created": "2026-08-28T10:32:49+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68576",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24642",
+        "modified": "2026-09-23T17:40:21+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/275"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36212",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-25T09:19:41+02:00",
+    "date": "2026-08-28",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36212",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-08T10:54:46+02:00",
+    "name": "Stand des geförderten Glasfaserausbaus in Wuppertal; Große Anfrage der SPD-Ratsfraktion vom 01.07.2026",
+    "paperType": "Antwort auf Anfragen",
+    "reference": "VO/0859/26/1-A",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/28"
+    ]
+  }
+}

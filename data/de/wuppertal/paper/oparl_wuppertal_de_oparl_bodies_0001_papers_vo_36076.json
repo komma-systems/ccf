@@ -1,0 +1,51 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36076",
+  "modified_at": "2026-07-13T11:19:17+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367526.pdf",
+        "created": "2026-07-13T11:03:27+02:00",
+        "date": "2026-07-13",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367526.pdf",
+        "fileName": "00367526.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367526",
+        "mimeType": "application/pdf",
+        "modified": "2026-07-13T11:19:17+02:00",
+        "name": "Antwort auf Anfragen",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141090",
+        "authoritative": true,
+        "created": "2026-07-13T11:19:29+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68324",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24542",
+        "modified": "2026-09-04T07:44:20+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36076",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-13T10:59:29+02:00",
+    "date": "2026-07-13",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36076",
+    "modified": "2026-07-13T11:19:17+02:00",
+    "name": "Auskunft zu Personal- und Haushaltsmitteln für den Bereich sexuelle Vielfalt (LGBTIQA+)",
+    "paperType": "Antwort auf Anfragen",
+    "reference": "VO/0862/26/1-A",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/40"
+    ]
+  }
+}

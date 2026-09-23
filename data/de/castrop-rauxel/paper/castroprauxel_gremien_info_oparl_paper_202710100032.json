@@ -1,0 +1,97 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/202710100032",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=202710100032%7C20161107110700.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2016-11-07",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=202710100032%7C20161107110700.pdf%7C",
+        "fileName": "20161107110700.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C202710100032%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/202710100032",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "0fdb209d3b799f046e146aafed56509e4c084991",
+        "size": 853012,
+        "text": "Gebührenbedarfsberechnung 2017, Abfallentsorgung",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=202710100032%7C20161107110719.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2016-11-07",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=202710100032%7C20161107110719.pdf%7C",
+        "fileName": "20161107110719.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C202710100032%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/202710100032",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "799dd7441557c2e366a90a25c0dd88a856ca2f8c",
+        "size": 441795,
+        "text": "Gebührensatzung zur Kreislaufwirtschaftssatzung 2017",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=202710100032%7C20161107110733.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2016-11-07",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=202710100032%7C20161107110733.pdf%7C",
+        "fileName": "20161107110733.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C202710100032%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/202710100032",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "8ba287a37d22ac36b9ad83275ad836d51ef9d69a",
+        "size": 252706,
+        "text": "Synopse zur Gebührensatzung zur Kreislaufwirtschafts- und Abfallsatzung",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-15%7C202710100032%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7219",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2016-EUV-15",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2016-10-27",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/202710100032",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=202710100032&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=202710100032&id=69",
+      "fileName": "202710100032",
+      "id": "https://castroprauxel.gremien.info/oparl/file/202710100032",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2016/EUV/033",
+      "size": 154828,
+      "text": "Datum: 27.10.2016 TB I 96 86 340 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 23.11.2016 TOP: I.5 Drucksache-Nr. 2016/EUV/033 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 23.11.2016 5 Rat der Stadt 24.11.2016 29 Betreff: Gebührenbedarfsberechnung 2017 - Abfallentsorgung und Erlass einer Gebührensatzung zur Kreislaufwirtschafts- und Abfallsatzung Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt die Gebührenbedarfsberechnung 2017 „Abfallentsorgung“ (Anlage 1) zur Kenntnis und beschließt die als Anlage 2 beigefügte Gebührensatzung zur Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel. ________________________ Werner Sachverhalt: Nach der anliegenden Gebührenbedarfsberechnung für das Jahr 2017 ergibt sich ein Preis je Liter Abfall von 1,87 € (VJ: 1,85 €). Eine Änderung der Abfallentsorgungsgebühr ist demnach nicht notwendig. Gleichwohl ist aufgrund verschiedener Änderungen im Zusammenhang mit der ebenfalls neu zu beschließenden Satzung über die Kreislaufwirtschaft- und Abfallentsorgung in der Stadt Castrop-Rauxel der Erlass einer neuen Gebührensatzung zur Kreislaufwirtschafts- und Abfallentsorgung erforderlich. Die Änderungen sind durch die beigefügte Synopse gegenübergestellt. Gemäß § 5 Abs. 2 Ziffer 7 der Kommunalunternehmenssatzung ist der Verwaltungsrat für den Erlass von Satzungen im Rahmen der übertragenen Aufgabenbereiche zuständig. Gemäß § 9 Abs. 2 der Kommunalunternehmenssatzung bedürfen Entscheidungen von grundsätzlicher Bedeutung der Zustimmung des Rates. Vor öffentlicher Bekanntmachung ist somit die vom Verwaltungsrat beschlossene Gebührensatzung noch vom Rat der Stadt Castrop-Rauxel zu billigen. Weiterer Bericht in der Sitzung. Anlagen (Gebührenbedarfsberechnung, Satzung und Synopse)Gebührenbedarfsberechnung 2017 - Abfallentsorgung undErlass einer Gebührensatzung zur Kreislaufwirtschafts- und Abfallsatzung2016/EUV/033%anl%;Gebührenbedarfsberechnung 2017, Abfallentsorgung Gebührenbedarfsberechnung 2017, AbfallentsorgungGebührensatzung zur Kreislaufwirtschaftssatzung 2017 Gebührensatzung zur Kreislaufwirtschaftssatzung 2017Synopse zur Gebührensatzung zur Kreislaufwirtschafts- und Abfallsatzung Synopse zur Gebührensatzung zur Kreislaufwirtschafts- und Abfallsatzung ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Gebührenbedarfsberechnung 2017 - Abfallentsorgung und \r\nErlass einer Gebührensatzung zur Kreislaufwirtschafts- und Abfallsatzung",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2016/EUV/033",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

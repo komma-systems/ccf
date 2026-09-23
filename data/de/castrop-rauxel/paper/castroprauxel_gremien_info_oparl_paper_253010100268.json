@@ -1,0 +1,90 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/253010100268",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=253010100268%7C20191030094542.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-10-30",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=253010100268%7C20191030094542.pdf%7C",
+        "fileName": "20191030094542.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C253010100268%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/253010100268",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "8b615565b300e205aff846bcf8038411ebbe407b",
+        "size": 225284,
+        "text": "Antrag FWI Einrichtung neuer Basketballplätze",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-JHA-79%7C253010100268%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8636",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-JHA-79",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/JHA"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-B3-93%7C253010100268%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8671",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-B3-93",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-RAT-115%7C253010100268%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8672",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-RAT-115",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-10-30",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/253010100268",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=253010100268&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=253010100268&id=69",
+      "fileName": "253010100268",
+      "id": "https://castroprauxel.gremien.info/oparl/file/253010100268",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/255",
+      "size": 40673,
+      "text": " Bereich Jugendförderung 2019/255 öffentlich  Az:     Datum: 30.10.2019    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Jugendhilfeausschuss 14.11.2019 10  Betriebsausschuss 3 (Bauen, Verkehr und Sport) 21.11.2019 19  Rat der Stadt 28.11.2019    Betreff  Antrag FWI Fraktion vom 22.10.2019: Einrichtung von Basketball Käfigen/Plätzen in Castrop-Rauxel  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  Die Verwaltung wird beauftragt, die Umsetzung des Antrages der FWI Fraktion vom 22.10.2019 zur Einrichtung von Basketball Käfigen/Plätzen zu prüfen.  \f  \f gez. Annette Korte Fraktionsvorsitzende        Sachverhalt  Siehe Anlage   \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Antrag FWI Fraktion vom 22.10.2019: Einrichtung von Basketball Käfigen/Plätzen in Castrop-Rauxel",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/255",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/JHA",
+      "https://castroprauxel.gremien.info/oparl/organization/B3",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

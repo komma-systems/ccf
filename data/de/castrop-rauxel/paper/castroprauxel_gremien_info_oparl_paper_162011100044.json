@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/162011100044",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=162011100044%7C20141120135044.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=162011100044%7C20141120135044.pdf%7C",
+        "fileName": "20141120135044.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C162011100044%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/162011100044",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "fe2c010080d0458f74550f522ffe47e06d8e7760",
+        "size": 233637,
+        "text": "Anlage - Gebührenbedarfsberechnung 2015 (Wochenmärkte)",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-6%7C162011100044%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6306",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2014-EUV-6",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2014-11-20",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/162011100044",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=162011100044&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=162011100044&id=69",
+      "fileName": "162011100044",
+      "id": "https://castroprauxel.gremien.info/oparl/file/162011100044",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2014/EUV/042",
+      "size": 88606,
+      "text": "Datum: 20.11.2014 TB VII / GBA 9686-120 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 10.12.2014 TOP: Drucksache-Nr. 2014/EUV/042 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 10.12.2014 Rat der Stadt 11.12.2014 Betreff: Gebührenbedarfsberechnung 2015 Wochenmärkte Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € x nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt die in der Anlage beigefügte Gebührenbedarfsberechnung 2015 Wochenmärkte zur Kenntnis. ________________________ Werner Sachverhalt: Gemäß beiliegender Gebührenbedarfsberechnung ist erkennbar, dass eine Änderung der Gebühren für die Wochenmärkte nicht notwendig ist. Weiterer Bericht in der Sitzung.Gebührenbedarfsberechnung 2015 Wochenmärkte2014/EUV/042%anl%;Anlage - Gebührenbedarfsberechnung 2015 (Wochenmärkte) ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Gebührenbedarfsberechnung 2015 Wochenmärkte",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2014/EUV/042",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

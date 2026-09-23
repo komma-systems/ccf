@@ -1,0 +1,403 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AGI-16",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AGI-16%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AGI-16",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7C1%7C1",
+          "date": "2023-08-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AGI-16%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 376073,
+          "text": "  1 Fragestunde für Einwohnerinnen und Einwohner   Es werden keine Fragen an das Gremium gerichtet.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AGI-16%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AGI-16",
+        "name": "Einwände gegen die Niederschrift der letzten Sitzung",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7Czt_0%7C1",
+          "date": "2023-08-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AGI-16%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 393917,
+          "text": "  2 Einwände gegen die Niederschrift der letzten Sitzung   Gegen die Niederschrift der Sitzung am 07.06.2023 werden keine Einwände erhoben.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2023-AGI-16%7Czt_1%7C1%7C20230821153207-0_zt_1_1.pdf",
+            "date": "2023-08-21",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2023-AGI-16%7Czt_1%7C1%7C20230821153207-0_zt_1_1.pdf",
+            "fileName": "20230821153207-0_zt_1_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2023-AGI-16%7Czt_1%7C1%7C20230821153207-0_zt_1_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "2023-05-09_Plakat_Rollatortraining_Castrop",
+            "size": 433332,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AGI-16%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AGI-16",
+        "name": "Aktuelle Berichte zu den Themen der Arbeitsgruppen sowie weitere Planung der Treffen\r\n- Arbeitsgruppe 'Generationen'\r\n- Arbeitsgruppe 'Inklusion'\r\n- Arbeitsgruppe 'Diversität und Vielfalt'",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7Czt_1%7C1",
+          "date": "2023-09-12",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AGI-16%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 433158,
+          "text": "  3 Aktuelle Berichte zu den Themen der Arbeitsgruppen sowie weitere Planung der Treffen - Arbeitsgruppe  Generationen  - Arbeitsgruppe  Inklusion  - Arbeitsgruppe  Diversität und Vielfalt    Für die Arbeitsgruppe Generationen berichtet Herr Trzeziak, dass seit der letzten Sitzung des Gremiums kein Treffen stattgefunden hat. Die Verwaltung hat die letzten Monate genutzt, um mehrere Anregungen und Anträge aus dem Gremium umzusetzen. Die Sprechstunden des Beratungs- und Infocenter Pflege (BIP) wurden innerhalb des Stadtgebietes ausgebaut, um eine wohnortnahe und dezentrale Beratung zu ermöglichen. Die Stadt Castrop-Rauxel nimmt in diesem Jahr mit einer Veranstaltungswoche am diesjährigen Welt-Alzheimertag teil, um auf die Situation der Demenzkranken und Ihrer Familien hinzuweisen, ein ausführlicher Bericht erfolgt unter TOP 5. Um insbesondere vulnerable Gruppen vor den Auswirkungen von Hitze zu schützen wurde die Mitmach-Aktion Wir bieten Hitzeschutz initiiert, ein ausführlicher Bericht folgt unter TOP 6. Zur Begrenzung von Verkehrsunfällen und Unfällen im Zusammenhang mit der Benutzung von Rollatoren sowie zur Erhöhung der Handhabungssicherheit bei der Benutzung von Rollatoren findet am Dienstag, 05.09.2023 von 10:00 bis 12:00 Uhr auf der Marktplatz Ickern der Aktionstag Sicher unterwegs mit dem Rollator statt. Die Veranstaltung wird von der Polizei Recklinghausen in Kooperation mit der Vestischen Straßenbahn und den Ordnungsbehörden vor Ort durchgeführt, das Gremium kann sich und seine Arbeit vorstellen. Das Plakat zu dem Aktionstag ist als Anlage beigefügt.  Das nächste Treffen der Arbeitsgruppe Generation erfolgt am 29.08.2023 um  17: 00 Uhr als Zoom-Konferenz, der Einladungslink wird noch zugesendet.   Für die Arbeitsgruppe Inklusion berichtet Frau Kuberka, dass seit der letzten Sitzung des Gremiums kein Treffen stattgefunden hat. Als Rückschau auf das Host-Town-Program der Städte Herne / Castrop-Rauxel wird ein Videoclip über das bunte und abwechslungsreiche Sport-, Kultur- und Begegnungsprogram gezeigt.   Herr Fritsch führt aus, dass seitens der Organisatoren eine tolle Veranstaltung im AGORA Kulturzentrum geplant wurde. Er hätte sich gewünscht, dass die Veranstaltung besser beworben und für eine größere Besucherzahl geöffnet werden sollte.  Frau Kleff teilt mit, dass bei der Planung die strengen Auflagen des Olympischen Komitees beachtet werden mussten, um den Athletinnen und Athleten einen bestmöglichen Schutz zu ermöglichen.  Das nächste Treffen der Arbeitsgruppe Inklusion wird noch bekannt gegeben.  Für die Arbeitsgruppe Diversität / Vielfalt berichtet Frau Jordan über das letzte Treffen am 15.08.2023. Im Fokus stehen die Planungen für die Woche der Vielfalt 2024 sowie die Planungen für ein Inklusives Musikfestival 2024. Aufgrund des großen Erfolges wird das Musikfestival um weitere Musikgruppen sowie ein Rahmenprogram erweitert. Die Arbeitsgruppe ortet zudem Ansätze aus, wie das Themenfeld Diversität / Vielfalt über das Jahr verteilt zu verschiedenen Schwerpunkten bespielt werden kann.    Das nächste Treffen der Arbeitsgruppe Diversität / Vielfalt erfolgt am 26.09.2023 um 18:00 Uhr im Jugendzentrum BoGis.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10776",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AGI-16%7C332307100189%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AGI-16",
+        "name": "Sachstandsbericht (Juli 2023) zum Bahnübergang Obere Münsterstraße/ Bahnhof Süd",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7C332307100189%7C1",
+          "date": "2023-08-30",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7C332307100189%7C1",
+          "fileName": "be_332307100189_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AGI-16%7C332307100189%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 407175,
+          "text": "  4 Sachstandsbericht (Juli 2023) zum Bahnübergang Obere Münsterstraße/ Bahnhof Süd (2023/181)   Frau Reuter vom Bereich Stadtentwicklung und Statistik stellt den aktuellen Sachstand zum Bahnübergang Obere Münsterstraße / Bahnhof Süd vor. Den Planungen liegt zugrunde, anstelle des höhengleichen Bahnüberganges ein alternatives Planungskonzept zur barrierefreien Querung für den Fuß- und Radverkehr unter Berücksichtigung aktueller städtebaulicher Maßstäbe entwickeln zu können. In dem vorliegenden Sachstandsbericht sind zwei Stränge von Prüfvarianten ausgearbeitet worden. Weitere Abstimmungsgespräche zwischen den Beteiligten sind vereinbart worden, anschließend erfolgt die Festlegung auf eine Vorzugsvariante.  In der folgenden Diskussion werden die Prüfvarianten insbesondere unter dem Gesichtspunkt der Barrierefreiheit erörtert.   Herr Fritsch regt an, anstelle der Rampenlösung eine Variante mit zwei anstatt nur einer Aufzugsanlage in Betracht zu ziehen. Im Falle des Ausfalls einer Aufzugsanlage könnte die andere Anlage genutzt werden.  Herr Leidig führt aus, dass die Umsetzung und Anwendung einer technischen Lösung immer zu einer Barriere führt.  Herr Werner teilt mit, dass unter dem Gesichtspunkt der Herstellungs- und Betriebskosten keine zwei parallelen Aufzugsbereiche geschaffen werden können.   Im Anschluss an die Diskussion nimmt das Gremium den vorliegenden Beschlussvorschlag einstimmig zur Kenntnis.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AGI-16%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AGI-16",
+        "name": "Welt-Alzheimerwoche 18. - 22. September 2023 'Demenz - die Welt steht Kopf'\r\nmündlicher Bericht: Beratungs- und Infocenter Pflege (BIP)",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7Czt_2%7C1",
+          "date": "2023-08-30",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AGI-16%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 413334,
+          "text": "  5 Welt-Alzheimerwoche 18. - 22. September 2023  Demenz - die Welt steht Kopf  mündlicher Bericht: Beratungs- und Infocenter Pflege (BIP)   Frau Barth berichtet über die Welt-Alzheimerwoche welche vom 18. bis zum 22. September 2023 an verschiedenen Standorten im Stadtgebiet durchgeführt wird und stellt die einzelnen Programmpunkte anhand einer Präsentation vor. Interessierte sind herzlich eingeladen, an den Veranstaltungen im Rahmen der Welt-Alzheimerwoche teilzunehmen  Die Präsentation ist der Niederschrift als Anlage beigefügt.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AGI-16%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AGI-16",
+        "name": "Mitmach-Aktion 'Wir bieten Hitzeschutz'\r\n(mündlicher Bericht)",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7Czt_3%7C1",
+          "date": "2023-08-30",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AGI-16%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 398834,
+          "text": "  6 Mitmach-Aktion  Wir bieten Hitzeschutz  (mündlicher Bericht)   Herr Trzeziak berichtet über die Mitmach-Aktion Wir bieten Hitzeschutz. Als Sofortmaßnahme zum Schutz von vulnerablen Gruppen vor den Auswirkungen von Hitze kennzeichnet die Stadt Castrop-Rauxel in diesem Sommer Einrichtungen, Einzelhändler und Unternehmen, welche kühle Zufluchtsorte und auf Wunsch ein Glas Wasser oder einen Sitzplatz zum Ausruhen anbieten. Die teilnehmenden Einrichtungen, Einzelhändler und Unternehmen erhalten auf Anfrage kostenlos von Herrn Trzeziak einen Aufkleber, zudem erfolgt eine Erfassung auf dem städtischen Geoinformationsportal.  Herr Fritsch fragt an, ob bereits eine Evaluierung stattfinden konnte, wie viele Menschen das Angebot in Anspruch genommen haben.  Herr Trzeziak führt aus, dass bislang nur Rückmeldungen von Unternehmen erfolgten, welche an der Mitmach-Aktion teilnehmen möchten.  Frau Kleff teilt mit, dass aktuell noch keine Zahlen zu der Mitmach-Aktion vorliegen aber eine Auswertung erfolgen wird. Das Gremium wird über die Ergebnisse informiert.  Herr Meier führt mit, dass bei der Gestaltung des Aufklebers nicht die Mehrsprachigkeit beachtet wurde.  Frau Kleff erörtert, dass sich der Sinn und Zweck des Aufklebers aus den verwendeten Piktogrammen ergibt. Herr Matentzoglou führt ergänzend aus, dass der Aufkleber aus seiner Sicht auch nonverbal verständlich ist.  Die Präsentation ist der Niederschrift als Anlage beigefügt.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10817",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AGI-16%7C330108100211%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AGI-16",
+        "name": "Gemeinsamer Antrag der Fraktionen von SPD und Bündnis 90 / Die GRÜNEN vom 31.07.2023_\r\n10 Bänke für Castrop",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7C330108100211%7C1",
+          "date": "2023-08-30",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7C330108100211%7C1",
+          "fileName": "be_330108100211_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AGI-16%7C330108100211%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 539986,
+          "text": "  7 Gemeinsamer Antrag der Fraktionen von SPD und Bündnis 90 / Die GRÜNEN vom 31.07.2023_ 10 Bänke für Castrop (2023/203)   Herr Schelte führt aus, dass die Belastungen durch Hitze insbesondere für ältere und pflegbedürftige Menschen zu einem steigenden Gesundheitsrisiko führen. Zum Schutz der vulnerablen Gruppen sollen überdachte Bänke, idealerweise in Verbindung mit zusätzlich zu pflanzenden Bäumen, aufgestellt werden.   Herr Fritsch führt aus, dass das Vorhaben zur Errichtung von Bänken mit Sonnenschutz in das Hitzeschutzkonzept der Stadt aufgenommen werden soll.   Herr Wagner und Frau Postel weisen darauf hin, dass bei der Auswahl der Bänke die besonderen Anforderungen der nutzenden Personengruppen berücksichtigt werden sollen. Beispielsweise werden das Vorhandensein von Aufstehhilfen oder eine Rückenlehne sowie flexible Aufstellmöglichkeiten genannt.  Frau Kleff teilt mit, dass die Ausgestaltung der Bänke unter Beteiligung des EUV Staatsbetriebes in der Arbeitsgruppe Generationen besprochen werden soll.  Das Gremium beschließt einstimmig den folgenden geänderten Beschlussvorschlag:  Die Verwaltung wird beauftragt, im Rahmen des Hitzeschutzkonzeptes an mindestens 10 Standorten verteilt über das Stadtgebiet, die Installation von Bänken mit Sonnenschutz zu initiieren. Dazu soll sie []    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10821",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AGI-16%7C332607100192%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AGI-16",
+        "name": "Aufnahme der 'wewole Stiftung' als ordentliches Mitglied in den Ausschuss für Generationen, Inklusion und Diversität",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7C332607100192%7C1",
+          "date": "2023-08-30",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7C332607100192%7C1",
+          "fileName": "be_332607100192_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AGI-16%7C332607100192%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 401820,
+          "text": "  8 Aufnahme der  wewole Stiftung  als ordentliches Mitglied in den Ausschuss für Generationen, Inklusion und Diversität (2023/184)   Frau Kleff teilt mit, dass die wewole Stiftung die Aufnahme als ordentliches Mitglied in den Ausschuss für Generationen, Inklusion und Diversität beantragt hat, um das Gremium zu unterstützen und Fachkompetenz einzubringen.   Das Gremium beschließt einstimmig den vorliegenden Beschlussvorschlag.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10812",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AGI-16%7C333107100202%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AGI-16",
+        "name": "Antrag der FDP-Fraktion vom 31.07.2023_Ersatz des Basaltpflasters durch Strukturasphalt in der Altstadt",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7C333107100202%7C1",
+          "date": "2023-08-30",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7C333107100202%7C1",
+          "fileName": "be_333107100202_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AGI-16%7C333107100202%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 530162,
+          "text": "  9 Antrag der FDP-Fraktion vom 31.07.2023_Ersatz des Basaltpflasters durch Strukturasphalt in der Altstadt (2023/194)   Herr Roehl verdeutlicht, dass der Bodenbelag in der Altstadt sich in einem desolaten Zustand befindet. Um insbesondere Menschen mit einer Mobilitätseinschränkung eine bessere Fortbewegung zu ermöglichen, soll das bestehende Basaltpflaster durch Flächen aus besser geeignetem Strukturasphalt ersetzt werden.  In der folgenden Diskussion besteht innerhalb des Gremium Konsens, dass der bestehende Bodenbelag in der Altstadt insbesondere für Menschen mit einer Mobilitätseinschränkung schwierig ist. Dieses hat sich zuletzt bei der Begehung der Altstadt gezeigt. Fraglich bleibt, wie eine Überplanung der Altstadt aussehen kann und auf welchem Wege die Finanzierung der Maßnahme erfolgt.  Herr Werner vom EUV Stadtbetrieb wird zu der Thematik Umsetzung Verkehrssicherungspflicht aus Sicht des Straßenbaulastträgers im Bereich der Fußgängerzone im Nachgang zu der Sitzung einen Bericht abgeben. Im Anschluss an die Diskussion beschließt das Gremium einstimmig den folgenden geänderten Beschlussvorschlag.  Die Verwaltung wird beauftragt ergebnisoffen ein Konzept für einen neuen Bodenbelag in der Altstadt zu erarbeiten, dass die Belange aller Bürgerinnen und Bürger widerspiegelt.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10815",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AGI-16%7C330108100207%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AGI-16",
+        "name": "Gemeinsamer Antrag der Fraktionen von SPD und Bündnis90 / Die GRÜNEN vom 31.07.2023_\r\nAufstellen von Kommunikationstafeln an Spielplätzen",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7C330108100207%7C1",
+          "date": "2023-09-11",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7C330108100207%7C1",
+          "fileName": "be_330108100207_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AGI-16%7C330108100207%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 408711,
+          "text": "  10 Gemeinsamer Antrag der Fraktionen von SPD und Bündnis90 / Die GRÜNEN vom 31.07.2023_ Aufstellen von Kommunikationstafeln an Spielplätzen (2023/199)   Herr John führt aus, dass auf geeigneten Spielplätzen im Stadtgebiet die Aufstellung von Kommunikationstafeln erfolgen soll. Zur Förderung des inklusiven Gedankens soll in Spielräumen durch die Installation von Kommunikationstafeln eine Voraussetzung geschaffen werden, um auf kindgerechte Weise eine Verbindung zwischen Menschen zu ermöglichen. Von den Kommunikationstafeln würden auch Kinder mit geringen Deutschkenntnissen profitieren.  Seitens des Gremium wird angeregt, bei der Umsetzung der Kommunikationstafel auch die entsprechenden Zeichen beziehungsweise Symbole in Braille-Schrift auszudrucken.  Nach eingehender Diskussion beschließt das Gremium mehrheitlich bei vier Gegenstimmen den vorliegenden Beschlussvorschlag.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10820",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AGI-16%7C330108100213%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AGI-16",
+        "name": "Gemeinsamer Antrag der Fraktionen von SPD und Bündnis 90 / Die GRÜNEN vom 31.07.2023_Einplanung von Mitteln für die bauliche Umsetzung von Bordsteinabsenkungen",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7C330108100213%7C1",
+          "date": "2023-09-11",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7C330108100213%7C1",
+          "fileName": "be_330108100213_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AGI-16%7C330108100213%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 536349,
+          "text": "  11 Gemeinsamer Antrag der Fraktionen von SPD und Bündnis 90 / Die GRÜNEN vom 31.07.2023_Einplanung von Mitteln für die bauliche Umsetzung von Bordsteinabsenkungen (2023/205)   Herr Schelte führt aus, im Wirtschaftsplan des EUV die Bereitstellung von finanziellen Mitteln einzuplanen, um die bauliche Umsetzung von Bordsteinabsenkungen durchführen zu können.  Herr Fritsch regt an, dass vor der Bereitstellung von Mitteln eine Inventarisierung von möglichen Standorten für eine Bordsteinabsenkung durchgeführt werden soll.   Herr Werner erörtert, dass der der baulichen Umsetzung von Bordsteinabsenkungen immer die Besonderheiten vor Ort zu beachten sind und sich beispielsweise aus der topographischen Lage besondere Anforderungen ergeben können.  Im Anschluss an die Diskussion beschließt das Gremium einstimmig den folgenden geänderten Beschlussvorschlag.  Der EUV wird beauftragt, in der Aufstellung des kommenden Wirtschaftsplanes angemessene Mittel gemäß den aktuellen Normen für die bauliche Umsetzung vom abgesenkten Bordsteinen im Rahmen der Fußverkehrs-Checks einzuplanen.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AGI-16%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AGI-16",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7C6%7C1",
+          "date": "2023-08-30",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AGI-16%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 391983,
+          "text": "  12 Anfragen der Ausschussmitglieder   Herr Krakowiak erkundigt sich nach dem aktuellen Sachstand zu den Notfallschildern sowie zu der Ausstattung der städtischen Bäder mit Beckenliftern.  Frau Kleff führt aus, dass in dem Lehrschwimmbecken an der Uferstraße der Einbau eines Beckenlifters durchgeführt wird. Nach Mitteilung des Mitarbeitenden des Hallenbades sowie des Freibades ist die Errichtung eines Beckenlifters an diesen Standorten entbehrlich.  Die Errichtung von Notfallschildern wird seitens der Verwaltung bedacht.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AGI-16%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AGI-16",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "13",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7C4%7C1",
+          "date": "2023-08-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AGI-16%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AGI-16%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 13",
+          "size": 410887,
+          "text": "  13 Mitteilungen der Verwaltung   Herr Trzeziak berichtet über den 2. Palliativtag Castrop-Rauxel, welcher am 02.09.2023 in der Zeit von 11:00 bis 14:30 Uhr im Seminarzentrum des Evangelischen Krankenhauses stattfindet (Grutholzallee 63, 44577 Castrop-Rauxel).  In diesem Jahr rückt das Thema Hilfe beim Sterben?  Wie begegnen wir Todeswünschen in den Mittelpunkt. Im Rahmen einer Podiumsdiskussion, welche von der stellvertretenden Bürgermeisterin Frau Lasser-Moryson moderiert wird, werden verschiedene Sichtweisen mit lokalen Experten erörtert.  Das Plakat wird der Niederschrift als Anlage beigefügt.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AGI-16%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AGI-16",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AGI-16%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AGI-16",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2023-08-16T19:10:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AGI-16",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2023-AGI-16",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-08-03",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2023-AGI-16",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2023-AGI-16",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "10622fa70b0f31fe58eb3d175878df679925d682",
+      "size": 438838,
+      "text": "Tagesordnung zur Sitzung des Ausschusses für Generationen, Inklusion und Diversität am Mittwoch, 16.08.2023 um 17:00 Uhr, Rathaus Castrop-Rauxel, Sitzungsraum 3, Europaplatz 1, 44575 Castrop-Rauxel  I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner  2. Einwände gegen die Niederschrift der letzten Sitzung   3. Aktuelle Berichte zu den Themen der Arbeitsgruppen sowie weitere Planung der Treffen - Arbeitsgruppe  Generationen  - Arbeitsgruppe  Inklusion  - Arbeitsgruppe  Diversität und Vielfalt    4. Sachstandsbericht (Juli 2023) zum Bahnübergang Obere Münsterstraße/ Bahnhof Süd   5. Welt-Alzheimerwoche 18. - 22. September 2023  Demenz - die Welt steht Kopf  mündlicher Bericht: Beratungs- und Infocenter Pflege (BIP)   6. Mitmach-Aktion  Wir bieten Hitzeschutz  (mündlicher Bericht)   7. Gemeinsamer Antrag der Fraktionen von SPD und Bündnis 90 / Die GRÜNEN vom 31.07.2023_10 Bänke für Castrop   8. Aufnahme der  wewole Stiftung  als ordentliches Mitglied in den Ausschuss für Generationen, Inklusion und Diversität   9. Antrag der FDP-Fraktion vom 31.07.2023_Ersatz des Basaltpflasters durch Strukturasphalt in der Altstadt   10. Gemeinsamer Antrag der Fraktionen von SPD und Bündnis90 / Die GRÜNEN vom 31.07.2023_Aufstellen von Kommunikationstafeln an Spielplätzen   11. Gemeinsamer Antrag der Fraktionen von SPD und Bündnis 90 / Die GRÜNEN vom 31.07.2023_Einplanung von Mitteln für die bauliche Umsetzung von Bordsteinabsenkungen   12. Anfragen der Ausschussmitglieder  13. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  1. Anfragen der Ausschussmitglieder  2. Mitteilungen der Verwaltung    R o e h l Ausschussvorsitzender \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Sitzungsraum 3, Europaplatz 1,44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AGI-16/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Sitzungsraum 3, Europaplatz 1,44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschusses für Generationen, Inklusion und Diversität",
+    "organization": [],
+    "organization_active_2": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/1052",
+      "https://castroprauxel.gremien.info/oparl/person/1043",
+      "https://castroprauxel.gremien.info/oparl/person/471",
+      "https://castroprauxel.gremien.info/oparl/person/1075",
+      "https://castroprauxel.gremien.info/oparl/person/138",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/791",
+      "https://castroprauxel.gremien.info/oparl/person/851",
+      "https://castroprauxel.gremien.info/oparl/person/1063",
+      "https://castroprauxel.gremien.info/oparl/person/1076",
+      "https://castroprauxel.gremien.info/oparl/person/876",
+      "https://castroprauxel.gremien.info/oparl/person/895",
+      "https://castroprauxel.gremien.info/oparl/person/1215",
+      "https://castroprauxel.gremien.info/oparl/person/318",
+      "https://castroprauxel.gremien.info/oparl/person/712",
+      "https://castroprauxel.gremien.info/oparl/person/758",
+      "https://castroprauxel.gremien.info/oparl/person/344",
+      "https://castroprauxel.gremien.info/oparl/person/1025",
+      "https://castroprauxel.gremien.info/oparl/person/1006",
+      "https://castroprauxel.gremien.info/oparl/person/1122"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-AGI-16",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-09-12",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-AGI-16",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-AGI-16",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 640074,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2023-08-16T17:04:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-AGI-16",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-09-12",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-AGI-16",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-AGI-16",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 640074,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-129%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129",
+        "name": "Begrüßung und Mitteilung über die vom Rat berufenen Mitglieder des Betriebsausschusses 2",
+        "number": "1",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-129%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-129%7C1%7C1",
+          "date": "2026-03-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-129%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-129%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 159647,
+          "text": "  2 Fragestunde für Einwohnerinnen und Einwohner   Es werden keine Anfragen an das Gremium gerichtet.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-129%7Czt_5%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129",
+        "name": "Bericht Schule Oberwiese",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-129%7Czt_5%7C1",
+          "date": "2026-03-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-129%7Czt_5%7C1",
+          "fileName": "be_zt_5_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-129%7Czt_5%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 182362,
+          "text": "3 Bericht Schule Oberwiese   Frau Ehm, Leitung des Bereichs Schule der Stadt Waltrop, sowie Frau Lühr, Schulleiterin der Förderschule Oberwiese, berichten über die aktuelle Situation an der Förderschule Oberwiese.  Frau Ehm erläutert, dass bereits Anfang des Jahres 2026 ein Nagerbefall an der Schule festgestellt worden sei. Zunächst seien zwei Klassen betroffen gewesen, die daraufhin durch das Gesundheitsamt geschlossen worden seien. Ende Februar sei zudem Mäusekot im Mensabereich entdeckt worden, was schließlich zur vollständigen Schließung der Schule am 05.03.2026 geführt habe. Seitdem werde eine Notbetreuung sichergestellt und Distanzunterricht durchgeführt.  Ein beauftragter Schädlingsbekämpfer habe im Altbau Fraßspuren feststellen können, im Neubau hingegen nicht. Im Neubau seien umfangreiche Reinigungs- und Desinfektionsmaßnahmen erforderlich. Insgesamt müssten etwa 1.300 Kisten, die derzeit in der Sporthalle gelagert seien, gereinigt werden. Zudem werde eine Schleuse zum Altbau eingerichtet, um die Notbetreuung im Neubau durchführen zu können.  Im Altbau sei die Situation gravierender. Dort müsse die Decke vollständig entfernt werden; insgesamt seien neun Klassenräume betroffen. Eine Fertigstellung der Maßnahmen bis Ostern erscheine derzeit unrealistisch.  Auf Nachfrage von Frau Lückel zur Organisation der Notbetreuung erläutert Frau Lühr, dass aktuell etwa 50 Kinder betreut würden. Die Notbetreuung finde in drei großen Klassenräumen der Phönixschule statt. Insgesamt seien 50 von 225 Schülerinnen und Schülern in der Notbetreuung, wobei die Auswahl nach Betreuungsbedarf erfolge, etwa bei Berufstätigkeit beider Elternteile, Alleinerziehenden oder mehreren pflegebedürftigen Personen in einem Haushalt. Aufgrund der Förderbedarfe sei in der Notbetreuung kein Unterricht möglich.  Der Distanzunterricht werde individuell organisiert. Die Lehrkräfte stellen Materialkisten zusammen, bringen diese zu den Schülerinnen und Schülern nach Hause und erklären die Aufgaben persönlich. Rückmeldungen erfolgen über digitale Anwendungen oder telefonisch.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-129%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-129%7CProtokoll%7C1",
+          "date": "2026-03-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-129%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-129%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 165098,
+          "text": "4 Einwände gegen die letzte Niederschrift   Gegen die Niederschrift der letzten Sitzung wurden keine Einwände erhoben. Die Niederschrift wurde einstimmig beschlossen.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-129%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129",
+        "name": "Bericht der Betreuungsstelle der Stadt Castrop-Rauxel",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-129%7Czt_0%7C1",
+          "date": "2026-03-30",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-129%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-129%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 182575,
+          "text": "5 Bericht der Betreuungsstelle der Stadt Castrop-Rauxel   Im Rahmen des Berichts der Betreuungsstelle der Stadt Castrop-Rauxel werden die Grundlagen des Betreuungsrechts vorgestellt. Die Betreuungsstelle ist zuständig für Personen, die aufgrund von Krankheit, Unfall oder altersbedingten Einschränkungen ihre rechtlichen Angelegenheiten nicht mehr selbstständig regeln können.  Es wird erläutert, dass eine rechtliche Betreuung die Unterstützung oder Vertretung in bestimmten Lebensbereichen umfasst und ausschließlich für volljährige Personen eingerichtet wird. Voraussetzung ist, dass die Betreuung erforderlich ist und dem Wohl der betroffenen Person dient.  Der oder die Betreuer*in handelt als gesetzliche Vertretung und orientiert sich dabei an den Wünschen der betreuten Person. Die Vergütung erfolgt je nach Vermögenslage entweder privat oder aus staatlichen Mitteln.  Die Einrichtung einer Betreuung erfolgt im Rahmen eines gerichtlichen Verfahrens, in das sowohl medizinische als auch soziale Gutachten einbezogen werden. Dabei wird betont, dass eine Betreuung grundsätzlich nicht gegen den freien Willen der betroffenen Person angeordnet wird.  Im Zuge der Reform des Betreuungsrechts im Jahr 2023 wurden unter anderem ein befristetes Notvertretungsrecht für Ehegatten eingeführt sowie die Anforderungen an Betreuerinnen und Betreuer verschärft. Darüber hinaus wird verstärkt auf das Prinzip der erweiterten Unterstützung gesetzt, mit dem Ziel, eine rechtliche Betreuung möglichst zu vermeiden und die Selbstständigkeit der betroffenen Personen zu fördern.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-129%7Czt_4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129",
+        "name": "Abschlussbericht des Projekts zur Stärkung der politischen Beteiligung armutsbetroffener Menschen in Castrop-Rauxel",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-129%7Czt_4%7C1",
+          "date": "2026-03-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-129%7Czt_4%7C1",
+          "fileName": "be_zt_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-129%7Czt_4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 182669,
+          "text": "6 Abschlussbericht des Projekts zur Stärkung der politischen Beteiligung armutsbetroffener Menschen in Castrop-Rauxel   Frau Borghorst und Frau Romberg von der Caritas Castrop-Rauxel stellen den Abschlussbericht des Projekts vor.  Ziel des Projekts sei es gewesen, mit armutsbetroffenen Menschen ins Gespräch zu kommen und ihnen eine Plattform für Austausch und Beteiligung zu bieten. Hierzu seien über einen Zeitraum von vier Monaten regelmäßige Stammtische organisiert worden. Zu diesen seien jeweils Gäste, beispielsweise Vertreter*innen der Fraktionen, der Bürgermeister sowie die Erste Beigeordnete, eingeladen worden.  Inhaltlich hätten sich bei den Treffen wiederkehrende Themen gezeigt. Hierzu zählten insbesondere der Mangel an bezahlbarem Wohnraum, Probleme im Verhältnis zu Vermietern, lange Bearbeitungszeiten bei Behörden, fehlende Sprachangebote sowie Schwierigkeiten im Umgang mit Digitalisierung im Alter oder bei fehlendem Internetzugang. Zudem sei wiederholt der Eindruck geäußert worden, dass politische Entscheidungen im Alltag der Menschen zu wenig Wirkung entfalten.  Als Fazit wurde festgehalten, dass es langfristiger und nachhaltiger Angebote bedürfe. Die gewonnenen Erkenntnisse müssten nun in konkrete Maßnahmen überführt werden.  Frau Borghorst richtet abschließend einen Appell an die Kommunalpolitik, die angesprochenen Themen ernst zu nehmen, weiterzutragen und konkrete Verbesserungen umzusetzen, um das Vertrauen der betroffenen Menschen nicht weiter zu gefährden.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16002",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-129%7C401703100102%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129",
+        "name": "Gemeinsamer Antrag SPD-Ratsfraktion und CDU Ratsfraktion vom 17.03.2026_Einrichtung einer Dependance einer Hauptschule in Castrop-Rauxel",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-129%7C401703100102%7C1",
+          "date": "2026-03-30",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-129%7C401703100102%7C1",
+          "fileName": "be_401703100102_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-129%7C401703100102%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 199793,
+          "text": "7 Gemeinsamer Antrag SPD-Ratsfraktion und CDU Ratsfraktion vom 17.03.2026_Einrichtung einer Dependance einer Hauptschule in Castrop-Rauxel (2026/101)   Der Antragsteller erläutert den Inhalt des Antrags. Ziel sei es, mögliche Handlungsoptionen zu prüfen, da aktuell eine hohe Nachfrage, insbesondere ab der Jahrgangsstufe 7, bestehe. Zudem habe bereits ein Austausch mit einer anderen kreisangehörigen Kommune stattgefunden. Die CDU signalisiert Zustimmung zu den Punkten 2 und 3 des Ergänzungsantrags von Bündnis 90/Die Grünen, lehnt jedoch Punkt 1 ab.  Herr John stellt klar, dass es zunächst darum gehe, zu prüfen, ob überhaupt eine Möglichkeit, insbesondere durch Kooperation mit einer anderen Kommune, bestehe. Die SPD sei bereit, den Punkten 2 und 3 des Ergänzungsantrags zuzustimmen, halte jedoch eine Elternbefragung für nicht umsetzbar.  Im weiteren Verlauf der Beratung entwickelt sich eine kontroverse Diskussion über die Verfügbarkeit von Zahlenmaterial zur Einschätzung des tatsächlichen Bedarfs.  Die Elternvertreterin für weiterführende Schulen ergänzt, dass ein regelmäßiger Austausch zwischen mit der Verwaltung bestehe und die Problematik seit längerer Zeit bekannt sei. Der Prüfauftrag entspreche auch dem Wunsch vieler Eltern.  Der Ergänzungsantrag wird, ohne Punkt 1 und Punkt 2 Spiegelstrich 2, einstimmig beschlossen. Der Ursprungsantrag wird, bei zwei Gegenstimmen und zwei Enthaltungen, mehrheitlich beschlossen.    Abstimmungsergebnis:   Ja-Stimmen: 13  Nein-Stimmen: 2  Enthaltungen: 2       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-129%7Czt_6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129",
+        "name": "Ergänzungsantrag der Fraktion Bündnis 90/Die Grünen Sitzungsvorlage 2026/101 - Einrichtung einer Dependance einer Hauptschule in Castrop-Rauxel",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-129%7Czt_6%7C1",
+          "date": "2026-03-30",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-129%7Czt_6%7C1",
+          "fileName": "be_zt_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-129%7Czt_6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 182543,
+          "text": "  8 Ergänzungsantrag der Fraktion Bündnis 90/Die Grünen Sitzungsvorlage 2026/101 - Einrichtung einer Dependance einer Hauptschule in Castrop-Rauxel   Beratung siehe Tagesordnungspunkt 7 (2026/101).   Abstimmungsergebnis:   Ja-Stimmen: 13  Nein-Stimmen: 2  Enthaltungen: -             \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16247",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-129%7C402302100075%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129",
+        "name": "Gemeinsamer Antrag der Fraktionen SPD und CDU vom 22.02.2026_Wegesicherung der Wege von Kindern und Jugendlichen",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-129%7C402302100075%7C1",
+          "date": "2026-03-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-129%7C402302100075%7C1",
+          "fileName": "be_402302100075_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-129%7C402302100075%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 181962,
+          "text": "9 Gemeinsamer Antrag der Fraktionen SPD und CDU vom 22.02.2026_Wegesicherung der Wege von Kindern und Jugendlichen (2026/072)    Herr John begründet den Antrag und weist darauf hin, dass problematische Schulwege regelmäßig thematisiert würden. Ziel sei eine umfassendere Betrachtung, um die Sicherheit der Wege für Kinder und Jugendliche insgesamt zu verbessern.  Der Antrag wird einstimmig beschlossen.    Abstimmungsergebnis:   Ja-Stimmen: 17  Nein-Stimmen: -  Enthaltungen: -       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16103",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-129%7C400203100081%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129",
+        "name": "Maßnahmen zur Verbesserung der Schulwegsicherheit an der Cottenburgschule",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-129%7C400203100081%7C1",
+          "date": "2026-03-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-129%7C400203100081%7C1",
+          "fileName": "be_400203100081_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-129%7C400203100081%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 183496,
+          "text": "  10 Maßnahmen zur Verbesserung der Schulwegsicherheit an der Cottenburgschule (2026/080)   Herr Korkutan berichtet, dass der Antrag im Betrieb 1 bereits einstimmig beschlossen worden sei. Vorgeschlagen werde die Umsetzung der Variante 2 (Nase) in Kombination mit Option 6 (zusätzliche Beleuchtung), entsprechend dem Verwaltungsvorschlag.     Abstimmungsergebnis:   Ja-Stimmen: 17  Nein-Stimmen: -  Enthaltungen: -       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-129%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129",
+        "name": "Anmeldezahlen weiterführende Schulen",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-129%7Czt_1%7C1",
+          "date": "2026-03-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-129%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-129%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 198024,
+          "text": "11 Anmeldezahlen weiterführende Schulen   Frau Kruck stellt die aktuellen Anmeldezahlen der weiterführenden Schulen vor.   Schule    tatsächliche Anmeldungen Klassen  Adalbert-Stifter-Gymnasium   138   5      Ernst-Barlach-Gymnasium   140   5      Fridtjof-Nansen-Realschule   102   4      Willy-Brandt-Gesamtschule   116   4  NGI      116   4      Aufnahmen in CAS gesamt   612     angemeldet in CAS  =   612 (davon 21 Einpendler) angemeldet auswärts  =   97 (Auspendler)  gesamt   =   709       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-129%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129",
+        "name": "Aktuelle Sachstände Schule:\r\n- Startchancen-Programm\r\n- Coole Schulhöfe\r\n- Grundschulzentren\r\n- Martin-Luther-King-Schule",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-129%7Czt_2%7C1",
+          "date": "2026-03-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-129%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-129%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 193532,
+          "text": "12 Aktuelle Sachstände Schule: - Startchancen-Programm - Coole Schulhöfe - Grundschulzentren - Martin-Luther-King-Schule     Im Rahmen des Projekts Coole Schulhöfe nutzt das Adalbert-Stifter-Gymnasium Fördermittel zur Entsiegelung und Verschattung des Schulhofs. Darüber hinaus sind kleinere Spielgeräte und Sitzgelegenheiten geplant. Es handelt sich um eine Anschubfinanzierung in Höhe von insgesamt 20.000 Euro, die in zwei Tranchen ausgezahlt wird. Die konkrete Planung erfolgt derzeit im Rahmen von Workshops.  Zum Startchancen-Programm wird ausgeführt, dass dieses im Zeitraum von 2024 bis 2034 läuft und drei Schulen in Castrop-Rauxel umfasst: die Cottenburgschule, die Erich-Kästner-Schule sowie die Neue Grundschule. Das Investitionsbudget enthält einen Eigenanteil von 30 Prozent, was etwa 3,5 Millionen Euro über den Gesamtzeitraum entspricht. Beim Chancenbudget steht ein Drittel zur freien Verfügung der Schulen, während zwei Drittel durch die Schulaufsicht gesteuert werden. Das Personalbudget berührt die Verwaltung nicht unmittelbar.  Zudem besteht die Möglichkeit, Anträge für Familiengrundschulzentren zu stellen. Voraussetzung ist die Teilnahme am Startchancen-Programm sowie das Vorhandensein einer offenen Ganztagsschule. Die Antragsfrist endet am 30.04.  Abschließend wird auf einen Elternbrief zur Martin-Luther-King-Schule hingewiesen. Künftig sollen an allen Standorten sämtliche Förderschwerpunkte und Jahrgänge unterrichtet werden. Der Elternbrief wurde bereits versendet, jedoch seien noch nicht alle Details abschließend geklärt.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/15949",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-129%7C400203100083%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129",
+        "name": "Antrag der SPD-Fraktion vom 28.02.2026_100 Bänke",
+        "number": "13",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-129%7C400203100083%7C1",
+          "date": "2026-03-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-129%7C400203100083%7C1",
+          "fileName": "be_400203100083_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-129%7C400203100083%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 13",
+          "size": 182739,
+          "text": "13 Antrag der SPD-Fraktion vom 28.02.2026_100 Bänke (2026/082)   Frau Lücke begründet den Antrag. Ziel sei die Aufstellung unterschiedlicher Banktypen im Stadtgebiet. Im Ausschuss für Generationen, Integration und Demografie (AGID) wurde der Antrag bereits einstimmig beschlossen, ergänzt um die Aufstellung von Mülleimern im Umfeld der Bänke.    Abstimmungsergebnis:   Ja-Stimmen: 17  Nein-Stimmen: -  Enthaltungen: -       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16490",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-129%7C400903100093%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129",
+        "name": "Antrag CDU-Ratsfraktion vom 03.03.2026 zur Einführung des Demokratie-Wegweisers in Castrop-Rauxel",
+        "number": "14",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-129%7C400903100093%7C1",
+          "date": "2026-03-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-129%7C400903100093%7C1",
+          "fileName": "be_400903100093_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-129%7C400903100093%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 14",
+          "size": 188942,
+          "text": "14 Antrag CDU-Ratsfraktion vom 03.03.2026 zur Einführung des Demokratie-Wegweisers in Castrop-Rauxel (2026/092)   Herr von Estorff erläutert den Antrag. Ziel sei es, die Bürgernähe und Erreichbarkeit politischer Angebote zu verbessern. Diskutiert wird unter anderem die Möglichkeit, ein entsprechendes Tool auf der städtischen Homepage einzurichten, das auch von politischen Vertreterinnen und Vertretern selbst gepflegt werden könne.     Abstimmungsergebnis:   Ja-Stimmen: 17  Nein-Stimmen: -  Enthaltungen: -       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-129%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "15",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-129%7C6%7C1",
+          "date": "2026-03-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-129%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-129%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 15",
+          "size": 165687,
+          "text": "15 Anfragen der Ausschussmitglieder   Herr Korkutan fragt an, wie häufig Schulformwechsel von Gesamtschulen stattfinden und wie groß die Nachfrage nach Hauptschulplätzen ist.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-129%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "16",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-129%7C4%7C1",
+          "date": "2026-03-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-129%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-129%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 16",
+          "size": 152356,
+          "text": "16 Mitteilungen der Verwaltung   Es liegen keine Mitteilungen der Verwaltung vor.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-129%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "17",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-129%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "18",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-03-19T19:30:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2026-B2-129",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-03-11",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2026-B2-129",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2026-B2-129",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "7966fcea4ce091e6da8becfa3f1c8aa8b86cb2ea",
+      "size": 213217,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "außerhalb des Rathauses, Info siehe Bekanntmachung, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-129/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "außerhalb des Rathauses, Info siehe Bekanntmachung",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Betriebsausschusses 2 (Familie, Jugend, Soziales und Bildung)",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/597",
+      "https://castroprauxel.gremien.info/oparl/person/1301",
+      "https://castroprauxel.gremien.info/oparl/person/138",
+      "https://castroprauxel.gremien.info/oparl/person/1032",
+      "https://castroprauxel.gremien.info/oparl/person/1053",
+      "https://castroprauxel.gremien.info/oparl/person/1244",
+      "https://castroprauxel.gremien.info/oparl/person/963",
+      "https://castroprauxel.gremien.info/oparl/person/1070",
+      "https://castroprauxel.gremien.info/oparl/person/1304",
+      "https://castroprauxel.gremien.info/oparl/person/1344",
+      "https://castroprauxel.gremien.info/oparl/person/309",
+      "https://castroprauxel.gremien.info/oparl/person/1314",
+      "https://castroprauxel.gremien.info/oparl/person/1317",
+      "https://castroprauxel.gremien.info/oparl/person/1340",
+      "https://castroprauxel.gremien.info/oparl/person/1198",
+      "https://castroprauxel.gremien.info/oparl/person/1345",
+      "https://castroprauxel.gremien.info/oparl/person/1372",
+      "https://castroprauxel.gremien.info/oparl/person/640",
+      "https://castroprauxel.gremien.info/oparl/person/1322",
+      "https://castroprauxel.gremien.info/oparl/person/1380",
+      "https://castroprauxel.gremien.info/oparl/person/1381",
+      "https://castroprauxel.gremien.info/oparl/person/29",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/949",
+      "https://castroprauxel.gremien.info/oparl/person/1289"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-B2-129",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-04-28",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-B2-129",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-B2-129",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 273307,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2026-03-19T17:00:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-B2-129",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-04-28",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-B2-129",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-B2-129",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 273307,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

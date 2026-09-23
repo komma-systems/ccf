@@ -1,0 +1,432 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B1-133%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B1-133%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+        "name": "Vorstellung des Tierheims Castrop-Rauxel",
+        "number": "2",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17537",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B1-133%7C401906100164%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+        "name": "Schulwegsicherung in Castrop-Rauxel;\r\nschriftlicher Bericht der Verwaltung",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C401906100164%7C1",
+          "date": "2026-08-24",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C401906100164%7C1",
+          "fileName": "be_401906100164_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B1-133%7C401906100164%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 176241,
+          "text": "  3 Schulwegsicherung in Castrop-Rauxel; schriftlicher Bericht der Verwaltung (2026/158)  Herr Thiel erläutert die Vorlage der Verwaltung.  Der Betriebsausschuss 1 nimmt den Bericht der Verwaltung zur Kenntnis.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17382",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B1-133%7C401906100165%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+        "name": "Gesamtkonzept Veranstaltungssicherheit - Sachstandsbericht",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C401906100165%7C1",
+          "date": "2026-08-24",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C401906100165%7C1",
+          "fileName": "be_401906100165_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B1-133%7C401906100165%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 181776,
+          "text": "  4 Gesamtkonzept Veranstaltungssicherheit - Sachstandsbericht (2026/159)  Herr Thiel erläutert die Vorlage der Verwaltung. Insbesondere ist grundsätzlich zwischen Veranstaltungssicherheit an sich und dem Schutz vor Überfahrttaten zu unterscheiden. Für letzteres werden momentan Pläne durch einen externen Fachdienstleister erstellt.  Die Bewertung der einzelnen Veranstaltungen wird inzwischen durch eine verwaltungsseitig entwickelte Bewertungsmatrix vorgenommen; da es sich um sicherheitsrelevante Aspekte handelt, erfolgen weitergehende Ausführungen im nichtöffentlichen Teil. Im Übrigen verweist er auf die Darstellungen in der Vorlage.  Der Betriebsausschuss 1 nimmt die Ausführungen der Verwaltung zur Kenntnis.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17408",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B1-133%7C402206100175%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+        "name": "Antrag der SPD-Ratsfraktion: Prüfauftrag zur Befreiung von Verwaltungsgebühren bei gemeinwohlorientierten Sondernutzungen im Zusammenhang mit Veranstaltungen",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C402206100175%7C1",
+          "date": "2026-08-24",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C402206100175%7C1",
+          "fileName": "be_402206100175_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B1-133%7C402206100175%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 191505,
+          "text": "  5 Antrag der SPD-Ratsfraktion: Prüfauftrag zur Befreiung von Verwaltungsgebühren bei gemeinwohlorientierten Sondernutzungen im Zusammenhang mit Veranstaltungen (2026/169)  Ratsmitglied Fercke erläutert den Antrag für die Antragstellerin. Die Verwaltung wird beauftragt zu prüfen und dem Rat einen Vorschlag vorzulegen, ob und in welcher  Form bei erlaubnispflichtigen Sondernutzungen im Zusammenhang mit Veranstaltungen, die gemeinnützigen, mildtätigen, kirchlichen oder dem Gemeinwohl dienenden Zwecken dienen, künftig auf die Erhebung von Verwaltungsgebühren verzichtet werden kann.  Dem Antrag wird einstimmig zugestimmt.  Es folgt eine Sitzungsunterbrechung von 18:55 Uhr bis 19:05 Uhr.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17387",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B1-133%7C402206100169%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+        "name": "Antrag CDU Ratsfraktion vom 15.06.2026_Querungshilfe Ickern",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C402206100169%7C1",
+          "date": "2026-08-24",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C402206100169%7C1",
+          "fileName": "be_402206100169_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B1-133%7C402206100169%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 180958,
+          "text": "  6 Antrag CDU Ratsfraktion vom 15.06.2026_Querungshilfe Ickern (2026/163)  Ratsmitglied Faber erläutert den Antrag.   Die Verwaltung wird beauftragt, mit dem zuständigen Baulastträger zu prüfen, ob und ggfs. an welcher Stelle auf der Recklinghauser Straße zwischen Heimstraße und Bushaltestelle Stadtgrenze Do-Cas eine Querungshilfe errichtet werden kann.  Dem Antrag wird mehrheitlich zugestimmt.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17395",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B1-133%7C402206100170%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+        "name": "Antrag CDU Ratsfraktion vom 12.06.2026_Friedhofskapelle Henrichenburg",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C402206100170%7C1",
+          "date": "2026-08-24",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C402206100170%7C1",
+          "fileName": "be_402206100170_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B1-133%7C402206100170%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 181416,
+          "text": "  7 Antrag CDU Ratsfraktion vom 12.06.2026_Friedhofskapelle Henrichenburg (2026/164)  Der städtische Arbeitskreis Friedhöfe wird beauftragt, über notwendige Maßnahmen und Möglichkeiten zur Nutzbarmachung und Zukunft der Friedhofskapelle in Henrichenburg zu beraten sowie entsprechende Beschlüsse vorzubereiten.  Dem Antrag wird mehrheitlich zugestimmt.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17422",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B1-133%7C402306100178%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+        "name": "Antrag der CDU-Ratsfraktion vom 23.06.2026_Gehwege Becklemer Straße",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C402306100178%7C1",
+          "date": "2026-08-24",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C402306100178%7C1",
+          "fileName": "be_402306100178_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B1-133%7C402306100178%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 183260,
+          "text": "  8 Antrag der CDU-Ratsfraktion vom 23.06.2026_Gehwege Becklemer Straße (2026/172)  Ratsmitglied Faber erläutert den Antrag für die Antragstellerin.   Die Verwaltung wird beauftragt zu prüfen, welche Maßnahmen ergriffen werden können, um entlang der Becklemer Straße die erheblichen Höhenunterschiede und daraus resultierenden Stolperfallen auf dem Fußweg durch die Baumscheiben zu beseitigen.  Dem Antrag wird einstimmig entsprochen.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17433",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B1-133%7C402906100186%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+        "name": "Antrag der AfD-Fraktion vom 26.06.2026_Prüfung zur Aufstellung weiterer Papiercontainer oder anderer Lösungsmöglichkeiten",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C402906100186%7C1",
+          "date": "2026-08-24",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C402906100186%7C1",
+          "fileName": "be_402906100186_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B1-133%7C402906100186%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 173047,
+          "text": "  9 Antrag der AfD-Fraktion vom 26.06.2026_Prüfung zur Aufstellung weiterer Papiercontainer oder anderer Lösungsmöglichkeiten (2026/180)  Die AfD-Fraktion zieht ihren Antrag zurück.          \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17558",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B1-133%7C402906100188%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+        "name": "Antrag der AFD-Fraktion vom 28.06.2026_Prüfung der Einrichtung eines Fußgängerüberwegs (Zebrastreifen) an der \r\nRecklinghauser Straße im Bereich der Hausnummer 329",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C402906100188%7C1",
+          "date": "2026-08-24",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C402906100188%7C1",
+          "fileName": "be_402906100188_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B1-133%7C402906100188%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 183248,
+          "text": "  10 Antrag der AFD-Fraktion vom 28.06.2026_Prüfung der Einrichtung eines Fußgängerüberwegs (Zebrastreifen) an der Recklinghauser Straße im Bereich der Hausnummer 329 (2026/182)  Sachkundiger Bürger Knopp erläutert den Antrag für die Antragstellerin.  Der Antrag wird mehrheitlich abgelehnt.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17446",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B1-133%7C402906100189%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+        "name": "Antrag der AFD-Fraktion vom 28.06.2026_Prüfung und Umsetzung einer Neuordnung des ruhenden Verkehrs auf der Karolinenstraße zwischen Kirchstraße und Vinckestraße",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C402906100189%7C1",
+          "date": "2026-08-24",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C402906100189%7C1",
+          "fileName": "be_402906100189_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B1-133%7C402906100189%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 180116,
+          "text": "  11 Antrag der AFD-Fraktion vom 28.06.2026_Prüfung und Umsetzung einer Neuordnung des ruhenden Verkehrs auf der Karolinenstraße zwischen Kirchstraße und Vinckestraße (2026/183)  Sachkundiger Bürger Knopp erläutert den Antrag für die Antragstellerin.  Der Antrag wird mehrheitlich abgelehnt.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17450",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B1-133%7C402906100190%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+        "name": "Antrag AfD Ratsfraktion vom 26.06.2026_Verkehrssituation auf der Oststraße im Bereich des Bauernhofes Menken",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C402906100190%7C1",
+          "date": "2026-08-24",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C402906100190%7C1",
+          "fileName": "be_402906100190_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B1-133%7C402906100190%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 171022,
+          "text": "  12 Antrag AfD Ratsfraktion vom 26.06.2026_Verkehrssituation auf der Oststraße im Bereich des Bauernhofes Menken (2026/184)   Die AfD-Fraktion zieht ihren Antrag zurück.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17399",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B1-133%7C402206100171%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+        "name": "Antrag Bündnis 90_Die Grünen vom 17.06.2026_Angsträume systematisch erfassen",
+        "number": "13",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C402206100171%7C1",
+          "date": "2026-08-24",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C402206100171%7C1",
+          "fileName": "be_402206100171_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B1-133%7C402206100171%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 13",
+          "size": 260000,
+          "text": "  13 Antrag Bündnis 90_Die Grünen vom 17.06.2026_Angsträume systematisch erfassen (2026/165)  Ratsmitglied Korkutan erläutert den Antrag für die Antragstellerin und anschließend den Absatz 2 ihres Protokolls.  Nach kurzer Sitzungsunterbrechung beschließt der Betriebsausschuss 1 zunächst folgenden Ergänzungsantrag der Fraktion Die Linke:   Die Verwaltung wird beauftragt, 1. die zu ergänzende Kategorie Angsträume und Unsicherheitsorte im Mängelmelder um einen auffällig sichtbaren Hinweis auf das Heimwegtelefon (https://heimwegtelefon.net/) zu ergänzen. Dabei ist zu prüfen, inwiefern die Telefonnummer des Heimwegtelefons so hinterlegt werden kann, dass Nutzen de diese unmittelbar aus der Anwendung heraus anrufen und in den Kontakten ihres Mobiltelefons speichern können.  Im Anschluss beschließt der Betriebsausschuss 1 folgenden Antrag der Fraktion Bündnis 90 / Die Grünen:  Die Verwaltung wird beauftragt, 1. den bestehenden Mängelmelder der Stadt Castrop-Rauxel um die Kategorie Angsträume und Unsicherheitsorte zu erweitern, 2. Bürgerinnen und Bürger über die neue Meldefunktion im Rahmen einer geeigneten Informationskampagne zu informieren, 3. die eingehenden Meldungen systematisch zu erfassen und auszuwerten, 4. dem zuständigen politischen Gremium regelmäßig über die gemeldeten Orte, die Häufigkeit der Meldungen sowie gegebenenfalls eingeleitete Maßnahmen zu berichten.  Die Beschlussfassungen erfolgen jeweils einstimmig.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B1-133%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "14",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C6%7C1",
+          "date": "2026-08-24",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B1-133%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 14",
+          "size": 190885,
+          "text": "  14 Anfragen der Ausschussmitglieder  Herr Schneider erkundigt sich nach dem aktuellen Sachstand zur Parkplatzsituation am Forumsplatz. Er teilt mit, dass der EUV inzwischen mit den Maßnahmen begonnen habe, diese aus seiner Sicht jedoch bislang nur teilweise umgesetzt worden seien. Zudem fragt er nach dem Sachstand der baulichen Maßnahmen am Rathaus.  Herr Thiel antwortet, dass der EUV vor zwei Wochen Bodenschweller aufgebracht habe. Aufgrund von Lieferengpässen seien die Arbeiten jedoch noch nicht abgeschlossen. Er gehe davon aus, dass die Maßnahmen innerhalb der nächsten vier Wochen beendet werden.   Herr Korkutan merkt an, dass vereinbart worden sei, den Betriebsausschuss 1 über derartige Maßnahmen zeitnah zu informieren. Da der Platz am Rathaus ein Treffpunkt für Jugendliche sei, halte er die Umsetzung ohne vorherige Information für nicht angemessen. Er regt an, den Betriebsausschuss 2 künftig ebenfalls einzubeziehen, da die Maßnahmen insbesondere Jugendliche beträfen.  Darüber hinaus berichtet Herr Korkutan, dass ein Bürger erneut auf überhöhte Geschwindigkeiten im Bereich Marienstraße/Franzstraße hingewiesen habe und bereits zum dritten Mal vertröstet worden sei. Er bittet darum, dort eine Verkehrsmessung durchzuführen, und fragt, weshalb an dieser Stelle keine sogenannten Berliner Kissen installiert worden seien, obwohl es sich um eine breite Straße handele.  Herr Fercke bittet um Korrektur der Anrede von Herrn Ulrich Sander im Protokoll der letzten Sitzung, da diese fehlerhaft sei. Herr Kuhn weist die Schriftführerin, Frau Alex, an, die entsprechende Korrektur vorzunehmen.  Herr Fercke fragt nach den Gründen für die Verlegung des Sitzungsbeginns des Betriebsausschusses 1 auf 17:30 Uhr. Herr Kuhn erläutert, dass ein früherer Beginn für berufstätige Ausschussmitglieder problematisch sei. Herr Fercke entgegnet, dass eine Freistellung von der Arbeit grundsätzlich möglich sei. Herr Schneider hält einen Sitzungsbeginn um 17:00 Uhr für praktikabel und bittet darum, ein Stimmungsbild einzuholen. Herr Kahl weist darauf hin, dass die Betriebsausschüsse ihre Sitzungen regelmäßig gegen 21:00 Uhr beendeten. Herr Kuhn erklärt, dass er sich bis zur nächsten Einladung Gedanken zu einer möglichen Anpassung der Sitzungszeit machen werde.       Herr Faber erkundigt sich nach dem aktuellen Sachstand hinsichtlich der angespannten Verkehrssituation im Bereich Wartburgstraße/Wartburgbrücke. Er weist darauf hin, dass die Südachse Henrichenburg gesperrt werden solle, und fragt, ob die Bürgerinnen und Bürger hierüber bereits informiert worden seien.   Sofern der Beschilderungsplan zur Umleitungsplanung vorliegt, wird dieser den Ausschussmitgliedern zur Verfügung gestellt.  Herr Faber betont, Ziel müsse es sein, das zu erwartende Verkehrsaufkommen und mögliche Verkehrsbehinderungen so gering wie möglich zu halten. Hierfür sollten ausreichend Alternativrouten zur Verfügung gestellt werden.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B1-133%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "15",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C4%7C1",
+          "date": "2026-07-17",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B1-133%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B1-133%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 15",
+          "size": 152416,
+          "text": "  15 Mitteilungen der Verwaltung  Es gibt keine Mitteilungen seitens der Verwaltung.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B1-133%7Czt_0%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+        "name": "Veranstaltungssicherheit",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17458",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B1-133%7C402906100191%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+        "name": "Neubau einer Feuer- und Rettungswache an der Habinghorster Straße (B235) / Klöcknerstraße",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B1-133%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B1-133%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "4",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-07-08T21:01:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2026-B1-133",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-06-30",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2026-B1-133",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2026-B1-133",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "93eac2c03f8271009e3f4b02d2f99c8464fcaa85",
+      "size": 219057,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B1-133/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Betriebsausschusses 1 (Kultur, Ordnung, Ausländerwesen und Feuerwehr)",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/B1"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/73",
+      "https://castroprauxel.gremien.info/oparl/person/1059",
+      "https://castroprauxel.gremien.info/oparl/person/1029",
+      "https://castroprauxel.gremien.info/oparl/person/400",
+      "https://castroprauxel.gremien.info/oparl/person/1090",
+      "https://castroprauxel.gremien.info/oparl/person/1087",
+      "https://castroprauxel.gremien.info/oparl/person/1064",
+      "https://castroprauxel.gremien.info/oparl/person/1045",
+      "https://castroprauxel.gremien.info/oparl/person/1007",
+      "https://castroprauxel.gremien.info/oparl/person/906",
+      "https://castroprauxel.gremien.info/oparl/person/1330",
+      "https://castroprauxel.gremien.info/oparl/person/649",
+      "https://castroprauxel.gremien.info/oparl/person/1307",
+      "https://castroprauxel.gremien.info/oparl/person/1311",
+      "https://castroprauxel.gremien.info/oparl/person/1312",
+      "https://castroprauxel.gremien.info/oparl/person/1331",
+      "https://castroprauxel.gremien.info/oparl/person/1198",
+      "https://castroprauxel.gremien.info/oparl/person/1332",
+      "https://castroprauxel.gremien.info/oparl/person/420",
+      "https://castroprauxel.gremien.info/oparl/person/1322",
+      "https://castroprauxel.gremien.info/oparl/person/1390",
+      "https://castroprauxel.gremien.info/oparl/person/1048",
+      "https://castroprauxel.gremien.info/oparl/person/1402"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-B1-133",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-08-25",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-B1-133",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-B1-133",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 345030,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2026-07-08T17:30:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-B1-133",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-08-25",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-B1-133",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-B1-133",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 345030,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2019-EUV-29",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-EUV-29%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2019-EUV-29",
+        "name": "Genehmigung des Protokolls der Sitzung vom 25.09.2019",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2019-EUV-29%7Czt_0%7C1",
+          "date": "2019-11-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2019-EUV-29%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2019-EUV-29%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 98889,
+          "text": "1 Genehmigung des Protokolls der Sitzung vom 25.09.2019  Auf Anfrage von Verwaltungsratsmitglied Herr Dr. Jankovics zu TOP I.4 erklärt Vorstand Herr Werner, dass die Beantwortung der weitergehenden Anfrage zur Verteilung der Entgeltgruppen auf die Geschlechter nachgereicht wird. Er verweist auf die zwischenzeitlich schon zur Verfügung gestellten Übersichten. Der Verwaltungsrat beschließt einstimmig das Protokoll der Sitzung vom 25.09.2019.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/8574",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-EUV-29%7C260309100031%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2019-EUV-29",
+        "name": "Feststellung der Jahresrechnung 2018 und Entlastung des Vorstandes",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2019-EUV-29%7C260309100031%7C1",
+          "date": "2019-11-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2019-EUV-29%7C260309100031%7C1",
+          "fileName": "be_260309100031_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2019-EUV-29%7C260309100031%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 110214,
+          "text": "2 Feststellung der Jahresrechnung 2018 und Entlastung des Vorstandes\u000b(2019/EUV/032)  Der Wirtschaftsprüfer Herr Schepers von der BDO AG Wirtschaftsprüfungsgesellschaft, Dortmund stellt den Mitgliedern des Verwaltungsrates des EUV Stadtbetrieb den Umfang und die Methodik für die erweiterten Abschlussprüfung der Jahresrechnung 2018 vor. Er erläutert besondere Kennzahlen der Prüfung, gibt Hinweise auf verschiedene strategische Entscheidungen und Ausblick auf das zu erwartende Jahresergebnis 2019. \u000bDer Prüfbericht stellt fest, dass die wirtschaftlichen Verhältnisse des EUV stabil sind und Geschäftsführung ordnungsgemäß ausgeführt wurde. Die Wirtschaftsprüfer schlagen vor, den erwirtschafteten Jahresüberschuss, nach Abzug der beschlossenen Vorabausschüttung in Höhe von 590 Tsd  an die Stadtverwaltung, auf die neue Rechnung vorzutragen. \u000bIm Ergebnis sieht die Wirtschaftsprüfung keine Veranlassung, die Jahresrechnung 2018 zu beanstanden und erteilt das uneingeschränkte Testat.  Die anschließenden Nachfragen der Verwaltungsratsmitglieder unter anderem zum Eigenkapital des Stadtbetriebes, zur Dokumentation von Beschaffungen oder zur Beratungsfunktion der BDO in verschiedenen Projekten innerhalb des EUV im Hinblick auf den erteilten Prüfauftrag beantwortet der Wirtschaftsprüfer Herr Schepers, unterstützt durch den Vorstand Herrn Werner ausführlich.  Der Verwaltungsrat nimmt den Jahresabschluss 2018 sowie den Prüfbericht der BDO AG Wirtschaftsprüfungsgesellschaft zur Kenntnis und beschließt einstimmig wie folgt: Die Jahresrechnung 2018 des EUV Stadtbetriebes wird festgestellt. Der zum 31.12.2018 erwirtschaftete Jahresüberschuss in Höhe von EUR 752.801,40 wird wie folgt verwendet: Unter Verrechnung der im Berichtsjahr geleisteten Vorabausschüttung in Höhe von 590.000,00  wird der Restbetrag in Höhe von EUR 162.801,40 auf neue Rechnung vorgetragen. Der Vorstand des EUV wird uneingeschränkt entlastet.  Anschließend verlässt der Wirtschaftsprüfer, Herr Schepers die Sitzung.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/8523",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-EUV-29%7C262208100025%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2019-EUV-29",
+        "name": "Benennung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2019 des EUV Stadtbetrieb",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2019-EUV-29%7C262208100025%7C1",
+          "date": "2019-11-14",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2019-EUV-29%7C262208100025%7C1",
+          "fileName": "be_262208100025_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2019-EUV-29%7C262208100025%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 100597,
+          "text": "3 Benennung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2019 des EUV Stadtbetrieb\u000b(2019/EUV/026)  Vorstand Herr Werner erläutert die Vorlage und stellt fest, dass ein Wechsel der Wirtschaftsprüfungsgesellschaft für die Prüfung des Wirtschaftsjahres 2019 nicht zielführend sei, da beabsichtigt ist, die nächste Jahresrechnung vor der Kommunalwahl 2020 dem Verwaltungsrat zum Beschluss vorzulegen. Auf Anfrage vom Verwaltungsratsmitglied Herrn Piehl erläutert Vorstand Herr Werner, dass für die Prüfung der Jahresrechnung 2020 eine anforderungsorientierte Ausschreibung und Angebotseinholung der Jahresprüfung vorbereitet wird. Der Verwaltungsrat beschließt einstimmig, die BDO AG Wirtschaftsprüfungsgesellschaft aus Dortmund als Prüfer für den Jahresabschluss 2019 zu benennen.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-EUV-29%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2019-EUV-29",
+        "name": "Anfragen der Verwaltungsratsmitglieder",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2019-EUV-29%7Czt_1%7C1",
+          "date": "2019-11-14",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2019-EUV-29%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2019-EUV-29%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 102404,
+          "text": "4 Anfragen der Verwaltungsratsmitglieder  Auf Anfrage von Herrn Verwaltungsratsmitglied Dr. Jankovics verweist Vorstand Herr Werner auf den Bericht in der nächsten Verwaltungsratssitzung zum Winterdienst auf Radwegen. Verwaltungsratsmitglied Herr Dr. Jankovics erinnert an das im Jahre 2012 ausgesprochene Ziel der Erhöhung der Eigenkapitalquote im EUV Stadtbetrieb. Er stellt fest, dass mit Ausnahme des Teilbetriebs Stadtentwässerung in den Teilbetrieben nur Verluste festzustellen sind und bittet, eine Einschätzung zur Entwicklung abzugeben. \u000bVorstand Herr Werner verweist besonders für das Jahr 2018 auf die hohen, jeweils zu erwirtschaftenden Rückstellungen (z.B. für Altlasten und für Pensionen). Er kündigt insbesondere für den Teilbetrieb Energie eine offene Prüfung bis zur Abgabe bzw. Teilaufgabe soweit keine Eigenversorgung betrifft, an. Verwaltungsratsmitglied Herr Goerke erinnert seit Juli 2018 mehrfach an die angezeigte beschädigte Vitrine in der Bushaltestelle am Castroper Hauptbahnhof (in nördlicher Richtung). Vorstand Herr Werner wird (soweit noch nicht beauftragt) weiteres veranlassen. Verwaltungsratsmitglied Herr Helsper weist auf das Bemühen der Emschergenossenschaft hin, kommunale Kanalnetze zu übernehmen. Vorstand Herr Werner erkennt derzeit für den EUV Stadtbetrieb keine besonderen Aktivitäten der Emschergenossenschaft. Herr Bürgermeister Kravanja ergänzt als Mitglied des Genossenschaftsrates, dass die Stadt Castrop-Rauxel nicht im Focus der Emschergenossenschaft liegt. Verwaltungsratsmitglied Herr Dr. Jankovics bedankt sich für die Bereitstellung verschiedener Auswertungen unter verweis auf die Verwaltungsratssitzung vom 25.09.2019 hinsichtlich der geschlechterspezifischen Verteilung der Beschäftigten auf die verschiedenen Entgeltgruppen. Er führt an, dass 50% der weiblichen Beschäftigten in den Entgeltgruppen 2 bis 7 eingestuft sind, aber lediglich 17% der männlichen Beschäftigten in den Entgeltgruppen 8 bis 13. Vorstand Herr Werner erläutert, dass die niedrigen Entgeltgruppen überwiegend im gewerblichen Bereich (Abfallbeseitigung, Straßenreinigung) tarifkonform ausgewiesen sind. Diese Tätigkeiten werden fast ausschließlich von männlichen Kollegen ausgeführt. Des Weiteren, dass eine größere Anzahl weiblicher Beschäftigter im kaufmännischen, Personal- und Verwaltungsbereich angesiedelt sind.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-EUV-29%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2019-EUV-29",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2019-EUV-29%7Czt_2%7C1",
+          "date": "2019-11-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2019-EUV-29%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2019-EUV-29%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 97431,
+          "text": "5 Mitteilungen des Vorstandes  Vorstand Herr Werner gibt dem Verwaltungsrat zur Kenntnis, dass der Weihnachtsmarkt in der Altstadt vom 15.11.2019 bis zum 31.12.2019 stattfindet. Er verweist auf verschiedene Highlights und Angebote insbesondere für Kinder. Vorstand Herr Werner berichtet über leichte Verzögerungen bei der Eröffnung des Bringhofes am Deininghauser Weg und verweist auf die demnächst durchgeführte Berichterstattung in der lokalen Tagespresse sowie Werbeaktionen für den neuen Standort.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-EUV-29%7Czt_3%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2019-EUV-29",
+        "name": "Anfragen der Verwaltungsratsmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-EUV-29%7Czt_4%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2019-EUV-29",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2019-11-11T18:10:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2019-EUV-29",
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Sitzungsraum 1 EUV,  Westring 215, Castrop-Rauxel, Westring 215, 44575 Castrop-Rauxel",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2019-EUV-29/location",
+      "locality": "Castrop-Rauxel",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "postalCode": "44575",
+      "room": "Sitzungsraum 1 EUV,  Westring 215, Castrop-Rauxel",
+      "streetAddress": "Westring 215",
+      "subLocality": "Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Verwaltungsrates EUV",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/176",
+      "https://castroprauxel.gremien.info/oparl/person/748",
+      "https://castroprauxel.gremien.info/oparl/person/626",
+      "https://castroprauxel.gremien.info/oparl/person/318",
+      "https://castroprauxel.gremien.info/oparl/person/133",
+      "https://castroprauxel.gremien.info/oparl/person/241",
+      "https://castroprauxel.gremien.info/oparl/person/240",
+      "https://castroprauxel.gremien.info/oparl/person/817",
+      "https://castroprauxel.gremien.info/oparl/person/814",
+      "https://castroprauxel.gremien.info/oparl/person/344",
+      "https://castroprauxel.gremien.info/oparl/person/790"
+    ],
+    "start": "2019-11-11T17:00:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting"
+  }
+}

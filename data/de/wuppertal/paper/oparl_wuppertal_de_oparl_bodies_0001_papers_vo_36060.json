@@ -1,0 +1,65 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36060",
+  "modified_at": "2026-07-06T12:09:44+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367025.pdf",
+        "created": "2026-07-06T12:05:38+02:00",
+        "date": "2026-07-06",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367025.pdf",
+        "fileName": "00367025.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367025",
+        "mimeType": "application/pdf",
+        "modified": "2026-07-06T12:09:44+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141060",
+        "authoritative": true,
+        "created": "2026-07-06T12:08:22+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68296",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24653",
+        "modified": "2026-07-16T08:04:20+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36060",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141061",
+        "authoritative": true,
+        "created": "2026-07-06T12:08:34+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68297",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24542",
+        "modified": "2026-07-14T07:16:38+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36060",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-06T11:56:02+02:00",
+    "date": "2026-07-06",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36060",
+    "modified": "2026-07-06T12:09:44+02:00",
+    "name": "Bestellung eines Stadtkämmerers im Interim",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/0872/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

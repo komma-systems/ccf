@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/240811100043",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=240811100043%7C20181109123422.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2018-11-12",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=240811100043%7C20181109123422.pdf%7C",
+        "fileName": "20181109123422.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C240811100043%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/240811100043",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "96c9a454cdc7b0b17eb49ab8740a47454ddb7118",
+        "size": 318761,
+        "text": "Gebührenbedarfsberechnung (Märkte)",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-24%7C240811100043%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8176",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2018-EUV-24",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2018-11-08",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/240811100043",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=240811100043&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=240811100043&id=69",
+      "fileName": "240811100043",
+      "id": "https://castroprauxel.gremien.info/oparl/file/240811100043",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2018/EUV/044",
+      "size": 90456,
+      "text": "/  Datum:  08.11.2018    TB VII / GBA 9686-380       Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 28.11.2018 TOP: I.8 Drucksache-Nr. 2018/EUV/044     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 28.11.2018 8    Betreff:  Gebührenbedarfsberechnung 2019 - Wochenmärkte     Finanzielle Auswirkungen gem. Wirtschaftsplan   ja Gesamtkosten       X nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat nimmt die als Anlage beigefügte Gebührenbedarfsberechnung 2019 -Wochenmärkte- zur Kenntnis und beschließt, die Gebühren für die Wochenmärkte nicht zu ändern.      \f  \f   ________________________ Werner \f Sachverhalt: Gemäß beiliegender Gebührenbedarfsberechnung 2019 ist eine Änderung bzw. Erhöhung der Gebühr für die Wochenmärkte nicht notwendig. Weiterer Bericht in der Sitzung.   Anlage\u000bGebührenbedarfsberechnung Wochenmärkte 2019  \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Gebührenbedarfsberechnung 2019 - Wochenmärkte",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2018/EUV/044",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

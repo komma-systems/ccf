@@ -1,0 +1,82 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/162011100038",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=162011100038%7C20141120094425.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=162011100038%7C20141120094425.pdf%7C",
+        "fileName": "20141120094425.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C162011100038%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/162011100038",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "6b3170b80b47eb7e28e1e17b4c8174dc11e4fa43",
+        "size": 876267,
+        "text": "Anlage 1: Gebührenbedarfsberechnung 2015 - Abfallentsorgung",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=162011100038%7C20141120103437.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=162011100038%7C20141120103437.pdf%7C",
+        "fileName": "20141120103437.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C162011100038%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/162011100038",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "4cc7cb2784f5bbe1f015f84f05490fb2bf3a9c8b",
+        "size": 318284,
+        "text": "Anlage 2 - Gebührensatzung zur Entwässerungssatzung 2015",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-6%7C162011100038%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6284",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2014-EUV-6",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2014-11-20",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/162011100038",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=162011100038&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=162011100038&id=69",
+      "fileName": "162011100038",
+      "id": "https://castroprauxel.gremien.info/oparl/file/162011100038",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2014/EUV/036",
+      "size": 153946,
+      "text": "Datum: 20.11.2014 TB I 9686-340 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 10.12.2014 TOP: Drucksache-Nr. 2014/EUV/036 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 10.12.2014 Rat der Stadt 11.12.2014 Betreff: Gebührenbedarfsberechnung 2015 Abfallentsorgung und Erlass einer Gebührensatzung zur Satzung über die Kreislaufwirtschaft und Abfallent-sorgung in der Stadt Castrop-Rauxel Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € x nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt die Gebührenbedarfsberechnung 2015 Abfallentsorgung (Anlage 1) zur Kenntnis und beschließt die beigefügte Gebührensatzung zur Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel (Anlage 2) ________________________ Werner Sachverhalt: Nach der anliegenden Gebührenbedarfsberechnung für das Jahr 2015 ergibt sich ein Preis je Liter Abfall von 1,85 € (VJ: 1,74 €). Dieser Preis entspricht einer Erhöhung um 6,3 % resultierend u. a. aus der Erhöhung der Kreisabfallgebühr und einer Steigerung der Personalkosten. Im Übrigen wird auf die Erläuterungen in der anliegenden Gebührenbedarfsberechnung verwiesen. Gemäß § 5 Abs. 2 Ziff. 1 der Satzung für das Kommunalunternehmen der Stadt Castrop-Rauxel, EUV, Stadtbetrieb Castrop-Rauxel – AöR – ist der Verwaltungsrat für den Erlass von Satzungen im Rahmen des übertragenen Aufgabenbereiches zuständig. Bezüglich des Erlasses von Satzungen hat der Rat der Stadt Castrop-Rauxel gem. § 9 Abs. 1 der o.g. Satzung ein Weisungsrecht. Vor der öffentlichen Bekanntmachung der Satzung ist somit die vom Verwaltungsrat beschlossene Satzung vom Rat der Stadt Castrop-Rauxel zu billigen. Weiterer Bericht in der Sitzung.Gebührenbedarfsberechnung 2015 Abfallentsorgung und Erlass einer Gebührensatzung zur Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel2014/EUV/036%anl%;Anlage 1: Gebührenbedarfsberechnung 2015 - AbfallentsorgungAnlage 2 - Gebührensatzung zur Entwässerungssatzung 2015 ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Gebührenbedarfsberechnung 2015 Abfallentsorgung und Erlass einer Gebührensatzung zur Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2014/EUV/036",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

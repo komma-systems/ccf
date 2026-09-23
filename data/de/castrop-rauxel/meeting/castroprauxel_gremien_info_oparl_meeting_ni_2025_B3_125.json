@@ -1,0 +1,300 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-125",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-125%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-125",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-125%7C1%7C1",
+          "date": "2025-10-09",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-125%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-125%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 64265,
+          "text": "  I.1 Fragestunde für Einwohnerinnen und Einwohner   Keine Anfragen.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-125%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-125",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-125%7CProtokoll%7C1",
+          "date": "2025-10-09",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-125%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-125%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 64805,
+          "text": "  I.2 Einwände gegen die letzte Niederschrift   Keine Einwände.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/14464",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-125%7C382807100140%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-125",
+        "name": "Jahresberichterstattung zur städtischen Straßenbeleuchtung 2024",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-125%7C382807100140%7C1",
+          "date": "2025-10-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-125%7C382807100140%7C1",
+          "fileName": "be_382807100140_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-125%7C382807100140%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 87499,
+          "text": "  I.3 Jahresberichterstattung zur städtischen Straßenbeleuchtung 2024 (2025/136)    Der Jahresbericht zur städtischen Straßenbeleuchtung 2024 wird zur Kenntnis genommen.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/14447",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-125%7C380109100154%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-125",
+        "name": "Nahverkehrsplan: Fortschreibung durch den Kreis Recklinghausen\r\nSachstand",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-125%7C380109100154%7C1",
+          "date": "2025-10-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-125%7C380109100154%7C1",
+          "fileName": "be_380109100154_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-125%7C380109100154%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 86213,
+          "text": "  I.4 Nahverkehrsplan: Fortschreibung durch den Kreis Recklinghausen Sachstand (2025/150)    Der Ausschuss für Klima- und Umweltschutz und der Betriebsausschuss 3 nehmen den Sachstand zur Kenntnis.          \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/14455",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-125%7C382508100146%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-125",
+        "name": "Satzung zur Bezeichnung von Flächen, in denen die Stadt nach § 25 Abs. 1 Nr. 2 Baugesetzbuch ein besonderes Vorkaufsrecht beansprucht (Vorkaufsrechtssatzung 5)\r\nhier: Satzungsbeschluss",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-125%7C382508100146%7C1",
+          "date": "2025-10-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-125%7C382508100146%7C1",
+          "fileName": "be_382508100146_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-125%7C382508100146%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 127896,
+          "text": "  I.5 Satzung zur Bezeichnung von Flächen, in denen die Stadt nach § 25 Abs. 1 Nr. 2 Baugesetzbuch ein besonderes Vorkaufsrecht beansprucht (Vorkaufsrechtssatzung 5) hier: Satzungsbeschluss (2025/142)   Der Betriebsausschuss 3 empfiehlt dem Rat der Stadt Castrop-Rauxel:  Der Rat beschließt die Satzung zur Bezeichnung von Flächen, in denen die Stadt nach § 25 Abs. 1 Nr. 2 Baugesetzbuch ein besonderes Vorkaufsrecht beansprucht (Vorkaufsrechtssatzung 5).  Der räumliche Geltungsbereich der Vorkaufsrechtssatzung ist in der zum Beschluss gehörenden Anlage 1 dargestellt.  Die Beschlussfassung erfolgt einstimmig.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2025-B3-125%7Czt_0%7C1%7C20251008125622-0_zt_0_1.pdf",
+            "date": "2025-10-08",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2025-B3-125%7Czt_0%7C1%7C20251008125622-0_zt_0_1.pdf",
+            "fileName": "20251008125622-0_zt_0_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2025-B3-125%7Czt_0%7C1%7C20251008125622-0_zt_0_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "20250925_B3_Postgebäude",
+            "size": 2839798,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-125%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-125",
+        "name": "Bauvorhaben von städtebaulicher Bedeutung",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-125%7Czt_0%7C1",
+          "date": "2025-10-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-125%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-125%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 94229,
+          "text": "  I.6 Bauvorhaben von städtebaulicher Bedeutung   Investorenkonzept für das ehemalige Postareal Frau Reuter berichtet ausführlich über die Entwicklung des ehemaligen Postareals und stellt das weiterentwickelte Konzept der wohnvoll AG über eine gemischt genutzte Bebauung vor. Der Investor plant, ein 4 bis 5-geschossiges Gebäude zu errichten. Die Stellplätze werden in einer Garage oberirdisch abgewickelt, da eine Tiefgarage aus wirtschaftlichen Gründen nicht möglich ist. Es wird eine Durchwegung in den begrünten Innenhof geben, der auch öffentlich zu den üblichen Öffnungszeiten zugänglich sein sollte. Zusätzlich hat der Investor eine Idee zu einem nachhaltigen Mobilitätskonzept eingereicht. Das weiterentwickelte Konzept der wohnvoll AG entspricht aus Sicht der Stadt Castrop-Rauxel den städtebaulichen Zielstellungen aus dem Prozess der nordwestlichen Innenstadt und kann seitens des Investors weiterverfolgt werden.   Sachstand BÜ Obere Münsterstraße Frau Reuter informiert über ein Gespräch mit der DB über die Interimslösung für den Bahnübergang Obere Münsterstraße. Durch den Ratsbeschluss und auch der intensiven Unterstützung des VRR konnte die Interimslösung mit der DB einvernehmlich als weitere Grundlage besprochen werden. Das bedeutet für 2028, wenn die neuen Züge kommen, dass die DB die Bahnsteige barrierefrei und in entsprechender Länge herstellen kann und zunächst der BÜ temporär für den Fuß- und Radwegeverkehr offengehalten werden kann.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-125%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-125",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-125%7C6%7C1",
+          "date": "2025-10-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-125%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-125%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 106016,
+          "text": "  I.7 Anfragen der Ausschussmitglieder   Der Vertreter des Stadtsportbundes Herr Ulrich Romahn fragt an, ob die Möglichkeit besteht, den Parkplatz nördlich des Hallenbads als öffentliche Stellplatzanlage auszuweisen. Herr Werner weist daraufhin, dass der Parkplatz derzeit eine Stellplatzanlage des Hallenbades ist, sagt aber eine Prüfung zu.  Herr Berkel fragt an, wie lange die Kanalbaumaßnahme Hedwig-Kiesekamp-Straße noch dauert. Herr Werner berichtet, dass die Kanalbaumaßnahme noch in 2025 beendet werden soll. Die Straßenwiederherstellungsmaßnahmen ziehen sich jedoch  je nach Witterung - bis in 1. Quartal 2026. Im Weiteren erkundigt sich Herr Berkel zu der aktuellen Situation der Freiheitstraße insbesondere zur Grünfläche Bramkampstraße. Herr Werner führt aus, dass die Freiheitstraße im Zuge der Brückenbaumaßnahme Wartburgbrücke über die Emscher sowie der Straßenausbaumaßnahme Wartburgstraße bis zum Brückenbauwerk Rhein-Herne-Kanal als Umgehungsstraße miteinbezogen werden wird. Eine entsprechende Überplanung und Sanierung der Freiheitstraße kann somit erst nach Abschluss der durchgeführten Maßnahmen der Emschergenossenschaft bzw. des Kreises Recklinghausen erfolgen.   Im Anschluss daran erkundigt sich Herr Berkel über die Parkraumsituation entlang der Suderwicher Straße. Er verweist auf die umfangreiche Parkverbotsbeschilderung in Höhe der beiden gastronomischen Betriebe. Herr Werner führt aus, dass zwischenzeitlich eine Vereinbarung mit der Bundeswasserschifffahrtsverwaltung zur Zwischennutzung der bestehenden Parkplatzfläche in Höhe der Pizzeria längs des Rhein-Herne-Kanals geschlossen worden ist. Die Untermietverträge sind beiden Gastronomen zugeleitet worden.  Herr Roehl fragt nach, wie die aktuelle Situation am Schophof Nr. 10 ist.   Frau Lenort erläutert, dass der Schophof 10 einer der zentralen Problemimmobilien in Castrop-Rauxel ist. Das Gelände rund um den Schopfhof 10 ist durch den EUV großräumig abgesperrt. Es laufen etliche Ordnungsverfügungen gegen den Vermieter, der mittlerweile Insolvenz angemeldet hat.  Herr Dr. Häpke fragt nach der Umsetzung der Entwicklungsmaßnahme Bookenkreuz. Herr Werner berichtet, dass alle Vorarbeiten abgeschlossen sind und sagt zu, Herrn Dr. Häpke eine Information zum Baubeginn zukommen zu lassen.  Ferner fragt Herr Dr. Häpke nach dem Förderprojekt Coole Schule (Bezug: LANUV; Projekte für Klimafolgeanpassungen). Herr Werner berichtet, dass sich eine interne Arbeitsgruppe unter Einbindung des Betriebes 2 mit dieser Thematik  insbesondere bei Schulhöfen  auseinandersetzt.  Herr Dr. Häpke erkundigt sich nach dem aktuellen Sachstand Radweg in Merklinde.  Frau Reuter erläutert, dass für die Lothringtrasse die Fällperiode Anfang des Jahres eingehalten wurde, um möglichst über den Sommer ausschreiben und mit dem Bau beginnen zu können. Die Ausschreibungsunterlagen sind soweit fertig und können zeitnah auf den Weg gebracht werden.           \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-125%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-125",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-125%7C4%7C1",
+          "date": "2025-10-09",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-125%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-125%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 90916,
+          "text": "  I.8 Mitteilungen der Verwaltung   Altstadtring Herr Werner berichtet, dass die Umsetzung der Fahrradstraße Altstadtring (hier: L 657  1. Bauabschnitt) noch bis Anfang Januar 2026 projektiert ist. Ab Januar 2026 wird die Sanierung der Bochumer Straße beginnen. Die endgültigen Weißmarkierungen werden je nach Wetterlage im März 2026 aufgebracht. Wann die Umsetzung des 2. Bauabschnittes oberhalb des Brückenbauwerkes Emschertalbahn in Richtung bis zum Engelsburgplatz ausgeschrieben und umgesetzt wird, ist seitens des Landesbetriebes Straßen.NRW, Bochum noch offen.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-125%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-125",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-125%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-125",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2025-09-25T17:20:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-125",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2025-B3-125",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-09-10",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2025-B3-125",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2025-B3-125",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "dc43d201fdea3ff710d33fc496a3cd2a5bf2d697",
+      "size": 429469,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-125/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Betriebsausschusses 3 (Bauen, Verkehr und Sport)",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/205",
+      "https://castroprauxel.gremien.info/oparl/person/1031",
+      "https://castroprauxel.gremien.info/oparl/person/1059",
+      "https://castroprauxel.gremien.info/oparl/person/596",
+      "https://castroprauxel.gremien.info/oparl/person/241",
+      "https://castroprauxel.gremien.info/oparl/person/984",
+      "https://castroprauxel.gremien.info/oparl/person/457",
+      "https://castroprauxel.gremien.info/oparl/person/112",
+      "https://castroprauxel.gremien.info/oparl/person/1070",
+      "https://castroprauxel.gremien.info/oparl/person/977",
+      "https://castroprauxel.gremien.info/oparl/person/841",
+      "https://castroprauxel.gremien.info/oparl/person/1047",
+      "https://castroprauxel.gremien.info/oparl/person/1048",
+      "https://castroprauxel.gremien.info/oparl/person/269",
+      "https://castroprauxel.gremien.info/oparl/person/1011",
+      "https://castroprauxel.gremien.info/oparl/person/1025",
+      "https://castroprauxel.gremien.info/oparl/person/344",
+      "https://castroprauxel.gremien.info/oparl/person/1274",
+      "https://castroprauxel.gremien.info/oparl/person/965"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-B3-125",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-10-22",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2025-B3-125",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2025-B3-125",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 196254,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2025-09-25T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-B3-125",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-10-22",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2025-B3-125",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2025-B3-125",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 196254,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

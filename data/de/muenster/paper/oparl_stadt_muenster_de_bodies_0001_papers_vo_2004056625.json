@@ -1,0 +1,50 @@
+{
+  "council_id": "muenster",
+  "record_type": "paper",
+  "source_id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056625",
+  "modified_at": "2026-09-07T12:58:25+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588805.pdf",
+        "created": "2026-09-04T11:35:16+02:00",
+        "date": "2026-09-04",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588805.pdf",
+        "fileName": "00588805.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588805",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-07T12:58:25+02:00",
+        "name": "Originalantrag",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://oparl.stadt-muenster.de/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/288351",
+        "created": "2026-09-04T11:37:44+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91695",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14506",
+        "modified": "2026-09-16T08:11:30+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/91"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056625",
+        "role": "Antrag",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-04T10:58:40+02:00",
+    "date": "2026-09-04",
+    "id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056625",
+    "modified": "2026-09-07T12:58:25+02:00",
+    "name": "Verkehrssicherheit an der Grevener/Sprakeler Straße in den Bereichen Am Max-Klemens-Kanal und Am Knapp verbessern",
+    "paperType": "Antrag an die BV Nord",
+    "reference": "A-N/0016/2026",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "https://oparl.stadt-muenster.de/bodies/0001/organizations/at/100324"
+    ]
+  }
+}

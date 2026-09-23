@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/100104100092",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-SCHULA-19%7C100104100092%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/3637",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-SCHULA-19",
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2009-04-01",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/100104100092",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=100104100092&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=100104100092&id=69",
+      "fileName": "100104100092",
+      "id": "https://castroprauxel.gremien.info/oparl/file/100104100092",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2009/094",
+      "size": 175044,
+      "text": "01.04.2009;116;126;127;142;15;150;2009/094;2009/2010;22;22.04.2009;24;26;40;44;48;50;51;59;60;65;76;84;87;adalbert-stifter-gymnasium;aller;alter;am;an;anmeldeergebnis;anmeldung;anmeldungen;anschaulich;auflösung;aufnahmestand;aus;ausführungen;az;berührung;busch;castrop-rauxel;castrop-rauxeler;cottenburgschule;dargestellt;das;datum;deininghausen;den;der;dortmund);elisabethschule;erich-kästner-schule;ernst-barlach-gymnasium;es;folgende;folgenden;franz-hillebrand-hauptschule;fridtjof-nansen-realschule;friedrich-harkort-schule;für;garten;gibt;grundschule;grundschulen;grüner;haushaltsmäßige;hügel;ickern;in;janusz-korczak-gesamtschule;johannes-rau-realschule;keine;kenntnis;kinder;liegt;lindenschule;marktschule;nach;nimmt;nunmehr;öffentlich;schillerschule;schulausschuss;schulbezirke;schulen;schüler;schülerwanderung;schuljahr;schulpflichtigen;siehe;sitzungsvorlage;top-nr;und;von;vor;waldschule;weg;weiterführende;weiterführenden;wilhelmschule;willy-brandt-gesamtschule;wird;zum;anmeldungen;an;den;grundschulen;und;den;weiterführenden;schulen;der;stadt;castrop-rauxel;für;das;schuljahr;2009/2010;2009/094;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Anmeldungen an den Grundschulen und den weiterführenden Schulen der Stadt Castrop-Rauxel für das Schuljahr 2009/2010",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2009/094",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

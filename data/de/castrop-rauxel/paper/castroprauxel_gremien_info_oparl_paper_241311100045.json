@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/241311100045",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=241311100045%7C20181115110646.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2018-11-15",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=241311100045%7C20181115110646.pdf%7C",
+        "fileName": "20181115110646.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C241311100045%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/241311100045",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "f604d621eca24833577a3d0b37484befac7571c8",
+        "size": 97985,
+        "text": "Anlage 4_2018 zu VR Sitzung 28.11.2018",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-24%7C241311100045%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8194",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2018-EUV-24",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2018-11-13",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/241311100045",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=241311100045&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=241311100045&id=69",
+      "fileName": "241311100045",
+      "id": "https://castroprauxel.gremien.info/oparl/file/241311100045",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2018/EUV/048",
+      "size": 158404,
+      "text": "/  \f Datum:  13.11.2018   TB I 9686-700      Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 28.11.2018 TOP: I.2 Drucksache-Nr. 2018/EUV/048     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 28.11.2018 2    Betreff:  Zwischenbericht 4 / 2018     Finanzielle Auswirkungen gem. Wirtschaftsplan  X ja Gesamtkosten        nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat nimmt den Zwischenbericht 4 / 2018 zur Kenntnis.   \f  \f    ________________________ Werner \f Sachverhalt:  Der Vorstand des EUV Stadtbetrieb Castrop-Rauxel  AöR  hat gem. § 8 Abs. 5 der Satzung der Stadt Castrop-Rauxel den Verwaltungsrat mindestens halbjährlich über die Entwicklung des Vermögens- und Erfolgsplanes des EUV Stadtbetrieb Castrop-Rauxel schriftlich zu unterrichten.  Es wird regelmäßig vierteljährlich berichtet, zuletzt in der Sitzung des Verwaltungsrates am 26.09.2018 (Zwischenbericht 3 / 2018; Drucksache 2018/EUV/039). Der Zwischenbericht berücksichtigt im Allgemeinen die Buchungsvorgänge bis zu einem definierten Stichtag (hier 31.10.2018). Aufgrund der Systemumstellung in der Finanzbuchhaltung sind die Buchungsvorgänge bis zu diesem Stichtag nunmehr erfasst worden, es muss jedoch aktuell die Berichtsstruktur in das neue System implementiert und angepasst werden. Daher gibt der Bericht eine eher risikoorientierte Betrachtung für mögliche Vorgänge, die zu Planabweichungen führen können, wider.  Insgesamt können aufgrund der Buchungsvorgänge und des Risiko-Monitorings aktuell keine Tendenzen festgestellt werden, die abweichend zum vorherigen Zwischenbericht 3 / 2018 aus dem operativen Geschäft angepasst werden müssen. Dagegen sind verschiedene Themen betreffend Rückstellungen, gesetzlich für die Anstalt des öffentlichen Rechts vorgeschrieben nach BilMoG (Bilanz-Modernisierungs-Gesetz) sowie HGB (Handelsgesetzbuch), ein mögliches Risiko.  Die Veränderung der Rückstellungen bspw. für Pensionsverpflichtungen sind einerseits abhängig von der Berechnung der kvw Münster (Kommunale Versorgungskasse Westfalen-Lippe) aus ihrem Gutachten und den tatsächlichen Abfindungszahlungen bei Dienstherrenwechsel.   Hier muss für das Jahr 2018 mit einem zusätzlichen Aufwand aus der Korrektur von Rückstellungen in Höhe von prognostiziert 250.000 Euro gerechnet werden. Der EUV Stadtbetrieb Castrop-Rauxel geht mit aktuellem Stand davon aus, diese Mehraufwendungen durch Minderaufwendungen aus dem Bereich Unterhaltung technische Anlagen (u. a. Kanalunterhaltung) zu kompensieren.   Der Umsatz für den Bereich Photovoltaikanlagen wird aktuell nach technischen Gesichtspunkten und aus Sicht der Abrechnung detailliert auf den Prüfstand gestellt: aus dem Ertrag aus der Einspeisevergütung wird eine Umsatzverbesserung erwartet, ebenso aus dem Schadensersatz aus dem Versicherungsschaden für eine Anlage, der sich noch in Klärung befindet.  Für den Bereich Abfallentsorgung, Erlös aus Papier/Pappe/Kartonagen, wird aufgrund des niedriger zu erzielenden Verkaufspreises am Markt eine Umsatzverschlechterung in Höhe von 200.000 Euro erwartet, der sich ergebnismindernd auswirken kann. Zu sonstigen ergebnisrelevanten Rahmenbedingungen werden keine Änderungen erwartet.   Das Ergebnis des Gesamtbetriebes EUV wird in diesem Zwischenbericht daher mit 1,1 Mio. Euro prognostiziert und liegt unterhalb des Planwerts 2018 in Höhe von 1,3 Mio. Euro.   Weiterer Sachvortrag in der Sitzung.  Anlage   \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Zwischenbericht 4 / 2018",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2018/EUV/048",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

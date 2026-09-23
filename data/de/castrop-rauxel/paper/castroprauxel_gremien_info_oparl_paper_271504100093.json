@@ -1,0 +1,77 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/271504100093",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271504100093%7C20200415100343-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-04-15",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271504100093%7C20200415100343-0.pdf%7C",
+        "fileName": "20200415100343-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271504100093%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271504100093",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "786bb9f173e1b720940f68196c432c9055eec086",
+        "size": 1154948,
+        "text": "Antrag der UBP vom 14.04.2020_Erlass_Abgaben_Vereine",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-HFA-102%7C271504100093%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8891",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-HFA-102",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-117%7C271504100093%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8892",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-117",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-04-15",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/271504100093",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271504100093&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271504100093&id=69",
+      "fileName": "271504100093",
+      "id": "https://castroprauxel.gremien.info/oparl/file/271504100093",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/085",
+      "size": 11841,
+      "text": " Bereich Bürgerbeteiligung, Sport und Stärkung des Ehrenamts 2020/085 öffentlich  Az:     Datum: 15.04.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Haupt- und Finanzausschuss 30.04.2020   Rat der Stadt 30.04.2020    Betreff  Antrag der UBP vom 14.04.2020_Erlass_Abgaben_Vereine  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  Siehe Anlage.  \f\f      gez. Thomas Schmidt Fraktionsvorsitzender UBP   \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Antrag der UBP vom 14.04.2020_Erlass_Abgaben_Vereine",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/085",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

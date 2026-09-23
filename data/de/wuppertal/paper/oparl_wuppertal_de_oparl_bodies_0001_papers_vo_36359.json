@@ -1,0 +1,60 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36359",
+  "modified_at": "2026-09-21T11:56:26+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370358.pdf",
+        "created": "2026-09-21T11:49:52+02:00",
+        "date": "2026-09-21",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370358.pdf",
+        "fileName": "00370358.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370358",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-21T11:56:27+02:00",
+        "name": "Antrag die Linke",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141921",
+        "created": "2026-09-21T11:54:14+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68864",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24654",
+        "modified": "2026-09-21T12:13:02+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36359",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141922",
+        "created": "2026-09-21T11:54:46+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68865",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24543",
+        "modified": "2026-09-23T10:41:34+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36359",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-21T11:37:47+02:00",
+    "date": "2026-09-21",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36359",
+    "modified": "2026-09-21T11:56:26+02:00",
+    "name": "Umbesetzungsantrag der Fraktion Die Linke",
+    "paperType": "Antrag die Linke",
+    "reference": "VO/1145/26",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

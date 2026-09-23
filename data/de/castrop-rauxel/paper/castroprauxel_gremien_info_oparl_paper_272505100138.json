@@ -1,0 +1,84 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/272505100138",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272505100138%7C20200528155230-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-28",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272505100138%7C20200528155230-0.pdf%7C",
+        "fileName": "20200528155230-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272505100138%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272505100138",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "93386cd10e2c91f4d202b5a5ad1c0b2d64da3f48",
+        "size": 9288026,
+        "text": "1: Bericht umwelt-klimaorienierte Stadtentwicklung",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-UMWA-96%7C272505100138%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8960",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-UMWA-96",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B3-99%7C272505100138%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8958",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B3-99",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-118%7C272505100138%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8959",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-118",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-05-25",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/272505100138",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272505100138&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272505100138&id=69",
+      "fileName": "272505100138",
+      "id": "https://castroprauxel.gremien.info/oparl/file/272505100138",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/118",
+      "size": 43901,
+      "text": " Bereich Stadtentwicklung und Statistik 2020/118  öffentlich  Az:     Datum: 25.05.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Umweltausschuss 16.06.2020   Betriebsausschuss 3 (Bauen, Verkehr und Sport) 18.06.2020   Rat der Stadt 25.06.2020    Betreff  Bericht zur umwelt- und klimaorientierten Stadtentwicklung  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Der Rat der Stadt Castrop-Rauxel nimmt den Bericht zur umwelt- und klimaorientierten Stadtentwicklung zur Kenntnis und beauftragt die Verwaltung gemeinsam mit dem EUV die Aufgaben und Zuständigkeiten zu gliedern.   \f  \f   Kravanja         Lenort Bürgermeister         Stadtbaurätin \f Sachverhalt  Eine gesamtstädtische und strategische Auseinandersetzung mit den Themen Klima- und Klimaanpassung sowie Umweltschutz und Umweltplanung ist in einem breiten politischen Konsens diskutiert worden. Das im Juli 2019 vom Rat der Stadt Castrop-Rauxel beschlossenen 10 Punkte-Programm zur klimagerechten Stadtentwicklung (Vorlage Nr. 2019/162) und die Beratung im November 2019 zu einer strategischen Aufbereitung der Themen sind nur ein Ausschnitt der politischen Beratung zur Umsetzung der Ziele.  Der Bericht zur umwelt- und klimaorientierten Stadtentwicklung gibt in einem ersten Schritt einen Überblick über die Aktivitäten und vorhandenen Konzepte der Stadtverwaltung und des EUVs. Die Themen Umwelt und Klima werden bereits auf der strategischen als auch auf der operativen Ebene bearbeitet, dabei stellt der mit allen Bereichen des Betriebes 3 und dem EUV abgestimmte Bericht zur umwelt- und klimaorientierten Stadtentwicklung die strategisch konzeptionelle Ebene heraus (s. Kap. 2). Die Sachdarstellung zu der operativen Ebene erfolgt im Rahmen des Klimaberichtes des EUV.  Mit der Aufbereitung der Aktivitäten, kommunale Konzepte, Strategien, Pläne und sonstigen Instrumente erfolgt auch eine Darstellung der derzeitigen Aufgabengliederung zwischen der Stadtverwaltung und dem EUV (s. Kap. 2.5). Zudem wird ein Ausblick auf die kommenden Aktivitäten und die konkrete Umsetzung gegeben.  Die Aktivitäten, Konzepte und Strategien formulieren die Zielrichtung für die Zukunft. Eine Abgrenzung der Schnittstellen zwischen der Stadtverwaltung und dem EUV trägt die Umsetzung und Weiterentwicklung der formulierten Ziele. In einem zweiten Schritt ist daher auch über die Organisationsstruktur und die Aufgabengliederung zwischen der Stadtverwaltung und dem EUV zu diskutieren und zu beraten. Wird die strategisch konzeptionelle Ebene als Querschnittsaufgabe betrachtet, ist eine Verortung dieser Ebene im Betrieb 3 unter Berücksichtigung und Aufstockung der Ressourcen konkludent (s. Kap. 3).    Anlage Anlage 1: Bericht zur umwelt- und klimaorientierten Stadtentwicklung (1 Druckexemplar je Fraktion)   \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Bericht zur umwelt- und klimaorientierten Stadtentwicklung",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/118",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

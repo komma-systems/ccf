@@ -1,0 +1,171 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/253110100272",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=253110100272%7C20190611102256.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=253110100272%7C20190611102256.pdf%7C",
+        "fileName": "20190611102256.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C253110100272%7C4",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/253110100272",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 4",
+        "sha1Checksum": "20f308b0a5766469e1ac10b9a4a5be19e41c20aa",
+        "size": 248872,
+        "text": "Anlage 3: Sondernutzungsgebühren 2019 neu - alt",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=253110100272%7C20191031064612.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-10-31",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=253110100272%7C20191031064612.pdf%7C",
+        "fileName": "20191031064612.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C253110100272%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/253110100272",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "677eb508ac3f08a949e7224a1e6625cf487fcc1c",
+        "size": 417680,
+        "text": "Anlage 1: Sondernutzungssatzung 2019 neu - mit Änderungen",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=253110100272%7C20200131115907-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-31",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=253110100272%7C20200131115907-0.pdf%7C",
+        "fileName": "20200131115907-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C253110100272%7C5",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/253110100272",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 5",
+        "sha1Checksum": "21c268a614e2dd36d89bdb9834ba8362af74b3f3",
+        "size": 303002,
+        "text": "Protokoll interfraktionelle Runde Sondernutzungssatzung am 15.01.2020",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=253110100272%7C20200303090030-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-03-03",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=253110100272%7C20200303090030-0.pdf%7C",
+        "fileName": "20200303090030-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C253110100272%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/253110100272",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "738a2b593660222577c5d28289c73633b44ef8d8",
+        "size": 6126975,
+        "text": "Anlage 2 Neue Textfassung der Anlage 2 zur Vorlage 2019_259",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-AuWi-29%7C253110100272%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8642",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-AuWi-29",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-B1-99%7C253110100272%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8643",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-B1-99",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B1"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-RAT-115%7C253110100272%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8644",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-RAT-115",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-AuWi-30%7C253110100272%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8822",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-AuWi-30",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B1-100%7C253110100272%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8783",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B1-100",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B1"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-116%7C253110100272%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8784",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-116",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-10-31",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/253110100272",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=253110100272&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=253110100272&id=69",
+      "fileName": "253110100272",
+      "id": "https://castroprauxel.gremien.info/oparl/file/253110100272",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/259",
+      "size": 153866,
+      "text": " Bereich Ordnungswesen und Bürgerservice 2019/259 öffentlich  Az: 32   Datum: 31.10.2019    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Ausschuss für Wirtschaftsentwicklung 19.11.2019 3  Betriebsausschuss 1 (Kultur, Ordnung, Ausländerwesen und Feuerwehr) 20.11.2019 4  Rat der Stadt 28.11.2019 18  Ausschuss für Wirtschaftsentwicklung 18.02.2020   Betriebsausschuss 1 (Kultur, Ordnung, Ausländerwesen und Feuerwehr) 19.02.2020 5  Rat der Stadt 27.02.2020 11   Betreff  Neufassung der Satzung über die Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen und Plätzen in der Stadt Castrop-Rauxel (Sondernutzungssatzung)  \f    Finanzielle Auswirkungen      keine haushaltsmäßige Berührung     X Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  Der Rat der Stadt beschließt die als Anlage 2 beigefügte Neufassung der Satzung über die Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen und Plätzen in der Stadt Castrop-Rauxel (Sondernutzungssatzung).  \f  \fK r a v a n j a        E c k h a r d t Bürgermeister       Erster Beigeordneter \fSachverhalt  Mit der Vorlage 2019/259 legt die Verwaltung eine Neufassung der Sondernutzungsatzung zur Beschlussfassung vor. Zur besseren Lesbarkeit sind der Vorlage folgenden Anlagen beigefügt:  Anlage 1: Sondernutzungssatzung mit erkennbaren Veränderungen (neue Regelungen sind unterstrichen markiert, wegfallende durchgestrichen)  Anlage 2: Sondernutzungssatzung als Beschlussfassung  Anlage 3: Gebührentarife, Gegenüberstellung alt  neu  Im Weiteren werden nun die wesentlichen Änderungen im Einzelnen erläutert:  1. § 4  Erlaubnisfreie Sondernutzungen  Mit Streichung des Buchst. c)  alt  werden nun auch Werbe- und Warenauslagen einer Genehmigung unterworfen. Dies erscheint auf Grund der steigenden Anzahl entsprechender Nutzungen geboten.  Darüber hinaus wird das Thema der Wahlwerbung (Buchst. f)  alt) in einem eigenen Paragraphen behandelt, s. u..  2. § 7  Erlaubnis  Im neu formulierten Abs. 2 erfolgt nun die Klarstellung, dass Sondernutzungen max. für das laufende Jahr genehmigt werden. Bei einer längerfristigen bzw. über den Jahreswechsel hinausgehenden Sondernutzungen ist ein weiterer Antrag erforderlich.  3. § 8  Gebühren  Im Abs.1 S. 3 ist eine Ausnahme von der jeweiligen Berechnungseinheit normiert. So kann z. B. bei temporärer Erweiterung einer Außengastronomie (z. B. Erweiterung für einen Tag bei entsprechender Witterung, Auf- und Abbau der entsprechenden Bestuhlung am selben Tag) eine tagesgenaue Berechnung für das erweiterte Angebot erfolgen.  Im Abs. 4 wird künftig geregelt, dass auch für die Versagung einer Sondernutzungserlaubnis Verwaltungsgebühren erhoben werden können. Mit den Verwaltungsgebühren wird der Verwaltungsaufwand (Antragsprüfung etc.), der bei der Antragsbearbeitung anfällt, abgebildet. Dieser fällt auch bei einer Versagung an (siehe auch § 10 Abs. 1 Buchst. c)).  4. § 12  Gebührenfreiheit  Im S. 2 erfolgt die satzungsmäßige Regelung der bisherigen Praxis für einen teilweisen bzw. vollständigen Verzicht auf Sondernutzungsgebühren.  5. § 12a  Wahlwerbung  Im § 12a wir künftig das Thema der Wahlwerbung separat geregelt. Die hier vorgeschlagene Textfassung erlaubt es, im Einzelfall  abhängig von der jeweiligen Wahl  weitere Konkretisierungen im Erlaubnisbescheid festzulegen. Die Verwaltung erhält somit die Möglichkeit, auf Besonderheiten der einzelnen Wahlarten (z. B. Anzahl der zugelassenen Parteien, ortsnähe der Wahl) flexibel einzugehen.  Die vorgeschlagenen Regelungen geben die derzeitigen Regularien im Wesentlichen wieder, die den Parteien bereits jetzt vor einer Wahl schriftlich mitgeteilt werden.  6. Gebührentarife  Den Gebührentarifen vorangestellt sind nun allgemeine Bestimmungen. Neben grundsätzlicher Ausführungen zur Berechnungsgröße erfolgen hier insbesondere Festlegungen der Sondernutzungsmindestgebühr sowie der gestaffelten Verwaltungsgebühren.  Bzgl. der Sondernutzungsgebühren im Einzelnen wird insbesondere auf die Anlage 3 zu dieser Vorlage verwiesen. Grundsätzlich schlägt die Verwaltung vor, auf eine Zoneneinteilung (Zentrum Altstadt / übriges Stadtgebiet) zu verzichten, da dies aus Sicht einer Gebührengerechtigkeit nicht mehr zeitgemäß erscheint.  Ansonsten erfolgen sowohl moderate Tariferhöhungen als auch Anpassungen im Sinne der Antragsteller (z. B. Containeraufstellung).  Die Tarifstellen 21 (Boulevard Altstadt) und 23 (Kulturplatz Leo) sind neu aufgenommen. Der Kulturplatz Leo soll auf Grund seiner Besonderheit mit keiner Sondernutzungsgebühr belegt werden.   Weiterer Bericht in der Sitzung.   \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Neufassung der Satzung über die Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen und Plätzen in der Stadt Castrop-Rauxel (Sondernutzungssatzung)",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/259",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/AuWi",
+      "https://castroprauxel.gremien.info/oparl/organization/B1",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT",
+      "https://castroprauxel.gremien.info/oparl/organization/B1",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT",
+      "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+    ]
+  }
+}

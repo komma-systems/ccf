@@ -1,0 +1,110 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/272901100035",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272901100035%7C20200130145852-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-30",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272901100035%7C20200130145852-0.pdf%7C",
+        "fileName": "20200130145852-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272901100035%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272901100035",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "e70df3c0205838b06e61d77782d0c607852d3b4b",
+        "size": 379138,
+        "text": "Entwurf Satzungsänderung Kita",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272901100035%7C20200130145852-1.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-30",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272901100035%7C20200130145852-1.pdf%7C",
+        "fileName": "20200130145852-1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272901100035%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272901100035",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "f6dd5119681271a9799707b030cea6eb5d99c169",
+        "size": 391422,
+        "text": "Entwurf Satzungsänderung OGS",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272901100035%7C20200130145853-2.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-30",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272901100035%7C20200130145853-2.pdf%7C",
+        "fileName": "20200130145853-2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272901100035%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272901100035",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "eb1b0f1cfa3cbacb151b33e86d6e1864fac2f8fe",
+        "size": 505289,
+        "text": "Satzungsänderung Anlage",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B2-99%7C272901100035%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8802",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B2-99",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B2"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-116%7C272901100035%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8803",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-116",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-01-29",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/272901100035",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272901100035&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272901100035&id=69",
+      "fileName": "272901100035",
+      "id": "https://castroprauxel.gremien.info/oparl/file/272901100035",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/030",
+      "size": 233661,
+      "text": " Bereich Schule 2020/030 öffentlich  Az:     Datum: 29.01.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 2 (Familie, Jugend, Soziales und Bildung) 20.02.2020   Rat der Stadt 27.02.2020    Betreff  Änderung der Elternbeitragssatzung zum 01.08.2019  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Die vorgeschlagenen Satzungsänderungen aufgrund der geänderten Rechtslage hinsichtlich der Beitragsbefreiung bei Bezug von Wohngeld oder Kinderzuschlag werden beschlossen. Die unterste Beitragsgrenze wird für beide Satzungen auf 20.000  Brutto-Jahreseinkommen angehoben.    \f  \f_________________      _______________ Kravanja        Kleff Bürgermeister       Beigeordnete für Soziales \f  Sachverhalt  Aufgrund des neuen Gesetzes Gesetz zur Weiterentwicklung der Qualität und zur Teilhabe in der Kindertagesbetreuung vom 19.12.18 (sog. Gute Kita-Gesetz) sind Eltern vom Elternbeitrag zu befreien, wenn sie Wohngeld oder Kinderzuschlag beziehen. Dieser Teil des Gesetzes tritt zum 01.08.2019 in Kraft.  Aus diesem Grund sind die Satzungen (Kita und OGS) entsprechend anzupassen.  Bei Treffen von Nachbarkommunen auf der Ebene der Elternbeitragsstellen wurde kommuniziert, dass mehrere Kommunen die unterste Einkommensgrenze, unterhalb derer keine Elternbeiträge zu zahlen sind, von zumeist 17.500  auf  20.000  Bruttojahreseinkommen anheben. Dies ist auch für Castrop-Rauxel im Sinne von Familienfreundlichkeit zu begrüßen. Entsprechend angepasste Beitragstabellen sind beigefügt.  Die Änderungsentwürfe und die Beitragstabellen sind als Anlagen beigefügt. Die Präambeln der Satzungen sind durch den Bereich 30 auf Aktualität geprüft worden.   \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Änderung der Elternbeitragssatzung zum 01.08.2019",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/030",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/271002100052",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271002100052%7C20200210151705-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-02-10",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271002100052%7C20200210151705-0.pdf%7C",
+        "fileName": "20200210151705-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271002100052%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271002100052",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "c54385ebf2895b1bc90274feebe3f40eaf9579c7",
+        "size": 65703,
+        "text": "2020 10. Änderung Haupstsatzung 02.2020",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-HFA-102%7C271002100052%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8889",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-HFA-102",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-117%7C271002100052%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8890",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-117",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-03-31",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/271002100052",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271002100052&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271002100052&id=69",
+      "fileName": "271002100052",
+      "id": "https://castroprauxel.gremien.info/oparl/file/271002100052",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/048",
+      "size": 41708,
+      "text": " Bereich Stabsstelle Ratsangelegenheiten 2020/048 öffentlich  Az:     Datum: 31.03.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Haupt- und Finanzausschuss 30.04.2020   Rat der Stadt 30.04.2020    Betreff  Zehnte Änderungssatzung zur Hauptsatzung der Stadt Castrop-Rauxel; Mitglieder des Integrationsrates  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \fBeschlussvorschlag  Der Rat der Stadt Castrop-Rauxel beschließt die als Anlage beigefügte 10. Änderungssatzung zur Hauptsatzung der Stadt Castrop-Rauxel    \f  \f  Kravanja      Kleff Bürgermeister     Beigeordnete für Soziales  \f  Sachverhalt  Zur politischen Teilhabe von Menschen mit Einwanderungsgeschichte ist in Gemeinden, in denen mindestens 5.000 ausländische Einwohner ihre Hauptwohnung haben, ein Integrationsrat zu bilden (§ 27 Gemeindeordnung NRW).  Der Integrationsrat besteht aus gewählten Mitgliedern, die am Tag der Kommunalwahl gewählt werden, sowie aus vom Rat bestellten Ratsmitgliedern. Die Zahl der zu wählenden Mitglieder muss die Zahl der in den Integrationsrat zu bestellenden Ratsmitglieder übersteigen. Weitere Vorgaben hinsichtlich der Größe des Integrationsrates macht die Gemeindeordnung nicht.   Die Hauptsatzung so dergestalt geändert werden, dass ab dem am 13.09.2020 zu wählenden Integrationsrat acht Mitglieder von den Wahlberechtigten gewählt werden und vier vom Rat zu bestellende Ratsmitglieder hinzutreten, sodass das Gremium insgesamt 12 Mitglieder umfasst.       \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Zehnte Änderungssatzung zur Hauptsatzung der Stadt Castrop-Rauxel;\r\nMitglieder des Integrationsrates",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/048",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

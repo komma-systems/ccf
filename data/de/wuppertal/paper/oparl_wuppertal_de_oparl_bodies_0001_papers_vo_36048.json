@@ -1,0 +1,61 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36048",
+  "modified_at": "2026-07-03T12:06:27+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00366807.pdf",
+        "created": "2026-07-02T10:28:53+02:00",
+        "date": "2026-07-02",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00366807.pdf",
+        "fileName": "00366807.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/366807",
+        "mimeType": "application/pdf",
+        "modified": "2026-07-03T12:07:12+02:00",
+        "name": "Große Anfrage AfD",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141043",
+        "created": "2026-07-02T11:43:37+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68279",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24653",
+        "modified": "2026-07-29T09:06:31+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36048",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141044",
+        "authoritative": true,
+        "created": "2026-07-02T11:44:18+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68280",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24542",
+        "modified": "2026-09-04T07:44:20+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36048",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-02T10:21:34+02:00",
+    "date": "2026-07-02",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36048",
+    "modified": "2026-07-03T12:06:27+02:00",
+    "name": "Auskunft zu Personal- und Haushaltsmitteln für den Bereich sexuelle Vielfalt (LGBTIQA+)",
+    "paperType": "Große Anfrage AfD",
+    "reference": "VO/0862/26",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

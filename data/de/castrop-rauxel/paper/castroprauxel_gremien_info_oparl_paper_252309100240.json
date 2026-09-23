@@ -1,0 +1,74 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/252309100240",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=252309100240%7C20190923082910.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-09-23",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=252309100240%7C20190923082910.pdf%7C",
+        "fileName": "20190923082910.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C252309100240%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/252309100240",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "1aac195e4864185632937d047658e4899d122662",
+        "size": 4671036,
+        "text": "Übersicht Haltestellen 2 rot u gelbe punkte ohne Maßstab",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-B3-93%7C252309100240%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8596",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-B3-93",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-BEHB-43%7C252309100240%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8597",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-BEHB-43",
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-10-01",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/252309100240",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=252309100240&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=252309100240&id=69",
+      "fileName": "252309100240",
+      "id": "https://castroprauxel.gremien.info/oparl/file/252309100240",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/230",
+      "size": 238507,
+      "text": " Bereich EUV Stadtbetrieb 2019/230 öffentlich  Az:     Datum: 01.10.2019    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 3 (Bauen, Verkehr und Sport) 21.11.2019   Beirat für Menschen mit Behinderung 10.03.2020    Betreff  Sachstandsbericht barrierefreier Ausbau der Haltestellenpunkte im Stadtgebiet  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Der Betriebsausschuss 3 und der Beirat für Menschen mit Behinderung nehmen den Sachverhalt zur Kenntnis.           \f  \f L e n o r t                                                                                      W e r n e r  Technische Beigeordnete                                                            Vorstand EUV   \f  Sachverhalt  Aufgrund des Personenbeförderungsgesetzes des Bundes sind Haltestellen des ÖPNV bis zum Jahr 2022 barrierefrei auszubauen. Aus diesem Grund wurden im Jahre 2015 alle Bushaltestellen im Stadtgebiet durch den EUV Stadtbetrieb erfasst und priorisiert. (Drucksache 2016/188 vom 17.08.2016) Hieraus ergaben sich 140 Haltepunkte im Stadtgebiet.  Stand der Umsetzung: Im Jahr 2016 wurden für folgende Haltestellen beim VRR Fördermittel in Höhe von 152.800  beantragt:  Katholisches Krankenhaus Tappenhof Nordstraße Am Busch Waldfriedhof  Die Haltestellen Waldfriedhof und Nordstraße sind bereits fertig gestellt. Am Busch, Tappenhof und Katholisches Krankenhaus wurden ausgeschrieben. Die Fertigstellung soll im Herbst erfolgen.  Im Jahr 2017 wurden für folgende Haltestellen beim VRR Fördermittel in Höhe von 223.200  beantragt:  Am Weißdorn (Haltepunkt auf dem Ginsterweg) Borghagener Straße Heinestraße (Haltepunkt auf der Friedhofstraße) Holzstraße/Im Sandweg Rathaus/Europaplatz Westheide/Schule (nur einseitig im Zuständigkeitsbereich der Stadt Castrop)  Die Haltestellen Borghagener Straße, Europaplatz und Holzstraße wurden ausgeschrieben. Die Arbeiten werden im 4. Quartal 2019 beginnen. Die Haltestellenpunkte Am Weißdorn, Heinestraße und Westheide/Schule werden vorbehaltlich bereitgestellter Mittel im Jahr 2020 ausgeschrieben. Im Jahr 2018 wurden für folgende Haltestellen beim VRR Fördermittel in Höhe von 221.200  beantragt:  Amt- und Bergstraße Bogenweg Falkenstraße Ickerner Friedhof Vockmannshof  Der Förderbescheid liegt vor. Vorbehaltlich bereitgestellter Mittel sollen die Haltestellen im Jahr 2020 ausgeschrieben werden. In diesem Jahr wurden für folgende Haltestellen beim VRR Fördermittel in Höhe von 191.700  beantragt:  Becklem Waldstraße Dingen Talstraße Elsterngrund Emschertalstraße  Mit einem Förderbescheid wir im nächsten Jahr gerechnet.  Durch weitere Baumaßnahmen konnten in den letzten Jahren, im Stadtgebiet bereits auch die Haltestellen  Castrop Markt Evangelisches Krankenhaus Hedwigstraße Im Scheiten Habinghorst Schulzentrum Ickerner Markt  barrierefrei ausgebaut werden.  Sonst sind 12 Haltestellen barrierefrei ausgebaut worden.  Weiterer Bericht in der Sitzung    Anlage Übersichtsplan der umgebauten Haltestellen \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Sachstandsbericht barrierefreier Ausbau der Haltestellenpunkte im Stadtgebiet",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/230",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ]
+  }
+}

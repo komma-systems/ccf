@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/163101100003",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-0%7C163101100003%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5833",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2014-EUV-0",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2014-01-31",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/163101100003",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=163101100003&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=163101100003&id=69",
+      "fileName": "163101100003",
+      "id": "https://castroprauxel.gremien.info/oparl/file/163101100003",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2014/EUV/002",
+      "size": 87469,
+      "text": "Datum: 31.01.2014 TB I 9686-500 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: TOP: Drucksache-Nr. 2014/EUV/002 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 19.02.2014 8 Betreff: Anzeige Nebentätigkeit des EUV Vorstandes Herrn Michael Werner Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt von der Nebentätigkeit des EUV Vorstandes, Herrn Michael Werner als Geschäftsführer für die Stadtwerke Castrop-Rauxel GmbH, Kenntnis. ________________________ Werner Sachverhalt: Mit Beschluss des Rates vom 12. Dezember 2013 wurde der Vorstand des EUV Stadtbetriebes, Herr Michael Werner als Geschäftsführer gemäß § 6, Abs.1 des Gesellschaftervertrages der Stadtwerke Castrop-Rauxel GmbH zum 01. Januar 2014 bestellt. Die Übernahme der Geschäftsführertätigkeit erfolgt im Rahmen einer unentgeltlichen Nebentätigkeit. Ein entsprechender Geschäftsführervertrag ist mit der Stadtwerke Castrop-Rauxel GmbH geschlossen.Anzeige Nebentätigkeit des EUV Vorstandes Herrn Michael Werner2014/EUV/002%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Anzeige Nebentätigkeit des EUV Vorstandes Herrn Michael Werner",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2014/EUV/002",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

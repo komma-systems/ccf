@@ -1,0 +1,142 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/2026-B2-132",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-B2-132%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-B2-132",
+        "name": "Begrüßung durch die Schulleitung der Neuen Gesamtschule Ickern",
+        "number": "1",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-B2-132%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-B2-132",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17499",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-B2-132%7C400709100238%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-B2-132",
+        "name": "Antrag B90/Die Grünen-Ratsfraktion vom 07.09.2026 - \"Luisa ist hier!\" nach Castrop-Rauxel bringen",
+        "number": "3",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17507",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-B2-132%7C400909100242%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-B2-132",
+        "name": "Antrag AFD-Ratsfraktion vom 08.09.2026 - Bedarfsanalyse zur Weiterentwicklung der Öffnungszeiten der Kinder- und Jugendzentren in Castrop-Rauxel",
+        "number": "4",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17501",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-B2-132%7C400709100239%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-B2-132",
+        "name": "Antrag B90/Die Grünen-Ratsfraktion vom 07.09.2026 Beteiligung am Förderprogramm \"Coole KiTas\"",
+        "number": "5",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-B2-132%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-B2-132",
+        "name": "Aktuelle Sachstände Schule",
+        "number": "6",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-B2-132%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-B2-132",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "7",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-B2-132%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-B2-132",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "8",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-B2-132%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-B2-132",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "9",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-B2-132%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-B2-132",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "10",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-09-17T00:00:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/2026-B2-132",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=2026-B2-132",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-09-09",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=2026-B2-132",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2026-B2-132",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "99c3ab708b06f3be7d121b5a5ce8e6b834e6eab4",
+      "size": 202524,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "außerhalb des Rathauses, Info siehe Bekanntmachung, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/2026-B2-132/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "außerhalb des Rathauses, Info siehe Bekanntmachung",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "eingeladen",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Betriebsausschusses 2 (Familie, Jugend, Soziales und Bildung)",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2"
+    ],
+    "organization_active_1": "1",
+    "start": "2026-09-17T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/253010100266",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=253010100266%7C20191030091816.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-10-30",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=253010100266%7C20191030091816.pdf%7C",
+        "fileName": "20191030091816.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C253010100266%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/253010100266",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "7b499be21180c043d0dd87e4fe0ca00cb6a11143",
+        "size": 1340561,
+        "text": "Antrag Zuschuss Trägeranteile KiTa Rasselbande Castroper Holz",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-HFA-100%7C253010100266%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8632",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-HFA-100",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-HFA-100%7C253010100266%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8633",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-HFA-100",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/JHA"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-RAT-115%7C253010100266%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8634",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-RAT-115",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-10-30",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/253010100266",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=253010100266&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=253010100266&id=69",
+      "fileName": "253010100266",
+      "id": "https://castroprauxel.gremien.info/oparl/file/253010100266",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/253",
+      "size": 256160,
+      "text": " Bereich Kinderförderung 2019/253 öffentlich  Az: 56   Datum: 30.10.2019    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Haupt- und Finanzausschuss 26.11.2019   Jugendhilfeausschuss 14.11.2019 8  Rat der Stadt 28.11.2019    Betreff  Übernahme der Trägeranteile für die neue Kindertageseinrichtung Castroper Holz  \f     Finanzielle Auswirkungen      keine haushaltsmäßige Berührung     X Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  Der Rat der Stadt beschließt die Übernahme der Trägeranteile der Kindertagessstätte Rasselbande Castroper Holz, Holzstraße 171, in Höhe von 7% der Betriebskosten ab dem Kindergartenjahr 2019/2020.  \f\f    K r a v a n j a   E c k h a r d t   K l e f f   Bürgermeister  Erster Beigeordneter Beigeordnete für Soziales     Stadtkämmerer \fSachverhalt  Zum Kindergartenjahr 2019/20 wird die Kindertagesstätte Rasselbande Holzstraße neu errichtet. Die Einrichtung wird voraussichtlich im Mai 2020 den Betrieb aufnehmen. Mit Schreiben vom 24.09.2019 2019 beantragt die Rasselbande gGmbH als Träger der Einrichtung einen Zuschuss zu den Trägeranteilen in Höhe von 7% der Betriebskosten. Der Trägeranteil beträgt gemäß § 20 KiBiz 9%. Die Rasselbande gGmbH ist in der Lage, den verbleibenden Trägeranteil von 2% selbst zu finanzieren.   Die Einrichtung wird über vier (in den ersten beiden Jahren 3) Gruppen verfügen und hält 75 neue Betreuungsplätze für Kinder im Alter von 1 Jahr bis zur Schulpflicht vor. Die Rasselbande gGmbH ist ein Sonstiger Träger, der nach den Regelungen des Kinderbildungsgesetzes eine Förderung in Höhe von derzeit 91% der Betriebskosten (Kindpauschalen und Mietpauschale) erhält. Der Träger ist nicht in der Lage, die erforderlichen Mittel für die Trägeranteile in voller Höhe aufzubringen und beantragt daher einen Zuschuss zu den Trägeranteilen in Höhe von 7% der Betriebskosten ab dem Kindergartenjahr 2019/2020.  Mit der Übernahme der Trägeranteile sind Mehrkosten in Höhe von 47.478,34  für ein Kindergartenjahr verbunden. Die Höhe der Mehrkosten variiert nach den gewünschten Betreuungszeiten durch die Eltern, wobei erfahrungsgemäß in Castrop-Rauxel fast ausschließlich die 35 und 45 Stundenbetreuung pro Woche gewünscht wird. Da die Einrichtung erst zum 01.05.2020 den Betrieb aufnehmen wird, entstehen für das Jahr 2020 anteilige Kosen in Höhe von 28.964,70 .  Die zusätzlichen Trägeranteile wurden im Rahmen der Haushaltsplanung 2020 und 2021 bereits berücksichtigt.   Eine Alternative zur Übernahme der Trägeranteile gibt es nicht. Der Träger hat in dem Kita-Jahr 2012/2013 bereits die dreigruppige Kindertagesstätte Rasselbande Johannesstraße in Betrieb genommen. Auch für diese Einrichtung übernimmt die Stadt Castrop-Rauxel 7% der Betriebskosten.     B 20 B 56         \f  \fAnlage 1  - Finanzielle Auswirkungen     \f  I. Mittelbedarf: davon                                        Ergebnisplan              Aufwendungen: 0,00   - Erträge von Dritten: 0,00   = Städtischer Eigenanteil: 0,00                  davon       Finanzplan Auszahlungen: 0,00   - Einzahlungen von Dritten: 0,00   = Städtischer Finanzierungsanteil: 0,00          Die benötigten Haushaltsmittel stehen zur Verfügung:                \f JA  Buchungsstelle:  36.01.531905 (Zuschüsse an übrige Bereiche)   NEIN  Siehe Erläuterungen / Angabe von Deckungsvorschlägen \f Erläuterungen / Angabe von Deckungsvorschlägen:    \f Bei Maßnahmen des Finanzplanes:  Die Maßnahme ist in der vom Rat beschlossenen Dringlichkeitsliste enthalten.  Die Maßnahme ist in die vom Rat beschlossene Dringlichkeitsliste zusätzlich aufzunehmen bzw. eine     Erweiterung der Maßnahme ist vorzunehmen.  Die Maßnahme ist in die vom Rat zu beschließende Dringlichkeitsliste aufzunehmen. \f  II. Auswirkungen auf die mittelfristige Haushaltsplanung: Ergebnisplan 2019 2020 2021 2022 insgesamt  Personalaufwendungen          Sachaufwendungen 0,00  28.964,70  47.478,34  48.839,26  125.282,30   Zinsaufwendungen       Aufwendungen für Abschreib.       Zusätzliche Erträge          Mindererträge          Summe 0,00  28.964,70  47.478,34  48.839,26  125.282,30    Die Finanzierung ist innerhalb der mittelfristigen Haushaltsplanung für die Produktgruppe  \f   gesichert    nicht gesichert \f  III. Es wurde geprüft, dass es sich um eine Maßnahme handelt, die unter Berücksichtigung der Vorgaben des § 82 GO NRW notwendig und unabweisbar ist.                                                                                                                       \f   \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Übernahme der Trägeranteile für die neue Kindertageseinrichtung „Castroper Holz“",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/253",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/JHA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

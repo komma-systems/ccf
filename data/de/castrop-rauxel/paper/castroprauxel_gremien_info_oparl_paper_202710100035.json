@@ -1,0 +1,65 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/202710100035",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=202710100035%7C20161107110925.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2016-11-07",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=202710100035%7C20161107110925.pdf%7C",
+        "fileName": "20161107110925.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C202710100035%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/202710100035",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "69b702ef8b0de257300cdc7891a68f8da97a9191",
+        "size": 355699,
+        "text": "Gebührenbedarfsberechnung 2017, Stadtentwässerung",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-15%7C202710100035%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7223",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2016-EUV-15",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2016-10-27",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/202710100035",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=202710100035&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=202710100035&id=69",
+      "fileName": "202710100035",
+      "id": "https://castroprauxel.gremien.info/oparl/file/202710100035",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2016/EUV/036",
+      "size": 149116,
+      "text": "Datum: 27.10.2016 TB I 96 86 340 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 23.11.2016 TOP: I.7 Drucksache-Nr. 2016/EUV/036 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 23.11.2016 7 Betreff: Gebührenbedarfsberechnung 2017 - Stadtentwässerung Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt die anliegende Gebührenbedarfsberechnung 2017 „Stadtentwässerung“ zur Kenntnis und beschließt, die Entwässerungsgebühren nicht zu ändern. ________________________ Werner Sachverhalt: Gemäß beiliegender Gebührenbedarfsberechnung ist erkennbar, dass sich für das Jahr 2017 eine Schmutzwassergebühr von 2,41 € pro cbm (VJ 2,39 €) und eine Niederschlagswassergebühr von 1,14 € pro qm (VJ 1,12 €) ergibt. Eine Änderung der Entwässerungsgebühr ist demnach nicht notwendig. Weiterer Bericht in der Sitzung. Anlage (Gebührenbedarfsberechnung)Gebührenbedarfsberechnung 2017 - Stadtentwässerung2016/EUV/036%anl%;Gebührenbedarfsberechnung 2017, Stadtentwässerung Gebührenbedarfsberechnung 2017, Stadtentwässerung ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Gebührenbedarfsberechnung 2017 - Stadtentwässerung",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2016/EUV/036",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

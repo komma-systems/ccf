@@ -1,0 +1,501 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Genehmigung des Protokolls der Sitzung vom 22.06.2022 \r\n-öffentlicher Teil-",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7Czt_0%7C1",
+          "date": "2022-10-24",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2022-EUV-44%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 149991,
+          "text": "  1 Genehmigung des Protokolls der Sitzung vom 22.06.2022  -öffentlicher Teil-   Herr Dr. Jankovics teilt mit, dass Anlagen fehlen.   Der Verwaltungsrat beschließt -einstimmig- das Protokoll der öffentlichen Sitzung vom  22.06.2022.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10264",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7C321209100028%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Zwischenbericht 3 / 2022",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7C321209100028%7C1",
+          "date": "2022-10-24",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7C321209100028%7C1",
+          "fileName": "be_321209100028_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2022-EUV-44%7C321209100028%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 127096,
+          "text": "  2 Zwischenbericht 3 / 2022 (2022/EUV/029)   Vorstand Herr Werner erläutert die Vorlage. Er geht insbesondere auf die aktuelle Lage der Energiepreisentwicklung und die daraus resultierenden Auswirkungen und Folgen für den EUV Stadtbetrieb ein. Er teilt ergänzend mit, dass aufgrund der finanziellen Mehrbelastung davon auszugehen ist, dass die Anzahl der Stundungsanträge seitens der Bürgerinnen und Bürger zunehmen wird.  Herr Dr. Jankovics fragt nach, inwieweit in diesem Zusammenhang mit Nachveranlagungen (Stichwort: Entwässerungsgebühren) zu rechnen ist. Vorstand Herr Werner entgegnet, dass der EUV Stadtbetrieb bestrebt sein wird, 100 % zu erreichen.  Der Verwaltungsrat nimmt den Zwischenbericht 3 / 2022 zur Kenntnis.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10263",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7C321209100027%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Feststellung der Jahresrechnung 2021 und Entlastung des Vorstandes",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7C321209100027%7C1",
+          "date": "2022-10-24",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7C321209100027%7C1",
+          "fileName": "be_321209100027_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2022-EUV-44%7C321209100027%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 191937,
+          "text": "  3 Feststellung der Jahresrechnung 2021 und Entlastung des Vorstandes (2022/EUV/028)   Herr Heinert von der BDO AG erläutert anhand der beigefügten Powerpoint-Präsentation den Jahresabschluss 2021 des EUV Stadtbetrieb. Hierbei erläutert er insbesondere die Herangehensweise und die Zusammensetzung der Ergebnisse und zeigt mögliche unternehmerische Risiken für den EUV Stadtbetrieb auf.  Herr Dr. Jankovics erkundigt sich nach der aktuellen Eigenkapitalquote. Er möchte wissen, wieso die Stärkung der Eigenkapitalquote trotz Steigerung der Quote nicht erreicht wurde und ob diese Tatsache Auswirkungen für den EUV Stadtbetrieb mit sich bringt. Vorstand Herr Werner und Herr Heinert von der BDO erläutern den Sinn und die Zusammensetzung der Eigenkapitalquote für den EUV Stadtbetrieb als Anstalt des öffentlichen Rechts im Detail und bestätigen, dass keine Bestandsgefährdung für den EUV Stadtbetrieb besteht und diese in absehbarer Zeit auch nicht zu erwarten ist.  Der Verwaltungsrat nimmt den Jahresabschluss 2021 sowie den Prüfbericht der BDO AG Wirtschaftsprüfungsgesellschaft zur Kenntnis und beschließt  einstimmig - wie folgt:  Die Jahresrechnung 2021 des EUV Stadtbetrieb wird festgestellt. Der zum 31.12.2021 erwirtschaftete Jahresüberschuss in Höhe von 1.208.733,06 EUR wird wie folgt verwendet: Unter Verrechnung der im Berichtsjahr geleisteten Vorabausschüttung in Höhe von 590.000,00  mit dem Gewinnvortrag von 368.962,58 EUR aus dem Jahr 2020 wird der Restbetrag in Höhe von 987.695,64 EUR auf neue Rechnung vorgetragen Der Vorstand des EUV wird uneingeschränkt entlastet.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10270",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7C321409100034%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Risikomanagementbericht 2021",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7C321409100034%7C1",
+          "date": "2022-10-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7C321409100034%7C1",
+          "fileName": "be_321409100034_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2022-EUV-44%7C321409100034%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 130464,
+          "text": "  4 Risikomanagementbericht 2021 (2022/EUV/035)   Vorstand Herr Werner gibt einen aktuellen Sachstandsbericht und erläutert die umfangreichen Risikoelemente für den EUV Stadtbetrieb. Hierbei geht er insbesondere auf die möglichen Gebühreneinnahmeausfälle, die Energiebeschaffungskosten, die Klimaanpassungsmaßnahmen aufgrund von Wetterextremen sowie auf die Personalgewinnung und -entwicklung ein.  Herr Dr. Jankovics merkt an, dass es bei der Hälfte der aufgelisteten Risiken zu einer erheblichen Steigerung  gekommen ist erkundigt sich, ob der EUV Stadtbetrieb für diese Situation personalmäßig resilient aufgestellt ist. Vorstand Herr Werner erklärt, dass der EUV Stadtbetrieb die Risiken stetig im Auge behält und personell so robust aufgestellt ist, dass in jeder Lage schnellstmöglich reagiert werden kann.   Der Bericht des Vorstands zum Risikomanagementbericht 2021 wird zur Kenntnis genommen.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10265",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7C321209100029%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Benennung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2022 des EUV Stadtbetriebes",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7C321209100029%7C1",
+          "date": "2022-10-24",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7C321209100029%7C1",
+          "fileName": "be_321209100029_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2022-EUV-44%7C321209100029%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 169520,
+          "text": "  5 Benennung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2022 des EUV Stadtbetriebes (2022/EUV/030)   Verwaltungsratsvorsitzender und Bürgermeister Herr Kravanja sowie Vorstand Herr Werner erklären, warum ein Wechsel der Wirtschaftsprüfungsgesellschaft für den EUV Stadtbetrieb erst im nächsten Jahr angebracht ist. Vorstand Herr Werner ergänzt, dass im Frühjahr des nächsten Jahres eine Ausschreibung zur Angebotseinholung (Markterkundung) für eine neue Wirtschaftsprüfungsgesellschaft geplant ist.  Herr Dr. Jankovics führt an, dass beim EUV Stadtbetrieb bereits seit 10 Jahren kein Wechsel der Wirtschaftsprüfungsgesellschaft stattgefunden hat und dass die Formulierung im Beschlussvorschlag letztmalig durch die jetzige Wirtschaftsprüfungsgesellschaft passender gewesen wäre.  Der Verwaltungsrat beschließt einstimmig -, die BDO AG Wirtschaftsprüfungsgesellschaft aus Dortmund als Prüfer für den Jahresabschluss 2022 zu benennen.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10274",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7C321808100024%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Projekt: 'Betrachtungsraum Ohmstraße'\r\nFörderung im Rahmen klimaresiliente Region mit internationaler Strahlkraft (KRIS)",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7C321808100024%7C1",
+          "date": "2022-10-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7C321808100024%7C1",
+          "fileName": "be_321808100024_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2022-EUV-44%7C321808100024%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 143028,
+          "text": "  6 Projekt:  Betrachtungsraum Ohmstraße  Förderung im Rahmen klimaresiliente Region mit internationaler Strahlkraft (KRIS) (2022/EUV/025)    Vorstand Herr Werner informiert anhand der Vorlage über das Projekt und teilt mit, welche Verwaltungsbereiche an dem Projekt beteiligt sind. Er ergänzt, dass es vorgesehen ist, die Verwaltungsratsmitglieder in jeder 2. Sitzung über den aktuellen Sachstand der Maßnahme zu informieren.  Herr Steinbach erkundigt nach den Projektkosten für den Betrachtungsraum Ohmstraße und deren Auswirkungen auf den Gebührenhaushalt. Vorstand Herr Werner versichert, dass hier nach wie vor Gebührenstabilität besteht und dass sich durch die Realisierung der Maßnahme die Gewässergütewerte im Deininghauser Bach in den nächsten Jahren verbessern werden.  Herr Dr. Jankovics erkundigt sich in diesem Zusammenhang über die positive Wirkung bei Starkregenereignissen. Vorstand Herr Werner zählt die hierzu entwickelten Maßnahmen auf und gibt einen aktuellen Sachstandsbericht.  Der Sachstandsbericht des Vorstands wird zur Kenntnis genommen.   Der Vorstand wird über die weiteren Planungen berichten. Sobald die Förderzusage vorliegt, sind die Bürger*Innen und die Grundstückseigentümer*Innen im Betrachtungsraum zu informieren und in den Planungsprozess einzubinden.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Sachstandsbericht zum Umbau des Landwehrbaches im Bereich der Altstadt\r\n-mündlicher Bericht-",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7Czt_1%7C1",
+          "date": "2022-10-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2022-EUV-44%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 127677,
+          "text": "  7 Sachstandsbericht zum Umbau des Landwehrbaches im Bereich der Altstadt -mündlicher Bericht-   Der stellvertretende Vorstand Herr Werth-von Kampen gibt einen aktuellen Sachstandsbericht und erläutert die aktuelle Umsetzung und Entwicklung diverser Baumaßnahmen im Bereich der Altstadt. Er fügt an, dass es in der Vergangenheit bereits vermehrt zu Nachtragsverhandlungen aufgrund von Kostensteigerungen gekommen ist.  Herr Molloisch erkundigt sich, ob aufgrund der aktuellen Kostensteigerungen ein Insolvenzrisiko für den EUV Stadtbetrieb seitens der ausführenden Baufirma besteht. Der stellvertretende Vorstand Herr Werth-von Kampen entgegnet, dass die Baumaßnahme aktuell planmäßig abläuft und sich noch im vorgebebenen Kostenrahmen befindet.  Der stellvertretende Vorstand Herr Werth-von Kampen erläutert detailliert die Arbeiten zum unterirdischen Rohrvertrieb des Landwehrbaches (Streckenlänge: 1,5 Km) und gibt einen aktuellen Sachstand. Im Anschluss daran geht er auf die Entschlammung des Gondelteiches und die aktuelle diesbezügliche Problematik (Stichwort: Schlamm und Thema Pistenraupe) ein. Vorstand Herr Werner ergänzt, dass in diesem Zusammenhang, die Möglichkeit genutzt wird, den Überhang der Platanen über der Teichfläche im Stadtgarten ohne Boot zurückzuschneiden und mit der Wiederherstellung der Uferrandbereiche begonnen wird. Des Weiteren soll die Beleuchtungseinrichtung zwischen Glückaufstraße und Parkbad Süd optimiert werden.  Im Anschluss daran teilen der Verwaltungsratsvorsitzende und Bürgermeister Herr Kravanja und Vorstand Herr Werner noch mit, dass bei Interesse seitens der Verwaltungsratsmitglieder eine weitere Begehung der Baustelle (Abstieg in die Röhre) vorgesehen ist.  Der Verwaltungsrat nimmt den mündlichen Sachstandsbericht zum Umbau des Landwehrbaches im Bereich der Altstadt zur Kenntnis.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Laubsammlung Herbst 2022\r\n-mündlicher Bericht-",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7Czt_2%7C1",
+          "date": "2022-10-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2022-EUV-44%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 117035,
+          "text": "  8 Laubsammlung Herbst 2022 -mündlicher Bericht-   Vorstand Herr Werner gibt einen aktuellen Sachstandsbericht zum Thema Laubsammlung Herbst 2022 und gibt weitergehende Informationen zum Ablauf der Aktion.  Der Verwaltungsrat nimmt den mündlichen Bericht des Vorstandes ohne weitere Fragen zur Kenntnis. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10266",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7C321209100030%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Einsatzplanung Winterdienst 2022 / 2023",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7C321209100030%7C1",
+          "date": "2022-10-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7C321209100030%7C1",
+          "fileName": "be_321209100030_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2022-EUV-44%7C321209100030%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 126822,
+          "text": "  9 Einsatzplanung Winterdienst 2022 / 2023 (2022/EUV/031)   Vorstand Herr Werner erläutert die Vorlage und versichert, dass sich der EUV Stadtbetrieb sowohl personell als auch salztechnisch für den kommenden Winter gerüstet hat.  Herr Dr. Jankovics fragt nach, wie der Winterdienst für die Castrop-Rauxeler Radwege geregelt ist. Vorstand Herr Werner erklärt, dass der Winterdienst auf ausgewiesenen Radwegen durch den EUV Stadtbetrieb erfolgt. Er ergänzt, dass zeitnah eine Abstimmung mit dem Landesbetrieb Straßen.NRW angestrebt werden soll, damit auf dem kompletten Radwegenetz der Stadt Castrop-Rauxel Winterdienstleistungen erfolgen können.  Der Verwaltungsrat nimmt den Bericht zur Einsatzplanung des Winterdienst 2022 / 2023 zur Kenntnis.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10269",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7C321409100033%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Abwassergebühren - Auswirkungen des OVG-Urteils vom 17.05.2022 auf die \r\nAbwassergebührenkalkulation",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7C321409100033%7C1",
+          "date": "2022-10-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7C321409100033%7C1",
+          "fileName": "be_321409100033_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2022-EUV-44%7C321409100033%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 161035,
+          "text": "  10 Abwassergebühren - Auswirkungen des OVG-Urteils vom 17.05.2022 auf die  Abwassergebührenkalkulation (2022/EUV/034)   Vorstand Herr Werner erläutert die Vorlage und gibt ergänzende Hinweise. Er teilt mit, dass die Anlage dem Protokoll der Niederschrift beigefügt wird.   Herr Dr. Jankovics fragt nach, welche Auswirkungen das OVG-Urteil vom 17.05.2022 auf den EUV Stadtbetrieb bzw. auf die einzelnen Teilbetriebe hat. Vorstand Herr Werner teilt mit, dass in der nächsten Verwaltungsratssitzung eine Vorlage mit den Auswirkungen des OVG-Urteils vom 17.05.2022 und deren Relevanz für den EUV Stadtbetrieb vorgestellt wird, da eine 100 %ige Rechtssicherheit aufgrund einer noch im Landtag NRW zu beschließenden gesetzlichen Grundlage (Änderung des KAG im § 6 Abs. 2) zum jetzigen Zeitpunkt noch nicht gewährleistet werden kann.   Der Verwaltungsrat nimmt den Sachstandsbericht des Vorstands zur Kenntnis.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10268",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7C321309100032%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Statistik über die Entwicklung des Preisindex Abwassergebühren",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7C321309100032%7C1",
+          "date": "2022-10-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7C321309100032%7C1",
+          "fileName": "be_321309100032_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2022-EUV-44%7C321309100032%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 129571,
+          "text": "  11 Statistik über die Entwicklung des Preisindex Abwassergebühren (2022/EUV/033)   Vorstand Herr Werner erläutert die Vorlage und gibt ergänzende Hinweise zur Thematik. Hierzu gibt es seitens der Verwaltungsratsmitglieder weder Fragen noch Anmerkungen.   Der Verwaltungsrat nimmt die Statistik zur Kenntnis.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10267",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7C321309100031%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Erfassung von Bioabfällen in Castrop-Rauxel\r\nAnfrage der Fraktion 'Die Linke' vom 12.09.2022",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7C321309100031%7C1",
+          "date": "2022-10-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7C321309100031%7C1",
+          "fileName": "be_321309100031_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2022-EUV-44%7C321309100031%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 143588,
+          "text": "  12 Erfassung von Bioabfällen in Castrop-Rauxel Anfrage der Fraktion  Die Linke  vom 12.09.2022 (2022/EUV/032)   Vorstand Herr Werner erläutert die Anfrage und beantwortet die darin gestellten Fragen. Er teilt mit, dass ein entsprechendes Schriftstück zur Thematik dem Protokoll der Niederschrift beigefügt wird.  Herr Molloisch erkundigt sich, ob es Probleme mit Fehlwürfen bezüglich des Biomülls gibt. Vorstand Herr Werner entgegnet, dass im Kreis Recklinghausen regelmäßig Analysen über die Reinheit des Biomülls durchgeführt werden und dass diese Ergebnisse einmal jährlich in einer Statistik zusammengetragen werden. Er teilt weiter mit, dass die Stadt Castrop-Rauxel im letzten statistischen Vergleich sehr gut abgeschnitten hat.  In diesem Zusammenhang fügt er noch hinzu, dass das Humusangebot des EUV Stadtbetriebes am Bringhof Ickern sehr gut angenommen wird.  Der Sachvortrag des Vorstandes zur Erfassung von Bioabfällen in Castrop-Rauxel wird zur Kenntnis genommen. Die schriftliche Beantwortung der Fragen wird dem Protokoll der Niederschrift beigefügt.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Anfragen der Verwaltungsratsmitglieder",
+        "number": "13",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7Czt_3%7C1",
+          "date": "2022-10-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2022-EUV-44%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 13",
+          "size": 104686,
+          "text": "  13 Anfragen der Verwaltungsratsmitglieder   Herr Hart erkundigt sich über den aktuellen Stand der Straßenaufbrüche im Stadtgebiet Castrop-Rauxel und fragt an, ob diese dokumentiert werden. Vorstand Herr Werner teilt mit, dass der EUV Stadtbetrieb derzeit Aufbrüche aus der Vergangenheit in einem dafür vorgesehenen EDV-Programm aufbereitet, welches dann in regelmäßigen Abständen immer wieder aktualisiert und sich somit immer auf dem aktuellsten Stand befinden wird.  Herr Steinbach informiert die Anwesenden darüber, dass es Ampelanlagen im Stadtgebiet Castrop-Rauxel gibt, die die Radfahrer nicht erfassen. Vorstand Herr Werner erklärt, dass sich lediglich 4 Ampeln im Stadtgebiet im Eigentum der Stadt Castrop-Rauxel befinden. Er ergänzt, dass die Ampelproblematik im nächsten Jour fixe Verkehr angesprochen wird, damit (ggf. mit dem Landesbetrieb Straßen.NRW oder mit dem Kreis Recklinghausen) eine dauerhafte Lösung für das Problem gefunden werden kann.  Herr Dr. Jankovics erkundigt sich zum aktuellen Sachstand der Roteinfärbung der Fahrradstraße im Stadtgebiet Castrop-Rauxel und zur Nutzungsänderung der Lange Straße zur Fahrradstraße. Vorstand Herr Werner teilt mit, dass der EUV Stadtbetrieb sich bezüglich der Roteinfärbung der Fahrradstraße noch in Gesprächen mit dem Landesbetrieb Straßen.NRW befindet. Bezüglich der Nutzungsänderung der Lange Straße als Fahrradstraße teilt er mit, dass sich dieses Vorhaben derzeit in der verwaltungsinternen Abstimmung befindet und dass aufgrund des hohen Arbeitsaufkommens frühestens in 2023 mit einer Einbindung des Landesbetriebes Straßen.NRW zu rechnen ist.  Herr Dr. Jankovics erkundigt sich, ob es aktuell schon Ergebnisse zur Sauberkeitsoptimierung im Stadtgebiet Castrop-Rauxel gibt. Verwaltungsratsvorsitzender und Bürgermeister Herr Kravanja teilt mit, dass der Einstieg in konkrete Planungen erst Sinn macht, wenn der Bereich Stadtgrün und Friedhofswesen dem EUV Stadtbetrieb zugeordnet ist. Vorstand Herr Werner ergänzt, dass es beispielsweise im Bereich des Hauptbahnhofes vorgesehen ist, die Wewole-Stiftung (entsprechende Vertragswerke befinden sich aktuell in Abstimmung) einzubinden.  Herr Dr. Jankovics fragt nach, wie der aktuelle Sachstand zur Beleuchtung des Gehweges am Nordlager ist. Vorstand Herr Werner führt aus, dass es vorgesehen ist, diesen Bereich mit Solarleuchten auszustatten und fügt abschließend hinzu, dass der Auftrag bereits vergeben ist und eine Umsetzung somit unmittelbar bevorsteht.  Herr Dr. Jankovics teilt zur Wegeverbindung B 235  Wartburgstraße (Emscherradweg) mit, dass diese seit einiger Zeit wegen einer Baumaßnahme gesperrt ist und als Umleitung dafür bisher die Baustraße an der nördlich liegenden Emscher zur Verfügung stand. Er fügt hinzu, dass diese Umleitung allerdings seit letzter Woche ebenfalls nicht mehr zur Verfügung steht. Er fragt in diesem Zusammenhang nach, wie lange diese Sperrung andauert und ob eine entsprechende Umleitung ausgeschildert wird. Vorstand Herr Werner teilt mit, dass diese Thematik zeitnah kommuniziert wird, um schnellstmöglich eine zielführende Lösung zu finden.  Herr Dr. Jankovics teilt mit, dass im Protokoll vom 30. März 2022 seitens des Vorstandes zugesagt wurde, dass über die die Umsetzung des Straßenbeleuchtungsvertrages berichtet wird und fragt nach, ob dies bereits geschehen ist. Vorstand Herr Werner antwortet, dass eine Berichterstattung lediglich im Betriebsausschuss 3 erfolgt ist und sichert zu, dass ein entsprechender Bericht für den Verwaltungsrat zeitnah Anfang 2023 vorgestellt wird.  Herr Dr. Jankovics erkundigt sich zum aktuellen Sachstand bezüglich des Förderbescheides zum Wasserstoffreallabor. Vorstand Herr Werner teilt mit, dass er auf dieses Thema unter dem TOP I.14 Mitteilungen des Vorstandes eingehen wird.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7Czt_4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "14",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7Czt_4%7C1",
+          "date": "2022-10-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2022-EUV-44%7Czt_4%7C1",
+          "fileName": "be_zt_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2022-EUV-44%7Czt_4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 14",
+          "size": 103439,
+          "text": "  14 Mitteilungen des Vorstandes   Vorstand Herr Werner gibt einen aktuellen Sachstand zu den Entwicklungen des Projektes Reallabor Wasserstoff und teilt ferner mit, dass zwischenzeitlich ein Bewilligungsbescheid beim Regionalverband Ruhr (RVR)für das Netzwerk Wasserstoff vorliegt.  Vorstand Herr Werner informiert die Anwesenden darüber, dass der EUV Stadtbetrieb aktuell in Kooperation mit dem RVR einen Hitzeaktionsplan für die Stadt Castrop-Rauxel und weiteren Städten in der Region vorbereitet.  Vorstand Herr Werner teilt mit, dass derzeit Überlegungen angestellt werden, die 7 Straßen der Rütgerssiedlung in die öffentliche Hand zu überführen. Über die weitere Entwicklung werden der Verwaltungsratsvorsitzende und Bürgermeister Herr Kravanja sowie Vorstand Herr Werner berichten.   Um 18:50 Uhr beendet der Verwaltungsratsvorsitzende und Bürgermeister Herr Kravanja den öffentlichen Teil der Sitzung und verabschiedet den Personalratsvorsitzenden des EUV Stadtbetrieb, Herrn Ayhan Tiris.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7Czt_5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Genehmigung des Protokolls der Sitzung vom 22.06.2022\r\n-nicht öffentlicher Teil-",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7Czt_6%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Personalangelegenheiten\r\n-mündlicher Bericht-",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10271",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7C321708100023%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Unbefristete Weiterbeschäftigung ab 01.10.2022",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10262",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7C321209100026%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Abschluss Grundstückskaufvertrag",
+        "number": "4",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10261",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7C320809100025%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Vergabe einer Baumaßnahme",
+        "number": "5",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7Czt_7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Sachstandsbericht Rechtsangelegenheiten des EUV Stadtbetrieb\r\n-mündlicher Bericht-",
+        "number": "6",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7Czt_8%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Sachstandsbericht Umsetzung § 2 b Umsatzsteuergesetz\r\n-mündlicher Bericht-",
+        "number": "7",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7Czt_9%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Sachstandsbericht Umbau und Erweiterung Verwaltungsgebäude Westring 215\r\n-mündlicher Bericht-",
+        "number": "8",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7Czt_10%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Anfragen der Verwaltungsratsmitglieder",
+        "number": "9",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-EUV-44%7Czt_11%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "10",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2022-EUV-44%7C20221108115135-0_ni_2022-EUV-44_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2022-11-08",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2022-EUV-44%7C20221108115135-0_ni_2022-EUV-44_1.pdf",
+        "fileName": "20221108115135-0_ni_2022-EUV-44_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2022-EUV-44%7C1",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "20220913_Ratsanfrage DIE.LINKE Bioabfall",
+        "size": 105204,
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2022-EUV-44%7C20221108155346-0_ni_2022-EUV-44_2.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2022-11-08",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2022-EUV-44%7C20221108155346-0_ni_2022-EUV-44_2.pdf",
+        "fileName": "20221108155346-0_ni_2022-EUV-44_2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2022-EUV-44%7C2",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "EUV_Stadtbetrieb_Castrop_Rauxel_AöR23092021",
+        "size": 800472,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2022-09-28T19:00:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44",
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Sitzungsraum 1 EUV,  Westring 215, Castrop-Rauxel, Westring 215, 44575 Castrop-Rauxel",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2022-EUV-44/location",
+      "locality": "Castrop-Rauxel",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "postalCode": "44575",
+      "room": "Sitzungsraum 1 EUV,  Westring 215, Castrop-Rauxel",
+      "streetAddress": "Westring 215",
+      "subLocality": "Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Verwaltungsrates EUV",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/176",
+      "https://castroprauxel.gremien.info/oparl/person/224",
+      "https://castroprauxel.gremien.info/oparl/person/748",
+      "https://castroprauxel.gremien.info/oparl/person/596",
+      "https://castroprauxel.gremien.info/oparl/person/389",
+      "https://castroprauxel.gremien.info/oparl/person/318",
+      "https://castroprauxel.gremien.info/oparl/person/133",
+      "https://castroprauxel.gremien.info/oparl/person/241",
+      "https://castroprauxel.gremien.info/oparl/person/963",
+      "https://castroprauxel.gremien.info/oparl/person/112",
+      "https://castroprauxel.gremien.info/oparl/person/1072",
+      "https://castroprauxel.gremien.info/oparl/person/1045",
+      "https://castroprauxel.gremien.info/oparl/person/817",
+      "https://castroprauxel.gremien.info/oparl/person/1069",
+      "https://castroprauxel.gremien.info/oparl/person/841",
+      "https://castroprauxel.gremien.info/oparl/person/344",
+      "https://castroprauxel.gremien.info/oparl/person/775"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-EUV-44",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2022-11-09",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2022-EUV-44",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2022-EUV-44",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 310181,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2022-09-28T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-EUV-44",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2022-11-09",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2022-EUV-44",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2022-EUV-44",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 310181,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

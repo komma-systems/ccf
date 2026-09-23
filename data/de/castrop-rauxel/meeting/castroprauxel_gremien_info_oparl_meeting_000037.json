@@ -1,0 +1,132 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/000037",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/000037%7C20%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000037",
+        "name": "Genehmigung des Protokolls",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/285",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/000037%7C2002235%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000037",
+        "name": "Zwischenbericht II/2002",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/286",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/000037%7C2002236%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000037",
+        "name": "Laubaktion Herbst 2002 ",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/278",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/000037%7C2002228%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000037",
+        "name": "Umsetzung der Gewerbeabfallverordnung",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/000037%7C16%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000037",
+        "name": "mündlicher Bericht",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/000037%7C27%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000037",
+        "name": "mündlicher Bericht",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/293",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/000037%7C2002241%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000037",
+        "name": "Errichtung des Kommunalunternehmens  EUV, Stadtbetrieb Castrop-Rauxel, in der Rechtsform  einer  Anstalt des öffentlichen Rechts (AöR)",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/296",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/000037%7C2002242%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000037",
+        "name": "Beschluss der Unternehmenssatzung des EUV, Stadtbetrieb Castrop-Rauxel, AöR",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/299",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/000037%7C2002243%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000037",
+        "name": "Besetzung des Verwaltungsrates des EUV, Stadtbetrieb Castrop-Rauxel, AöR",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/302",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/000037%7C2002244%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000037",
+        "name": "Bestellung des Vorstandes des EUV, Stadtbetrieb Castrop-Rauxel, AöR",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/000037%7C22%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000037",
+        "name": "Anfragen der Werksausschussmitglieder",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/000037%7C9954%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000037",
+        "name": "Mitteilungen der Werkleitung",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2002-09-18T00:00:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/000037",
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "außerhalb des Rathauses, Info siehe Bekanntmachung, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/000037/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "außerhalb des Rathauses, Info siehe Bekanntmachung",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "terminiert",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "4. Sitzung des Werksausschusses 2002",
+    "organization": [],
+    "start": "2002-09-18T16:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting"
+  }
+}

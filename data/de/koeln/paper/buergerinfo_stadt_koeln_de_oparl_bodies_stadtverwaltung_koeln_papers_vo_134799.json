@@ -1,0 +1,48 @@
+{
+  "council_id": "koeln",
+  "record_type": "paper",
+  "source_id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134799",
+  "modified_at": "2026-09-21T14:59:01+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01112544.pdf",
+        "created": "2026-09-21T14:28:08+02:00",
+        "date": "2026-09-21",
+        "downloadUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/01112544.pdf",
+        "fileName": "01112544.pdf",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/files/1112544",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-21T14:59:01+02:00",
+        "name": "Gem. Änderungsantrag nach § 13 (Rat)",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln",
+    "consultation": [
+      {
+        "agendaItem": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/450648",
+        "authoritative": true,
+        "created": "2026-09-21T15:31:44+02:00",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/206758",
+        "meeting": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34400",
+        "modified": "2026-09-22T16:34:51+02:00",
+        "organization": [
+          "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/201"
+        ],
+        "paper": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134799",
+        "role": "Antrag / Anfrage",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-21T14:24:35+02:00",
+    "date": "2026-09-21",
+    "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134799",
+    "modified": "2026-09-21T14:59:01+02:00",
+    "name": "Änderungsantrag zu TOP 1.1, Antrag der Volt-Fraktion vom 16.07.2026 betr.",
+    "paperType": "Gem. Änderungsantrag (Rat)",
+    "reference": "AN/1517/2026",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

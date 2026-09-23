@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/273101100039",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=273101100039%7C20200131080151-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-31",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=273101100039%7C20200131080151-0.pdf%7C",
+        "fileName": "20200131080151-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C273101100039%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/273101100039",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "0acaf141dc34e964d07f0bf1359bffc590983b7d",
+        "size": 5007556,
+        "text": "Entwicklung der GEGI-Flächen 2019",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-AuWi-30%7C273101100039%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8771",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-AuWi-30",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-01-31",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/273101100039",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=273101100039&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=273101100039&id=69",
+      "fileName": "273101100039",
+      "id": "https://castroprauxel.gremien.info/oparl/file/273101100039",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/034",
+      "size": 38483,
+      "text": " Bereich Stabsstelle Wirtschaftsförderung 2020/034 öffentlich  Az: 0/80    Datum: 31.01.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Ausschuss für Wirtschaftsentwicklung 18.02.2020    Betreff  Bericht zur Entwicklung der GE/GI-Flächen 2019  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  Der Ausschuss für Wirtschaftsentwicklung nimmt den in der Anlage befindlichen Bericht der Wirtschaftsförderung zur Entwicklung der  GE/GI-Flächen 2019 zur Kenntnis  \f  \f Kravanja Bürgermeister   \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Bericht zur Entwicklung der GE/GI-Flächen 2019",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/034",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+    ]
+  }
+}

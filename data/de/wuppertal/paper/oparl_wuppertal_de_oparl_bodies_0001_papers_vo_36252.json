@@ -1,0 +1,105 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36252",
+  "modified_at": "2026-09-10T12:09:57+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369125.pdf",
+        "created": "2026-08-31T15:14:26+02:00",
+        "date": "2026-08-31",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369125.pdf",
+        "fileName": "00369125.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369125",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-14T15:51:24+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369903.pdf",
+        "created": "2026-09-10T09:44:17+02:00",
+        "date": "2026-09-10",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369903.pdf",
+        "fileName": "00369903.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369903",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-10T12:09:58+02:00",
+        "name": "Ergänzungsvereinbarung Stand 20260904",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141578",
+        "authoritative": true,
+        "created": "2026-09-01T10:52:40+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68644",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24678",
+        "modified": "2026-09-17T16:53:21+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/269"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36252",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141667",
+        "created": "2026-09-07T09:54:19+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68645",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24698",
+        "modified": "2026-09-22T17:40:52+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/270"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36252",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141730",
+        "created": "2026-09-09T10:44:31+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68646",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24654",
+        "modified": "2026-09-21T12:13:02+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36252",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141850",
+        "created": "2026-09-16T08:46:02+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68647",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24543",
+        "modified": "2026-09-23T10:41:34+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36252",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-31T15:07:47+02:00",
+    "date": "2026-09-01",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36252",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-10T12:09:57+02:00",
+    "name": "Mietkostenzuschuss für die Wuppertaler Initiative für Demokratie und Toleranz e.V.",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/1050/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/10"
+    ]
+  }
+}

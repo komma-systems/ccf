@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/202308100025",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-14%7C202308100025%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7097",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2016-EUV-14",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2016-08-23",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/202308100025",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=202308100025&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=202308100025&id=69",
+      "fileName": "202308100025",
+      "id": "https://castroprauxel.gremien.info/oparl/file/202308100025",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2016/EUV/025",
+      "size": 172490,
+      "text": "Datum: 23.08.2016 TB F/C 9686-700 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 14.09.2016 TOP: I.4 Drucksache-Nr. 2016/EUV/025 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 14.09.2016 4 Betreff: Risikomanagementbericht 2015 Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Risikomanagementbericht 2015 wird zur Kenntnis genommen. ________________________ Werner Sachverhalt: Für 2015 wurden Risiken, die den Bestand des Unternehmens tatsächlich gefährden, nicht festgestellt. Dennoch wurden einige Risiken wegen ihrer möglichen finanziellen Bedeutung und damit in ihrer Auswirkung der Risikoklasse bestandsgefährdendes Risiko zugeordnet. Hauptsächlich sind hier die Risiken in der Gebührenstabilität für die Bereiche Abfallentsorgung, Stadtentwässerung und Straßenreinigung/Winterdienst zu nennen. In diesem Zusammenhang ist auch die Einbindung des EUV in die Haushaltskonsolidierung der Stadt Castrop-Rauxel zu berücksichtigen, wobei eine Klage gegen die Abwassergebührenkalkulation des Teilbetriebs Stadtentwässerung aus dem Jahr 2013 vor dem Verwaltungsgericht Gelsenkirchen anhängig ist. Die Entscheidung vor dem Verwaltungsgericht wird in 2016 erwartet. Das Verfahren AGR ./. Stadt Castrop-Rauxel vor dem Verwaltungsgericht Gelsenkirchen zur Nachsorge der Altdeponie Pöppinghausen und deren Prozessrisiken für die Stadt Castrop-Rauxel sind - wie auch in den Vorjahren - weiter offen und werden durch den Vorstand in Abstimmung mit der Stadt Castrop-Rauxel begleitet. Die Beklagte ist die Stadt Castrop-Rauxel, Streitgegenstand sind Forderungen der AGR zu den Nachsorgeaufwendungen für die ehem. Hausmülldeponie Pöppinghausen. Sofern finanzielle Risiken auf die Stadt Castrop-Rauxel zukommen, sind diese - soweit rechtlich zulässig und tragbar - durch den EUV im Rahmen der Gebührenerhebung Abfallwirtschaft abzudecken. Zum gegenwärtigen Zeitpunkt kann nicht abschließend gesagt werden, in welcher Höhe Forderungen der AGR im Streitverfahren festgestellt und durch die Stadt Castrop-Rauxel akzeptiert werden. Ein Urteil der 1. Instanz wird frühestens 2017 erwartet. Die Umlage der Abwasserverbände auf ihre Mitglieder wird sich auch in den kommenden Jahren erhöhen, dies ist v. a. dem Umbau des Emschersystems geschuldet. In 2015 kam das Risiko aus einem gerichtlichen Verfahren der Emschergenossenschaft mit der RAG AG zum Tragen, in dem es um die Heranziehung von Kosten bzgl. der Pumpwerksentflechtung ab dem Jahr 2011 geht. Das Risiko für die Mitglieder der Emschergenossenschaft wird möglicherweise mit einem Zuschlag von 5,6 % auf den heutigen Beitrag bewertet werden müssen. Die Kosten für die Jahre 2011 - 2015 wurden niedergeschlagen, ab 2017 wird der EUV Rückstellungen aufgrund der mittelfristig hohen Eintrittswahrscheinlichkeit bilden müssen oder die EG bildet diese. Die Entscheidung, ob die Umlage der EG auf ihre Mitglieder umgelegt werden kann, wird frühestens im rahmen der Beitragsfestlegung für 2017 erwartet. Um die durch den EUV beeinflussbaren Risiken zu stabilisieren und die Aufgaben der Organisation weiterhin effizient und rechtssicher wahrzunehmen, werden vom Vorstand des Stadtbetriebes regelmäßig Schwerpunktthemen festgelegt. Ergebnis: Risiken, die den Bestand des Unternehmens tatsächlich gefährden, wurden nicht festgestellt. Weiterer Bericht in der Sitzung.Risikomanagementbericht 20152016/EUV/025%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Risikomanagementbericht 2015",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2016/EUV/025",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

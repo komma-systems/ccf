@@ -1,0 +1,67 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/261206100014",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=261206100014%7C20190612120256.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-06-12",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=261206100014%7C20190612120256.pdf%7C",
+        "fileName": "20190612120256.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C261206100014%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/261206100014",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "b5da4892885f9ae39376599310b4c2313a5703a2",
+        "size": 447642,
+        "text": "Antrag der SPD Einsatz von Mülldetektiven im Stadtgebiet",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-EUV-26%7C261206100014%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8441",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-EUV-26",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-06-12",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/261206100014",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=261206100014&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=261206100014&id=69",
+      "fileName": "261206100014",
+      "id": "https://castroprauxel.gremien.info/oparl/file/261206100014",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/EUV/015",
+      "size": 90207,
+      "text": "/  Datum:12.06.2019    TB I 9686-500       Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 26.06.2019 TOP: I.3 Drucksache-Nr. 2019/EUV/015     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 26.06.2019 3  Rat der Stadt 04.07.2019     Betreff: Antrag der SPD Ratsfraktion; Einsatz von Mülldetektiven im Stadtgebiet     Finanzielle Auswirkungen gem. Wirtschaftsplan   ja Gesamtkosten       X nein Förderung   \f       \f Beschlussvorschlag:  Siehe Antrag   \f  \f  ________________________ Werner \f Sachverhalt:  Siehe Anlage   \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Antrag der SPD Ratsfraktion;\r\nEinsatz von Mülldetektiven im Stadtgebiet",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/EUV/015",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

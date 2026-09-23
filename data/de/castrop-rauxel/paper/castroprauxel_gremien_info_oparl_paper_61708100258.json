@@ -1,0 +1,76 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/61708100258",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2004-SCHULA-6%7C61708100258%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/1886",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2004-SCHULA-6",
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2004-UMWA-5%7C61708100258%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/1887",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2004-UMWA-5",
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2004-B3-6%7C61708100258%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/1897",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2004-B3-6",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2004-JHA-5%7C61708100258%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/1898",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2004-JHA-5",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/JHA"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2005-08-17",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/61708100258",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=61708100258&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=61708100258&id=69",
+      "fileName": "61708100258",
+      "id": "https://castroprauxel.gremien.info/oparl/file/61708100258",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2005/255",
+      "size": 123791,
+      "text": "ahornstraße;alter;analyse;analysen;analytik;anhaltspunkte;anlage;aufenthalt;auftrag;ausbesserung;ausprägung;aussagen;ausschuss;bap;befund;begehungen;belägen;belastung;benzo;berührung;betriebsausschuss;beurteilung;bezugnahme;bochum;bochumer;brandt;castrop;ergebnisses;euv;faktor;fläche;flächen;garten;gesamtschule;gesundheit;gesundheitsgefahr;gesundheitsgefährdung;gesundheitsgefährdungen;größenordnung;grüner;inhaltsstoffe;jugendhilfeausschuss;jugendverkehrsschule;kinder;kindern;kohlenwasserstoffe;kostenermittlung;kreisgesundheitsamt;kreisgesundheitsamtes;kriterien;kurzzeichen;landesumweltamt;landesumweltministerium;luft;luftbelastungsmessungen;material;materialanalysen;materialproben;materialuntersuchungen;messwerte;mund;nrw;oberflächen;oberflächenstruktur;objekten;pak;partikel;prioritäten;prüfung;rauxel;sanierung;schadstoffbelastungen;schadstoffmessungen;schillerstraße;schulausschuss;schulen;schulhof;schulhöfe;schulhöfen;schulhofflächen;schulhofproblematik;sitzungsvorlage;sommerferien;spielen;stadtbetrieb;stadtentwicklung;stadtgebiet;staub;substanzen;teer;teerhaltige;teilbereichen;teilchen;umsetzung;umsetzungskonzept;umweltausschuss;umweltministerium;untersuchung;untersuchungen;uwr;verkehr;verschlucken;vorsorgegründen;weg;willy;wissensstand;zielwert;zugrundelegung;zuvor;teerhaltige;oberflächen;auf;schulhöfen;61708100258;,2005/255;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Teerhaltige Oberflächen auf Schulhöfen",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2005/255",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3",
+      "https://castroprauxel.gremien.info/oparl/organization/JHA"
+    ]
+  }
+}

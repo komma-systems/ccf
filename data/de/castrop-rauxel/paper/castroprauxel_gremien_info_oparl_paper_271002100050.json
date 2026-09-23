@@ -1,0 +1,108 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/271002100050",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271002100050%7C20200211094925-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-02-11",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271002100050%7C20200211094925-0.pdf%7C",
+        "fileName": "20200211094925-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271002100050%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271002100050",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "c903512baf182c0dc24337856eb3ea40059b0277",
+        "size": 609679,
+        "text": "Anlage 1 - Fortgeschriebene Maßnahmenliste KInvFöG I - Programm",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271002100050%7C20200211101717-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-02-11",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271002100050%7C20200211101717-0.pdf%7C",
+        "fileName": "20200211101717-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271002100050%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271002100050",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "5ffd612d3ab6054d4dca63114fa253ac7dbc010d",
+        "size": 731415,
+        "text": "Anlage 2 - Fortgeschriebene Maßnahmenliste KInvFöG II - Programm",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271002100050%7C20200211101719-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-02-11",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271002100050%7C20200211101719-0.pdf%7C",
+        "fileName": "20200211101719-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271002100050%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271002100050",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "6451301dc4964dbf3620d88e463be5f27ef56375",
+        "size": 1079050,
+        "text": "Anlage 3 - Arbeitsliste Programm Gute Schule 2020",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-HFA-101%7C271002100050%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8834",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-HFA-101",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-116%7C271002100050%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8835",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-116",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-02-10",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/271002100050",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271002100050&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271002100050&id=69",
+      "fileName": "271002100050",
+      "id": "https://castroprauxel.gremien.info/oparl/file/271002100050",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/046",
+      "size": 271353,
+      "text": " Bereich Finanzen 2020/046 öffentlich  Az: 20   Datum: 10.02.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Haupt- und Finanzausschuss 25.02.2020   Rat der Stadt 27.02.2020    Betreff  Haushaltsplanung für die Jahre 2020 ff. hier: Abstimmung der Förderprogramme aus den Kommunalinvestitionsförderungsgesetzen des Bundes und des Landes Nordrhein-Westfalen sowie aus dem Programm  Gute Schule 2020  des Landes  \f    Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \fBeschlussvorschlag  Der Rat nimmt die als Anlagen 1 bis 3 beigefügten Arbeitslisten zu den Förderprogrammen aus den Kommunalinvestitionsförderungsgesetzen des Bundes und des Landes Nordrhein-Westfalen (KInvFöG I und KInvFöG II) und aus dem Programm Gute Schule 2020 des Landes sowie die nachstehende Sachverhaltsdarstellung zur Kenntnis und beschließt die Anlagen 1 bis 3 als jeweils neue Gesamtmaßnahmenlisten.    \f  \fKravanja   Eckhardt    Lenort    Bürgermeister  Erster Beigeordneter/  Stadtbaurätin      Stadtkämmerer Sachverhalt  Für die nachfolgend näher beschriebenen Förderprogramme wurden Maßnahmenlisten erarbeitet, die als Arbeitslisten geführt und fortgeschrieben werden.  Mit der aktuellen Vorlage beschließt der Rat über den aktuellen Stand der Arbeitslisten zu den genannten Förderprogrammen. Soweit dies im Rahmen der Grundsätze der Haushaltsklarheit und Haushaltswahrheit erforderlich war und eine Finanzierung tatsächlich realisierbar erscheint, wurden die in den Arbeitslisten berücksichtigten Maßnahmen auch im Haushalt 2020 veranschlagt.    Die Verwaltung weist aber nochmals ausdrücklich darauf hin, dass die vorliegenden Listen im Rahmen der Umsetzung beschlossener Maßnahmen einem ständigen Monitoring unterliegen und für neue bzw. andere förderfähige Maßnahmen grundsätzlich offenstehen, sofern noch keine finanziellen Dispositionen getroffen wurden. Insoweit wird es dem Rat auch künftig möglich sein, notwendige Änderungen bzw. Ergänzungen an den Arbeitslisten vorzunehmen.   1. Kommunalinvestitionsförderungsgesetz (KInvFöG) Liste Kapitel I Zum Ausgleich der unterschiedlichen Wirtschaftskraft im Bundesgebiet hat der Landtag des Landes NRW am 01.10.2015 das Gesetz zur Umsetzung des Kommunalinvestitionsförderungsgesetzes (KInvFöG NRW) erlassen.  Mit Bewilligungsbescheid der Bezirksregierung Münster vom 08.10.2015 wurden der Stadt Castrop-Rauxel aus dem ersten Kapitel des Kommunalinvestitionsförderungsgesetzes (KInvFöG I) Mittel in Höhe von 8.062.979,25 zur Verfügung gestellt. Die Stadt Castrop-Rauxel trägt einen 10%igen Eigenanteil, so dass Gesamtmittel in Höhe von insgesamt 8.958.865 zur Verfügung stehen. Der Rat der Stadt Castrop-Rauxel hat in seiner Sitzung am 26.11.2015 (Drucksache 2015/299) den von der Verwaltung aufgestellten Maßnahmenkatalog im Rahmen der Investitionsliste2016 beschlossen. Zuletzt erfolgte eine Anpassung durch Ratsbeschluss vom 28.11.2019 (Drucksache 2019/181). Aus der aktuellen Fortschreibung der KInvFöG-Liste Kapitel I ergeben sich, unter Berücksichtigung der letzten Entwicklungen, folgende Werte:  Projektabwicklung Ausgaben Fördermittel Eigenanteil  fertiggestellte \u000bMaßnahmen 5.814.858 * 5.120.815  694.043 *  laufende \u000bMaßnahmen rd. 3.276.830  rd. 2.949.147  rd. 327.683   Gesamt rd. 9.091.688 * rd. 8.069.962 rd. 1.021.726 *  bewilligte \u000bFördermittel 8.958.865  8.062.979  895.886   Überzeichnung (+) / \u000bFreie Mittel (-) rd. (+) 132.823 * rd. (+) 6.983  rd. (+) 125.840   * Bei der Maßnahme 48.1 Revitalisierung der kommunalen Brachfläche östlich Stadion am Europaplatz sind nicht förderfähige Aufwendungen in Höhe von 125.064  entstanden; diese Mehraufwendungen sind als entsprechend höherer Eigenanteil ausgewiesen (über 10 %); siehe hierzu auch gesonderte Erläuterung in Anlage 1. Aufgrund der fortgeschriebenen KInvFöG I Liste ergibt sich aktuell noch eine Überzeichnung der Fördersumme um 6.983. Die Verwaltung geht davon aus, dass diese Überzahlung im Rahmen der Abwicklung der noch laufenden Maßnahmen kompensiert werden kann.  Der Förderzeitraum endet am 31.12.2020. Seit der letzten Vorlage (Vorlage 2019/181) wurden die Maßnahmen Nr. 6 (Hochstraße inkl. Bushaltestellen), Nr. 54 (Querungshilfe Wittener Straße in Höhe des St. Rochus Hospital) und Nr. 59 (Neugestaltung der Bushaltestelle Am Markt) beendet. Die Beendigungsanzeige und der Mittelabruf liegen der Bezirksregierung Münster vor. Darüber hinaus wurde das finanzielle Volumen der Maßnahme Nr. 10 (Sanierungsprogramm ZOB Altstadt) entsprechend dem Ratsbeschluss vom 28.11.2019 zu Vorlage 2019/298 um 170.000  auf nunmehr insgesamt 330.000  erhöht.  Weiterer Bericht durch den EUV in der Sitzung.  Zweites Kapitel Kommunalinvestitionsförderungsgesetz (KInvFöG II)  Der Bund hat zusätzlich ein Gesetz zur Neuregelung des bundesstaatlichen Finanzausgleichsystems ab dem Jahr 2020 und zur Änderung haushaltsrechtlicher Vorschriften im Jahre 2017 erlassen, welches auch eine Änderung bzw. Ergänzung des Kommunalinvestitionsförderungsgesetzes des Bundes aus dem Jahr 2015 umfasst. Durch den Bund wurden im Rahmen des Kommunalinvestitionsförderungsgesetztes Kapitel II nochmals Fördermittel zur Verbesserung der Schulinfrastruktur finanzschwacher Kommunen zur Verfügung gestellt. Auf das Land Nordrhein-Westfalen entfallen 1.120.602.000 . Die Stadt Castrop-Rauxel erhält aus dem genannten Programm eine weitere Förderung in Höhe von insgesamt 6.593.105 .   Dabei unterscheiden sich sowohl der Förderzweck als auch die Fördermodalitäten deutlich von denen des Förderprogramms KInvFöG I. Insbesondere sind die Mittel, die aus KInvFöG II zur Verfügung gestellt werden, ausschließlich auf den Förderbereich Schul-infrastruktur beschränkt.  Gemein ist den Maßnahmen aus beiden Förderprogrammen, dass die Stadt Castrop-Rauxel einen Eigenanteil in Höhe von mindestens 10 % der förderfähigen Aufwendungen respektive Auszahlungen zu erbringen hat. Die Landesregierung hat dabei ausdrücklich darauf hingewiesen, dass der von der Stadt zu erbringende 10%ige Eigenanteil auch durch entsprechende Heranziehung von Mitteln aus dem Landesprogramm Gute Schule 2020 gedeckt bzw. dargestellt werden kann.   Veränderungen Arbeitsliste KInvFöG II  Programm  Zu den einzelnen Veränderungen wird auf die überarbeitete Liste in der Anlage 2 verwiesen und nachfolgend eine kurze Erläuterung gegeben.  Nr. 19: Grundschule Wilhelmschule  OGS-Räume in Modulbauweise   Im Rahmen der Umsetzung der Gründachstrategie entstehen Mehrkosten in Höhe von 15.000 , sodass die geplanten Gesamtkosten für das Haushaltsjahr 2020 nunmehr 215.000  betragen.  Nr. 20: Grundschule Lindenschule  OGS-Räume in Modulbauweise  Durch die Umsetzung der Gründachstrategie erhöhen sich die für das Haushaltsjahr 2020 geplanten Kosten der Maßnahme um 20.000  auf insgesamt 320.000 .   Nr. 22: Fridtjof-Nansen-Realschule  Sanierung Fassade, Fenster, Türen  Die Sanierungsmaßnahme an der Fridtjof-Nansen-Realschule wird mit Gesamtkosten in Höhe von 470.000  als lfd. Nr. 22 neu in das KInvFöG II  Programm aufgenommen.    Finanzrahmen KInvFöG II  Laut Bewilligungsbescheid vom 22.01.2018 erhält die Stadt Castrop-Rauxel 6.593.105  Fördermittel aus KInvFöG II (Förderquote max. 90 %). Hochgerechnet auf 100 % könnten somit Projekte mit einem Gesamtvolumen von 7.325.672  umgesetzt werden.  Aus der aktuell fortgeschriebenen KInvFöG II - Liste ergeben sich für das Haushaltsjahr 2020 aktuell folgende Werte:   Ausgaben Fördermittel Eigenanteil  Gesamtkontingent 7.325.672  6.593.105  732.567   Restkontingent 2020 5.231.645  4.708.481  523.165   Geplante Ausgaben 2020 4.314.172  3.882.755  431.417   Überzeichnung (+) / Freie Mittel (-) -917.473  -825.726 -91.747    Nach aktueller Planung stehen demnach noch freie Mittel in Höhe von 917.473  zur Verfügung.   Aus Mitteln des KInvFöG II  Programms konnten bislang insgesamt 376.496  abgerufen werden.       Landesprogramm Gute Schule 2020  Das Land Nordrhein-Westfalen hat im Jahr 2017 das Programm Gute Schule 2020 aufgelegt um die Schulinfrastruktur in den Städten und Gemeinden zu stärken. Dabei stellt die NRW.BANK den nordrhein-westfälischen Kommunen in den Jahren 2017  2020 im Rahmen dieses Förderprogramms Kredite in einer Gesamthöhe von bis zu zwei Milliarden Euro zur Verfügung.    Die Tilgungsleistungen für diese Kredite und - soweit sie notwendig werden sollten - auch die Zinsleistungen für sämtliche Kredite, die die Kommunen aufnehmen, werden vollumfänglich durch das Land übernommen. Dabei ist vorgesehen, dass die Tilgungs- und gegebenenfalls Zinsleistungen vom Land unmittelbar an die NRW.BANK geleistet werden. Die erforderlichen gesetzlichen Voraussetzungen hat das Land noch im Jahr 2016 im Rahmen eines Schuldendiensthilfegesetzes geschaffen.  Auf die Stadt Castrop-Rauxel entfallen in den Jahren 2017 bis 2020 Kreditkontingente in Höhe von 2.435.925  p.a., mithin rd. 9,74 Mio. . Der Rat hat über den Einsatz der im Programm Gute Schule 2020 zur Verfügung stehenden Mittel erstmals im Rahmen des Haushalts für das Jahr 2017 entschieden. Auch für das Jahr 2020 wurde eine entsprechende Maßnahmenliste erstellt (vgl. hierzu auch Liste 4 der Investitions-Dringlichkeitsliste 2020).   Mittelabruf  Von dem Gesamtkontingent der Haushaltsjahre 2017 und 2018 in Höhe von insgesamt 4.871.850  wurden im Haushaltsjahr 2017 1.349.314  und im Haushaltsjahr 2018 2.066.179  (insg. 3.415.493 ), entsprechend dem Fortschritt der jeweiligen Maßnahmen, abgerufen. Das Restkontingent des Jahres 2018 in Höhe von 1.456.357  wurde im November 2019 bei der NRW.BANK beantragt und noch im Haushaltsjahr 2019 vereinnahmt.  Die verbleibenden Fördermittel der Haushaltsjahre 2019 und 2020 von jeweils 2.435.925  p.a. (insg. 4.871.850 ) werden Ende dieses Jahres in voller Höhe bei der NRW.BANK abgerufen. Die Mittelverwendung ist im Nachgang, spätestens 48 Monate nach Auszahlung des jeweiligen Kreditkontingentes, nachzuweisen.   Über den jeweils aktuellen Stand der Arbeitsliste sowie entsprechender Mittelabrufe informiert die Verwaltung den Rat weiterhin fortlaufend.   Anlage 1 Fortgeschriebene Gesamtmaßnahmenliste KInvFöG I - Programm   (Stand 10.02.2020)  Anlage 2 Fortgeschriebene Gesamtmaßnahmenliste KInvFöG II - Programm   (Stand 06.02.2020)  Anlage 3 Arbeitsliste Programm Gute Schule 2020    (Stand 06.02.2020)\f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Haushaltsplanung für die Jahre 2020 ff.\r\nhier: Abstimmung der Förderprogramme aus den Kommunalinvestitionsförderungsgesetzen des Bundes und des Landes Nordrhein-Westfalen sowie aus dem Programm 'Gute Schule 2020' des Landes",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/046",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/102003100071",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-SCHULA-19%7C102003100071%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/3591",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-SCHULA-19",
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-B2-30%7C102003100071%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/3592",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B2-30",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B2"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-RAT-38%7C102003100071%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/3593",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-RAT-38",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2009-03-20",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/102003100071",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=102003100071&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=102003100071&id=69",
+      "fileName": "102003100071",
+      "id": "https://castroprauxel.gremien.info/oparl/file/102003100071",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2009/072",
+      "size": 185300,
+      "text": "§;€;12.02.2003;120.000,00;13.03.2009;15.375,00;20.000,00;20.03.2009;2009/072;2009/2010;2012;21.02/0089.783100;21.05.2003;22.04.2009;23.04.2009;25;26.11.2008;28.04.2009;30.000,00;31.07.2008;40;50;50.000,00;76.875,00;81;92.250,00;als;am;an;anlage;anzumelden;art;auf;aufgenommen;aufgrund;aufsichtsbehörde;aufzunehmen;az;baukosten;baumaßnahmen;beantragt;beauftragt;beigefügt;benötigten;bereichs-budgets;bereits;berücksichtigung;berührung;beschaffung;beschließt;beschlossene;beschlossenen;betragen;betriebsausschuss;bis;busch;busch);ca;castrop-rauxel;das;datum;davon;den;der;des;die;dringlichkeitsliste;dritten;dürften;eigenanteil;eine;einer;eines;einmalig;einrichtung;einrichtungsgegenstände;einrichtungsgegenständen;entwurf;erarbeitet;erforderliche;erforderlichen;erläuterungen;erlöse;ermitteln;ermittelt;erwarten;es;fassung;finanzierung;finanzplanungszeitraum;folgekosten;folgende;friedrich-harkort-schule;für;ganztagskonzepte;ganztagsschule;ganztagsschulen;gesamtkosten;geschaffen;gesichert;go;größenordnung;grundschule;gs;haben;handelt;hat;haushaltsmäßige;haushaltsstelle;hinsichtlich;ii;iii;im;in;investiven;ist;ja;jährlich;jeweiligen;jugend;keine;kinder;klären;kommen;kostenschätzungen;land;laufenden;leitbildes;liegen;maßnahme;maßnahmen;mindereinnahmen;ministeriums;nachfolgende;nein;nicht;noch;nordrhein-westfalen;notwendig;nrw;offenen;öffentlich;organisatorische;personaleinsatz;personalkosten;primarbereichs;rahmen;rahmenbedingungen;runderlass;sachkosten;schulausschuss;schule;schulen;schulen);schuljahr;schulkonferenz;sein;sich;siehe;sind;sitzungsvorlage;sowie;soziales);städtischer;stehen;teilnehmerzahlen;top-nr;um;umwandlung;umzuwandeln;unabweisbar;und;unter;verfügung;vom;von;vor;vorgaben;vorgesehen);wird;worden;wurden;zu;zum;zur;zusätzlich;umwandlung;der;grundschule;am;busch;und;der;friedrich-harkort-schule;in;offene;ganztagsschulen;im;schuljahr;2009/2010;2009/072;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Umwandlung der Grundschule Am Busch und der Friedrich-Harkort-Schule in Offene Ganztagsschulen im Schuljahr 2009/2010",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2009/072",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

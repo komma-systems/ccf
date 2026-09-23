@@ -1,0 +1,369 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+        "name": "Genehmigung des Protokolls der Sitzung vom 07.03.2018",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7Czt_0%7C1",
+          "date": "2018-06-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2018-EUV-22%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 66801,
+          "text": "1 Genehmigung des Protokolls der Sitzung vom 07.03.2018  Der Verwaltungsratsvorsitzende Herr Bürgermeister Kravanja weist auf die Tischvorlage KliMarkt in Castrop-Rauxel hin und schlägt die Beratung als Tagesordnungspunkt I.10 vor. Der Verwaltungsrat stimmt der Änderung der Tagesordnung zu. Außerdem weist der Vorsitzende auf die ausliegende Anlage zum Zwischenbericht EUV Stadtbetrieb 2/2018 hin und bittet die Anlage zum TOP I.2 auszutauschen. In der Neufassung wurden die noch fehlenden Werte ergänzt. Der Verwaltungsrat beschließt mehrheitlich, bei einer Stimmenthaltung das Protokoll der Sitzung vom 07.03.2018  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "mehrheitlich angenommen",
+        "result": "mehrheitlich angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/7931",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7C240706100025%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+        "name": "Zwischenbericht 2 / 2018",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7C240706100025%7C1",
+          "date": "2018-07-05",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7C240706100025%7C1",
+          "fileName": "be_240706100025_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2018-EUV-22%7C240706100025%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 6603,
+          "text": "2 Zwischenbericht 2 / 2018\u000b(2018/EUV/026)  Vorstand Herr Werner berichtet zur Vorlage und beantwortet die Fragen der Verwaltungsratsmitglieder.  Er weist insbesondere darauf hin, dass die Finanzmittel zur Durchführung von Baumaßnahmen zur Verfügung stehen, es aufgrund des Überangebotes an Aufträgen im Tiefbauwesen nur schwer möglich ist geeignete Firmen zu moderaten Preisen zu beauftragen. Daher können nicht alle geplanten Baumaßnahmen ausgeführt werden. Im Teilbetrieb VIII (Energie) werden aufgrund der technischen Defekten bzw. Ausfällen zeitnah Erstattungen aus der Eigenschadenversicherung erwartet, die das Ergebnis in 2018 verbessern werden.  Der Verwaltungsrat nimmt den Zwischenbericht  2 / 2018 zur Kenntnis.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/7932",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7C240606100022%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+        "name": "Gesetz zur Erleichterung des Ausbaus digitaler Hochgeschwindigkeitsnetze (DigiNetzG);\r\nAuswirkungen und Schnittstellen zum EUV Stadtbetrieb Castrop-Rauxel - 2. Statusbericht",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7C240606100022%7C1",
+          "date": "2018-07-05",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7C240606100022%7C1",
+          "fileName": "be_240606100022_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2018-EUV-22%7C240606100022%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 65660,
+          "text": "3 Gesetz zur Erleichterung des Ausbaus digitaler Hochgeschwindigkeitsnetze (DigiNetzG);\u000bAuswirkungen und Schnittstellen zum EUV Stadtbetrieb Castrop-Rauxel - 2. Statusbericht\u000b(2018/EUV/023)  Verwaltungsratsvorsitzender Herr Bürgermeister Kravanja ergänzt die Vorlage. Die Fördermittel des Landes und des Bundes sollen vom Kreis Recklinghausen zentral organisiert werden.  Das Kreisgebiet wurde in vier Losen aufgeteilt und ausgeschrieben, wobei die Städte Castrop-Rauxel, Herten und Recklinghausen im Los 2 zusammengefasst wurden. Derzeit stehen noch Nachverhandlungen aus, da sich zum Ausschreibungsergebnis im Einzelnen noch Nachfragen ergeben haben. Die Nachfragen aus dem Verwaltungsrat werden durch den Vorsitzenden und durch den Vorstand Herrn Werner beantwortet. Dabei konkretisieren sie, dass der EUV dem Breitbandausbau grundsätzlich positiv gegenüber stehen, die vom Gesetz vorgesehene fünf prozentige innovative Verlegemethode (z.B: in Kanälen oder direkt unterhalb der Straßendecken) eher kritisch betrachtet wird. Der Bericht der Verwaltung wird zur Kenntnis genommen.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/7930",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7C240606100024%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+        "name": "Einführung der Wertstoffsammlung (getrennte Sammlung von stoffgleichen Nichtverpackungen  - SNVP) im Kreis Recklinghausen nach dem Gebietsteilungsmodell",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7C240606100024%7C1",
+          "date": "2018-07-05",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7C240606100024%7C1",
+          "fileName": "be_240606100024_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2018-EUV-22%7C240606100024%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 117557,
+          "text": "4 Einführung der Wertstoffsammlung (getrennte Sammlung von stoffgleichen Nichtverpackungen - SNVP) im Kreis Recklinghausen nach dem Gebietsteilungsmodell\u000b(2018/EUV/025)  Vorstand Herr Werner informiert den Verwaltungsrat anhand einer Präsentation über den Stand der Einführung der Wertstofftonne in Castrop-Rauxel. Die stoffgleichen Nichtverpackungen (SNVP) sollen im Gebietsteilungsmodell innerhalb des Kreisgebietes gesammelt werden. Die Verwaltung wird dabei federführend durch den Kreis Recklinghausen übernommen. Insbesondere weist der Vorstand auf die rechtlichen Probleme bei der Umsetzung für AöRs hin, sich an internen kommunalen Gemeinschaftsprojekten beteiligen zu können. Aus diesem Grunde ist der Abschluss einer mehrseitigen öffentlich-rechtlichen Vereinbarung zwischen der Stadt Castrop-Rauxel, dem EUV Stadtbetrieb und dem Kreis Recklinghausen gemäß der beschriebenen Alternative zielführend.  Vorsitzender Herr Bürgermeister Kravanja ergänzt, dass kein Anschluss- und Benutzungszwang für die Wertstofftonne in Castrop-Rauxel vereinbart wird und es daher keinen fünften Abfallbehälter gibt. Die voraussichtlichen Gebührenerhöhungen belaufen sich bei einem 240 Liter Restabfallgefäß einschließlich Biotonne auf etwa 3,00/Jahr. Der Verwaltungsrat des EUV Stadtbetrieb Castrop-Rauxel beschließt einstimmig die Einführung der Wertstoffsammlung (getrennte Sammlung von stoffgleichen Nichtverpackungen  SNVP) nach dem Gebietsteilungsmodell im Stadtgebiet Recklinghausen  frühestens ab 01.01.2019 / spätestens ab 01.01.2020. Die hierfür als Anlage 1 beigefügte, erforderliche, öffentlich-rechtliche Vereinbarung ist mit den weiteren, am Gebietsteilungsmodell beteiligten Städte des Kreises Recklinghausen und unter dem Vorbehalt der Zustimmung der Aufsichtsbehörde abzuschließen.  Der Verwaltungsrat spricht sich für die genannte und beschriebene alternative Vertragsgestaltung, die der Vorstand präfriert, aus.  Der Vorstand des EUV Stadtbetrieb wird einstimmig beauftragt, die hierfür erforderlichen Schritte in Abstimmung mit der Verwaltung der Stadt Castrop-Rauxel zur Umsetzung des Gebietsteilungsmodelles herbeizuführen.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/7906",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7C243005100018%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+        "name": "Flottenmanagement",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7C243005100018%7C1",
+          "date": "2018-06-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7C243005100018%7C1",
+          "fileName": "be_243005100018_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2018-EUV-22%7C243005100018%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 8209,
+          "text": "5 Flottenmanagement\u000b(2018/EUV/019)  Vorstand Herr Werner erläutert die Vorlage und erklärt, dass das gemeinsame kommunale Flottenmanagement bereits im Jahre 2003 als Anstaltszweck formuliert wurde und schon heute, auch ohne Vertragsregelungen mit Teilen der Verwaltung gelebt wird.  Die städtische Feuerwehr wird nicht einbezogen, da diese eigene Anforderungen verfolgen, die durch das eigene Personal bewerkstelligt werden können. Vorsitzender Herr Bürgermeister Kravanja ergänzt, dass Synergieeffekte erhofft werden, die zukünftig in einen gemeinsamen Fahrzeugpool für die verschiedenen Bereiche der Verwaltungen münden könnten. Vorstand Herr Werner beantwortet die Fragen der Verwaltungsratsmitglieder zum Beispiel zu einer besseren Verhandlungspositionen beim Abschluss von KFZ-Versicherungen; zum erhöhten Personalbedarf, der durch einen neuen Auszubildenden gedeckt wird; zur Planungssicherheit durch die lange Vertragslaufzeit von 10Jahren und zur Höhe der vereinbarten indirekten Kosten (Verwaltungspauschale), die im gemeinsamen Einvernehmen auf 3% der direkten Kosten festgelegt wurden. Der Verwaltungsrat stimmt einstimmig der Aufgabenübernahme und dem Abschluss der Dienstleistungsvereinbarung zur Übernahme von Flottenmanagementaufgaben zwischen den Vertragspartnern Stadt Castrop-Rauxel und EUV zu.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/7917",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7C240506100019%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+        "name": "Selbstüberwachungsverordnung Abwasser (SüwVO Abw)\r\nSachstandsbericht 2017",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7C240506100019%7C1",
+          "date": "2018-06-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7C240506100019%7C1",
+          "fileName": "be_240506100019_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2018-EUV-22%7C240506100019%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 5365,
+          "text": "6 Selbstüberwachungsverordnung Abwasser (SüwVO Abw)\u000bSachstandsbericht 2017\u000b(2018/EUV/020)  Stellvertretender Vorstand Herr Werth-von Kampen erläutert die Vorlage und ergänzt, dass nur eine geringe Anzahl der Kanalhaltungen sanierungsbedürftig sind. Daher werde zukünftig die Einzelschadensanierungen anstatt der Sanierung ganzer Haltungen betrachtet. Der Verwaltungsrat nimmt den Bericht zur Kenntnis.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+        "name": "Sachstand zur Umsetzung der Sanierung der Deponie Brandheide\r\n-mündlicher Bericht-",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7Czt_3%7C1",
+          "date": "2018-06-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2018-EUV-22%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 6325,
+          "text": "7 Sachstand zur Umsetzung der Sanierung der Deponie Brandheide\u000b-mündlicher Bericht-  Stellvertretender Vorstand Herr Werth-von Kampen blickt positiv auf die Begehung des Sanierungsgebietes Deponie Brandheide  mit über 60 Teilnehmern am Freitag dem 15.06.2018 zurück. Er erläutert den aktuellen Stand der Baumaßnahme und gibt einen Ausblick auf die weiteren Arbeiten. Das Ende der Sanierung wird für Frühjahr 2019 angestrebt. Der Verwaltungsrat nimmt den mündlichen Bericht zur Kenntnis.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7Czt_8%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+        "name": "Sachstand Großeinleiter EG (Bericht aus der letzten Verwaltungsratssitzung)\r\n-mündlicher Bericht-",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7Czt_8%7C1",
+          "date": "2018-06-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7Czt_8%7C1",
+          "fileName": "be_zt_8_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2018-EUV-22%7Czt_8%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 6880,
+          "text": "8 Sachstand Großeinleiter EG (Bericht aus der letzten Verwaltungsratssitzung)\u000b-mündlicher Bericht-  Vorstand Herr Werner gibt an, dass zurzeit acht Castrop-Rauxeler Betriebe von der Emschergenossenschaft (EG) mit einem Wasserverbrauch von über 30.000m direkt veranlagt werden. Der EUV veranlagt ebenfalls die Entwässerungsgebühr für diese Betriebe und reduziert die zu zahlenden Gebühren um den direkt an die EG gezahlten Beitrag. Da die EG die Einnahmen durch die Direktzahler von der Gesamtveranlagung für das Stadtgebiet Castrop-Rauxel abzieht, ergibt sich ein neutrales Gesamtergebnis. Es ist beabsichtigt, nach Abschluss der Umbauarbeiten an der Emscher die Veranlagungsmethodik ab dem Jahre 2021 auf neue Grundlagen zu stellen. Der Verwaltungsrat nimmt den mündlichen Bericht zur Kenntnis.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7Czt_9%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+        "name": "Unterhaltungsaufwendungen Betriebswege Emschergenossenschaft im Stadtgebiet (Rahmenvereinbarung 16 Städte im Genossenschaftsgebiet)\r\n-mündlicher Bericht-",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7Czt_9%7C1",
+          "date": "2018-07-05",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7Czt_9%7C1",
+          "fileName": "be_zt_9_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2018-EUV-22%7Czt_9%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 7311,
+          "text": "9 Unterhaltungsaufwendungen Betriebswege Emschergenossenschaft im Stadtgebiet (Rahmenvereinbarung 16 Städte im Genossenschaftsgebiet)\u000b-mündlicher Bericht-  Vorsitzender Herr Bürgermeister Kravanja berichtet über die Gespräche zwischen den Städten und der Emschergenossenschaft (EG) hinsichtlich der Aufstellung, Unterhaltung, Pflege und Abfuhr von Abfallsammelbehältern sowie der Betreuung von Bänken entlang des Emscherradweges. Neben den vorgesehenen Abfallgefäßen können die Städte weitere Standorte entlang der Bachläufe vorschlagen. Die Erstbeschaffung und Aufstellung dieser Gefäße erfolgt durch die EG, die Entleerung soll dann durch die jeweilige Stadt gesichert werden. Die Vereinbarung soll spätestens mit Fertigstellung und Freigabe der Wege für die Radfahrer und Spaziergänger erfolgen. Vorstand Herr Werner ergänzt, dass bereits vergleichbare Regelung mit dem Bundeswasserschifffahrtsamt bestehen.  Auf Anfrage bekräftigt Herr Werner, dass dadurch ein besserer Gesamteindruck entlang der Wege erreicht werden soll. Der Verwaltungsrat nimmt den mündlichen Bericht zur Kenntnis.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/7952",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7C241306100026%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+        "name": "KliMarkt in Castrop-Rauxel",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7C241306100026%7C1",
+          "date": "2018-06-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7C241306100026%7C1",
+          "fileName": "be_241306100026_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2018-EUV-22%7C241306100026%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 5585,
+          "text": "10 KliMarkt in Castrop-Rauxel\u000b(2018/EUV/027)  Vorstand Herr Werner berichtet zur Tischvorlage. Am 21.September2018 findet in der Zeit vom 15:00h bis 19:00h ein neues Marktformat, der KliMarkt, statt. Bislang haben sich schon etwa 18Interessenten gemeldet.  Der Verwaltungsrat nimmt die Planungen zum KliMarkt in Castrop-Rauxel zur Kenntnis.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+        "name": "Anfragen der Verwaltungsratsmitglieder",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7Czt_1%7C1",
+          "date": "2018-07-05",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2018-EUV-22%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 69077,
+          "text": "11 Anfragen der Verwaltungsratsmitglieder  Auf Anfrage des Verwaltungsratsmitglied Herrn Schneider gibt Vorstand Herr Werner Auskunft über den Stand der Fahrbahnertüchtigungen an der Straße Am Stadtgarten und der Straße Unterspredey. Die Fahrbahn Am Stadtgarten werde voraussichtlich im Jahre 2020 im Rahmen des Umbaus zur Rückhaltung des Niederschlagswassers erneuert werden. Bis dahin werden die notwendigen Maßnahmen zur Verkehrssicherung erfolgen und die Hochwassertrasse vom Landwehrbach umgesetzt. Die Erneuerung der Fahrbahn Unterspredey ist derzeit nicht möglich, weil die finanziellen Mittel nicht zur Verfügung gestellt werden können. Derzeit kann nur eine Verkehrssicherung vorgenommen werden und die Überplanung der Niederschlagswasserentwässerung erfolgen.\u000b Auf Anfrage von Verwaltungsratsmitglied Herrn Goerke erläutert Herr Werner, dass die in Kürze der Umbau des Oberflächenbelages am Busbahnhof (ZOB) ausgeschrieben wird. Finanzmittel stehen in 2018 zur Verfügung. Auf Anregung wird der Vorstand in den kommenden Sitzungen jeweils in einem separaten Tagesordnungspunkt über den Stand des Ausbaus der ÖPNV-Bushaltestellen im Stadtgebiet berichten.\u000b Auf Anfrage des Verwaltungsratsmitglied Herrn Cornely Harboe erklärt Vorstand Herr Werner, dass im Herbst 2018 der schmilzende Asphalt auf der Wilhelmstraße abgefräst und mit einer zwei Zentimeter bituminösen Deckschicht überzogen werden soll. \u000b Auf Anfrage des Verwaltungsratsmitglied Herrn Dr. Jankovics erläutert Vorstand Herr Werner, dass die Umstellung der EDV im Bereich Finanzen (Infoma) und Personal (Loga) im Zeitrahmen ist. \u000b Auf Anregung von Verwaltungsratsmitglied Herrn Boxhammer, soll der Straßenoberflchenbelag im Kreuzungsbereiches Dortmunder Straße/Wakefieldstraße geprüft werden. Der Vorstand wird den zuständigen Baulastträger (Landesbetrieb Straßenbau) informieren.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7Czt_2%7C1",
+          "date": "2018-07-05",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2018-EUV-22%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2018-EUV-22%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 6498,
+          "text": "12 Mitteilungen des Vorstandes  Vorstand Herr Werner berichtet, dass die Gewährleistungsarbeiten am Castroper Markt abgeschlossen sind und nur noch abschließende etwa halbtägige Schönheitsreparaturen notwendig werden.\u000b Vorstand Herr Werner teilt mit, dass die temporären Verlegungen zweier Wochenmärkte anstehen. \u000bAufgrund der bevorstehenden Bebauung des Habinghorster Marktes wird der Wochenmarkt in Habinghorst für die Bauzeit von ca. 14 bis 16 Monate auf den Postplatz verlegt.\u000bNach dem Beachvolleyballturnier wird die Firma Gelsenwasser AG in den Sommerferien die Trinkwasserleitungen in der Fußgängerzone der Innenstadt (Münsterplatz) erneuern. Für die circa vierwöchige Bauzeit wird der Wochenmarkt in der Altstadt auf den Marktplatz verlegt werden müssen.\u000b Vorstand Herr Werner berichtet, dass die Grünabfallsammlung im Frühjahr mit etwa 1.800 Anlieferungen am Recyclinghof ein großer Erfolg war. Der Service wird auch im Herbst 2018 angeboten werden. \u000bVerwaltungsratsvorsitzender Herr Bürgermeister Kravanja bedankt sich am Ende der öffentlichen Sitzung im Namen des Verwaltungsrates bei Herrn Wolfgang Linke für die als stellvertretender Vorstand und als langjähriger Schriftführer im Verwaltungsrat geleistete Arbeit. Herrn Linke wird am 01.08.2018 pensioniert.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7Czt_4%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+        "name": "Personalangelegenheiten\r\n-mündlicher Bericht-",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/7918",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7C240506100020%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+        "name": "Befristete Besetzung der Ressortleitung Rechts- und Vertragsangelegenheiten zum 01.07.2018",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/7927",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7C240606100023%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+        "name": "Abschluss Grundstückskaufvertrag;\r\nErwerb des Grundstücks Gemarkung Behringhausen Flur 2, Flurstücke 367, 182, 365 und 366\r\n(Lagebezeichnung Westring 213)",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/7926",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7C240606100021%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+        "name": "Kanalneubau Im Scheiten, Hedwigstraße, Franzstraße, Christinenstraße \r\nund Restarbeiten Marienstraße, Elisabethstraße",
+        "number": "4",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7Czt_5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+        "name": "Sachstandsbericht Rechtsangelegenheiten des EUV\r\n-mündlicher Bericht",
+        "number": "5",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7Czt_6%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+        "name": "Anfragen der Verwaltungsratsmitglieder",
+        "number": "6",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7Czt_7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "7",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2018-06-20T18:50:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22",
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Sitzungsraum 1 EUV,  Westring 215, Castrop-Rauxel, Westring 215, 44575 Castrop-Rauxel",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2018-EUV-22/location",
+      "locality": "Castrop-Rauxel",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "postalCode": "44575",
+      "room": "Sitzungsraum 1 EUV,  Westring 215, Castrop-Rauxel",
+      "streetAddress": "Westring 215",
+      "subLocality": "Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Verwaltungsrates EUV",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/176",
+      "https://castroprauxel.gremien.info/oparl/person/748",
+      "https://castroprauxel.gremien.info/oparl/person/318",
+      "https://castroprauxel.gremien.info/oparl/person/133",
+      "https://castroprauxel.gremien.info/oparl/person/642",
+      "https://castroprauxel.gremien.info/oparl/person/817",
+      "https://castroprauxel.gremien.info/oparl/person/344",
+      "https://castroprauxel.gremien.info/oparl/person/790"
+    ],
+    "start": "2018-06-20T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting"
+  }
+}

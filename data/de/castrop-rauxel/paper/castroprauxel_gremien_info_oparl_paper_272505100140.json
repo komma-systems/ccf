@@ -1,0 +1,82 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/272505100140",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272505100140%7C20200525094510-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-25",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272505100140%7C20200525094510-0.pdf%7C",
+        "fileName": "20200525094510-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272505100140%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272505100140",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "c4ef3d1438f7356a16406adf920516f148699107",
+        "size": 1066842,
+        "text": "Im_Siepen_Kat",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272505100140%7C20200525094619-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-25",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272505100140%7C20200525094619-0.pdf%7C",
+        "fileName": "20200525094619-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272505100140%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272505100140",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "0fa9f19ef4ff68e72420d5993e8a9edcf43e9bd4",
+        "size": 2526167,
+        "text": "Im_Siepen_Lubi+Kat",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B3-99%7C272505100140%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8990",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B3-99",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-05-25",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/272505100140",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272505100140&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272505100140&id=69",
+      "fileName": "272505100140",
+      "id": "https://castroprauxel.gremien.info/oparl/file/272505100140",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/120",
+      "size": 103588,
+      "text": " Bereich EUV Stadtbetrieb 2020/120 öffentlich  Az: KI   Datum: 25.05.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 3 (Bauen, Verkehr und Sport) 18.06.2020    Betreff  Straßenrechtliche Widmung der (Straßen-)Flächen  Im Siepen  gemäß § 6 StrWG NW  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Der Betriebsausschuss 3 beschließt gemäß § 6 Straßen- und Wegegesetz des Landes Nordrhein-Westfalen (StrWG NW) in der z. Z. geltenden Fassung die Widmung folgender (Straßen-)Flächen:   Im Siepen Gemarkung Obercastrop Flur 2, Flurstücke 892, 893, 895, 896, 897, 905, 906, 907, 908    \f  \f L e n o r t                                                                             W e r n e r  Stadtbaurätin                                                                       Vorstand EUV   \f  Sachverhalt  Auf Grundlage des Bebauungsplanes Nr. 119 a Östlich Bochumer Straße/Wagenbruch wurde die Straße Im Siepen zur verkehrlichen Erschließung durch einen Dritten hergestellt.   Die Abnahme der als verkehrsberuhigter Bereich ausgebauten Anlage ist erfolgt und die Stadt Castrop-Rauxel hat die Übernahme der Unterhaltung und der Verkehrssicherung der Straße erklärt.  Die angegebenen Grundstücke sind im Eigentum der Stadt Castrop-Rauxel.   Die Flurstücke 892, 893, 895, 896 und 897 sind als öffentliche Verkehrsfläche und die Flurstücke 905, 906, 907 sowie 908 werden als öffentliche Parkplatzflächen und öffentliche Grünflächen gewidmet.   Für die Öffentlichkeit einer Straße ist die Widmung gemäß § 6 Straßen- und Wegegesetz NW durch die Straßenbaubehörde zu veranlassen.   Die Stadt Castrop-Rauxel ist Eigentümerin der öffentlichen (Verkehrs-)Flächen und trägt die Straßenbaulast.   Die Voraussetzungen für die Widmung sind somit erfüllt und diese ist zu veranlassen.      \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Straßenrechtliche Widmung der (Straßen-)Flächen 'Im Siepen' gemäß § 6 StrWG NW",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/120",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ]
+  }
+}

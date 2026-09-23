@@ -1,0 +1,261 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-79",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AUSLB-79%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-79",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AUSLB-79%7C1%7C1",
+          "date": "2023-08-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AUSLB-79%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AUSLB-79%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 401594,
+          "text": "Die Vorsitzende Frau Aysel Cetin begrüßt die Mitglieder des Integrationsrats und die Gäste und bemerkt vorab, dass es in der heutigen Sitzung aufgrund einer kurzfristigen Absage seitens der Bezirksregierung keinen Bericht zu der Notunterkunft an der B 235 geben wird.  In Bezug auf Sichere Häfen wurden diverse Gespräche in den Fraktionen geführt. Im Allgemeinen wird das Vorhaben von Allen mitgetragen. Deshalb plädiert sie für die Weiterführung des Vorhabens im Rahmen eines Austausches aller Fraktionen und der Zivilgesellschaft mit dem Integrationsrat. Die Beigeordnete für Soziales Frau Kleff sagt zu, dass die Verwaltung den Integrationsrat, Vertreter*innen der Fraktionen sowie Teile der Zivilgesellschaft zu einer befristeten AG zum Thema Sichere Häfen in Castrop-Rauxel einladen wird.  1 Fragestunde für Einwohnerinnen und Einwohner  Es gibt keine Fragen.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AUSLB-79%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-79",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AUSLB-79%7CProtokoll%7C1",
+          "date": "2023-08-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AUSLB-79%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AUSLB-79%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 375283,
+          "text": " 2 Einwände gegen die letzte Niederschrift  Es gibt keine Einwände.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2023-AUSLB-79%7Czt_0%7C1%7C20230828113435-0_zt_0_1.pdf",
+            "date": "2023-08-28",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2023-AUSLB-79%7Czt_0%7C1%7C20230828113435-0_zt_0_1.pdf",
+            "fileName": "20230828113435-0_zt_0_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2023-AUSLB-79%7Czt_0%7C1%7C20230828113435-0_zt_0_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Umzugspläne Moschee",
+            "size": 1160390,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AUSLB-79%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-79",
+        "name": "Mündlicher Bericht: Umzug Ickerner Moscheegemeinde Ayasofya e.V. nach Habinghorst",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AUSLB-79%7Czt_0%7C1",
+          "date": "2023-08-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AUSLB-79%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AUSLB-79%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 391990,
+          "text": " 3 Mündlicher Bericht: Umzug Ickerner Moscheegemeinde Ayasofya e.V. nach Habinghorst  Die Vorsitzende Frau Cetin berichtet über den status quo des Umzugs (s. PPP).  Die Integrationsmitglieder nehmen die Ausführung zur Kenntnis und stellen Fragen.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2023-AUSLB-79%7Czt_1%7C1%7C20230807080401-0_zt_1_1.pdf",
+            "date": "2023-08-07",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2023-AUSLB-79%7Czt_1%7C1%7C20230807080401-0_zt_1_1.pdf",
+            "fileName": "20230807080401-0_zt_1_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2023-AUSLB-79%7Czt_1%7C1%7C20230807080401-0_zt_1_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Antrag Integrationsliste_Sport",
+            "size": 154204,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AUSLB-79%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-79",
+        "name": "Antrag Integrationsliste: Fördermöglichkeiten für die Durchführung von pädagogischem Boxtraining für Kinder und Jugendliche",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AUSLB-79%7Czt_1%7C1",
+          "date": "2023-08-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AUSLB-79%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AUSLB-79%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 413621,
+          "text": " 4 Antrag Integrationsliste: Fördermöglichkeiten für die Durchführung von pädagogischem Boxtraining für Kinder und Jugendliche  Herr Tamouh berichtet über das erfolgreiche Projekt Handschlag im Mai 2023. Für die Dauer von 5 Wochen wurde ein sozialpädagogisches Boxtraining durchgeführt. Die Integrationsliste beauftragt die Verwaltung mit der Prüfung der Fördermöglichkeit einer Neuauflage eines pädagogischen Boxtrainings.  Die Vorsitzende bedankt sich für den Bericht, die Integrationsratsmitglieder nehmen den Bericht zur Kenntnis und diskutieren darüber. Die Beigeordnete für Soziales sagt eine Prüfung der Finanzierbarkeit über den Stärkungspakt NRW zu.  Der Integrationsrat stimmt wie folgt über den Antrag ab:  Abstimmungsergebnis Einstimmig angenommen  Ja-Stimmen 12  Nein-Stimmen -  Enthaltungen -   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AUSLB-79%7C13%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-79",
+        "name": "Anfragen der Rats- bzw. Beiratsmitglieder",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AUSLB-79%7C13%7C1",
+          "date": "2023-08-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AUSLB-79%7C13%7C1",
+          "fileName": "be_13_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AUSLB-79%7C13%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 405612,
+          "text": " 5 Anfragen der Rats- bzw. Beiratsmitglieder  Da die Repräsentantin der Bezirksregierung, die Stellung zu der Notunterkunft an der B 235, kurzfristig abgesagt hat, diskutieren die Integrationsmitglieder über die Situation der Notunterkunft an der B 235. Viele konnten sich ein Bild vor Ort machen. Es herrscht große Unzufriedenheit mit den vorherrschenden Bedingungen in Bezug auf die zu kleinen Räumlichkeiten und die fehlenden Angebote ((schulische) Angebote für Kinder und Jugendliche, Freizeitangebote, Sprachunterricht, etc.) für die dort lebenden Menschen. Deshalb vereinbart der Integrationsrat, einen Appell an die Landesregierung zu schreiben.  Herr Matentzoglou möchte gerne wissen, wie der Stand der Dinge in Bezug auf die personelle Neubesetzung in der Ausländerbehörde ist. Die Erste Beigeordnete Frau Kleff reicht die Beantwortung der Frage in der Niederschrift wie folgt mit: XXXXXXXXXXXXXXXX  Frau Omidi fragt an, ob die herzustellende Mahntafel für die Gedenkstädte der Ofer des rassistischen Terrors Opfer rechter Gewalt demnächst aufgestellt werden könnte. Zudem möchte sie gerne wissen, ob die Bäume noch vorhanden sind. Die Vorsitzende Frau Cetin sagt zu, dass sich die Verwaltung darum kümmern wird.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AUSLB-79%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-79",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AUSLB-79%7C4%7C1",
+          "date": "2023-08-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AUSLB-79%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AUSLB-79%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 396086,
+          "text": " 6 Mitteilungen der Verwaltung  Die Erste Beigeordnete Frau Kleff berichtet darüber, dass das Handlungskonzept Wohnen fortgeschrieben wird. Dazu wurde ein Büro beauftragt, dessen Analyse die Grundlage für einen politischen Workshop bilden wird, bei dem Zielstellungen diskutiert werden sollen. Meilensteine sollen sein Wohnen, Bauen, Versorgen und Barriere/Teilhabe.   Die Vorsitzende Frau Cetin bedankt sich bei den Teilnehmenden für die Teilnahme und die rege Diskussion. Sie beendet die Sitzung um 19:26 Uhr.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AUSLB-79%7C14%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-79",
+        "name": "Anfragen der Rats- bzw. Beiratsmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AUSLB-79%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-79",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2023-08-23T19:26:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-79",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2023-AUSLB-79",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-08-07",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2023-AUSLB-79",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2023-AUSLB-79",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "7eefa0eb55bd2838d09736573b40c9d24cbffda7",
+      "size": 418918,
+      "text": "Tagesordnung zur Sitzung des Integrationsrates am Mittwoch, 23.08.2023 um 18:00 Uhr im Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel,   I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner  2. Einwände gegen die letzte Niederschrift  3. Mündlicher Bericht: Umzug Ickerner Moscheegemeinde Ayasofya e.V. nach Habinghorst  4. Antrag Integrationsliste: Fördermöglichkeiten für die Durchführung von pädagogischem Boxtraining für Kinder und Jugendliche  5. Anfragen der Rats- bzw. Beiratsmitglieder  6. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  1. Anfragen der Rats- bzw. Beiratsmitglieder  2. Mitteilungen der Verwaltung    Aysel C E T I N Ausschussvorsitzende \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-79/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Integrationsrates",
+    "organization": [],
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/684",
+      "https://castroprauxel.gremien.info/oparl/person/1053",
+      "https://castroprauxel.gremien.info/oparl/person/1048",
+      "https://castroprauxel.gremien.info/oparl/person/1052",
+      "https://castroprauxel.gremien.info/oparl/person/820",
+      "https://castroprauxel.gremien.info/oparl/person/642",
+      "https://castroprauxel.gremien.info/oparl/person/1032",
+      "https://castroprauxel.gremien.info/oparl/person/1029",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/1186",
+      "https://castroprauxel.gremien.info/oparl/person/873",
+      "https://castroprauxel.gremien.info/oparl/person/1187"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-AUSLB-79",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-10-16",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-AUSLB-79",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-AUSLB-79",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 464985,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2023-08-23T18:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-AUSLB-79",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-10-16",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-AUSLB-79",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-AUSLB-79",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 464985,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

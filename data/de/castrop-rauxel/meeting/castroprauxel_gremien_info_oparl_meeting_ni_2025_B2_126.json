@@ -1,0 +1,400 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B2-126",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/13892",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B2-126%7C382406100132%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B2-126",
+        "name": "Ernennung der stellvertretenden Schriftführung für den Betriebsausschuss 2 der Stadt Castrop-Rauxel am 26.06.2025",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B2-126%7C382406100132%7C1",
+          "date": "2025-07-04",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B2-126%7C382406100132%7C1",
+          "fileName": "be_382406100132_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B2-126%7C382406100132%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 106197,
+          "text": "  1 Ernennung der stellvertretenden Schriftführung für den Betriebsausschuss 2 der Stadt Castrop-Rauxel am 26.06.2025 (2025/129)   Der Betriebsausschuss 2 beschließt einstimmig:  Gemäß §§52 und 58 der Gemeindeordnung NRW in Verbindung mit § 17 der Geschäftsordnung des Rates der Stadt Castrop-Rauxel wird in der Sitzung des Betriebsausschusses 2 am 26.06.2025 einmalig Frau Andrea Wardin als stellvertretende Schriftführerin bestellt.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B2-126%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B2-126",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B2-126%7C1%7C1",
+          "date": "2025-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B2-126%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B2-126%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 72954,
+          "text": "  2 Fragestunde für Einwohnerinnen und Einwohner    Es werden keine Anfragen an das Gremium gerichtet.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B2-126%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B2-126",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B2-126%7CProtokoll%7C1",
+          "date": "2025-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B2-126%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B2-126%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 76314,
+          "text": "  3 Einwände gegen die letzte Niederschrift     Gegen die letzte Niederschrift gibt es keine Einwände.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B2-126%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B2-126",
+        "name": "Bericht der Verbraucherzentrale Castrop-Rauxel - mündlicher Bericht durch Frau  Rosemarie Sommer, Leiterin der Beratungsstelle",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B2-126%7Czt_0%7C1",
+          "date": "2025-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B2-126%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B2-126%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 95763,
+          "text": "  4 Bericht der Verbraucherzentrale Castrop-Rauxel - mündlicher Bericht durch Frau Rosemarie Sommer, Leiterin der Beratungsstelle     Frau Sommer, Leiterin der Verbraucherzentrale Castrop-Rauxel bedankt sich für die Einladung in den Betriebsausschuss 2 und stellt die Arbeit der Verbraucherzentrale im Jahr 2024 durch eine Powerpoint Präsentation vor.  Sie schildert Fälle aus dem Beratungsalltag und betont die Wichtigkeit der Arbeit der Verbraucherzentrale für die Bürgerinnen und Bürger.   Sie erläutert die Anzahl der Beratungen und nennt einige Beratungsbeispiele:  Auswirkungen der Energiekrise Telekommunikation (Haustürgeschäft und dadurch entstandene Verträge) Fake Shops (z.B. unerkannte China-Shops) Internetkriminalität (Online-Banking-Betrug) Energieberatung (Wärmeplanung).  Frau Sommer bedankt sich bei der Stadt Castrop-Rauxel für die Unterstützung ihrer Arbeit und die Fortführung des Vertrages.  Die Mitglieder des Betriebsausschusses 2 bedanken sich bei Frau Sommer für die Präsentation.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B2-126%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B2-126",
+        "name": "Vorstellung des Sozialberichtes 2025 der Stadt Castrop-Rauxel - mündlicher Bericht durch Frau Heyer, Stabsstelle Bildung, Vielfalt und Teilhabe",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B2-126%7Czt_1%7C1",
+          "date": "2025-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B2-126%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B2-126%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 102191,
+          "text": "  5 Vorstellung des Sozialberichtes 2025 der Stadt Castrop-Rauxel - mündlicher Bericht durch Frau Heyer, Stabsstelle Bildung, Vielfalt und Teilhabe    Frau Maxi Heyer stellt den Sozialbericht 2025 der Stadt Castrop-Rauxel anhand einer ausführlichen Powerpoint Präsentation vor und erläutert die Zahlen. Die Zahlen geben einen Überblick über die unterschiedlichen/ungleichen Lebenslagen in Castrop-Rauxel. Die Mitglieder des Betriebsausschusses 2 bedanken sich bei Frau Heyer für die gute Präsentation und betonen, dass der Sozialbericht sehr hilfreich für die Politik sei, um erforderliche Maßnahme zu ergreifen. Frau Kleff teilt mit, dass dadurch in den nächsten Jahren wirksame Instrumente auf den Weg gebracht werden können.   Frau Heyer verweist in diesem Zusammenhang auf die Erste Teilhabekonferenz am 05.11.2025. Die Mitglieder des Betriebsausschusses nehmen diesen Termin zur Kenntnis.  Exemplare des gedruckten Sozialberichtes werden an die Ausschussmitglieder verteilt.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/15819",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B2-126%7C381106100120%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B2-126",
+        "name": "Gesamtstädtisches Verpflegungskonzept an den Schulen in Castrop-Rauxel",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B2-126%7C381106100120%7C1",
+          "date": "2025-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B2-126%7C381106100120%7C1",
+          "fileName": "be_381106100120_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B2-126%7C381106100120%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 101773,
+          "text": "  6 Gesamtstädtisches Verpflegungskonzept an den Schulen in Castrop-Rauxel (2025/116)  Frau Kleff berichtet, dass sich die Ausschreibung in der finalen Phase befindet, Bewerbungen liegen vor. Essen wird es nach den Ferien geben, sie verweist auf die nächste Ratssitzung.    Der Betriebsausschuss 2 empfiehlt dem Rat der Stadt einstimmig, die nachfolgenden Maßnahmen zu beschließen:  1. Erweiterung des gesamtstädtischen Verpflegungskonzeptes an den Schulen in Castrop-Rauxel um das Verfahren Cook and Hold mit sofortiger Wirkung. 2. Die Verwaltung wird beauftragt zu prüfen, welche Maßnahmen ergriffen werden können, um die Versorgung mit Schulessen unabhängiger und zugleich verlässlich zu organisieren. Die Ergebnisse sind dem Rat zur Beratung vorzulegen.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B2-126%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B2-126",
+        "name": "Aktuelle Informationen aus dem Bereich Schule - mündlicher Bericht ",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B2-126%7Czt_2%7C1",
+          "date": "2025-07-04",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B2-126%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B2-126%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 87933,
+          "text": "  7 Aktuelle Informationen aus dem Bereich Schule - mündlicher Bericht     Frau Kleff berichtet vom Fachtag Übergang Kita/Grundschule welcher am 05.06.2025 stattgefunden hat. Es gab einen intensiven Austausch miteinander und viele interessante Informationen.   Neue Grundschule Castrop: Es gibt bisher noch keine Meldungen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16117",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B2-126%7C381405100098%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B2-126",
+        "name": "Erstellung eines Sportstättenentwicklungskonzepts",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B2-126%7C381405100098%7C1",
+          "date": "2025-07-04",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B2-126%7C381405100098%7C1",
+          "fileName": "be_381405100098_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B2-126%7C381405100098%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 103761,
+          "text": "  8 Erstellung eines Sportstättenentwicklungskonzepts (2025/094)   Der Betriebsausschuss 2 empfiehlt dem Rat der Stadt einstimmig die Vergabe zur Erstellung eines Sportstättenentwicklungskonzepts zu beschließen. Die Verwaltung wird beauftragt, ein geeignetes Fachbüro mit der Durchführung des Konzepts zu betrauen. Die Maßnahme kann aus Mitteln der zurückgeführten Sportpauschale in Höhe von 100.000  finanziert werden (Kontierung 5431300/50052/420201).       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/14275",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B2-126%7C382606100135%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B2-126",
+        "name": "Ergänzungsantrag der CDU Fraktion vom 25. Juni 2025 zum TOP \"Erstellung eines Sportstättenentwicklungskonzepts\"",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B2-126%7C382606100135%7C1",
+          "date": "2025-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B2-126%7C382606100135%7C1",
+          "fileName": "be_382606100135_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B2-126%7C382606100135%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 84419,
+          "text": "  9 Ergänzungsantrag der CDU Fraktion vom 25. Juni 2025 zum TOP  Erstellung eines Sportstättenentwicklungskonzepts  (2025/131)    Beschlussfassung: siehe TOP 8        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/14230",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B2-126%7C381006100116%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B2-126",
+        "name": "Antrag der CDU-Fraktion vom 6. Juni 2025;\r\nEinsatz von Künstlicher Intelligenz an sicherheitsrelevanten Orten",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B2-126%7C381006100116%7C1",
+          "date": "2025-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B2-126%7C381006100116%7C1",
+          "fileName": "be_381006100116_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B2-126%7C381006100116%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 94608,
+          "text": "  10 Antrag der CDU-Fraktion vom 6. Juni 2025; Einsatz von Künstlicher Intelligenz an sicherheitsrelevanten Orten (2025/113)     Herr Fritsch erläutert den Antrag. Es sollen neue technische Hilfsmittel für die Sicherheit eingesetzt werden, es soll mehr KI in öffentlichen Bereichen geben, um z.B. Vandalismus entgegen zu wirken. Es wird ausführlich über den Antrag diskutiert, Frau Furkötter erklärt, dass der Antrag bereits im Betriebsausschuss 1 behandelt wurde.   Der Antrag (s. Anlage) wird einstimmig beschlossen.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B2-126%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B2-126",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B2-126%7C6%7C1",
+          "date": "2025-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B2-126%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B2-126%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 72501,
+          "text": "  11 Anfragen der Ausschussmitglieder    Es gibt keine Anfragen der Ausschussmitglieder.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B2-126%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B2-126",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B2-126%7C4%7C1",
+          "date": "2025-07-10",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B2-126%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B2-126%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 65060,
+          "text": "  12 Mitteilungen der Verwaltung    Es gibt keine Mitteilungen der Verwaltung.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B2-126%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B2-126",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B2-126%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B2-126",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2025-B2-126%7C20250625123307-0_2025-B2-126_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2025-06-25",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2025-B2-126%7C20250625123307-0_2025-B2-126_1.pdf",
+        "fileName": "20250625123307-0_2025-B2-126_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2025-B2-126%7C1",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Tischvorlage 2025-129 Ernennung der stellvertr. Schriftführung für den B2 der Stadt Castrop-Rauxel",
+        "size": 157835,
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2025-B2-126%7C20250626135628-0_2025-B2-126_2.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2025-06-26",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2025-B2-126%7C20250626135628-0_2025-B2-126_2.pdf",
+        "fileName": "20250626135628-0_2025-B2-126_2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2025-B2-126%7C2",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Sportsta?tten_Erga?nzungsantrag",
+        "size": 176379,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2025-06-26T18:30:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B2-126",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2025-B2-126",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-06-12",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2025-B2-126",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2025-B2-126",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "cdc1b5fa6154e841ae4133bae27a1f5501d36894",
+      "size": 435506,
+      "text": "Tagesordnung zur Sitzung des Betriebsausschusses 2 (Familie, Jugend, Soziales und Bildung) am Donnerstag, 26.06.2025 um 17:00 Uhr, wewole WERKEN gGmbH, Am Förderturm 13, 44575 Castrop-Rauxel  I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner  2. Einwände gegen die letzte Niederschrift  3. Bericht der Verbraucherzentrale Castrop-Rauxel - mündlicher Bericht durch Frau  Rosemarie Sommer, Leiterin der Beratungsstelle  4. Vorstellung des Sozialberichtes 2025 der Stadt Castrop-Rauxel - mündlicher Bericht durch Frau Heyer, Stabsstelle Bildung, Vielfalt und Teilhabe  5. Gesamtstädtisches Verpflegungskonzept an den Schulen in Castrop-Rauxel  6. Aktuelle Informationen aus dem Bereich Schule - mündlicher Bericht   7. Erstellung eines Sportstättenentwicklungskonzepts  8. Antrag der CDU-Fraktion vom 6. Juni 2025; Einsatz von Künstlicher Intelligenz an sicherheitsrelevanten Orten  9. Anfragen der Ausschussmitglieder  10. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  11. Anfragen der Ausschussmitglieder  12. Mitteilungen der Verwaltung     Katrin  L a s s e r  M o r y s o n  Ausschussvorsitzende \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "außerhalb des Rathauses, Info siehe Bekanntmachung, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B2-126/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "außerhalb des Rathauses, Info siehe Bekanntmachung",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Betriebsausschusses 2 (Familie, Jugend, Soziales und Bildung)",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/597",
+      "https://castroprauxel.gremien.info/oparl/person/694",
+      "https://castroprauxel.gremien.info/oparl/person/318",
+      "https://castroprauxel.gremien.info/oparl/person/138",
+      "https://castroprauxel.gremien.info/oparl/person/1029",
+      "https://castroprauxel.gremien.info/oparl/person/1244",
+      "https://castroprauxel.gremien.info/oparl/person/389",
+      "https://castroprauxel.gremien.info/oparl/person/1043",
+      "https://castroprauxel.gremien.info/oparl/person/858",
+      "https://castroprauxel.gremien.info/oparl/person/1072",
+      "https://castroprauxel.gremien.info/oparl/person/895",
+      "https://castroprauxel.gremien.info/oparl/person/1198",
+      "https://castroprauxel.gremien.info/oparl/person/1060",
+      "https://castroprauxel.gremien.info/oparl/person/1061",
+      "https://castroprauxel.gremien.info/oparl/person/1118",
+      "https://castroprauxel.gremien.info/oparl/person/29",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/753",
+      "https://castroprauxel.gremien.info/oparl/person/1122"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-B2-126",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-07-14",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2025-B2-126",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2025-B2-126",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 175856,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2025-06-26T17:10:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-B2-126",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-07-14",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2025-B2-126",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2025-B2-126",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 175856,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

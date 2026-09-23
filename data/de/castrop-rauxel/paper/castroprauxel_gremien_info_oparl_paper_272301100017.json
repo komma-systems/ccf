@@ -1,0 +1,126 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/272301100017",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272301100017%7C20200123090605.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-23",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272301100017%7C20200123090605.pdf%7C",
+        "fileName": "20200123090605.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272301100017%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272301100017",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "eb69820ee19daa96f39a1773197e59bcbf8fdfc3",
+        "size": 423199,
+        "text": "Benutzungs- und Gebührensatzung der städtischen Unterkünfte für Flüchtlinge und Obdachlose der Stadt Castrop-Rauxel  neu",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272301100017%7C20200123090613.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-23",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272301100017%7C20200123090613.pdf%7C",
+        "fileName": "20200123090613.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272301100017%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272301100017",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "276d16e5faffc5e261471e30add1cc767696a671",
+        "size": 380183,
+        "text": "Synopse alt - neu",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272301100017%7C20200123090622.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-23",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272301100017%7C20200123090622.pdf%7C",
+        "fileName": "20200123090622.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272301100017%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272301100017",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "41c55225f8265ed5a703bc17e501a775ef1959dc",
+        "size": 1093083,
+        "text": "Gebührenbedarfsberechnung",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272301100017%7C20200123090629.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-23",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272301100017%7C20200123090629.pdf%7C",
+        "fileName": "20200123090629.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272301100017%7C4",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272301100017",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 4",
+        "sha1Checksum": "60f7aeeccd5214c82fd3552a7a052080f4a61a06",
+        "size": 292150,
+        "text": "Erläuterungen zur Gebührenbedarfsberechnung",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B2-99%7C272301100017%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8795",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B2-99",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B2"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-116%7C272301100017%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8796",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-116",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-01-23",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/272301100017",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272301100017&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272301100017&id=69",
+      "fileName": "272301100017",
+      "id": "https://castroprauxel.gremien.info/oparl/file/272301100017",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/014",
+      "size": 580921,
+      "text": " Bereich Asyl und Obdachlose 2020/014 öffentlich  Az:     Datum: 23.01.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 2 (Familie, Jugend, Soziales und Bildung) 20.02.2020   Rat der Stadt 27.02.2020    Betreff  Benutzungs- und Gebührensatzung der städtischen Unterkünfte für Flüchtlinge und Obdachlose der Stadt Castrop-Rauxel; Neufassung der Benutzungsgebühren  \f     Finanzielle Auswirkungen      keine haushaltsmäßige Berührung     X Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Der Rat der Stadt Castrop-Rauxel beschließt die Benutzungs- und Gebührensatzung der städtischen Unterkünfte für Flüchtlinge und Obdachlose der Stadt Castrop-Rauxel in der vorgelegten Fassung.  Die Benutzungs- und Gebührensatzung der städtischen Unterkünfte für Flüchtlinge und Obdachlose der Stadt Castrop-Rauxel vom 06.03.2019 tritt mit Inkrafttreten der neuen Satzung außer Kraft  \f  \f_____________________________                           _____________________________ K r a v a n j a              K l e f f Bürgermeister             Beigeordnete\f  Sachverhalt  Die Kalkulation der derzeitig gültigen Fassung der Benutzungs- und Gebührensatzung der städtischen Unterkünfte für Flüchtlinge und Obdachlose der Stadt Castrop-Rauxel stammt aus dem Jahr 2017, mit der letzten Änderung im Jahr 2019 wurde die Satzung nur inhaltlich überarbeitet. Seit der letzten Kalkulation hat sich sowohl die Anzahl der unterzubringenden Personen als auch der Bestand der Unterkünfte verändert. Insbesondere sind 23 Unterkünfte, die im Rahmen der Flüchtlingskrise angemietet wurden, gekündigt worden. Weiterhin ist die Unterkunft in der Marienburger Str. 18 ruhend gestellt. Die Sollplatzzahl verringert sich durch die Kündigungen und Ruhendstellung um 382 Personen. Der Bereich Migration und Obdachlosenhilfe hat für 2020 eine Gebührenbedarfsberechnung (Anlage 1) erstellt, die den zwischenzeitlich eingetretenen gebührenrelevanten Änderungen Rechnung trägt. Eine Anpassung der Gebührensätze ist ab dem 01.04.2020 vorzunehmen.   Zur vorläufigen Unterbringung von Flüchtlingen und Obdachlosen unterhält die Stadt Castrop-Rauxel aktuell mehrere Unterkünfte im Stadtgebiet (siehe Anlage gemäß § 1 Absatz 3 der Benutzungs- und Gebührensatzung der städtischen Unterkünfte für Flüchtlinge und Obdachlose der Stadt Castrop-Rauxel). Unter Berücksichtigung der unterschiedlichen Ausstattung und Betreuungsintensität der Unterkünfte sind zwei Wirtschaftseinheiten gebildet worden:   Kategorie 1: Bergstr. 75, Franzstr. 56, Harkortstr. 1 - 4, Vördestr. 41, 43, 45, 47  Kategorie 2: Sonstige Wohnungen im Stadtgebiet (31 Wohnungen)   Zur Berechnung der pauschalen Grundgebühr werden weiterhin die durchschnittlichen Kosten für die Fläche zugrunde gelegt, die jeder Bewohnerin und jedem Bewohner in den städtischen Unterkünften üblicherweise zur Verfügung gestellt wird. Dieses Verfahren hat sich in den letzten Jahren bewährt. Es wird mit einer durchschnittlichen Wohn- und anteiligen Gemeinschaftsfläche von 10 m pro Person gerechnet.   4.867,27 m Gesamtwohnfläche aller Unterkünfte 465 Unterbringungsplätze aller Unterkünfte  = 10 m pro Person   Die Benutzungsgebühren teilen sich auf in eine Grundgebühr und eine Verbrauchsgebühr. In der Grundgebühr sind Personal-, Sachkosten, Abschreibungen und kalkulatorische Zinsen enthalten. Die Verbrauchsgebühr deckt die Kosten für Strom, Wärme, Wasser, Abfallbeseitigung, Abwasser, Straßenreinigung, Versicherung und weitere Betriebskosten gemäß § 2 der Verordnung über die Aufstellung von Betriebskosten ab. Die detaillierte Aufschlüsselung der Kosten sowie die Berechnungen zur Gebührenkalkulation sind den Anlagen zu entnehmen.   \f Die neue monatliche Gebühr für 10 m beträgt:   neu alt Veränderung   Kategorie 1:   Grundgebühr: 148,50  161,00  - 12,50    Verbrauchsgebühr: 75,70  62,70  + 13,00    Gesamtgebühr 224,20  223,70  +   0,50    Kategorie 2:   Grundgebühr: 123,50  119,50  +   4,00    Verbrauchsgebühr: 59,00  55,10  +   3,90    Gesamtgebühr 182,50  174,60  +   7,90     Finanzielle Auswirkungen  Die Aufwendungen für die städtischen Unterkünfte für Flüchtlinge und Obdachlose der Stadt Castrop-Rauxel belaufen sich auf 1.212.077,80 . Einzelheiten sind der Anlage Kalkulation und Erläuterungen zur Kalkulation zu entnehmen. Die Erträge von Dritten belaufen sich voraussichtlich auf ca. 274.000,00 . Durch die Änderung der Benutzungsgebühren für die städtischen Unterkünfte für Obdachlose und Asylbewerber erhöhen sich die Einnahmen um ca. 14.000,00 . Durch die Änderung der Gebührensatzung entsteht jedoch kein Mehrertrag, da dies im Haushaltsplan für die Jahre 2020 und 2021 bereits berücksichtigt und vom Rat beschlossen wurde.       Beteiligte Bereiche 20 59    Kurzzeichen         \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Benutzungs- und Gebührensatzung der städtischen Unterkünfte für Flüchtlinge und Obdachlose der Stadt Castrop-Rauxel; Neufassung der Benutzungsgebühren",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/014",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

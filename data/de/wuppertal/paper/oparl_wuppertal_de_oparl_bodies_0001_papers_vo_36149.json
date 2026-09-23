@@ -1,0 +1,135 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36149",
+  "modified_at": "2026-08-27T11:33:37+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368509.pdf",
+        "created": "2026-08-14T09:07:25+02:00",
+        "date": "2026-08-14",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368509.pdf",
+        "fileName": "00368509.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368509",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-27T11:33:37+02:00",
+        "name": "Anlage 01 Bilder KSP Falkenberg",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368510.pdf",
+        "created": "2026-08-14T09:07:57+02:00",
+        "date": "2026-08-14",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368510.pdf",
+        "fileName": "00368510.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368510",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-27T11:33:37+02:00",
+        "name": "Anlage 01 Übersichtsplan KSP Falkenberg",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368511.pdf",
+        "created": "2026-08-14T09:10:46+02:00",
+        "date": "2026-08-14",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368511.pdf",
+        "fileName": "00368511.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368511",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-27T11:33:37+02:00",
+        "name": "Anlage 01 Antrag KSP Falkenberg",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368512.pdf",
+        "created": "2026-08-14T09:11:48+02:00",
+        "date": "2026-08-14",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368512.pdf",
+        "fileName": "00368512.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368512",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-27T11:33:37+02:00",
+        "name": "Anlage 02 Antrag Bürgerverein",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368513.pdf",
+        "created": "2026-08-14T09:12:53+02:00",
+        "date": "2026-08-14",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368513.pdf",
+        "fileName": "00368513.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368513",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-27T11:33:37+02:00",
+        "name": "Anlage 03 Antrag Freibad Eckbusch",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368514.pdf",
+        "created": "2026-08-14T09:13:35+02:00",
+        "date": "2026-08-14",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368514.pdf",
+        "fileName": "00368514.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368514",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-27T11:33:37+02:00",
+        "name": "Anlage 04 Antrag KSP zum Lohbusch",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368515.pdf",
+        "created": "2026-08-14T09:14:15+02:00",
+        "date": "2026-08-14",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368515.pdf",
+        "fileName": "00368515.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368515",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-27T11:33:37+02:00",
+        "name": "Anlage 04 Übersichtsplan KSP zum Lohbusch",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368884.pdf",
+        "created": "2026-08-25T08:53:46+02:00",
+        "date": "2026-08-25",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368884.pdf",
+        "fileName": "00368884.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368884",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-27T11:33:37+02:00",
+        "name": "Anlage 05 Antrag Freibad Mirke",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141252",
+        "authoritative": true,
+        "created": "2026-08-14T09:17:05+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68471",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24660",
+        "modified": "2026-09-04T06:45:26+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/41"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36149",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-14T09:04:44+02:00",
+    "date": "2026-08-14",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36149",
+    "modified": "2026-08-27T11:33:37+02:00",
+    "name": "Verwendung von GFG Mitteln der Bezirksvertretung",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/0954/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

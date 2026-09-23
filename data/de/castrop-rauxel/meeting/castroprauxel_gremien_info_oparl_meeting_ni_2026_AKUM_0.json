@@ -1,0 +1,410 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AKUM-0",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AKUM-0%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AKUM-0",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7C1%7C1",
+          "date": "2026-04-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AKUM-0%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 64498,
+          "text": "I.1 Fragestunde für Einwohnerinnen und Einwohner   keine Anfragen      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AKUM-0%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AKUM-0",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7CProtokoll%7C1",
+          "date": "2026-04-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AKUM-0%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 64566,
+          "text": "  I.2 Einwände gegen die letzte Niederschrift   Keine Einwände      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/15698",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AKUM-0%7C401301100031%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AKUM-0",
+        "name": "Bestellung einer Schriftführerin für den Ausschuss für Klima, Umwelt und Mobilität",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7C401301100031%7C1",
+          "date": "2026-04-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7C401301100031%7C1",
+          "fileName": "be_401301100031_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AKUM-0%7C401301100031%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 125593,
+          "text": "I.3 Bestellung einer Schriftführerin für den Ausschuss für Klima, Umwelt und Mobilität (2026/031)   Herr Brehm lässt über die Vorlage abstimmen.  Der Ausschuss für Klima, Umwelt und Mobilität beschließt einstimmig, Frau Rebecca Thode zur Schriftführerin und Herrn Gert Krause-Joseph zum stellvertretenden Schriftführer zu benennen.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16011",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AKUM-0%7C401401100032%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AKUM-0",
+        "name": "Bestimmung der Sachkundigen Einwohnerinnen und Einwohner im Ausschuss für Klima, Umwelt und Mobilität",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7C401401100032%7C1",
+          "date": "2026-04-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7C401401100032%7C1",
+          "fileName": "be_401401100032_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AKUM-0%7C401401100032%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 137345,
+          "text": "I.4 Bestimmung der Sachkundigen Einwohnerinnen und Einwohner im Ausschuss für Klima, Umwelt und Mobilität (2026/032)   Herr Brehm lässt über die Vorlage abstimmen.  Der Beschluss wird einstimmig angenommen.  Die Geschäftsführung des Ausschusses für Klima, Umwelt und Mobilität wird beauftragt, über eine Pressemitteilung in den lokalen Zeitungen die örtlichen Umweltinitiativen und -verbände und solche Institutionen, die sich mit Klima-, Umwelt- und Mobilitätsthemen befassen, aufzurufen, eines ihrer Mitglieder sowie eine persönliche Vertreterin oder Vertreter als sachkundigen Einwohner/ Einwohnerin im Ausschuss für Klima, Umwelt und Mobilität zu benennen. Die Wahl der Sachkundigen Einwohner/innen und deren persönlichen Vertreter/innen erfolgt nach Beratung im Ausschuss für Klima, Umwelt und Mobilität durch den Rat der Stadt Castrop-Rauxel zum nächstmöglichen Termin.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16439",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AKUM-0%7C400903100092%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AKUM-0",
+        "name": "Antrag der Bündnis 90 / Die Grünen Ratsfraktion vom 02.03.2026 - Einladung des Tierheims Castrop-Rauxel in den AKUM",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7C400903100092%7C1",
+          "date": "2026-04-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7C400903100092%7C1",
+          "fileName": "be_400903100092_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AKUM-0%7C400903100092%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 130237,
+          "text": "I.5 Antrag der Bündnis 90 / Die Grünen Ratsfraktion vom 02.03.2026 - Einladung des Tierheims Castrop-Rauxel in den AKUM (2026/091)   Herr Eismann teilt den Ausschussmitgliedern mit, dass die Fraktion Bündnis 90/ Die Grünen darauf hingewiesen wurde diesen Antrag im B1 zu behandeln.  Der Antragsteller hat den Antrag zurückgezogen.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AKUM-0%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AKUM-0",
+        "name": "Bericht zu den städtischen Baumfäll- und Baumpflanzmaßnahmen",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7Czt_0%7C1",
+          "date": "2026-04-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AKUM-0%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 170196,
+          "text": "6 Bericht zu den städtischen Baumfäll- und Baumpflanzmaßnahmen   Herr Weskamp berichtet ausführlich in Wort und Bild (Powerpoint) und beantwortet die Anfragen der Ausschussmitglieder. \u000bWeitergehende Anfragen bezüglich der Baumpflanzungen und der Durchforstungsmaßnahmen im Stadtgebiet werden dem Protokoll nachgereicht.  Der Ausschuss für Klima, Umwelt und Mobilität nimmt den Sachstandbericht zur Kenntnis.   Nachtrag:  Mit Datum vom 19.01.2026 bzw. 23.01.2026 hat der EUV Stadtbetrieb umfassend zu den im Stadtgebiet zu erfolgenden Rückschnitt- und Grünpflegemaßnahmen informiert. Hintergrund dieser Maßnahmen sind insb. Pflichten i.S. Verkehrssicherung.   Hierunter fallen beispielsweise die Baumfällmaßnahmen im Waldstück Cottenburgstraße.  Die meisten der dort ausgezeichneten Bäume, insb. gegenüberliegend der Schule, sind abgängig, d.h. von der Krone absterbend. Dies ist mitunter am fehlenden Feinreisig in den Spitzen erkennbar. Daneben müssen wenige Bäume aufgrund der räumlichen Verteilung entnommen werden. Beispielweise können Randbäume mit Schäden nur gefällt werden, wenn:  zuvor in zweiter Reihe Bäume entfernt wurden, oder  im Zusammenhang mit Baumgruppen 6 Bäume von 7 geschädigt sind und es absehbar wäre, dass der siebte Baum, durch den potentiell entstehenden Freistand, sodann ebenfalls geschädigt würde (vgl. sog. Sonnenbrand) bzw. im Hinblick auf Stürme die Bestandstabilität nicht mehr vorhanden wäre.   Ein weiterer Grund für die Entnahme von Bäumen ist die Förderung von bereits etablierter Naturverjüngung.  Im näheren Umfeld zum Henrichenburger Sportplatz/ Kanal sind die Umstände vergleichbar. Diese Maßnahme erfolgte im Zuge der sogenannten forstlichen Bewirtschaftung als Durchforstung, verbunden mit Verkehrssicherung, insbesondere in Richtung Friedhof und zur angrenzenden Bebauung. Da Bäume wachsen und die Baumkronen größer werden, bedrängen sich die Bäume gegenseitig. In dem Fall werden dann die vitaleren Bäume  obwohl die angrenzenden Bäume auch gesund sind  begünstigt. Hintergrund ist, dass der Wald auf nachhaltige Weise und gemäß strengen Standards bewirtschaftet werden muss. Dazu gehört auch, dass angemessene Totholzanteile und Habitatbäume im Wald verbleiben, weil sie Lebensraum für eine Vielzahl von Tier- und Pflanzenarten sind. Insbesondere Habitatbäume haben somit hohen ökologischen Wert und gehören zu einer multifunktionalen Forstwirtschaft dazu. Aus diesem Grund werden diese Bäume als Habitatbäume gekennzeichnet, damit sie bei einer solchen Durchforstung geschont werden.   Die Arbeiten im Zufahrtsbereich zum ERIN-Park entlang des Westrings sind in enger Absprache mit der zuständigen Behörde beauftragt. Es handelte sich um eine Pflegemaßnahme, die nicht zuletzt auch der Verkehrssicherung diente. Die Gehölze befanden sich teilweise in keinem guten und verkehrssicheren Zustand, Äste und Zweige waren vielfach gebrochen. Das hatte eine fachliche Begutachtung im Dezember 2025/Januar 2026 ergeben. Der EUV hat daraufhin die Arbeiten beauftragt, um zu verhindern, dass die geschädigten Gehölze auf angrenzende Bereiche oder benachbarte Grundstücke kippen oder ragen. Insbesondere die dort wachsenden Weiden waren nicht verkehrssicher  in der Vergangenheit sind in dem Bereich schon Bäume auf den angrenzenden Gehweg gekippt.  Bei der Maßnahme handelte es sich grds. um sogenannte Knickpflege. Danach sollen Gehölze alle zehn bis 15 Jahre auf den Stock gesetzt, also geknickt werden. Nach dem Schnitt treiben sie wieder aus, wachsen dicht empor und können so ihre Funktionen als Windbremse, Brutplatz für Vögel und Nahrungsquelle für viele Tierarten erfüllen. In den Bereichen, in denen nicht mit Stockausschlägen zu rechnen ist, weil dort überwiegend Brombeeren standen, ist davon auszugehen, dass sich die Natur dort selbst verjüngt. Zusätzlich ist geplant, 200 Maronenbäume zu pflanzen, sofern die finanziellen Mittel zur Verfügung stehen.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/15708",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AKUM-0%7C401703100103%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AKUM-0",
+        "name": "Antrag der AFD Ratsfraktion vom 17.03.2026_Ergänzungsantrag zum Antrag der SPD-Ratsfraktion \"Repowering- Konzept für die bestehenden Windkraftanlagen\" (Vorlage 2026/088)",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7C401703100103%7C1",
+          "date": "2026-04-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7C401703100103%7C1",
+          "fileName": "be_401703100103_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AKUM-0%7C401703100103%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 158185,
+          "text": "I.7 Antrag der AFD Ratsfraktion vom 17.03.2026_Ergänzungsantrag zum Antrag der SPD-Ratsfraktion  Repowering- Konzept für die bestehenden Windkraftanlagen  (Vorlage 2026/088) (2026/102)   Herr Brehm führt an, dass zuerst die Tischvorlage mit dem Ergänzungsantrag der AfD-Fraktion behandelt werden soll und erteilt Herrn Kuhn das Wort zur Erläuterung der Vorlage.  Herr Kuhn erläutert die eingereichte Tischvorlage. Soweit stimmt er der eingereichten Vorlage der SPD zu, möchte aber durch die Vorlage Verbesserungsmaßnahmen durch den Ergänzungsantrag einbringen.  Umliegende Städte, als Beispiel nannte Herr Kuhn die Stadt Waltrop, nutzen Flächen im Stadtgebiet zur Errichtung von Energiespeichern (größter Energiespeicherpark Deutschlands), um den im Überschuss produzierten Strom zu speichern. Nach Ansicht von Herr Kuhn sollten im Stadtgebiet von Castrop-Rauxel auch verfügbare Flächen zur Nutzung für Energiespeicher gefunden werden.  Herr Molloisch bezieht sich auf den Ursprungsantrag der SPD und zitiert, dass durchaus vorgesehen ist, auch diesen Auftrag zu erteilen und verweist auf die in Punkt vier genannten inhaltlichen Anforderungen des Antrages. Nach Ansicht von Herrn Molloisch wird der Ergänzungsantrag der AfD nicht benötigt. Er richtet sich an die Verwaltung und bittet um Ergänzungen.  Frau Lenort fügt hinzu, dass die Stadt Castrop-Rauxel über keine stadteigenen Windräder verfügt. Die Windräder im Stadtgebiet befinden sich in privatem Besitz, im Eigentum der Stadtwerke oder der Gemeinschaftsenergie Castrop-Rauxel. Die Gemeinschaftsenergie Castrop-Rauxel finanziert über verkaufte Genossenschaftsanteile den Bau neuer Windkraftanlagen. PV-Anlagen, Windkraftanlagen etc. werden mit Speichermöglichkeiten errichtet. Negativeinspeisungen sollen mit schon vorhandenen Batteriespeichern verhindert werden. Mit Vorlage 2025/162 hat der Rat der Stadt am 11.12.2025 beschlossen, mit Verweis auf das EEG, finanziell an den Einnahmen der erneuerbaren Energieanlagen beteiligt zu werden. Im Dezember 2025 hat der Rat der Stadt die Verwaltung beauftragt mit den umliegenden Betreibern Verträge abzuschließen. Der Ratsauftrag impliziert unter anderem eine entsprechende Berichterstattung Anfang dieses Jahres und im Nachtragshaushalt werden entsprechende Einnahmeprognosen abgebildet. Der Ergänzungsantrag ist inhaltlich richtig, wird aus Sicht der Verwaltung aber bereits durchgeführt.  Der Ausschuss für Klima, Umwelt und Mobilität hat mehrheitlich mit drei Ja-Stimmen den Ergänzungsantrag der AfD-Fraktion abgelehnt.           \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/15703",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AKUM-0%7C400603100089%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AKUM-0",
+        "name": "Antrag der SPD Ratsfraktion vom 03.02.2026_Repowering-Konzept für die bestehenden Windkraftanlagen im Stadtgebiet Castrop-Rauxel",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7C400603100089%7C1",
+          "date": "2026-04-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7C400603100089%7C1",
+          "fileName": "be_400603100089_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AKUM-0%7C400603100089%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 145571,
+          "text": "8 Antrag der SPD Ratsfraktion vom 03.02.2026_Repowering-Konzept für die bestehenden Windkraftanlagen im Stadtgebiet Castrop-Rauxel (2026/088)    Herr Brehm erteilt Herrn Molloisch für den Antrag der SPD-Fraktion das Wort.  Der Antrag wird erläutert. Im Stadtgebiet von Castrop-Rauxel sind nur begrenzt Flächen vorhanden, die der Windkraft zur Verfügung stehen. Mit Hinblick auf die Energiewende sollten diese Flächen genutzt werden. In Bezug auf Fossile Energie ist eine gewisse Unabhängigkeit unabdingbar. Aufgabe der Stadt Castrop-Rauxel ist es, in Zusammenarbeit mit den Stadtwerken, Windkraft zu nutzen. Dazu müssen mit entsprechenden Partnern und Betreibern Gespräche geführt werden, um die Windräder z.B. auf Schwerin zu ertüchtigen. Das Ziel sollte sein, die Energiewende in Castrop-Rauxel durch Eigenproduktion voranzutreiben.  Der Ausschuss für Klima, Umwelt und Mobilität stimmt einstimmig zu, die Verwaltung zu beauftragen, in Zusammenarbeit mit den Stadtwerken CAS ein umfassendes Repowering Konzept für die bestehenden Windkraftanlagen im Stadtgebiet zu erarbeiten und dem Ausschuss vorzulegen.   Auf Nachfrage von Herrn Molloisch wird Frau Cetin, die zu einem späteren Zeitpunkt am Ausschuss teilnimmt, durch den Ausschussvorsitzenden Herrn Brehm vereidigt.           \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/15993",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AKUM-0%7C400903100094%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AKUM-0",
+        "name": "Antrag der Bündnis 90 / Die Grünen Ratsfraktion vom 02.03.2026 - Prüfung von Standorten für Fahrradampeln",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7C400903100094%7C1",
+          "date": "2026-04-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7C400903100094%7C1",
+          "fileName": "be_400903100094_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AKUM-0%7C400903100094%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 178096,
+          "text": "9 Antrag der Bündnis 90 / Die Grünen Ratsfraktion vom 02.03.2026 - Prüfung von Standorten für Fahrradampeln (2026/093)   Herr Eismann erläutert die Vorlage und führt aus, dass in den Städten Dortmund und Münster bereits Fahrradampeln installiert wurden. Diese könnten möglicherweise das Unfallrisiko für Fahrradfahrer im Straßenverkehr minimieren, da die Fahrradampeln den Fahrradfahrern einen gewissen Vorrang zur Überquerung der Straßenkreuzung gewähren. Den Antragsstellern ist bewusst, dass die Ampeln sich nicht im Eigentum der Stadt Castrop-Rauxel befinden und verweisen daher auf den Punkt 2 ihres Antrags, die Verwaltung zu beauftragen, mit den entsprechenden Eigentümern der Ampelanlagen ins Gespräch zu gehen.  Herr Papp führt an, dass es grundsätzlich ein vernünftiger Antrag ist, allerdings sollte seiner Ansicht nach die Verwaltung nicht noch zusätzlich damit belastet werden, da dies die Aufgabe des Kreises Recklinghausen ist.  Herr Molloisch teilt mit, dass der Antrag sinnvoll ist, stimmt diesen in dieser Form aber nicht zu. Die Stadt Castrop-Rauxel ist lediglich im Besitz von drei Ampeln im Stadtgebiet. Daher sieht er nicht die Verwaltung in der Pflicht, sondern den zuständigen Straßenbaulastträger. Herr Molloisch bittet den Antrag entsprechend seines Formulierungsvorschlages mit dem Wortlaut Die Verwaltung wird beauftragt, bei der Erneuerung von Ampelanlagen im Stadtgebiet den Straßenbaulastträger (Kreis Recklinghausen, Landesbetrieb Straßen NRW) aufzufordern, eine Einrichtung von Fahrradampeln zu prüfen. zu ändern. In Bezug auf den Engelsburgplatz bittet Herr Molloisch die Verwaltung um eine entsprechende Mitteilung zur aktuellen Planung.  Frau Reuter teilt dem Ausschuss mit, dass bei der Umplanung des Altstadtrings der Engelburgplatz mit beplant wurde. In dem Zuge wurden auch die Ampel mit in die Planung integriert, dies auch in Abhängigkeit der Radverkehrsplanung.  Herr Eismann entgegnet, dass aus der Verkehrspolitik bekannt sein sollte, dass es dem Straßenbaulastträger schwerfällt, entsprechende Entscheidungen durchzusetzen. Seiner Meinung nach sollte die Stadt Castrop-Rauxel ein Konzept mit Überlegungen und Ideen dem Straßenbaulastträger vorlegen, wie bei der konzeptionellen Überarbeitung der Kreisverkehre im Stadtgebiet. Vorrangig sollte auch kein großer Prüfauftrag an die Verwaltung gestellt werden. Ein ähnlich gestellter Prüfauftrag wurde vor zwei Jahren zu dem freien Rechtsabbiegen für die Fahrradfahrer gestellt, dieser wurde auch umgesetzt.  Herr Papp unterstützt den Änderungsantrag von Herrn Molloisch um die Verwaltung zu entlasten.  1. Abstimmung Änderungsantrag der SPD Herr Molloisch mit dem Wortlaut: Die Verwaltung wird beauftragt, bei der Erneuerung von Ampelanlagen im Stadtgebiet die Straßenbaulastträger (Kreis Recklinghausen, Landesbetrieb Straßen NRW) aufzufordern, eine Einrichtung von Fahrradampeln zu prüfen.  Der geänderte Beschlussvorschlag wird durch den Ausschuss für Klima, Umwelt und Mobilität mehrstimmig beschlossen.  Anschließend beschließt der Ausschuss für Klima, Umwelt und Mobilität einstimmig, die Verwaltung zu beauftragen, bei der Erneuerung von Ampelanlagen im Stadtgebiet den Straßenbaulastträger (Kreis Recklinghausen, Landesbetrieb Straßen NRW) aufzufordern, eine Einrichtung von Fahrradampeln zu prüfen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/15706",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AKUM-0%7C400202100049%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AKUM-0",
+        "name": "ISEK Stadtmittelpunkt: Sachstandsbericht zu den Maßnahmen der Städtebauförderung und Nationale Projekte des Städtebaus",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7C400202100049%7C1",
+          "date": "2026-04-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7C400202100049%7C1",
+          "fileName": "be_400202100049_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AKUM-0%7C400202100049%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 145485,
+          "text": "I.10 ISEK Stadtmittelpunkt: Sachstandsbericht zu den Maßnahmen der Städtebauförderung und Nationale Projekte des Städtebaus (2026/049)   Frau Reuter erläutert die Vorlage.  Herr Eismann fragt an, ob im Zuge der Ratssaalsanierung die Akustik verbessert werden kann und ob ein Barrierefreier Zugang auf der Empore errichtet werden kann.    Frau Reuter berichtet, dass im Zuge der Planungen das Verbesserungspotenzial in Bezug auf die Akustik geprüft werden soll. Das Thema eines barrierefreien Zugangs der Empore ist im Zuge des Projektes mit u.a. mit dem Fördermittelgeber diskutiert worden. Inwieweit eine denkmalverträgliche Lösung im Zuge der Ratssaalsanierung gefunden werden kann, wird ebenfalls im Planungsprozess betrachtet.   Der Ausschuss für Klima, Umwelt und Mobilität nimmt den Sachverhalt und die Teile A und B und nachträglich die fristgerechte Einreichung des Antrages zum Finanzierungsabschnitt Städtebauförderprogramm 2026 zur Kenntnis.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AKUM-0%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AKUM-0",
+        "name": "Bericht zu den Klimaschutz- und Klimaanpassungsmaßnahmen",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7Czt_1%7C1",
+          "date": "2026-04-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AKUM-0%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 133983,
+          "text": "I.11 Bericht zu den Klimaschutz- und Klimaanpassungsmaßnahmen   Frau Reuter berichtet, dass zeitweise durch den Bund ausgesetzte KfW-Förderprogramm der energetischen Stadtsanierung wieder aufgerufen wurde. In Anknüpfung des Beschlusses aus 2023 zur Beantragung der Verlängerung des Sanierungsmanagements links und rechts der Emscher  CAS Klimahelden hat die Verwaltung erneut einen Förderantrag gestellt und die Mittel im Nachtragshaushalt eingestellt.   Frau Reuter berichtet, dass die kommunale Öffentlichkeitsbeteiligung zum Nahverkehrsplan des Kreises Recklinghausen durch das beauftragte Büro ausgewertet wird. Insgesamt haben ca. 500 Bürger*innen Hinweise gegeben, dies u.a. zu Themen wie Ausweitung von Tagesrandzeiten, Taktung, Pünktlichkeit, Kapazität und Anschlüsse. Die Verwaltung wird die Hinweise an den Kreis spiegeln. Der Kreis Recklinghausen wird in der nächsten Zeit die kommunalen Fachgespräche führen.   Frau Reuter berichtet vom Baubeginn an der Lothringentrasse im Rahmen des ISEK Merklinde. Im Zuge der Ausführungsplanung und in Rückkopplung mit der bauausführenden Firma wurde im Bereich des Jägerweges die Wegebreite auf ca. 3 m reduziert, um einen Baum erhalten zu können und den Eingriff in den Vorgartenbereich weitestgehend zu reduzieren. Zudem wird dadurch eine Stützmauer entfallen, so dass sich dies positiv im Sinne der Kosten auswirkt.   Der Ausschuss für Klima, Umwelt und Mobilität nimmt die Sachstandsberichte zur Kenntnis.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AKUM-0%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AKUM-0",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7C6%7C1",
+          "date": "2026-04-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AKUM-0%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 85180,
+          "text": "I.12 Anfragen der Ausschussmitglieder   Herr Molloisch fragt an, da in den vorherigen Sitzungen des AKU die IGA 2027 bereits thematisiert wurde, ob die Emschergenossenschaft bzw. die IGA-Gesellschaft in einer der nächsten Sitzungen des Ausschusses für Klima, Umwelt und Mobilität eingeladen werden könnte, um einen aktuellen Sachstandsbericht zu geben. Im Zuge dessen könnte ermittelt werden, inwieweit die Stadt noch unterstützend tätig werden könnte.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AKUM-0%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AKUM-0",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "13",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7C4%7C1",
+          "date": "2026-04-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AKUM-0%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AKUM-0%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 13",
+          "size": 61197,
+          "text": "I.13 Mitteilungen der Verwaltung   Keine Mitteilungen      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AKUM-0%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AKUM-0",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AKUM-0%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AKUM-0",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2026-AKUM-0%7C20260420131614-0_ni_2026-AKUM-0_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2026-04-20",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2026-AKUM-0%7C20260420131614-0_ni_2026-AKUM-0_1.pdf",
+        "fileName": "20260420131614-0_ni_2026-AKUM-0_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2026-AKUM-0%7C1",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "2026-04-20 Präsentation Baumfällungen_Baumpflanzungen und Baumkataster",
+        "size": 3431968,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-03-17T18:00:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AKUM-0",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2026-AKUM-0",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-03-09",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2026-AKUM-0",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2026-AKUM-0",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "9ec5115f33f01e26a850591bc4d32637f853339b",
+      "size": 211304,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AKUM-0/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung Ausschuss für Klima, Umwelt und Mobilität",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/AKUM"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/1063",
+      "https://castroprauxel.gremien.info/oparl/person/224",
+      "https://castroprauxel.gremien.info/oparl/person/635",
+      "https://castroprauxel.gremien.info/oparl/person/392",
+      "https://castroprauxel.gremien.info/oparl/person/1367",
+      "https://castroprauxel.gremien.info/oparl/person/1249",
+      "https://castroprauxel.gremien.info/oparl/person/1031",
+      "https://castroprauxel.gremien.info/oparl/person/963",
+      "https://castroprauxel.gremien.info/oparl/person/1043",
+      "https://castroprauxel.gremien.info/oparl/person/1351",
+      "https://castroprauxel.gremien.info/oparl/person/240",
+      "https://castroprauxel.gremien.info/oparl/person/712",
+      "https://castroprauxel.gremien.info/oparl/person/1308",
+      "https://castroprauxel.gremien.info/oparl/person/1374",
+      "https://castroprauxel.gremien.info/oparl/person/1319",
+      "https://castroprauxel.gremien.info/oparl/person/977",
+      "https://castroprauxel.gremien.info/oparl/person/1364",
+      "https://castroprauxel.gremien.info/oparl/person/1321",
+      "https://castroprauxel.gremien.info/oparl/person/1011",
+      "https://castroprauxel.gremien.info/oparl/person/1025",
+      "https://castroprauxel.gremien.info/oparl/person/1370",
+      "https://castroprauxel.gremien.info/oparl/person/1274"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-AKUM-0",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-04-20",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-AKUM-0",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-AKUM-0",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 374668,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2026-03-17T17:02:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-AKUM-0",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-04-20",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-AKUM-0",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-AKUM-0",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 374668,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

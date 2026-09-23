@@ -1,0 +1,56 @@
+{
+  "council_id": "koeln",
+  "record_type": "paper",
+  "source_id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134786",
+  "modified_at": "2026-09-21T12:24:05+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01112496.pdf",
+        "created": "2026-09-21T12:20:08+02:00",
+        "date": "2026-09-21",
+        "downloadUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/01112496.pdf",
+        "fileName": "01112496.pdf",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/files/1112496",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-21T12:23:05+02:00",
+        "name": "Anfrage (AfD BV8)",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln",
+    "consultation": [
+      {
+        "agendaItem": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/450598",
+        "created": "2026-09-21T12:23:24+02:00",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/206743",
+        "meeting": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34115",
+        "modified": "2026-09-23T09:29:20+02:00",
+        "organization": [
+          "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27"
+        ],
+        "paper": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134786",
+        "role": "Antrag / Anfrage",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-21T10:43:47+02:00",
+    "date": "2026-09-21",
+    "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134786",
+    "location": [
+      {
+        "created": "2021-10-20T14:42:56+02:00",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/locations/tx/1648",
+        "modified": "2024-02-19T15:29:05+01:00",
+        "subLocality": "Kalk",
+        "type": "https://schema.oparl.org/1.1/Location"
+      }
+    ],
+    "modified": "2026-09-21T12:24:05+02:00",
+    "name": "Baumaßnahme Johann-Meyer-Straße",
+    "paperType": "Anfrage nach § 4 BV8 (AfD)",
+    "reference": "AN/1508/2026",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

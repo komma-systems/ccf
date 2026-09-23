@@ -1,0 +1,264 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-JHA-99",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-JHA-99%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-JHA-99",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-JHA-99%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-JHA-99",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-JHA-99%7C11%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-JHA-99",
+        "name": "Mündlicher Bericht aus dem Kinder- und Jugendparlament",
+        "number": "3",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-JHA-99%7C39%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-JHA-99",
+        "name": "Mündlicher Bericht aus der AG 1,  AG 2 und AG 3",
+        "number": "4",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-JHA-99%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-JHA-99",
+        "name": "Vorstellung der neuen Stelle 'Netzwerkkoordination Kinderschutz' - mündlicher Bericht",
+        "number": "6",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11032",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-JHA-99%7C353001100023%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-JHA-99",
+        "name": "Sachstandsbericht zur Kindertagespflege in Castrop-Rauxel",
+        "number": "7",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-JHA-99%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-JHA-99",
+        "name": "Spiel-Sport- und Erholungspark am Hallenbad - mündlicher Sachstandsbericht",
+        "number": "8",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/15490",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-JHA-99%7C352301100015%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-JHA-99",
+        "name": "Antrag der FWI-Fraktion vom 19.01.2024_Prüfauftrag zur Aufstellung einer autarken Toilettenanlage",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-JHA-99%7C352301100015%7C1",
+          "date": "2024-02-14",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-JHA-99%7C352301100015%7C1",
+          "fileName": "be_352301100015_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-JHA-99%7C352301100015%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 410375,
+          "text": "  9 Antrag der FWI-Fraktion vom 19.01.2024_Prüfauftrag zur Aufstellung einer autarken Toilettenanlage (2024/015)    Frau Niewels erläutert den Antrag der FWI-Fraktion vom 19.01.2024.  Der Jugendhilfeausschuss beauftragt einstimmig die Verwaltung, die Aufstellung einer barrierefreien, autarken Toilettenanlage am Spiel-Sport und Erholungspark am Hallenbad zu prüfen.   Abstimmungsergebnis:   Ja-Stimmen: 11  Nein-Stimmen: -  Enthaltungen: -       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11027",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-JHA-99%7C352201100014%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-JHA-99",
+        "name": "Änderung der Richtlinien des Jugendamtes der Stadt Castrop-Rauxel",
+        "number": "10",
+        "public": true,
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-JHA-99%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-JHA-99",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "11",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-JHA-99%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-JHA-99",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "12",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-JHA-99%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-JHA-99",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "13",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-JHA-99%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-JHA-99",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "14",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2024-JHA-99%7C20240226121616-0_ni_2024-JHA-99_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2024-02-26",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2024-JHA-99%7C20240226121616-0_ni_2024-JHA-99_1.pdf",
+        "fileName": "20240226121616-0_ni_2024-JHA-99_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2024-JHA-99%7C1",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "AG3 und JHA Netzwerkkoordination Kinderschutz",
+        "size": 864433,
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2024-JHA-99%7C20240226121616-1_ni_2024-JHA-99_2.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2024-02-26",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2024-JHA-99%7C20240226121616-1_ni_2024-JHA-99_2.pdf",
+        "fileName": "20240226121616-1_ni_2024-JHA-99_2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2024-JHA-99%7C2",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Kindertagespflege 2024",
+        "size": 2132785,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2024-02-08T18:47:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-JHA-99",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-JHA-99",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-01-25",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2024-JHA-99",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2024-JHA-99",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "67b4d7b75ddc616469ab732cabe8fcff0d7f0801",
+      "size": 427536,
+      "text": "Tagesordnung zur Sitzung des Jugendhilfeausschusses am Donnerstag, 08.02.2024 um 17:00 Uhr im Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel,   I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner  2. Einwände gegen die letzte Niederschrift  3. Mündlicher Bericht aus dem Kinder- und Jugendparlament  4. Mündlicher Bericht aus der AG 1,  AG 2 und AG 3  5. Vorstellung der neuen Stelle  Netzwerkkoordination Kinderschutz  - mündlicher Bericht  6. Sachstandsbericht zur Kindertagespflege in Castrop-Rauxel  7. Spiel-Sport- und Erholungspark am Hallenbad - mündlicher Sachstandsbericht  8. Antrag der FWI-Fraktion vom 19.01.2024_Prüfauftrag zur Aufstellung einer autarken Toilettenanlage  9. Änderung der Richtlinien des Jugendamtes der Stadt Castrop-Rauxel  10. Anfragen der Ausschussmitglieder  11. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  1. Anfragen der Ausschussmitglieder  2. Mitteilungen der Verwaltung    Sebastian  J o h n  Ausschussvorsitzender \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-JHA-99/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Jugendhilfeausschusses",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/JHA"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/138",
+      "https://castroprauxel.gremien.info/oparl/person/73",
+      "https://castroprauxel.gremien.info/oparl/person/1053",
+      "https://castroprauxel.gremien.info/oparl/person/667",
+      "https://castroprauxel.gremien.info/oparl/person/858",
+      "https://castroprauxel.gremien.info/oparl/person/873",
+      "https://castroprauxel.gremien.info/oparl/person/1198",
+      "https://castroprauxel.gremien.info/oparl/person/752",
+      "https://castroprauxel.gremien.info/oparl/person/1187",
+      "https://castroprauxel.gremien.info/oparl/person/1097",
+      "https://castroprauxel.gremien.info/oparl/person/851",
+      "https://castroprauxel.gremien.info/oparl/person/1099",
+      "https://castroprauxel.gremien.info/oparl/person/924",
+      "https://castroprauxel.gremien.info/oparl/person/854",
+      "https://castroprauxel.gremien.info/oparl/person/906",
+      "https://castroprauxel.gremien.info/oparl/person/529",
+      "https://castroprauxel.gremien.info/oparl/person/1227",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/1036",
+      "https://castroprauxel.gremien.info/oparl/person/951",
+      "https://castroprauxel.gremien.info/oparl/person/572"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-JHA-99",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-03-04",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-JHA-99",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-JHA-99",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 493584,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2024-02-08T17:00:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-JHA-99",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-03-04",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-JHA-99",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-JHA-99",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 493584,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

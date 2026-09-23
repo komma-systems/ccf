@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/160807100022",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7C160807100022%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6017",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2014-EUV-4",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2014-07-08",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/160807100022",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=160807100022&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=160807100022&id=69",
+      "fileName": "160807100022",
+      "id": "https://castroprauxel.gremien.info/oparl/file/160807100022",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2014/EUV/021",
+      "size": 150532,
+      "text": "Datum: 08.07.2014 TB I 9686-500 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 17.09.2014 TOP: I.2 Drucksache-Nr. 2014/EUV/021 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 17.09.2014 2 Betreff: Bestellung der Schriftführung sowie deren Vertretung Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € x nein Förderung € Beschlussvorschlag: Der Verwaltungsrat des EUV beschließt, Herrn Gert Krause-Joseph zum Schriftführer und Herrn Wolfgang Linke zum stellvertretenden Schriftführer zu ernennen. ________________________ Werner Sachverhalt: Gemäß § 6 Abs.7 der Satzung für das Kommunalunternehmen der Stadt Castrop-Rauxel „EUV, Stadtbetrieb Castrop-Rauxel“ – AöR – vom 05.12.2012 ist über die gefassten Beschlüsse des Verwaltungsrates eine Niederschrift zu fertigen. Die Niederschrift ist vom Vorsitzenden des Verwaltungsrates zu unterzeichnen und dem Verwaltungsrat in der nächsten Sitzung zur Genehmigung vorzulegen. Auf Vorschlag des Vorstandes wird eine Schriftführung nebst Stellvertretung bestellt. Herr Gert Krause-Joseph nimmt seit 2013 die Schriftführung im Verwaltungsrat für den EUV Stadtbetrieb wahr. Bis dahin hat Herr Wolfgang Linke diese Aufgabe über Jahre ausgeführt. Es empfiehlt sich daher, die beiden genannten Mitarbeiter des EUV Stadtbetriebes als Schriftführer zu benennen.Bestellung der Schriftführung sowie deren Vertretung2014/EUV/021%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Bestellung der Schriftführung sowie deren Vertretung",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2014/EUV/021",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

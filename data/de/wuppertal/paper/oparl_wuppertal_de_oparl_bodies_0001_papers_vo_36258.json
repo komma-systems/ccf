@@ -1,0 +1,54 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36258",
+  "modified_at": "2026-09-01T09:42:28+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369153.pdf",
+        "created": "2026-09-01T09:38:57+02:00",
+        "date": "2026-09-01",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369153.pdf",
+        "fileName": "00369153.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369153",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-01T09:42:28+02:00",
+        "name": "Antrag Fraktion B90/Grüne",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141570",
+        "authoritative": true,
+        "created": "2026-09-01T09:42:05+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68659",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24591",
+        "modified": "2026-09-10T08:47:59+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36258",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-01T09:35:40+02:00",
+    "date": "2026-09-01",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36258",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-01T09:42:28+02:00",
+    "name": "Absenkung des Bürgersteigs an der Ecke Markgrafenstraße / Unterer Grifflenberg - Antrag der Fraktion Bündnis90/ Die Grünen",
+    "paperType": "Antrag B90/Grüne BV",
+    "reference": "VO/1056/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

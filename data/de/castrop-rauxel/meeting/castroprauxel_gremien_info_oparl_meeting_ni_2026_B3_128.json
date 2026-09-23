@@ -1,0 +1,314 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B3-128",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B3-128%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B3-128",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B3-128%7C1%7C1",
+          "date": "2026-07-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B3-128%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B3-128%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 149471,
+          "text": "  I.1 Fragestunde für Einwohnerinnen und Einwohner   Keine Einwohner.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B3-128%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B3-128",
+        "name": "Neuer Betriebshof DSW21",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B3-128%7Czt_0%7C1",
+          "date": "2026-07-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B3-128%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B3-128%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 172457,
+          "text": "  I.2 Neuer Betriebshof DSW21   Herr Fritsch, Projektleiter der DSW21 gibt einen aktuellen Sachstand über den bestehenden Betriebshof und erläutert ausführlich die Planung des Neubaus auf dem Gewerbegebiet Graf Schwerin. Die Ausschussmitglieder können im Anschluss Fragen zu dem Bauvorhaben stellen. Die Präsentation wird der Niederschrift beigefügt.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B3-128%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B3-128",
+        "name": "Sicherheit in Freibädern",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B3-128%7Czt_1%7C1",
+          "date": "2026-07-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B3-128%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B3-128%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 166889,
+          "text": "  I.3 Sicherheit in Freibädern   Herr Freund, Leiter Bäderbetrieb der Bädergesellschaft Düsseldorf mbh hält einen Vortrag über die Sicherheit in Freibädern. Er berichtet ausführlich über ein Sicherheitskonzept, Kapazitätsgrenzen, Einlassmanagement, den Einsatz von Ordnungs- und Sicherheitsdiensten, die Zusammenarbeit mit Behörden und anderen Partnern, Ernennung eines Managers of Duty sowie Alternativangebote für die Badegäste. Im Anschluss an den Bericht beantwortet Herr Freund die Fragen der Ausschussmitglieder. Die Präsentation wird der Niederschrift beigefügt.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17287",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B3-128%7C402503100108%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B3-128",
+        "name": "Grundstücksgeschäfte der ECAS GmbH - Entwicklung der Fläche \"Holzstraße\"",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B3-128%7C402503100108%7C1",
+          "date": "2026-07-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B3-128%7C402503100108%7C1",
+          "fileName": "be_402503100108_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B3-128%7C402503100108%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 242032,
+          "text": "  I.4 Grundstücksgeschäfte der ECAS GmbH - Entwicklung der Fläche  Holzstraße  (2026/106)    Der Betriebsausschuss 3 empfiehlt dem Rat der Stadt Castrop-Rauxel:   Der Rat der Stadt Castrop-Rauxel beschließt, dass die kommunalen Grundstücke in der Holzstraße (Gemarkung Castrop, Flur 9, Flurstücke 94, 581, 590, 591, 598 tlw., 600 tlw. Und 816 tlw.) vorbehaltlich des Gesellschafterbeschlusses der ECAS GmbH im Wege der Erhöhung des städtischen Gesellschafteranteiles in die Gesellschaft eingebracht werden. Dies geschieht im Rahmen eines Grundstücksübertragungsvertrages.  Der Rat der Stadt Castrop-Rauxel beschließt angesichts der unter Ziffer 1 beschriebenen Erhöhung des städtischen Gesellschaftsanteils die Anpassung des Gesellschaftsvertrags im Abschnitt II Stammkapital, Stammeinlage. Die Höhe des Stammkapitals sowie die Höhen der Stammeinlagen der Stadt Castrop-Rauxel und der Sparkasse Vest Recklinghausen richten sich nach dem zum Zeitpunkt der Umsetzung maßgeblichen Verkehrswert des einzubringenden Grundstücks.  Der Rat der Stadt Castrop-Rauxel beauftragt und bevollmächtigt den Vertreter der Stadt Castrop-Rauxel in der Gesellschafterversammlung der ECAS GmbH (Herrn Fabian Abitz oder seinen Vertreter Herrn Malte Fercke) gemäß § 113 Abs. 1 GO NRW einer entsprechenden Beschlussfassung zur Änderung des Gesellschaftsvertrages in Verbindung mit einer Einbringung des Grundstücks in die Gesellschaft zuzustimmen.  Der Rat der Stadt Castrop-Rauxel beschließt, dass die ECAS GmbH die Grundstücke in der Holzstraße im Rahmen einer Konzeptvergabe und gemäß des dargestellten Ablaufs zu wohnbaulichen Zwecken vermarkten soll.  Der Rat der Stadt Castrop-Rauxel beschließt, dass die Auswertung der im Rahmen der Konzeptvergabe eingegangenen Angebote anhand der als Anlage 3 beigefügten Bewertungsmatrix erfolgen soll.  Die vorstehenden Beschlussfassungen zu Nr. 1 bis 5 erfolgen vorbehaltlich des positiven Abschlusses des nach § 115 GO NRW erforderlichen Anzeigeverfahrens beim Landrat des Kreises Recklinghausen in dessen Funktion als staatliche Kommunalaufsichtsbehörde.    Die Beschlussfassung erfolgt einstimmig.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17085",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B3-128%7C400704100110%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B3-128",
+        "name": "Vorstellung des Konzepts zur Erreichung der Klimaneutralität kommunaler Liegenschaften der Stadt Castrop-Rauxel deutlich vor 2040",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B3-128%7C400704100110%7C1",
+          "date": "2026-07-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B3-128%7C400704100110%7C1",
+          "fileName": "be_400704100110_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B3-128%7C400704100110%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 189032,
+          "text": "  I.5 Vorstellung des Konzepts zur Erreichung der Klimaneutralität kommunaler Liegenschaften der Stadt Castrop-Rauxel deutlich vor 2040 (2026/107)    Der Rat der Stadt Castrop-Rauxel beauftragt die Verwaltung, bei zukünftigen Sanierungsmaßnahmen der kommunalen Gebäude jeweils das priorisierte Maßnahmenportfolio aus dem energetischen Sanierungskonzept für die kommunalen Liegenschaften heranzuziehen und in Abwägung des Kosten-Nutzen Verhältnisses mit in die reguläre Sanierungsplanung zu integrieren.    Der Betriebsausschuss 3 schiebt die Vorlage in die nächste Ratssitzung.          \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B3-128%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B3-128",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B3-128%7C6%7C1",
+          "date": "2026-07-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B3-128%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B3-128%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 151417,
+          "text": "  I.6 Anfragen der Ausschussmitglieder   Keine Anfragen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B3-128%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B3-128",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B3-128%7C4%7C1",
+          "date": "2026-07-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B3-128%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B3-128%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 146347,
+          "text": "  I.7 Mitteilungen der Verwaltung   Keine Mitteilungen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17459",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B3-128%7C402906100191%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B3-128",
+        "name": "Neubau einer Feuer- und Rettungswache an der Habinghorster Straße (B235) / Klöcknerstraße",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B3-128%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B3-128",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B3-128%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B3-128",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2026-B3-128%7C20260720105548-0_ni_2026-B3-128_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2026-07-20",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2026-B3-128%7C20260720105548-0_ni_2026-B3-128_1.pdf",
+        "fileName": "20260720105548-0_ni_2026-B3-128_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2026-B3-128%7C1",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "2026_07_09  DSW21 Castrop Betriebsausschuss TOP 2 (2)",
+        "size": 4630945,
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2026-B3-128%7C20260720105616-0_ni_2026-B3-128_2.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2026-07-20",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2026-B3-128%7C20260720105616-0_ni_2026-B3-128_2.pdf",
+        "fileName": "20260720105616-0_ni_2026-B3-128_2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2026-B3-128%7C2",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "2026_Sicherheit für Badegäste_Castrop-Rauxel",
+        "size": 366394,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-07-09T17:55:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B3-128",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2026-B3-128",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-06-30",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2026-B3-128",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2026-B3-128",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "861b3cd1e8c210e7e20c2d39307135221431ca0e",
+      "size": 204163,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Forum Gastronomie, Europaplatz 6, 44575, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B3-128/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Forum Gastronomie, Europaplatz 6, 44575",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Betriebsausschusses 3 (Planen, Bauen und Wohnen)",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/205",
+      "https://castroprauxel.gremien.info/oparl/person/1031",
+      "https://castroprauxel.gremien.info/oparl/person/748",
+      "https://castroprauxel.gremien.info/oparl/person/1029",
+      "https://castroprauxel.gremien.info/oparl/person/73",
+      "https://castroprauxel.gremien.info/oparl/person/642",
+      "https://castroprauxel.gremien.info/oparl/person/596",
+      "https://castroprauxel.gremien.info/oparl/person/1349",
+      "https://castroprauxel.gremien.info/oparl/person/240",
+      "https://castroprauxel.gremien.info/oparl/person/1007",
+      "https://castroprauxel.gremien.info/oparl/person/1373",
+      "https://castroprauxel.gremien.info/oparl/person/1199",
+      "https://castroprauxel.gremien.info/oparl/person/1311",
+      "https://castroprauxel.gremien.info/oparl/person/1313",
+      "https://castroprauxel.gremien.info/oparl/person/1335",
+      "https://castroprauxel.gremien.info/oparl/person/1069",
+      "https://castroprauxel.gremien.info/oparl/person/1336",
+      "https://castroprauxel.gremien.info/oparl/person/814",
+      "https://castroprauxel.gremien.info/oparl/person/1048",
+      "https://castroprauxel.gremien.info/oparl/person/560",
+      "https://castroprauxel.gremien.info/oparl/person/1283",
+      "https://castroprauxel.gremien.info/oparl/person/1011",
+      "https://castroprauxel.gremien.info/oparl/person/1241",
+      "https://castroprauxel.gremien.info/oparl/person/1284",
+      "https://castroprauxel.gremien.info/oparl/person/1025",
+      "https://castroprauxel.gremien.info/oparl/person/1158",
+      "https://castroprauxel.gremien.info/oparl/person/1274",
+      "https://castroprauxel.gremien.info/oparl/person/965"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-B3-128",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-07-22",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-B3-128",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-B3-128",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 289156,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2026-07-09T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-B3-128",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-07-22",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-B3-128",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-B3-128",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 289156,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

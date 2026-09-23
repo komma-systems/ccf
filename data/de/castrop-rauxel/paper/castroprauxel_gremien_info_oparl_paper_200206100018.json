@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/200206100018",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=200206100018%7C20160602135919.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=200206100018%7C20160602135919.pdf%7C",
+        "fileName": "20160602135919.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C200206100018%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/200206100018",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "38dbee2bd3d087716ea0f96db2cab41f2606477b",
+        "size": 103650,
+        "text": "Anlage zum Zwischenbericht 2_2016 zu VR Sitzung 15.06.2016",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-13%7C200206100018%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7050",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2016-EUV-13",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2016-06-02",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/200206100018",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=200206100018&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=200206100018&id=69",
+      "fileName": "200206100018",
+      "id": "https://castroprauxel.gremien.info/oparl/file/200206100018",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2016/EUV/019",
+      "size": 159043,
+      "text": "Datum: 02.06.2016 TB I 9686-590 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 15.06.2016 TOP: I.2 Drucksache-Nr. 2016/EUV/019 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 15.06.2016 2 Betreff: Zwischenbericht 2 / 2016 Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt den Zwischenbericht 2 / 2016 zur Kenntnis. ________________________ Werner Sachverhalt: Der Vorstand des EUV Stadtbetrieb Castrop-Rauxel – AöR – hat gem. § 8 Abs. 5 der Satzung der Stadt Castrop-Rauxel den Verwaltungsrat mindestens halbjährlich über die Entwicklung des Vermögens- und Erfolgsplanes des EUV Stadtbetrieb Castrop-Rauxel schriftlich zu unterrichten. Es wird regelmäßig vierteljährlich berichtet, zuletzt in der Sitzung des Verwaltungsrates am 02.03.2016. Dieser Zwischenbericht 2 / 2016 berücksichtigt nunmehr alle Buchungsvorgänge und -belege, die bis einschließlich zum Stichtag 30.04.2016 durch die Buchhaltung erfasst worden sind. Die wirtschaftliche Entwicklung des EUV stellt sich für das Jahr 2016 wie folgt dar:  Das Ergebnis des Gesamtbetriebes EUV wird in diesem Zwischenbericht mit 687 Tsd. Euro und somit um voraussichtlich 156 Tsd. Euro höher als geplant ausgewiesen. Das Ergebnis kann sich dahingehend verändern, dass Personal- und Instandhaltungsrückstellungen sowie Gebührenrückstellungen noch zu berücksichtigen sind. Die gebührenfinanzierten Teilbetriebe stellen sich wie folgt dar: Teilbetrieb III – Abfallentsorgung Der Teilbetrieb III weist in der Hochrechnung ein Ergebnis von zurzeit - 90 Tsd. Euro aus, der Planwert liegt bei - 64 Tsd. Euro. Die Begründung liegt hauptsächlich in den Mehraufwendungen für Verwaltungsaufgaben, in die auch Anwaltskosten für Rechtsstreitigkeiten einfließen. Alle anderen Aufwendungen und Erträge liegen im Plan. Teilbetrieb IV – Duales System Der Teilbetrieb IV weist eine negative Prognose über - 102 Tsd. Euro aus (Plan - 84 Tsd. Euro). Für das I. Quartal liegen die Entgelte für Altpapier und PPK-Verpackungen (DSD) deutlich unter Plan und können durch die eingesparten Aufwendungen für die Verwertung nicht aufgefangen werden. Auch sind mit den Systembetreibern noch nicht alle PPK-Verträge für 2016 gezeichnet. Teilbetrieb V – Stadtentwässerung Der Teilbetrieb V wird nach dem jetzigen Stand mit einem Ergebnis i. H. v. 936 Tsd. Euro abschließen (Plan 745 Tsd. Euro). Die Ursache liegt hier in der Umsatzerhöhung für Kanalbenutzungsgebühren aus Vorjahren. Ferner sind die Auftragsvergaben für die Kanalunterhaltung und Kanalzustandserfassung so früh im Jahr 2016 noch nicht komplett abgeschlossen. Teilbetrieb VI – Straßenreinigung/Winterdienst Das Ergebnis im Teilbetrieb Straßenreinigung/Winterdienst wird sich voraussichtlich verbessern auf 36 Tsd. Euro (Plan - 9 Tsd. Euro). Die Begründung liegt in den Einsparungen diverser Aufwendungsposten, z. B. für Fahrzeuge und Streusalz. Teilbetrieb VIII – Energie: Für den Teilbetrieb VIII wird für das Jahr 2016 ein negatives Ergebnis von - 66 Tsd. Euro prognostiziert (Plan - 53 Tsd. Euro). Maßnahmen zur Verbesserung des Ergebnisses und damit die Gewährleistung einer mittelfristigen Stabilität des Bereichs Energie sind durch den Vorstand eingeleitet worden, die Ergebnisse können aber erst im laufenden Wirtschaftsjahr greifen. Teilbetrieb XI -Wochenmärkte: Das Ergebnis des Teilbetriebes XI liegt mit - 9 Tsd. Euro unter dem angesetzten Planwert für 2016 (1 Tsd. Euro). Die Begründung liegt in den reduzierten Umsatzerlösen für Wochenmärkte: Zum einen aufgrund des Umbaus Marktplatz („fliegende Händler“ fehlen) und aufgrund des stärkeren Regenwetters. Andere Teilbetriebe entwickeln sich im Rahmen des Wirtschaftsplanes. Weiterer Bericht in der Sitzung.Zwischenbericht 2 / 20162016/EUV/019%anl%;Anlage zum Zwischenbericht 2_2016 zu VR Sitzung 15.06.2016 ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Zwischenbericht 2 / 2016",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2016/EUV/019",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

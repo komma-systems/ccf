@@ -1,0 +1,19 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "meeting",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25310",
+  "modified_at": "2026-05-06T12:15:19+02:00",
+  "deleted_at": null,
+  "data": {
+    "created": "2026-05-06T12:15:19+02:00",
+    "end": "2030-01-22T00:00:00+01:00",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25310",
+    "modified": "2026-05-06T12:15:19+02:00",
+    "name": "öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Barmen",
+    "organization": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/44"
+    ],
+    "start": "2030-01-22T18:00:00+01:00",
+    "type": "https://schema.oparl.org/1.1/Meeting"
+  }
+}

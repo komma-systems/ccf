@@ -1,0 +1,92 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36140",
+  "modified_at": "2026-09-10T10:09:38+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368488.pdf",
+        "created": "2026-08-13T11:50:18+02:00",
+        "date": "2026-08-31",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368488.pdf",
+        "fileName": "00368488.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368488",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-09T11:42:21+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141408",
+        "created": "2026-08-25T08:02:31+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68446",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24642",
+        "modified": "2026-09-23T19:35:31+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/275"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36140",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141424",
+        "created": "2026-08-25T10:54:11+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68445",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24698",
+        "modified": "2026-09-22T17:39:23+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/270"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36140",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141721",
+        "created": "2026-09-09T10:44:30+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68447",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24654",
+        "modified": "2026-09-21T12:13:02+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36140",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141842",
+        "created": "2026-09-16T08:46:02+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68448",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24543",
+        "modified": "2026-09-23T10:41:34+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36140",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-12T14:24:46+02:00",
+    "date": "2026-08-25",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36140",
+    "keyword": [
+      "Klimacheck - JA positive Auswirkung"
+    ],
+    "modified": "2026-09-10T10:09:38+02:00",
+    "name": "Überplanmäßige Mittelbereitstellung zur Deckung der Bedarfe der Feuerwehr – Verpflichtungsermächtigungen 2028",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/0945/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/23"
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-HFA-121",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-HFA-121%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-HFA-121",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-HFA-121%7C1%7C1",
+          "date": "2023-09-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-HFA-121%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-HFA-121%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 369336,
+          "text": "1 Fragestunde für Einwohnerinnen und Einwohner   Keine Fragen.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2023-HFA-121%7C330708100217%7C1%7C20230922093138-0_330708100217_1.pdf",
+            "date": "2023-09-22",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2023-HFA-121%7C330708100217%7C1%7C20230922093138-0_330708100217_1.pdf",
+            "fileName": "20230922093138-0_330708100217_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2023-HFA-121%7C330708100217%7C1%7C20230922093138-0_330708100217_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Ausblick auf die Haushaltswirtschaft 2024 - HFA-Sitzung 21.09.2023 finale Fassung",
+            "size": 847225,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10826",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-HFA-121%7C330708100217%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-HFA-121",
+        "name": "Ausblick der Verwaltung auf die Haushaltswirtschaft der Stadt Castrop-Rauxel ab dem Haushaltsjahr 2024",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-HFA-121%7C330708100217%7C1",
+          "date": "2023-09-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-HFA-121%7C330708100217%7C1",
+          "fileName": "be_330708100217_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-HFA-121%7C330708100217%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 414482,
+          "text": "2 Ausblick der Verwaltung auf die Haushaltswirtschaft der Stadt Castrop-Rauxel ab dem Haushaltsjahr 2024 (2023/209)   Die TOPs I.2 und I.3 werden zusammen beraten.  Beigeordneter und Kämmerer Herr Eckhardt führt in die Vorlage ein. Anschließend erläutert Bereichsleiter Finanzen Herr Brenk die Vorlage mit Hilfe einer Präsentation. (siehe Anlage)  Der Haupt- und Finanzausschuss nimmt die Sachverhaltsdarstellung mit ihren Anlagen und die näheren Erläuterungen der Verwaltung in seiner Sitzung am 21.09.2023 zur Kenntnis.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10843",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-HFA-121%7C333008100223%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-HFA-121",
+        "name": "Entwurf der Haushaltssatzung und des Haushaltsplans 2024 sowie Entwurf des Haushaltssicherungskonzepts 2024 einschließlich der jeweiligen Anlagen",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-HFA-121%7C333008100223%7C1",
+          "date": "2023-09-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-HFA-121%7C333008100223%7C1",
+          "fileName": "be_333008100223_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-HFA-121%7C333008100223%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 383927,
+          "text": "  3 Entwurf der Haushaltssatzung und des Haushaltsplans 2024 sowie Entwurf des Haushaltssicherungskonzepts 2024 einschließlich der jeweiligen Anlagen (2023/214)   Siehe TOP I.2.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10796",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-HFA-121%7C332108100219%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-HFA-121",
+        "name": "Umsetzung der Förderprogramme aus den Kommunalinvestitionsförderungsgesetzen des Bundes und des Landes Nordrhein-Westfalen sowie aus dem Programm 'Gute Schule 2020' des Landes",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-HFA-121%7C332108100219%7C1",
+          "date": "2023-09-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-HFA-121%7C332108100219%7C1",
+          "fileName": "be_332108100219_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-HFA-121%7C332108100219%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 400106,
+          "text": "4 Umsetzung der Förderprogramme aus den Kommunalinvestitionsförderungsgesetzen des Bundes und des Landes Nordrhein-Westfalen sowie aus dem Programm  Gute Schule 2020  des Landes (2023/211)   Der Haupt- und Finanzausschuss nimmt den TOP zur Kenntnis und schiebt die Beschlussfassung in den Rat, ergänzt um eine Stellungnahme.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10840",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-HFA-121%7C333008100222%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-HFA-121",
+        "name": "Beitritt der Stadt Castrop-Rauxel zur 'Allmende Emscher-Lippe eG'",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-HFA-121%7C333008100222%7C1",
+          "date": "2023-09-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-HFA-121%7C333008100222%7C1",
+          "fileName": "be_333008100222_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-HFA-121%7C333008100222%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 381821,
+          "text": "5 Beitritt der Stadt Castrop-Rauxel zur  Allmende Emscher-Lippe eG  (2023/215)   Siehe TOP I.5.1   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10845",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-HFA-121%7C330109100226%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-HFA-121",
+        "name": "Sanierung der Stadt- und Europahalle: \r\nInteressensbekundung für das Bundesprogramm 'Sanierung kommunaler Einrichtungen in den \r\nBereichen Sport, Jugend und Kultur'",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-HFA-121%7C330109100226%7C1",
+          "date": "2023-09-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-HFA-121%7C330109100226%7C1",
+          "fileName": "be_330109100226_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-HFA-121%7C330109100226%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 418701,
+          "text": "6 Sanierung der Stadt- und Europahalle:  Interessensbekundung für das Bundesprogramm  Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur  (2023/216)   Der Haupt-und Finanzausschuss empfiehlt dem Rat der Stadt einstimmig, wie folgt zu beschließen:  Die Verwaltung wird beauftragt, im Rahmen des Bundesprogramms Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur (Projektaufruf 2023; Anlage 1) eine Interessenbekundung für die notwendige Sanierung des Hallenkomplexes am Forum Stadtmittelpunkt beim Fördermittelgeber (Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen - BMWSB, dieses vertreten durch das Bundesinstitut für Bau-, Stadt- und Raumforschung - BBSR) bzw. nach dessen Vorgaben einzureichen.  Die Verwaltung wird darüber hinaus beauftragt, die erforderlichen Mittelveranschlagungen im Rahmen der fortlaufenden Haushaltsplanung 2024 ff. (Veränderungsdienst zum Haushaltsplan-Entwurf 2024) zu berücksichtigen.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-HFA-121%7C2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-HFA-121",
+        "name": "Anfragen der Ratsmitglieder",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-HFA-121%7C2%7C1",
+          "date": "2023-09-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-HFA-121%7C2%7C1",
+          "fileName": "be_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-HFA-121%7C2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 369600,
+          "text": "7 Anfragen der Ratsmitglieder   Keine Anfragen.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-HFA-121%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-HFA-121",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-HFA-121%7C4%7C1",
+          "date": "2023-09-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-HFA-121%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-HFA-121%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 366927,
+          "text": "8 Mitteilungen der Verwaltung   Keine Mitteilungen.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10842",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-HFA-121%7C333008100224%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-HFA-121",
+        "name": "Finanzbuchhaltung der Stadt Castrop-Rauxel;\r\nhier: Bericht der Verwaltung zur Zahlungsabwicklung durch die Stadtkasse",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-HFA-121%7C3%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-HFA-121",
+        "name": "Anfragen der Ratsmitglieder",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-HFA-121%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-HFA-121",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2023-HFA-121%7C20230919161954-0_2023-HFA-121_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2023-09-19",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2023-HFA-121%7C20230919161954-0_2023-HFA-121_1.pdf",
+        "fileName": "20230919161954-0_2023-HFA-121_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2023-HFA-121%7C1",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Sitzungsvorlage-2023-215.1_Beitritt der Stadt Castrop-Rauxel zur Allmende Emscher-Lippe eG",
+        "size": 207719,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2023-09-21T18:40:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-HFA-121",
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-HFA-121/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sondersitzung des Haupt- und Finanzausschusses",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/176",
+      "https://castroprauxel.gremien.info/oparl/person/370",
+      "https://castroprauxel.gremien.info/oparl/person/596",
+      "https://castroprauxel.gremien.info/oparl/person/642",
+      "https://castroprauxel.gremien.info/oparl/person/318",
+      "https://castroprauxel.gremien.info/oparl/person/645",
+      "https://castroprauxel.gremien.info/oparl/person/1029",
+      "https://castroprauxel.gremien.info/oparl/person/627",
+      "https://castroprauxel.gremien.info/oparl/person/667",
+      "https://castroprauxel.gremien.info/oparl/person/1045",
+      "https://castroprauxel.gremien.info/oparl/person/817",
+      "https://castroprauxel.gremien.info/oparl/person/977",
+      "https://castroprauxel.gremien.info/oparl/person/895",
+      "https://castroprauxel.gremien.info/oparl/person/814",
+      "https://castroprauxel.gremien.info/oparl/person/420",
+      "https://castroprauxel.gremien.info/oparl/person/1047",
+      "https://castroprauxel.gremien.info/oparl/person/58",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/344",
+      "https://castroprauxel.gremien.info/oparl/person/1037"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-HFA-121",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-10-04",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-HFA-121",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-HFA-121",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 665950,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2023-09-21T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-HFA-121",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-10-04",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-HFA-121",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-HFA-121",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 665950,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

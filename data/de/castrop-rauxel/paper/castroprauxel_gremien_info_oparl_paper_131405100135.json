@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/131405100135",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2010-AUSLB-35%7C131405100135%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5118",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2010-AUSLB-35",
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2012-05-14",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/131405100135",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=131405100135&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=131405100135&id=69",
+      "fileName": "131405100135",
+      "id": "https://castroprauxel.gremien.info/oparl/file/131405100135",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2012/123",
+      "size": 173227,
+      "text": "bereich stabsstelle integration 2012/123 öffentlich az: ib datum: 14.05.2012 sitzungsvorlage beratungsfolge datum top-nr. integrationsrat 06.06.2012 betreff aktueller stand des arbeitskreises (städtepartnerschaften türkei & griechenland) finanzielle auswirkungen x keine haushaltsmäßige berührung auswirkungen siehe sachverhalt beschlussvorschlag der integrationsrat nimmt die aktuellen ergebnisse des arbeitskreises städtepartnerschaften zur kenntnis. ____________________ johannes beisenherz bürgermeister sachverhalt der vorsitzende des arbeitkreises herr schwabe gibt einen mündlichen bericht über die aktuellen ergebnisse des arbeitskreises. in der letzten integrationsratssitzung wurde beschlossen sich mit den städten zonguldak und trikala mit erster priorität als mögliche partnerstadt in verbindung zu setzen.aktueller stand des arbeitskreises (städtepartnerschaften türkei & griechenland)2012/123%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Aktueller Stand des Arbeitskreises (Städtepartnerschaften Türkei & Griechenland)",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2012/123",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

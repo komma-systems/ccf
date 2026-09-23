@@ -1,0 +1,76 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/270506100159",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270506100159%7C20200605100349-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-05",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270506100159%7C20200605100349-0.pdf%7C",
+        "fileName": "20200605100349-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270506100159%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270506100159",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "ffb1ac6d27fdd8b8d3433abbda4b88b389f3f59e",
+        "size": 518086,
+        "text": "Antrag Bündnis 90 Die Grünen vom 03.06.2020_Mehrwegwindeln",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B2-101%7C270506100159%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8982",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B2-101",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B2"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-118%7C270506100159%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8983",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-118",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-06-05",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/270506100159",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270506100159&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270506100159&id=69",
+      "fileName": "270506100159",
+      "id": "https://castroprauxel.gremien.info/oparl/file/270506100159",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/143",
+      "size": 39503,
+      "text": " Bereich Betrieb 2 2020/143 öffentlich  Az:     Datum: 05.06.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 2 (Familie, Jugend, Soziales und Bildung) 18.06.2020   Rat der Stadt 25.06.2020    Betreff  Antrag Bündnis 90/Die Grüne vom 03.06.2020_Abfallvermeidung durch Mehrwegwindeln  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  Siehe Antrag.  \f  \f gez.  Bert Wagener Fraktionsvorsitzender Bündnis 90/Die Grünen\f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Antrag Bündnis 90/Die Grüne vom 03.06.2020_Abfallvermeidung durch Mehrwegwindeln",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/143",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

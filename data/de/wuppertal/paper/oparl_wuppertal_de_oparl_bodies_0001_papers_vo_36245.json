@@ -1,0 +1,53 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36245",
+  "modified_at": "2026-09-01T15:26:15+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369140.pdf",
+        "created": "2026-08-31T19:44:32+02:00",
+        "date": "2026-08-31",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369140.pdf",
+        "fileName": "00369140.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369140",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-01T15:26:15+02:00",
+        "name": "Bericht",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141557",
+        "created": "2026-09-01T06:22:18+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68635",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24648",
+        "modified": "2026-09-08T16:46:52+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/271"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36245",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-31T09:20:39+02:00",
+    "date": "2026-09-01",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36245",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-01T15:26:15+02:00",
+    "name": "Bericht zu den Wochen „Queer durchs Tal“ und zum CSD am 12.09.2026",
+    "paperType": "Bericht",
+    "reference": "VO/1043/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/40"
+    ]
+  }
+}

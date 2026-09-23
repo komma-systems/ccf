@@ -1,0 +1,50 @@
+{
+  "council_id": "muenster",
+  "record_type": "paper",
+  "source_id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056596",
+  "modified_at": "2026-09-03T09:36:02+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588408.pdf",
+        "created": "2026-08-24T08:46:32+02:00",
+        "date": "2026-08-24",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588408.pdf",
+        "fileName": "00588408.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588408",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-03T09:36:02+02:00",
+        "name": "Originalantrag A-W-0034-2026",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://oparl.stadt-muenster.de/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/288203",
+        "created": "2026-09-02T08:12:39+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91630",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14507",
+        "modified": "2026-09-18T08:33:03+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056596",
+        "role": "Antrag",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-24T08:45:26+02:00",
+    "date": "2026-08-24",
+    "id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056596",
+    "modified": "2026-09-03T09:36:02+02:00",
+    "name": "Lärmbelastung und mögliche Maßnahmen im südöstliche Albachten",
+    "paperType": "Antrag an die BV West",
+    "reference": "A-W/0034/2026",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "https://oparl.stadt-muenster.de/bodies/0001/organizations/at/100327"
+    ]
+  }
+}

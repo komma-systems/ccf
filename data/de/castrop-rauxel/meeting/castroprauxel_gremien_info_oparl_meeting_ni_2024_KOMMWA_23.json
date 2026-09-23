@@ -1,0 +1,201 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-KOMMWA-23",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-KOMMWA-23%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-KOMMWA-23",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-KOMMWA-23%7C1%7C1",
+          "date": "2024-10-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-KOMMWA-23%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-KOMMWA-23%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 373926,
+          "text": "  1 Fragestunde für Einwohnerinnen und Einwohner    Keine Fragen.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12578",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-KOMMWA-23%7C351109100201%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-KOMMWA-23",
+        "name": "Bestellung eines Schriftführers und dessen Stellvertretung für den Kommunalwahlaussschuss",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-KOMMWA-23%7C351109100201%7C1",
+          "date": "2024-10-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-KOMMWA-23%7C351109100201%7C1",
+          "fileName": "be_351109100201_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-KOMMWA-23%7C351109100201%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 417543,
+          "text": "  2 Bestellung eines Schriftführers und dessen Stellvertretung für den Kommunalwahlaussschuss (2024/196)    Gemäß §§ 52 und 58 der Gemeindeordnung NRW in Verbindung mit § 16 der Geschäftsordnung des Rates der Stadt wird als Schriftführer des Kommunalwahlausschusses Herr Jannis Horn benannt.   Als dessen Stellvertretung wird Herr Dennis Roth benannt.     Abstimmungsergebnis: Einstimmig beschlossen  Ja-Stimmen: 9  Nein-Stimmen: -  Enthaltungen: -       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12543",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-KOMMWA-23%7C351109100202%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-KOMMWA-23",
+        "name": "Einteilung des Stadtgebietes in 23 Wahlbezirke für die Kommunalwahl 2025",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-KOMMWA-23%7C351109100202%7C1",
+          "date": "2024-10-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-KOMMWA-23%7C351109100202%7C1",
+          "fileName": "be_351109100202_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-KOMMWA-23%7C351109100202%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 412357,
+          "text": "  3 Einteilung des Stadtgebietes in 23 Wahlbezirke für die Kommunalwahl 2025 (2024/210)    Der Kommunalwahlausschuss beschließt gemäß § 4 Absatz 1 Kommunalwahlgesetz  (KWahlG) die Einteilung des Wahlgebietes in 23 Wahlbezirke.    Abstimmungsergebnis: Einstimmig beschlossen  Ja-Stimmen: 9  Nein-Stimmen: -  Enthaltungen: -       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-KOMMWA-23%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-KOMMWA-23",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-KOMMWA-23%7C6%7C1",
+          "date": "2024-10-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-KOMMWA-23%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-KOMMWA-23%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 375308,
+          "text": "  4 Anfragen der Ausschussmitglieder     Keine Anfragen.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-KOMMWA-23%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-KOMMWA-23",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-KOMMWA-23%7C4%7C1",
+          "date": "2024-10-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-KOMMWA-23%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-KOMMWA-23%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 371238,
+          "text": "  5 Mitteilungen der Verwaltung    Keine Mitteilungen.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2024-10-28T16:07:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-KOMMWA-23",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-KOMMWA-23",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-10-14",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2024-KOMMWA-23",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2024-KOMMWA-23",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "9537253652a0ef6d5af11d22cbbca7be51fe463d",
+      "size": 409340,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-KOMMWA-23/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Kommunalwahlausschusses",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/KOMMWA"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/224",
+      "https://castroprauxel.gremien.info/oparl/person/392",
+      "https://castroprauxel.gremien.info/oparl/person/390",
+      "https://castroprauxel.gremien.info/oparl/person/1078",
+      "https://castroprauxel.gremien.info/oparl/person/240",
+      "https://castroprauxel.gremien.info/oparl/person/1064",
+      "https://castroprauxel.gremien.info/oparl/person/1069",
+      "https://castroprauxel.gremien.info/oparl/person/1067",
+      "https://castroprauxel.gremien.info/oparl/person/1194"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2024-KOMMWA-23",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-10-29",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=7&meeting_id=ni_2024-KOMMWA-23",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-KOMMWA-23",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Gesamtprotokoll",
+      "size": 455276,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2024-10-28T16:00:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2024-KOMMWA-23",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-10-29",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=7&meeting_id=ni_2024-KOMMWA-23",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-KOMMWA-23",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Gesamtprotokoll",
+      "size": 455276,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/162508100026",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7C162508100026%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6133",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2014-EUV-4",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2014-08-25",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/162508100026",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=162508100026&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=162508100026&id=69",
+      "fileName": "162508100026",
+      "id": "https://castroprauxel.gremien.info/oparl/file/162508100026",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2014/EUV/025",
+      "size": 91831,
+      "text": "Datum: 25.08.2014 TB III 9686-230 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 17.09.2014 TOP: I.11 Drucksache-Nr. 2014/EUV/025 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 17.09.2014 I.11 Betreff: Einsatzplanung Winterdienst 2014/2015 Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt die Einsatzplanung des EUV Stadtbetriebes für den Winterdienst 2014/2015 zur Kenntnis. ________________________ Werner Sachverhalt: Für das Winterhalbjahr 2012/2013 hatte der EUV Stadtbetrieb Castrop-Rauxel den Winterdienst für den Bereich der Stadt Castrop-Rauxel aufgerüstet und weiterentwickelt, so dass für das Winterhalbjahr 2013/2014 keine weiteren Änderungen notwendig sind. Die Mitarbeiter/innen des Winterdienstes für die Großstreufahrzeuge sind in 3 Bereitschaftsgruppen eingeplant, die jeweils in jeder dritten Woche Rufbereitschaft haben und sich im Krankheits- oder Urlaubsfall gegenseitig vertreten werden. Bei den Mitarbeitern/innen der Kleinstreufahrzeuge und der Handstreuung bleibt es bei dem wöchentlichen Wechsel der Bereitschaft. Für die Winterdienstbereitschaft sind insgesamt 43 fest eingeteilte Mitarbeiter/innen und 2 Ersatzleute eingeplant. Die Anordnung für den Winterdiensteinsatz für die Mitarbeiter/innen der betroffenen Teilbetriebe des EUV erfolgt weiterhin durch einen Einsatzleiter, der bei Witterungslagen, die nach der Wetterprognose des Deutschen Wetterdienstes einen Winterdiensteinsatz erwarten lassen, die notwendigen Kontrollfahrten außerhalb der normalen Dienstzeit durchführt. Für den Winterdienstzeitraum vom 01.11.2014 bis 31.03.2015 sind 3 Einsatzleiter eingeteilt, die jeweils in jeder dritten Woche den Bereitschafts- und Kontrolldienst wahrnehmen. Während der Bereitschaft sind die Einsatzleiter außerhalb der regulären Dienstzeit über ein Bereitschaftshandy insbesondere für die Polizei, Feuerwehr und Verkehrsbetriebe erreichbar. Innerhalb der dienstplanmäßigen Arbeit werden die Einsätze vom Einsatzleiter für die Abfallentsorgung und Straßenreinigung koordiniert. Bei den erforderlichen Einsätzen im Fahrbahnwinterdienst werden zunächst die Mitarbeiter der Rufbereitschaft für die vordringlich zu streuenden Bezirke benachrichtigt und eingeteilt. Diese 5 Streubezirke beinhalten die Straßen der Dringlichkeitsstufe 1, wie Bundes-, Landes-, Kreis- und Hauptsammelstraßen, Straßen mit öffentlichem Nahverkehr sowie den Bereich der Innenstadt einschließlich der Fußgängerzonen Castrop-Rauxel, Habinghorst und Ickern. Erst anschließend erfolgt die Sicherstellung des Winterdienstes auf den weiteren Straßen entsprechend der Dringlichkeitsstufen in 5 weiteren Touren. Weiterer Bericht in der Sitzung.Einsatzplanung Winterdienst 2014/20152014/EUV/025%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Einsatzplanung Winterdienst 2014/2015",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2014/EUV/025",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

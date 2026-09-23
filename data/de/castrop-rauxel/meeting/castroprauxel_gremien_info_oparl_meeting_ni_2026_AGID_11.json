@@ -1,0 +1,340 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AGID-11",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AGID-11%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AGID-11",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16967",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AGID-11%7C401604100116%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AGID-11",
+        "name": "Barrierefreier Ausbau von 7 Haltestellenpunkten in Castrop-Rauxel",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AGID-11%7C401604100116%7C1",
+          "date": "2026-07-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AGID-11%7C401604100116%7C1",
+          "fileName": "be_401604100116_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AGID-11%7C401604100116%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 181054,
+          "text": "  2 Barrierefreier Ausbau von 7 Haltestellenpunkten in Castrop-Rauxel (2026/113)   Herr Weskamp vom EUV Stadtbetrieb Castrop-Rauxel berichtet über den aktuellen Sachstand zum barrierefreien Ausbau der Haltestellenpunkte in Castrop-Rauxel. Aufgrund des Personenbeförderungsgesetzes des Bundes sind Haltestellen des ÖPNV barrierefrei auszubauen. Die Reihenfolge des Ausbaus erfolgt anhand einer Prioritätenliste.  Der Sachverhalt wird von den Ausschussmitgliedern zur Kenntnis genommen.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2026-AGID-11%7Czt_1%7C1%7C20260707133925-0_zt_1_1.pdf",
+            "date": "2026-07-07",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2026-AGID-11%7Czt_1%7C1%7C20260707133925-0_zt_1_1.pdf",
+            "fileName": "20260707133925-0_zt_1_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2026-AGID-11%7Czt_1%7C1%7C20260707133925-0_zt_1_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "2026-07-02_TOP_3_AGID Sparpläne",
+            "size": 610604,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AGID-11%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AGID-11",
+        "name": "Bericht der Lebenshilfe Waltrop e.V. über die Auswirkungen von Kürzungen in der Eingliederungshilfe",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AGID-11%7Czt_1%7C1",
+          "date": "2026-07-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AGID-11%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AGID-11%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 180324,
+          "text": "  3 Bericht der Lebenshilfe Waltrop e.V. über die Auswirkungen von Kürzungen in der Eingliederungshilfe   Herr Martenka und Herr Salhab berichten in Ihrem Vortrag über die Auswirkungen von Kürzungen in der Eingliederungshilfe und führen aus, welche Folgen die politischen Sparpläne für Ihre Lebensmodelle haben könnten. Herr Salhab berichtet, dass mehr als 180.000 Menschen eine Petition der Lebenshilfe gegen Kürzungen in der Eingliederungshilfe unterzeichnet haben.  Die Präsentation ist der Niederschrift als Anlage beigefügt.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2026-AGID-11%7Czt_0%7C1%7C20260707133906-0_zt_0_1.pdf",
+            "date": "2026-07-07",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2026-AGID-11%7Czt_0%7C1%7C20260707133906-0_zt_0_1.pdf",
+            "fileName": "20260707133906-0_zt_0_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2026-AGID-11%7Czt_0%7C1%7C20260707133906-0_zt_0_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "2026-07-02_TOP_4_Sachstandsbericht_Arbeitsgruppen",
+            "size": 495864,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AGID-11%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AGID-11",
+        "name": "Sachstandsbericht zur Einrichtung von Arbeitsgruppen",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AGID-11%7Czt_0%7C1",
+          "date": "2026-07-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AGID-11%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AGID-11%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 170058,
+          "text": "  4 Sachstandsbericht zur Einrichtung von Arbeitsgruppen   Herr Trzeziak stellt den aktuellen Sachstand zur Einrichtung von Arbeitsgruppen vor. Die Treffen der Arbeitsfolgen erfolgen online via Zoom.  Die Vertreter des Gremiums erhalten im Anschluss an die Sitzung eine Einladung zum ersten Treffen der Arbeitsgruppe Öffentlichkeit sowie zum ersten Treffen der Arbeitsgruppe Stille Stunde in Supermärkten.   Der Vortrag ist der Niederschrift als Anlage beigefügt.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17063",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AGID-11%7C400306100155%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AGID-11",
+        "name": "Umbesetzung der wewole Stiftung im Ausschuss für Generationen, Inklusion und Diversität",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AGID-11%7C400306100155%7C1",
+          "date": "2026-07-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AGID-11%7C400306100155%7C1",
+          "fileName": "be_400306100155_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AGID-11%7C400306100155%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 180966,
+          "text": "  5 Umbesetzung der wewole Stiftung im Ausschuss für Generationen, Inklusion und Diversität (2026/150)   Das Gremium beschließt einstimmig die Umbesetzung der wewole Stiftung im Ausschuss für Generationen, Inklusion und Diversität.   Als neuer Vertreter der wewole Stiftung wird Herr Christian Dietrich benannt, als Stellvertreterin wird Frau Jennifer Christoph benannt.  Frau Christoph stellt sich dem Gremium kurz vor.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17133",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AGID-11%7C401906100168%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AGID-11",
+        "name": "Antrag der CDU Ratsfraktion vom 19.06.2026_Hitzeschutzmaßnahmen",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AGID-11%7C401906100168%7C1",
+          "date": "2026-07-17",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AGID-11%7C401906100168%7C1",
+          "fileName": "be_401906100168_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AGID-11%7C401906100168%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 196453,
+          "text": "  6 Antrag der CDU Ratsfraktion vom 19.06.2026_Hitzeschutzmaßnahmen (2026/162)   Herr Fritsch stellt für die CDU Ratsfraktion den Antrag zu Hitzeschutzmaßnahmen vor.  Frau Lückel führt aus, dass dem Antrag seitens der SPD-Fraktion zugestimmt wird. Frau Lückel verweist in diesem Zusammenhang auf bestehende Maßnahmen wie die Mitmach-Aktion Wir bieten Hitzeschutz sowie die Installation von Trinkwasserbrunnen im Stadtgebiet.  Frau Dreifeld regt an, die teilnehmenden Einrichtungen der Mitmach-Aktion Wir bieten Hitzeschutz durch größere Aufkleber zu kennzeichnen und die Mitmach-Aktion erneut über die Presse zu bewerben.   Auf Nachfragen aus dem Gremium erörtert Herr Weskamp die Standorte der Trinkwasserbrunnen. Frau Kleff führt aus, dass Schulen bei Gelsenwasser eigenständig die Installation von Wasserspendern beantragen können.  Herr Fritsch berichtet von einem Projekt der Stadt Bielefeld, welche an heißen Tagen Trinkpaten oder Hitzepaten zur Unterstützung von gefährdeten Personengruppen einsetzt. Diese Paten helfen unter anderem der älteren Bevölkerung, auf eine ausreichende Flüssigkeitsaufnahme zu achten. Die Umsetzung eines solchen Projektes könnte in einem zukünftigen Antrag thematisiert werden.  Nach eingehender Diskussion beschließt das Gremium einstimmig den folgenden geänderten Beschlussvorschlag:  Zeitnah dem Rat und den betreffenden Ausschüssen einen Bericht vorzulegen in dem bereits bestehende Hitzeschutzmaßnahmen und -angebote überprüft sowie weitere Maßnahmen zum Hitzeschutz in der Altstadt vorgeschlagen werden, die für Abkühlung, Beschattung und zur Verbesserung des Mikroklimas beitragen können. Darüber hinaus soll die Umsetzung bereits beschlossener Hitzemaßnahmen fokussiert werden.  Der Bericht soll insbesondere die Prüfung der Installation einer Wasser-Sprühnebel-Apparatur oder anderer technischer Vorrichtungen in der Altstadt beinhalten, die bei extremer Hitze kurzfristig aktivierbar sind und eine Abkühlungsmöglichkeit bieten. Auch hierzu erforderliche Koste sind im Bericht aufzuführen.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17423",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AGID-11%7C402306100178%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AGID-11",
+        "name": "Antrag der CDU-Ratsfraktion vom 23.06.2026_Gehwege Becklemer Straße",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AGID-11%7C402306100178%7C1",
+          "date": "2026-08-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AGID-11%7C402306100178%7C1",
+          "fileName": "be_402306100178_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AGID-11%7C402306100178%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 193457,
+          "text": "  7 Antrag der CDU-Ratsfraktion vom 23.06.2026_Gehwege Becklemer Straße (2026/172)   Herr Will stellt für die CDU-Ratsfraktion den Antrag zu Gehwegen an der Becklemer Straße vor.  Frau Dreifeld regt an, Diskussionen bezüglich der schlechten Beschaffenheit von Gehwegen nicht nur für einzelnen Straßen zu führen, sondern auch über andere Standorte im Stadtgebiet  insbesondere die Castroper Altstadt  zu berichten.  Herr Schelte teilt mit, dass anstelle eines plausiblen Einzelfalls die Gesamtsituation im Stadtgebiet geprüft werden sollte.   Frau Ewert befürwortet, den Schwerpunkt der Debatte auf eine barrierefreie Innenstadt zu legen.  Frau Gudjons berichtet von Straßenschäden im Bereich des Kreisverkehrs am Neuroder Platz, welche für querende Fußgänger eine Sturzgefahr bedeuten würden. Weiterhin sei es aufgrund fehlender abgesenkter Bordsteine nicht möglich, von den Behindertenparkplätzen am Neuroder Platz direkt auf den Gehweg zu gelangen.   Herr Salhab berichtet von Gehwegschäden im Bereich der Haltestelle Ickern-Friedhof. Mobilitätseingeschränkte Personen haben Probleme, den Bus zu erreichen.  Frau Dreifeld appelliert an die Anwesenden, dass insbesondere im Bereich der Innenstadt etwas getan werden müsste um die Schäden in der Pflasterung zu beseitigen und die bestehenden Stolperfallen zu entfernen. Auf Nachfrage von Frau Lückel erörtert Herr Weskamp, dass die Straßen in Castrop-Rauxel seitens des EUV-Stadtbetriebes regelmäßig kontrolliert und festgestellte Schäden nach einer Prioritätenliste beseitigt werden.  Auf Nachfrage von Herrn Leidig erörtert Herr Weskamp, dass keine Regressfälle aufgrund einer mangelhaften Verkehrssicherungspflicht bekannt sind.  Herr Weskamp führt aus, dass die angesprochenen Sachverhalte in die fachlich zuständigen Bereiche mitgenommen werden.   Seitens des Gremiums wird angeregt, in der nächsten Sitzung über den aktuellen Sachstand zur Sanierung der Altstadt zu berichten.  Nach eingehender Diskussion beschließt das Gremium mehrheitlich bei zwei Gegenstimmen und einer Enthaltung den vorliegenden Beschlussvorschlag.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AGID-11%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AGID-11",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AGID-11%7C6%7C1",
+          "date": "2026-07-17",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AGID-11%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AGID-11%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 179552,
+          "text": "  8 Anfragen der Ausschussmitglieder   Frau Gudjons fragt an, ob in Castrop-Rauxel bereits Veranstaltungen zu der sich veränderten Friedhofskultur stattgefunden haben.  Herr Trzeziak führt aus, dass unter anderem im Erzählcaf gemeinsam mit Bestattungsunternehmen ein Austausch über die sich geänderte Bestattungskulturen stattgefunden habe. Es zeigt sich ein Wandel in der Bestattungskultur weg von der Sarg-Bestattung hin zu Urnenbestattungen sowie zu alternativen Bestattungsformen.    Herr Schelte erkundigt sich nach der Barrierefreiheit von Wahllokalen.   Frau Kleff teilt mit, dass bei den Wahlen im letzten Jahr folgende Wahllokale noch nicht barrierefrei waren:  Grundschule am Busch Center Pöppinghausen Bürgerzentrum Marienschule Lindenschule   Es ist geplant, für in Merklinde für kommende Wahlen in das neue Begegnungszentrum Merklinde zu wechseln.   Herr Salhab schilderte, dass er nach dem Familienfest am Rathaus in seinem Elektro-Rollstuhl nicht im Bus mitgenommen werden sollte. Ursächlich sei ein fehlender Aufkleber gewesen. In der Vergangenheit habe es solche Probleme nicht gegeben.  Frau Kleff teilt mit, dass die Thematik aufgearbeitet werden soll. Frau Dreifeld erkundigt sich nach dem Sachstand zur Einrichtung von Generationenparkplätzen. Herr Weskamp teilt mit, dass im Bereich des Viehmarktes ein erster Generationenparkplatz eingerichtet wurde. Frau Dreifeld dankt für die Information und regt die Einrichtung von Generationenparkplätzen an weiteren Standorten an.  Frau Lückel regt an, Parkflächen im Kaufland-Parkhaus als Generationenparkplätze auszuweisen.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2026-AGID-11%7C998%7C1%7C20260707133439-0_998_1.pdf",
+            "date": "2026-07-07",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2026-AGID-11%7C998%7C1%7C20260707133439-0_998_1.pdf",
+            "fileName": "20260707133439-0_998_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2026-AGID-11%7C998%7C1%7C20260707133439-0_998_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "2026-07-02_TOP_9_Mitteilung_Verwaltung",
+            "size": 1467214,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AGID-11%7C998%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AGID-11",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AGID-11%7C998%7C1",
+          "date": "2026-07-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AGID-11%7C998%7C1",
+          "fileName": "be_998_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AGID-11%7C998%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 174598,
+          "text": "  9 Mitteilungen der Verwaltung   Herr Trzeziak stellt folgende Themen vor:  Aktionstag Mit dem Rollator sicher unterwegs am 01.09.2026 Inklusive Wanderung am 11.07.2026 Mitmach-Aktion Wir bieten Hitzeschutz  Der Vortrag ist der Niederschrift als Anlage beigefügt.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AGID-11%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AGID-11",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AGID-11%7C997%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AGID-11",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-07-02T18:22:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AGID-11",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2026-AGID-11",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-06-23",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2026-AGID-11",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2026-AGID-11",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "fea3875ff568a2125856e97d8d5d77e5b688627b",
+      "size": 207529,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AGID-11/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschuss für Generationen, Inklusion und Diversität",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/AGID"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/812",
+      "https://castroprauxel.gremien.info/oparl/person/1032",
+      "https://castroprauxel.gremien.info/oparl/person/1341",
+      "https://castroprauxel.gremien.info/oparl/person/876",
+      "https://castroprauxel.gremien.info/oparl/person/1043",
+      "https://castroprauxel.gremien.info/oparl/person/1045",
+      "https://castroprauxel.gremien.info/oparl/person/1333",
+      "https://castroprauxel.gremien.info/oparl/person/712",
+      "https://castroprauxel.gremien.info/oparl/person/1310",
+      "https://castroprauxel.gremien.info/oparl/person/1318",
+      "https://castroprauxel.gremien.info/oparl/person/895",
+      "https://castroprauxel.gremien.info/oparl/person/1342",
+      "https://castroprauxel.gremien.info/oparl/person/814",
+      "https://castroprauxel.gremien.info/oparl/person/1391",
+      "https://castroprauxel.gremien.info/oparl/person/851",
+      "https://castroprauxel.gremien.info/oparl/person/1392",
+      "https://castroprauxel.gremien.info/oparl/person/909",
+      "https://castroprauxel.gremien.info/oparl/person/1394",
+      "https://castroprauxel.gremien.info/oparl/person/1225",
+      "https://castroprauxel.gremien.info/oparl/person/1145",
+      "https://castroprauxel.gremien.info/oparl/person/1299",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/1274",
+      "https://castroprauxel.gremien.info/oparl/person/758"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-AGID-11",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-07-17",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-AGID-11",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-AGID-11",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 270324,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2026-07-02T17:01:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-AGID-11",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-07-17",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-AGID-11",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-AGID-11",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 270324,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

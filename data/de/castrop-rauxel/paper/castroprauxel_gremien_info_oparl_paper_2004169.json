@@ -1,0 +1,46 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/2004169",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/000184%7C2004169%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/1263",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000184",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2004-06-04",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/2004169",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2004169&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2004169&id=69",
+      "fileName": "2004169",
+      "id": "https://castroprauxel.gremien.info/oparl/file/2004169",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2004/169",
+      "size": 19509,
+      "text": "sitzungsvorlage;schulausschuss;betriebsausschuss;ausschuss;jugend;soziales;umwandlung;grundschule;hügel;ganztagsschule;schuljahr;haushaltsstelle;berührung;gesamtkosten;runderlasse;ministeriums;kinder;landes;nrw;fassung;art;baumaßnahmen;förderanträge;runderlassen;land;schulen;primarbereichs;ganztagsschulen;landesförderung;ganztagskonzept;grundzügen;struktur;nachmittag;lehrerkonferenz;schulkonferenz;plänen;personaleinsatz;raumkonzept;berücksichtigung;räumlichkeiten;bildung;gruppen;schülerinnen;landesmittel;antragsfrist;investitionszuschüsse;investitionskosten;dritten;städtischer;eigenanteil;landeszu;elternbeiträge;siehe;erläuterungen;folgekosten;hsk;personalkosten;sachkosten;erlöse;mindereinnahmen;iii;vorgaben;finanzierung;rahmen;bereichs;budgets;finanzplanungszeitraum;umwandlung;der;grundschule;am;hügel;in;eine;offene;ganztagsschule;ab;dem;schuljahr;2004/05;2004169;,2004/169;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Umwandlung der Grundschule Am Hügel in eine Offene Ganztagsschule ab dem Schuljahr 2004/05",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2004/169",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

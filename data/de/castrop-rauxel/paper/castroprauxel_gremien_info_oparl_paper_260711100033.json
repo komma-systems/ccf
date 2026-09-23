@@ -1,0 +1,83 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/260711100033",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=260711100033%7C20191111091246.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-11-11",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=260711100033%7C20191111091246.pdf%7C",
+        "fileName": "20191111091246.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C260711100033%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/260711100033",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "13d5a8d849df733d83877ef8ed972ba3801519c7",
+        "size": 234945,
+        "text": "Gebührenbedarfsberechnung Klärschlammentsorgung 2020",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=260711100033%7C20191111091449.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-11-11",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=260711100033%7C20191111091449.pdf%7C",
+        "fileName": "20191111091449.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C260711100033%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/260711100033",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "610ea61ef6aca34ffb5bbd8d94bf2c680515de82",
+        "size": 3461014,
+        "text": "Satzung über die Entsorgung von Grundstücksentwässerungsanlagen",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-EUV-28%7C260711100033%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8683",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-EUV-28",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-11-07",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/260711100033",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=260711100033&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=260711100033&id=69",
+      "fileName": "260711100033",
+      "id": "https://castroprauxel.gremien.info/oparl/file/260711100033",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/EUV/034",
+      "size": 144941,
+      "text": "/  Datum: 07.11.2019   TB VII/GBA 9686-380     Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 27.11.2019 TOP: Drucksache-Nr. 2019/EUV/034     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 27.11.2019 3  Rat der Stadt 28.11.2019     Betreff:  Gebührenbedarfsberechnung 2020 Klärschlammentsorgung und Erlass einer Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen, abflusslose Gruben) in der Stadt Castrop-Rauxel    Finanzielle Auswirkungen gem. Wirtschaftsplan  X ja Gesamtkosten        nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat nimmt die Gebührenbedarfsrechnung 2020 Klärschlammentsorgung (Anlage 1) zur Kenntnis und stimmt der Satzung über die Entsorgung von Grundstücks-entwässerungsanlagen (Kleinkläranlagen, abflusslose Gruben, Anlage 2) in der Stadt Castrop-Rauxel zu.   \f  \f  _______________________ Werner  Sachverhalt:  Der EUV Stadtbetrieb Castrop-Rauxel betreibt in seinem Gebiet die Entsorgung und Überwachung der Grundstücksentwässerungsanlagen als öffentliche Einrichtung. Die hierfür  erhobene Gebühr betrug im abgelaufenen Jahr 2019 62,26 Euro pro angefangenem cbm abgefahrenen Grubeninhaltes.  Von der Gebührensatzung sind zur Zeit noch 56 Grundstückseigentümer betroffen, deren Grundstücke nicht an die öffentliche Abwasseranlage angeschlossen werden können, sondern noch über Grundstücksentwässerungsanlagen verfügen, die entsorgt werden müssen. Es werden im Schnitt ca. 4 cbm Schlamm abgefahren.  Die Unternehmerkosten stiegen zuletzt im Jahr 2019 auf 20,00 /cbm zzgl. MwSt. und steigen für das Jahr 2020 auf 30,00  zzgl. MwSt. Die zu entsorgenden Schlammmengen sind im Schnitt der letzten 4 Jahre leicht angestiegen.  Die Verwaltungskosten haben sich im letzten Jahr nicht verändert. Aufgrund der Abfuhrmenge ergibt sich entsprechend der Gebührenbedarfsberechnung für das Jahr 2020 ein Gebührensatz von 72,16 /cbm.  Gemäß § 5 Abs. 2 Ziff. 1 der Satzung für das Kommunalunternehmen der Stadt Castrop-Rauxel, EUV, Stadtbetrieb Castrop-Rauxel  AöR  ist der Verwaltungsrat für den Erlass von Satzungen im Rahmen des übertragenen Aufgabenbereiches zuständig.  Bezüglich des Erlasses von Satzungen hat der Rat der Stadt Castrop-Rauxel gem. § 9 Abs. 1 der o.g. Satzung ein Weisungsrecht. Vor der öffentlichen Bekanntmachung der Satzung ist somit die vom Verwaltungsrat beschlossene Satzung vom Rat der Stadt Castrop-Rauxel zu billigen.  Weiterer Bericht in der Sitzung.   Anlagen:  Gebührenbedarfsberechnung Klärschlammentsorgung 2020 Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kläranalgen), abflusslose Gruben in der Stadt Castrop-Rauxel  \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Gebührenbedarfsberechnung 2020 Klärschlammentsorgung und Erlass einer Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen, abflusslose Gruben) in der Stadt Castrop-Rauxel",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/EUV/034",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

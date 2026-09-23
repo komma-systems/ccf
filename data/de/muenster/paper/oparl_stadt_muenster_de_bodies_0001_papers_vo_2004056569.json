@@ -1,0 +1,100 @@
+{
+  "council_id": "muenster",
+  "record_type": "paper",
+  "source_id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056569",
+  "modified_at": "2026-08-26T10:01:12+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588398.pdf",
+        "created": "2026-08-24T07:58:43+02:00",
+        "date": "2026-08-24",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588398.pdf",
+        "fileName": "00588398.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588398",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-24T09:31:42+02:00",
+        "name": "Berichtsvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588404.pdf",
+        "created": "2026-08-24T08:39:17+02:00",
+        "date": "2026-08-24",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588404.pdf",
+        "fileName": "00588404.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588404",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-24T09:31:42+02:00",
+        "name": "Anlage 1",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588405.pdf",
+        "created": "2026-08-24T08:39:17+02:00",
+        "date": "2026-08-24",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588405.pdf",
+        "fileName": "00588405.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588405",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-24T09:31:42+02:00",
+        "name": "Anlage 2",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://oparl.stadt-muenster.de/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/287785",
+        "created": "2026-08-25T10:49:21+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91590",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14534",
+        "modified": "2026-09-07T15:24:35+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/588"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056569",
+        "role": "Bericht",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/287994",
+        "created": "2026-08-31T11:16:29+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91589",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14502",
+        "modified": "2026-09-17T09:33:18+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/586"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056569",
+        "role": "Bericht",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/289531",
+        "created": "2026-09-16T15:56:38+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91591",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14501",
+        "modified": "2026-09-23T14:28:19+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/585"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056569",
+        "role": "Bericht",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-17T07:10:25+02:00",
+    "date": "2026-08-17",
+    "id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056569",
+    "modified": "2026-08-26T10:01:12+02:00",
+    "name": "Bericht über die Beschäftigung von Menschen mit Schwerbehinderungen und diesen Gleichgestellten bei der Stadt Münster in 2025",
+    "paperType": "Vorlagen",
+    "reference": "V/0453/2026",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "https://oparl.stadt-muenster.de/bodies/0001/organizations/at/100004"
+    ]
+  }
+}

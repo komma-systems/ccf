@@ -1,0 +1,99 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/250611100292",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=250611100292%7C20191106130336-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-11-06",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=250611100292%7C20191106130336-0.pdf%7C",
+        "fileName": "20191106130336-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C250611100292%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/250611100292",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "d6ab334c312cdb1e9bd6b4b6832e5631a7d94411",
+        "size": 599810,
+        "text": "Gespräch zur Gesamtschule",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=250611100292%7C20191106130337-1.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-11-06",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=250611100292%7C20191106130337-1.pdf%7C",
+        "fileName": "20191106130337-1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C250611100292%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/250611100292",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "f9b083ae5109fabd5fb2c81cd329164387326fce",
+        "size": 1171884,
+        "text": "Stellungnahmer der Schulkonferenz der WBG",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=250611100292%7C20191112085118.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-11-12",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=250611100292%7C20191112085118.pdf%7C",
+        "fileName": "20191112085118.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C250611100292%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/250611100292",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "a37eef570303b36c7001c2b5a37d76934f512b31",
+        "size": 310524,
+        "text": "Stellungnahme -GE Waltrop",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-B2-98%7C250611100292%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8678",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-B2-98",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B2"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-11-06",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/250611100292",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=250611100292&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=250611100292&id=69",
+      "fileName": "250611100292",
+      "id": "https://castroprauxel.gremien.info/oparl/file/250611100292",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/279",
+      "size": 47063,
+      "text": " Bereich Schule 2019/279 öffentlich  Az:     Datum: 06.11.2019    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 2 (Familie, Jugend, Soziales und Bildung) 21.11.2019 4  Rat der Stadt 28.11.2019    Betreff  Fortschreibung der Schulentwicklungsplanung in Castrop-Rauxel  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Der Rat der Stadt Castrop-Rauxel beschließt die nachfolgenden Maßnahmen: Bildung eines Teilstandortes der Gesamtschule Waltrop am Standort Waldenburger Straße 130, 44581 Castrop-Rauxel zum Schuljahr 2020/2021 in Trägerschaft der Stadt Waltrop Die Verwaltung wird beauftragt, vorbehaltlich des korrespondieren Beschlusses des Rates der Stadt Waltrop, eine öffentlich-rechtliche Vereinbarung mit der Stadt Waltrop zu schließen. Begrenzung der Zügigkeit der Fridtjof-Nansen-Realschule auf 4 Züge zum Schuljahr 2020/2021 Begrenzung der Zügigkeit der Willy-Brandt-Gesamtschule auf 4 Züge zum Schuljahr 2020/2021 Die Verwaltung wird beauftragt, für die Maßnahmen 1, 3 und 4 alle relevanten und erforderlichen Schritte einzuleiten und bei der Bezirksregierung Münster die Genehmigung für die Maßnahmen 3 und 4 zu beantragen (§ 81 Abs.2 SchulG NRW).   \f  \f   _____________      ____________ Kravanja       Kleff Bürgermeister      Beigeordnete für Soziales  \f  Sachverhalt  Dem Beschluss des Betriebsausschusses vom 28.03.2019 folgend, wurde eine Elternbefragung der zweiten und dritten Jahrgänge an den Grundschulen in Castrop-Rauxel durchgeführt. Diese hat ergeben, dass bereits zum Schuljahr 2020/2021 92 Eltern ein Gesamtschulangebot an der Waldenburger Straße 130 für ihre Kinder wählen würden. Gemäß §79 Schulgesetz NRW ist der Schulträger verpflichtet, die für den ordnungsgemäßen Unterricht erforderlichen Schulanlagen etc. bereitzustellen. Korrespondierend mit dem § 80 Schulgesetz NRW bedeutet dies, dass aufgrund steigender Schülerzahlen eine Neuordnung respektive Erweiterung des Schulangebotes im Sinne der Schulentwicklungsplanung erfolgen muss. Nach den aktuellen Schülerprognosezahlen sind ab den Schuljahren 2020/21 sowie in den folgenden Jahren mit Jahrgangstärken von ca. 630 Schülerinnen und Schülern zu rechnen. Hierzu bedarf es einer gut ausgebauten Schullandschaft und der Bereitstellung von mindestens 23 Zügen pro Jahrgang. Nach intensiven Abstimmungsgesprächen und Beratungen schlägt die Verwaltung nunmehr vor, eine Kooperation mit der Stadt Waltrop einzugehen, welche die Bildung eines Teilstandortes an der Waldenburger Straße 130 in Castrop-Rauxel zum Schuljahr 2020/21 insbesondere für die Beschulung Castrop-Rauxeler Schülerinnen und Schüler intendiert. Die Schulträgerschaft wird bei der Stadt Waltrop liegen.  Der Teilstandort soll dreizügig geführt werden. Der Hauptstandort in Waltrop wird vierzügig geführt.  Die Schulkonferenz der Willy-Brandt-Gesamtschule wurde gehört und hat die Bildung eines Teilstandortes für sich ausgeschlossen und dies in einer Stellungnahme dokumentiert.  Die Stellungnahme des Schulträgers Waltrop liegt vor.  Beide Stellungnahmen sind der Vorlage beigefügt.  Die Willy-Brandt-Gesamtschule sowie die Fridtjof-Nansen-Realschule in Castrop-Rauxel werden ebenfalls zum Schuljahr 2020/21 auf 4 Züge begrenzt.  Die Verwaltung wird beauftragt, hierzu die Genehmigung der Bezirksregierung zu beantragen. (§ 81 Abs. 2 SchulG NRW)  Die Verwaltung wird ebenso beauftragt, eine öffentlich-rechtliche Beschulungsvereinbarung mit der Stadt Waltrop zu schließen.  Es handelt sich hier zunächst um einen Grundsatzbeschluss, aus dem sich finanzielle Auswirkungen ergeben werden. Genauere Angaben hierzu werden in einer späteren Vorlage zusammen mit der noch zu schließenden öffentlich-rechtlichen Vereinbarung vorgelegt werden.    \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Fortschreibung der Schulentwicklungsplanung in Castrop-Rauxel",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/279",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

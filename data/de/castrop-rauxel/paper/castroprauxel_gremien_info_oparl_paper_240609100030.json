@@ -1,0 +1,82 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/240609100030",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=240609100030%7C20180913082839.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2018-09-13",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=240609100030%7C20180913082839.pdf%7C",
+        "fileName": "20180913082839.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C240609100030%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/240609100030",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "cb6e07abefe03b1c48fb1b7df72e23d143801625",
+        "size": 2061451,
+        "text": "Öffentlich-rechtlicher Vertrag",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=240609100030%7C20180913082904.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2018-09-13",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=240609100030%7C20180913082904.pdf%7C",
+        "fileName": "20180913082904.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C240609100030%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/240609100030",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "bf67480c6deec79079374eea073484b3fc136664",
+        "size": 475032,
+        "text": "Schreiben des Kreises Recklinghausen 09.08.2018",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-23%7C240609100030%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8032",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2018-EUV-23",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2018-09-06",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/240609100030",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=240609100030&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=240609100030&id=69",
+      "fileName": "240609100030",
+      "id": "https://castroprauxel.gremien.info/oparl/file/240609100030",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2018/EUV/031",
+      "size": 152686,
+      "text": "/  Datum:  06.09.2018   TB I 9686-500      Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 26.09.2018 TOP: I.9 Drucksache-Nr. 2018/EUV/031     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 26.09.2018 9    Betreff:  Einführung der Wertstoffsammlung (getrennte Sammlung von stoffgleichen Nichtverpackungen  SNVP im Kreis Recklinghausen) nach dem Gebietsteilungsmodell     Finanzielle Auswirkungen gem. Wirtschaftsplan   ja Gesamtkosten       X nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat des EUV Stadtbetrieb nimmt den Abschluss des öffentlich-rechtlichen Vertrages zur Umsetzung der Wertstoffsammlung nach dem Gebietsteilungsmodell im Kreis Recklinghausen zur Kenntnis.   \f  \f   ________________________ Werner \f Sachverhalt:  Auf der Grundlage der Verwaltungsratsvorlage vom 20. Juni 2018 (Drucksache: 2018/EUV/025) und der damit verbundenen Beauftragung des Vorstandes zur Umsetzung der Einführung der Wertstofftonne im Kreis Recklinghausen nach dem Gebietsteilungsmodell haben sowohl die kreisangehörigen Städte als auch die beiden Anstalten des öffentlichen Rechts (Waltrop und Castrop-Rauxel) die rechtlichen Voraussetzungen zur Umsetzung des Gebietsteilungsmodells geschaffen.  In der Anlage beigefügt das Schreiben des Kreises Recklinghausen als Untere Staatliche Verwaltungsbehörde vom 09. August 2018 sowie der geschlossene öffentlich-rechtliche Vertrag zwischen dem EUV Stadtbetrieb Castrop-Rauxel und dem Bürgermeister der Stadt Recklinghausen zur Kenntnis.  Ergänzender Bericht zur LVP-Sammlung ab 01.01.2019 in der Sitzung.     \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Einführung der Wertstoffsammlung (getrennte Sammlung von stoffgleichen Nichtverpackungen – SNVP im Kreis Recklinghausen) nach dem Gebietsteilungsmodell",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2018/EUV/031",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

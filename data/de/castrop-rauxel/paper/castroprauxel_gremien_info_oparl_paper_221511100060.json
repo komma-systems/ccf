@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/221511100060",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2017-EUV-19%7C221511100060%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7734",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2017-EUV-19",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2017-11-15",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/221511100060",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=221511100060&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=221511100060&id=69",
+      "fileName": "221511100060",
+      "id": "https://castroprauxel.gremien.info/oparl/file/221511100060",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2017/EUV/060",
+      "size": 153723,
+      "text": "Datum: 15.11.2017 TB I 9686-500 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 29.11.2017 TOP: I.15 Drucksache-Nr. 2017/EUV/060 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 29.11.2017 15 Betreff: Sachstandsbericht Einführung Wertstofftonne Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt die Ausführungen des Vorstandes zum Sachstand der Einführung einer flächendeckenden kommunalen Wertstofferfassung zur Kenntnis. Über die weiteren Planungen und Abstimmungen ist der Verwaltungsrat frühzeitig zu informieren. ______________________ Werner Sachverhalt: Unter Verweis auf die Berichtsvorlagen „Flächendeckende kommunale Wertstofferfassung für stoffgleiche Nichtverpackungen“ vom 25. März 2015 (Drucksache 2015/EUV/001), Übernahme Sammellogistik für LVP ab 01.01.2017 vom 14.09.2016 (Drucksache 2016/EUV/026) vom 23.11.2016 (Drucksache: 2016/EUV/048) und der Berichterstattung in der Sitzung des Verwaltungsrates vom 13.09.2017 ist der Vorstand mit der Planung und Abstimmung zur Umsetzung der Einführung der Wertstofferfassung zum 01.01.2018 beauftragt worden. Dabei ist die Fragestellung des Verwaltungsrates zur Einführung der Wertstofftonne in Abstimmung mit den Systembetreibern (Abstimmung einer neuen Abstimmungsvereinbarung/Übereinkunft Wertstofferfassung für Castrop-Rauxel) sowie die Klärung eines möglichen Anschluss- und Benutzungszwangs der kommunalen Wertstofftonne gesondert aufzugreifen. Seit der Verwaltungsratssitzung hat der Vorstand verschiedene Gespräche zur Umsetzung einer neuen Abstimmungsvereinbarung für das Jahr 2018 geführt und unter Einbindung einer Rechtsberatung entsprechende Arbeitsunterlagen gemeinsam mit den Vertretern des KSR, Stadt Recklinghausen entwickelt. Derzeit ist nicht absehbar, dass hierzu eine verbindliche Übereinkunft mit den Systembetreibern geschlossen werden kann, so dass die Einführung der Wertstofftonne zu einem späteren Zeitpunkt erfolgt (spätestens bis 01.01.2019 gemäß § 22 Abs. 5; Verpackungsgesetz). Offene Fragestellungen sind u.a. Mitbenutzungsrechte der Systembetreiber am öffentlich-rechtlichen Erfassungssystem. Vereinbarungen über Art der Wertstofferfassung mit den Systembetreibern (Stichwort: Wertstofftonne unter kommunaler Trägerschaft; Mitbenutzung des öffentlichen Systems Duale Systeme usw.) sowie die Abrechnungsmodalitäten. Weiterer Bericht in der Sitzung.%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Sachstandsbericht Einführung Wertstofftonne",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2017/EUV/060",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

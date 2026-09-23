@@ -1,0 +1,382 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ACI-1",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ACI-1%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ACI-1",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C1%7C1",
+          "date": "2026-05-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ACI-1%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 183377,
+          "text": "Der Vorsitzende Herr Allali eröffnet die Sitzung und begrüßt die anwesenden Mitglieder sowie Vertreter*innen der Verwaltung und der sonstigen Teilnehmer*innen.  Vor Eintritt in die Tagesordnung stellt der Vorsitzende fest, dass der ACI bei 17 anwesenden stimmberechtigten Mitgliedern beschlussfähig ist und gegen die ordnungsgemäße Einberufung kein Widerspruch erhoben wird.  1 Fragestunde für Einwohnerinnen und Einwohner  Frau Streicher, die zum Arbeitskreis Hausordnung des ACI eingeladen war, äußert drei Fragen: Warum waren nur drei Mitglieder des ACI und vier Verwaltungsmitarbeitende im Arbeitskreis? Warum wurde ihr vor Erstellung der Vorlage die überarbeitete Fassung der Hausordnung zum Gegenlesen nicht zugesandt? Warum wurde ihr Vorschlag für die Präambel verworfen wurde, der freundlicher zu lesen sei und folgende Aussage enthalten hat: Die Regelungen orientieren sich an den Grundrechten sowie an internationalen menschenrechtlichen Standards.   Ad a) Der Vorsitzende erläutert, dass es eine Arbeitsteilung im ACI gebe und eben diese drei Personen für den ACI bestimmt wurden. Ad b) Die stellvertretende Leiterin Bereich 59 erläutert, dass die überarbeitete Fassung der Hausordnung ausschließlich mit Mitgliedern des ACI und den Verwaltungsmitarbeitenden sowie der hausinternen Rechtsabteilung abgestimmt. Ad c) Die stellvertretende Leiterin Bereich 59 erklärt, dass nach Prüfung der erwähnten Präambel durch die Rechtsabteilung die ursprüngliche Version gewählt wurde, da es sich bei oben genannter Aussage um eine Selbstverständlichkeit handele, die nicht gesondert erwähnt werden müsste.  Das RM Herr Korkutan wünscht sich, dass bei zukünftigen Terminen für Arbeitskreise auch die RM eingeladen werden würden. Die sagt der Vorsitzende zu.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16833",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ACI-1%7C402303100107%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ACI-1",
+        "name": "Ernennung einer stellvertretenden Schriftführerin für den Ausschuss für Chancengerechtigkeit und Integration der Stadt Castrop-Rauxel",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C402303100107%7C1",
+          "date": "2026-05-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C402303100107%7C1",
+          "fileName": "be_402303100107_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ACI-1%7C402303100107%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 186968,
+          "text": "2 Ernennung einer stellvertretenden Schriftführerin für den Ausschuss für Chancengerechtigkeit und Integration der Stadt Castrop-Rauxel (2026/105)   Gemäß § 52 Abs. 1 GO wird als stellvertretende Schriftführerin für den Ausschuss für Chancengerechtigkeit und Integration   Frau Tina Teschlade   benannt.    Abstimmungsergebnis: Einstimmig angenommen  Ja-Stimmen: 17  Nein-Stimmen: -  Enthaltungen: -    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16845",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ACI-1%7C403103100109%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ACI-1",
+        "name": "Hausordnung Obdachlosenunterkünfte",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C403103100109%7C1",
+          "date": "2026-05-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C403103100109%7C1",
+          "fileName": "be_403103100109_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ACI-1%7C403103100109%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 186395,
+          "text": "3 Hausordnung Obdachlosenunterkünfte (2026/111)   Nach Diskussion beschließt der Ausschuss für Chancengerechtigkeit und Integration die in der Anlage beigefügte Hausordnung für städtische Obdachlosenunterkünfte der Stadt Castrop-Rauxel.  Auf Nachfrage zur Dokumentationspflicht kann die vom Bereich 59 erhobene Statistik zu Verfügung gestellt werden.    Abstimmungsergebnis: Einstimmig angenommen  Ja-Stimmen: 17  Nein-Stimmen: -  Enthaltungen: -    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16840",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ACI-1%7C402404100133%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ACI-1",
+        "name": "Antrag Ratsfraktion Bündnis 90/Die Grünen_Unternehmertag zur beschleunigten Vermittlung von Geflüchteten und Personen mit Vermittlungshemmnissen in sozialversicherungspflichtige Arbeitsverhältnisse",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C402404100133%7C1",
+          "date": "2026-05-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C402404100133%7C1",
+          "fileName": "be_402404100133_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ACI-1%7C402404100133%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 195521,
+          "text": "4 Antrag Ratsfraktion Bündnis 90/Die Grünen_Unternehmertag zur beschleunigten Vermittlung von Geflüchteten und Personen mit Vermittlungshemmnissen in sozialversicherungspflichtige Arbeitsverhältnisse (2026/130)   s. Anlage   Das RM Herr Korkutan stellt den Antrag vor. Nach ausführlicher Diskussion wird einstimmig beschlossen, die Abstimmung über den Antrag zu vertagen.  Bevor über den Antrag abgestimmt wird, sollen folgende Punkte geklärt bzw. sollen Vorarbeiten stattfinden: a) der Antrag wird in der Sitzung am 01.07. erneut behandelt, b) dazu werden Expert*innen (Jobcenter, AGORA - Michael Chasanis, Ausländerbehörde, Wirtschaftsförderung) eingeladen, die die im Antrag erwähnte Personengruppe in Castrop-Rauxel genauer bestimmen sollen und c) die Gründung eines Arbeitskreises unter Federführung von ACI-Mitglied Herr Trzaska soll konkrete Fragestellungen entwickeln.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "ohne Ergebnis",
+        "result": "ohne Ergebnis",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16831",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ACI-1%7C401603100098%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ACI-1",
+        "name": "Benennung eines Mitglieds des Ausschusses für Chancengerechtigkeit und Integration in den Ausschuss für Wirtschaftsentwicklung und Digitalisierung",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C401603100098%7C1",
+          "date": "2026-05-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C401603100098%7C1",
+          "fileName": "be_401603100098_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ACI-1%7C401603100098%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 178305,
+          "text": "5 Benennung eines Mitglieds des Ausschusses für Chancengerechtigkeit und Integration in den Ausschuss für Wirtschaftsentwicklung und Digitalisierung (2026/097)    Benennung eines Mitglieds des Ausschusses für Chancengerechtigkeit und Integration in den Ausschuss für Wirtschaftsentwicklung und Digitalisierung:  ___________________________    Der Vorsitzende Herr Allali gibt bekannt, dass der Ausschuss sich noch nicht über einen Vorschlag für ein Mitglied geeinigt hat.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "ohne Ergebnis",
+        "result": "ohne Ergebnis",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ACI-1%7C8%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ACI-1",
+        "name": "Sachstandsbericht Sicherer Hafen Castrop-Rauxel\r\nmündlicher Bericht",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C8%7C1",
+          "date": "2026-05-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C8%7C1",
+          "fileName": "be_8_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ACI-1%7C8%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 180004,
+          "text": "6 Sachstandsbericht Sicherer Hafen Castrop-Rauxel mündlicher Bericht   Frau Molsich gibt einen Sachstandsbericht zum Thema Sicherer Hafen Castrop-Rauxel. Castrop-Rauxel ist nach Ratsbeschluss vom 29.09.2026 Sicherer Hafen (s. Vorlage 2022/260).  Der Ausschuss nimmt den Bericht zur Kenntnis.  Das RM Korkutan bittet darum, zu prüfen welche Schritte notwendig sind, um weitere Anforderungen des Bündnisses zu erfüllen.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ACI-1%7C26%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ACI-1",
+        "name": "Besuch von Notunterkünften von Mitgliedern des Ausschusses für Chancengerechtigkeit und Integration\r\nmündlicher Bericht",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C26%7C1",
+          "date": "2026-05-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C26%7C1",
+          "fileName": "be_26_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ACI-1%7C26%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 170332,
+          "text": "7 Besuch von Notunterkünften von Mitgliedern des Ausschusses für Chancengerechtigkeit und Integration mündlicher Bericht   Frau Hida berichtet von der Begehung einiger Mitglieder des ACI von Notunterkünften in der Vördestraße, Franzstraße und Harkortstraße.  Der Ausschuss nimmt den Bericht zur Kenntnis.  Weitere Ausschussmitglieder bekunden ebenfalls Interesse an einer Besichtigung.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2026-ACI-1%7C16%7C1%7C20260507120118-0_16_1.pdf",
+            "date": "2026-05-07",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2026-ACI-1%7C16%7C1%7C20260507120118-0_16_1.pdf",
+            "fileName": "20260507120118-0_16_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2026-ACI-1%7C16%7C1%7C20260507120118-0_16_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "ACI C-R (1)",
+            "size": 18635991,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ACI-1%7C16%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ACI-1",
+        "name": "Bisherige Aktionen des Ausschusses für Chancengerechtigkeit und Integration\r\nmündlicher Bericht",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C16%7C1",
+          "date": "2026-05-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C16%7C1",
+          "fileName": "be_16_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ACI-1%7C16%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 168259,
+          "text": "8 Bisherige Aktionen des Ausschusses für Chancengerechtigkeit und Integration mündlicher Bericht   Frau Hida berichtet über bisherige Aktionen des Ausschusses für Chancengerechtigkeit und Integration.  Der Ausschuss nimmt den Bericht zur Kenntnis.  Die PPP liegt der Niederschrift bei.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ACI-1%7C9943%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ACI-1",
+        "name": "Berichte aus den Ausschüssen",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C9943%7C1",
+          "date": "2026-05-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C9943%7C1",
+          "fileName": "be_9943_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ACI-1%7C9943%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 165953,
+          "text": "9 Berichte aus den Ausschüssen   Frau Hida berichtet über die vergangenen Sitzungen des Jugendhilfeausschusses. Sie hebt die hervorragende Arbeit des KiJuPa hervor wie auch die Berichterstattung über den Bedarfsplan Tageseinrichtungen für Kinder und den Kinder- und Jugendförderplan. Konkrete Inhalte können in der Niederschrift im RIS eingesehen werden.  Der Ausschuss nimmt den Bericht zur Kenntnis.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ACI-1%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ACI-1",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C6%7C1",
+          "date": "2026-05-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ACI-1%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 180239,
+          "text": "10 Anfragen der Ausschussmitglieder   Das RM Herr Korkutan erkundigt sich über den Stand der Umsetzung des Antrags der Fraktionen SPD und B90/Die Grünen vom 09.02.2024_ Beitritt zur europäischen Städte-Koalition gegen Rassismus seit dem Ratsbeschluss vom 08.04.2024. Darüber hinaus möchte er wissen, welche Beratungsangebote die Stadtverwaltung bereithält für Personen, die von Abschiebung bedroht sind.  Die Verwaltung wird die Fragen in der nächsten Ausschusssitzung beantworten.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2026-ACI-1%7C4%7C1%7C20260507122108-0_4_1.pdf",
+            "date": "2026-05-07",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2026-ACI-1%7C4%7C1%7C20260507122108-0_4_1.pdf",
+            "fileName": "20260507122108-0_4_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2026-ACI-1%7C4%7C1%7C20260507122108-0_4_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Flyer_Frauen_2026_APR-JUN",
+            "size": 46982,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ACI-1%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ACI-1",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C4%7C1",
+          "date": "2026-05-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ACI-1%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ACI-1%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 186941,
+          "text": "11 Mitteilungen der Verwaltung   Frau Teschlade gibt folgende Termine bekannt:  - 30.05.2026 Familienfest mit Bandabend, 11:00 - 17:00 Uhr, Europaplatz und Rathaus  - 02.06.2026 Fokus auf Vielfalt und diskriminierungssensibel handeln im Alltag, 18:00 - 20:00 Uhr, Familien- und Bildungsbüro Schillerstraße 3  - 17.06.2026 interreligiöser Dialog, Ayasofya    - Verschiedene Veranstaltungen für Frauen der Gleichstellungsbeauftragten Nina Jordan (s. Anlage)  - 26.09.2026 Abrahamsfest (entstanden aus dem interreligiösen Dialog), Erinstraße 6   Der Vorsitzende Herr Allali weist darauf hin, dass der nichtöffentliche Teil beginnt. Er bittet die Gäste den Ausschuss für Chancengerechtigkeit und Integration zu verlassen.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ACI-1%7C999%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ACI-1",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ACI-1%7C997%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ACI-1",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-05-05T20:05:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ACI-1",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2026-ACI-1",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-04-22",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2026-ACI-1",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2026-ACI-1",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "bc6b93192814fc839bfd813fa4791856016b3c5a",
+      "size": 208781,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ACI-1/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschusses für Chancengerechtigkeit und Integration",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/ACI"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/1029",
+      "https://castroprauxel.gremien.info/oparl/person/1063",
+      "https://castroprauxel.gremien.info/oparl/person/1305",
+      "https://castroprauxel.gremien.info/oparl/person/1304",
+      "https://castroprauxel.gremien.info/oparl/person/1314",
+      "https://castroprauxel.gremien.info/oparl/person/1198",
+      "https://castroprauxel.gremien.info/oparl/person/1324",
+      "https://castroprauxel.gremien.info/oparl/person/1293",
+      "https://castroprauxel.gremien.info/oparl/person/1048",
+      "https://castroprauxel.gremien.info/oparl/person/1294",
+      "https://castroprauxel.gremien.info/oparl/person/1295",
+      "https://castroprauxel.gremien.info/oparl/person/1296",
+      "https://castroprauxel.gremien.info/oparl/person/1329",
+      "https://castroprauxel.gremien.info/oparl/person/1298",
+      "https://castroprauxel.gremien.info/oparl/person/1323",
+      "https://castroprauxel.gremien.info/oparl/person/1297",
+      "https://castroprauxel.gremien.info/oparl/person/1299",
+      "https://castroprauxel.gremien.info/oparl/person/1186",
+      "https://castroprauxel.gremien.info/oparl/person/156"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-ACI-1",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-05-07",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-ACI-1",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-ACI-1",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 259662,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2026-05-05T18:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-ACI-1",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-05-07",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-ACI-1",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-ACI-1",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 259662,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

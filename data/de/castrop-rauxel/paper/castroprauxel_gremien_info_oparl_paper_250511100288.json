@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/250511100288",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-AUSLB-65%7C250511100288%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8673",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-AUSLB-65",
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-11-05",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/250511100288",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=250511100288&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=250511100288&id=69",
+      "fileName": "250511100288",
+      "id": "https://castroprauxel.gremien.info/oparl/file/250511100288",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/276",
+      "size": 42104,
+      "text": " Bereich Stabsstelle Bildung, Vielfalt und Teilhabe 2019/276 öffentlich  Az:     Datum: 05.11.2019    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Integrationsrat 20.11.2019 2   Betreff  Wahl einer Vorsitzenden bzw. eines Vorsitzenden und Wahl der Stellvertreterin bzw. des Stellvertreters  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \fBeschlussvorschlag  Der Integrationsrat wählt zur Vorsitzenden bzw. zum Vorsitzenden:  ____________________________________  Der Integrationsrat wählt zur Stellvertreterin bzw. zum Stellvertreter:  ____________________________________   \f  \f________________________ Regina K l e f f  Beigeordnete für Soziales  Sachverhalt  Geschäftsordnung des Integrationsrates der Stadt Castrop-Rauxel  § 4 Vorsitz  (1) Der Integrationsrat wählt eine Vorsitzende bzw. einen Vorsitzenden und seinen Stellvertreter/in.  (2) Die Vorsitzende bzw. der Vorsitzende und die Stellvertreterinnen bzw. Stellvertreter werden von allen stimmberechtigten Mitgliedern des Integrationsrates aus durch Urwahl gewählt. Dabei wird in zwei Wahlgängen geheim abgestimmt. Vorsitzende bzw. Vorsitzender ist, wer die höchste Stimmenzahl erhält.  (3) Die/der Vorsitzende eröffnet, leitet und schließt die Sitzungen.  (4) Die/der Vorsitzende oder ein anderes vom Integrationsrat benanntes Mitglied ist berechtigt, bei der Beratung ausländerrelevanter Angelegenheiten an allen öffentlichen Sitzungen des Rates und seiner Ausschüsse teilzunehmen.  (5) Auf Antrag der/des Vorsitzenden können die Ausschüsse beschließen, die/den Vorsitzenden bzw. ein beauftragtes Mitglied zur Beratung einzelner Punkte der Tagesordnung, die sich auf Angelegenheiten des Integrationsrates beziehen, hinzu zu ziehen; das gilt auch für nicht öffentliche Sitzungen.  (6) Die/der Vorsitzende wird bei Abwesenheit in allen Rechten und Pflichten von der/dem stellvertretenden Vorsitzenden vertreten.  \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Wahl einer Vorsitzenden bzw. eines Vorsitzenden und Wahl der Stellvertreterin bzw. des Stellvertreters",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/276",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

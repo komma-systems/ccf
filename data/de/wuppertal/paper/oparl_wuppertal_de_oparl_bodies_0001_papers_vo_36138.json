@@ -1,0 +1,66 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36138",
+  "modified_at": "2026-09-11T06:48:27+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368466.pdf",
+        "created": "2026-08-12T12:07:15+02:00",
+        "date": "2026-08-12",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368466.pdf",
+        "fileName": "00368466.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368466",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-11T06:48:28+02:00",
+        "name": "01_Bürgerantrag gemäß § 24 GO NRW",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368475.pdf",
+        "created": "2026-08-12T13:24:55+02:00",
+        "date": "2026-08-12",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368475.pdf",
+        "fileName": "00368475.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368475",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-11T06:48:28+02:00",
+        "name": "Bericht",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141288",
+        "authoritative": true,
+        "created": "2026-08-17T10:01:03+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68438",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24630",
+        "modified": "2026-09-21T11:48:28+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/274"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36138",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-12T12:02:41+02:00",
+    "date": "2026-08-13",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36138",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-11T06:48:27+02:00",
+    "name": "Radverkehr auf dem Gehweg, Nevigeser Str., Bürgerantrag nach § 24 GO NRW",
+    "paperType": "Bericht",
+    "reference": "VO/0943/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/6"
+    ]
+  }
+}

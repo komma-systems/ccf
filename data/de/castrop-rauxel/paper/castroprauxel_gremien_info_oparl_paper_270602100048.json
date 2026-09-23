@@ -1,0 +1,67 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/270602100048",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270602100048%7C20200206114602-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-02-06",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270602100048%7C20200206114602-0.pdf%7C",
+        "fileName": "20200206114602-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270602100048%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270602100048",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "9812f9b514ac6ed28b1b90e6d849cd32a133f4cf",
+        "size": 179363,
+        "text": "20200205_FDP_Antrag_B2B3_Schulraum",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B3-101%7C270602100048%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8793",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B3-101",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-02-06",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/270602100048",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270602100048&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270602100048&id=69",
+      "fileName": "270602100048",
+      "id": "https://castroprauxel.gremien.info/oparl/file/270602100048",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/045",
+      "size": 11734,
+      "text": " Bereich Immobilien-Management 2020/045 öffentlich  Az:     Datum: 06.02.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 3 (Bauen, Verkehr und Sport) 20.02.2020 9  Betriebsausschuss 2 (Familie, Jugend, Soziales und Bildung) 20.02.2020    Betreff  Antrag der FDP-Fraktion: Transparente Schulraumplanung  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  s. Antrag   \f\f  gez. Nils Bettinger FDP-Fraktionsvorsitzender \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Antrag der FDP-Fraktion: Transparente Schulraumplanung",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/045",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3",
+      "https://castroprauxel.gremien.info/oparl/organization/B2"
+    ]
+  }
+}

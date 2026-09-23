@@ -1,0 +1,60 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36330",
+  "modified_at": "2026-09-14T15:43:18+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370047.pdf",
+        "created": "2026-09-14T12:55:25+02:00",
+        "date": "2026-09-14",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370047.pdf",
+        "fileName": "00370047.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370047",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-15T16:04:58+02:00",
+        "name": "Große Anfrage AfD",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141800",
+        "created": "2026-09-14T14:40:45+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68809",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24654",
+        "modified": "2026-09-14T14:40:49+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36330",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141863",
+        "created": "2026-09-16T08:46:02+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68810",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24543",
+        "modified": "2026-09-21T07:51:55+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36330",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-14T12:50:29+02:00",
+    "date": "2026-09-14",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36330",
+    "modified": "2026-09-14T15:43:18+02:00",
+    "name": "Zusammenarbeit zwischen der Verwaltung und staatlichen Behörden bei der Abschiebung ausreisepflichtiger Ausländer",
+    "paperType": "Große Anfrage AfD",
+    "reference": "VO/1120/26",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

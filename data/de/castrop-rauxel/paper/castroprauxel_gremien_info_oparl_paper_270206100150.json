@@ -1,0 +1,92 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/270206100150",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270206100150%7C20200602111628-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-02",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270206100150%7C20200602111628-0.pdf%7C",
+        "fileName": "20200602111628-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270206100150%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270206100150",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "84863ea1251d3ce67641816b3f48ba05a13c4aaa",
+        "size": 378445,
+        "text": "Entwurf Satzungsänderung Kita",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270206100150%7C20200602111637-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-02",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270206100150%7C20200602111637-0.pdf%7C",
+        "fileName": "20200602111637-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270206100150%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270206100150",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "eb1b0f1cfa3cbacb151b33e86d6e1864fac2f8fe",
+        "size": 505289,
+        "text": "Satzungsänderung Anlage",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B2-101%7C270206100150%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8980",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B2-101",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B2"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-118%7C270206100150%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8981",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-118",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-06-02",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/270206100150",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270206100150&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270206100150&id=69",
+      "fileName": "270206100150",
+      "id": "https://castroprauxel.gremien.info/oparl/file/270206100150",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/134",
+      "size": 148027,
+      "text": " Bereich Leistungen für Kinder, Jugend und Familien 2020/134 öffentlich  Az:     Datum: 02.06.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 2 (Familie, Jugend, Soziales und Bildung) 18.06.2020 11  Rat der Stadt 25.06.2020 30   Betreff  Änderungssatzung zur Elternbeitragssatzung der Stadt Castrop-Rauxel vom 27.02.2020  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  Die vorgeschlagene Änderungssatzung aufgrund der geänderten Rechtslage hinsichtlich der Beitragsbefreiung im KiBiz wird beschlossen.  \f  \f   ___________________________                    ___________________________ Kravanja                 Kleff Bürgermeister                Beigeordnete für Soziales   Sachverhalt  Aufgrund § 50 Abs. 1 des Gesetzes zur frühen Bildung und Förderung von Kindern (Kinderbildungsgesetz  KiBiz) wird erstmalig zum Kindergartenjahr 2020/2021 für Kinder, die bis zum 30. September das vierte Lebensjahr vollendet haben, ab Beginn des im selben Kalenderjahr beginnenden Kindergartenjahrs bis zur Einschulung auf den Elternbeitrag verzichtet.  Die Änderung tritt zum 01.08.2020 in Kraft.  Aus diesem Grund ist die Satzung (Kita) entsprechend anzupassen.  Der voraussichtliche Minderertrag in Höhe von rund 250.000,- Euro für das Jahr 2020 wurde bei der Haushaltsplanung bereits berücksichtigt. Durch einen entsprechenden Zuschuss des Landes NRW wird dieser Minderertrag vollständig kompensiert.    Der Änderungsentwurf und die Beitragstabelle sind als Anlagen beigefügt. Die Präambeln der Satzungen sind durch den Bereich 30 auf Aktualität geprüft worden.  Satzungsänderung:  § 6 Abs. 1  Besuchen mehr als ein Kind einer Familie oder von Personen, die nach § 2 an die Stelle der Eltern treten, gleichzeitig eine Tageseinrichtung für Kinder oder nutzen ein Angebot im Rahmen der Offene Ganztagsschule oder der Kindertagespflege, so entfallen die Beiträge für das zweite und jedes weitere Kind. Ergeben sich ohne die Beitragsbefreiung nach Satz 1 unterschiedlich hohe Beiträge, so ist der höchste Beitrag zu zahlen.  Wird ein Kind auf Grund der Regelungen des § 23 50 Absatz 3 1 KiBiz beitragsbefreit, so werden auch die Geschwisterkinder, die in demselben Zeitraum eine Tageseinrichtung für Kinder, ein Angebot im Rahmen der Offene Ganztagsschule oder der Kindertagespflege nutzen, beitragsfrei gestellt.  § 6 Abs. 2   Soll ein Kind vorzeitig in die Schule aufgenommen werden und wird es bis zum 15.11. verbindlich für das nächste Schuljahr in der Schule angemeldet, so erfolgt die Beitragsbefreiung ab dem 01. Dezember nach der verbindlichen Anmeldung unabhängig davon, in welchem Monat diese tatsächlich erfolgt ist.  Werden Kinder aus erheblichen gesundheitlichen Gründen nach § 35 Abs. 3 Schulgesetz NRW für ein Jahr zurückgestellt, so beträgt die Elternbeitragsfreiheit nach Absatz 1 Satz 3 ausnahmsweise zwei drei Jahre.   Beschlussvorschlag ab 01.08.2020: Die vorgeschlagene Satzungsänderung aufgrund der geänderten Rechtslage hinsichtlich der Beitragsfreiheit wird beschlossen.    \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Änderungssatzung zur Elternbeitragssatzung der Stadt Castrop-Rauxel vom 27.02.2020",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/134",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

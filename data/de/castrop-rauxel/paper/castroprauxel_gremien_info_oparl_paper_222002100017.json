@@ -1,0 +1,82 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/222002100017",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=222002100017%7C20170220113942.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2017-02-20",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=222002100017%7C20170220113942.pdf%7C",
+        "fileName": "20170220113942.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C222002100017%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/222002100017",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "10815e82341407f9d99db846e6081befbc3289d5",
+        "size": 2812229,
+        "text": "2017-02-07_Sondierung_von_temporären_Parkmöglichkeiten_A4",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=222002100017%7C20170220115258.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2017-02-20",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=222002100017%7C20170220115258.pdf%7C",
+        "fileName": "20170220115258.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C222002100017%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/222002100017",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "ac91180c88827f5ed5195aa867bc3367c2d85eef",
+        "size": 225123,
+        "text": "Temporäres Parkkonzept - Konzept Stand Februar 2017 20170220115039",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2017-EUV-20%7C222002100017%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7420",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2017-EUV-20",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2017-02-20",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/222002100017",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=222002100017&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=222002100017&id=69",
+      "fileName": "222002100017",
+      "id": "https://castroprauxel.gremien.info/oparl/file/222002100017",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2017/EUV/018",
+      "size": 150778,
+      "text": "Datum: 20.02.2017 TB VII 9686-360 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 08.03.2017 TOP: Drucksache-Nr. 2017/EUV/018 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Betriebsausschuss 1 (Kultur, Ordnung, Ausländerwesen und Feuerwehr) 01.03.2017 Betriebsausschuss 3 (Bauen, Verkehr und Sport) 02.03.2017 Verwaltungsrat EUV 08.03.2017 9 Betreff: Temporäres Parkraum-Konzept für die Park- + Ride-Anlage am Hauptbahnhof Castrop-Rauxel Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat des EUV nimmt vom aktuellen Sachstand des Projektes durch die beiliegende Anlage „Temporäres Parkraum-Konzept für die Park- + Ride-Anlage am Hauptbahnhof Castrop-Rauxel“ Kenntnis. ____________________ Werner Sachverhalt: Bezüglich des Sachverhaltes wird auf die Anlage „Temporäres Parkkonzept“ verwiesen.%anl%;Temporäres Parkkonzept - Konzept Stand Februar 2017 201702201150392017-02-07_Sondierung_von_temporären_Parkmöglichkeiten_A4 ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Temporäres Parkraum-Konzept für die Park- + Ride-Anlage am Hauptbahnhof \r\nCastrop-Rauxel",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2017/EUV/018",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

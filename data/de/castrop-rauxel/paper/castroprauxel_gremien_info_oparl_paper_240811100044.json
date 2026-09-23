@@ -1,0 +1,83 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/240811100044",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=240811100044%7C20181109125425-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2018-11-12",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=240811100044%7C20181109125425-0.pdf%7C",
+        "fileName": "20181109125425-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C240811100044%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/240811100044",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "f2069ed1d3672878085bfbfe8fd2ff37af706e26",
+        "size": 753278,
+        "text": "Abfallsatzung 2019 - Synopse",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=240811100044%7C20181109125428-1.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2018-11-12",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=240811100044%7C20181109125428-1.pdf%7C",
+        "fileName": "20181109125428-1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C240811100044%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/240811100044",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "ecbc89a5f8a519d9ce651585a5ea2b7c2febaad0",
+        "size": 928113,
+        "text": "Kreislaufwirtschafts- und Abfallsatzung 2019 ",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-24%7C240811100044%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8177",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2018-EUV-24",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2018-11-08",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/240811100044",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=240811100044&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=240811100044&id=69",
+      "fileName": "240811100044",
+      "id": "https://castroprauxel.gremien.info/oparl/file/240811100044",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2018/EUV/045",
+      "size": 92753,
+      "text": "/  Datum: 08.11.2018    TB VII / GBA 9686-380       Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 28.11.2018 TOP: I.4 Drucksache-Nr. 2018/EUV/045     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 28.11.2018 4  Rat der Stadt 29.11.2018     Betreff:  Erlass einer Satzung über die Kreislaufwirtschaft und Abfallentsorgung der Stadt Castrop-Rauxel (Kreislaufwirtschafts- und Abfallsatzung)     Finanzielle Auswirkungen gem. Wirtschaftsplan   ja Gesamtkosten       x nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat beschließt die als Anlage 1 beigefügte Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel (Kreislaufwirtschafts- und Abfallsatzung).   \f  \f  ________________________ Werner \f Sachverhalt: Die bestehende Kreislaufwirtschafts- und Abfallsatzung vom 30.11.2017 musste aufgrund der Einführung der gelben Wertstoffbehälter auf der Grundlage des Wertstoffgesetzes geändert werden. Ferner musste in Anlage 2 zur Satzung eine Ergänzungen im Positivkatalog der Abfallartenschlüssel durchgeführt werden. In diesem Zusammenhang bot es sich an, die Satzung in ihrer Gesamtheit an die neueste Rechtsprechung sowie die abfallrechtliche Gesetzeslage des Bundes und Landes und den Erfordernissen des EUV Stadtbetriebes anzupassen. Die wesentlichen Änderungen sind durch die beigefügte Synopse (Anlage 2) kenntlich gemacht.\u000b Gemäß § 5 Abs. 2 Ziffer 1 der Kommunalunternehmenssatzung ist der Verwaltungsrat für den Erlass von Satzungen im Rahmen der übertragenen Aufgabenbereiche zuständig. Gemäß § 9 Abs. 1 der Kommunalunternehmenssatzung unterliegt der Verwaltungsrat der Weisung des Rates der Stadt Castrop-Rauxel. Vor öffentlicher Bekanntmachung ist somit die vom Verwaltungsrat des EUV Stadtbetrieb beschlossene Gebührensatzung noch vom Rat der Stadt Castrop-Rauxel zu billigen. Weiterer Bericht in der Sitzung. Anlagen \u000b1. Satzung über die Kreislaufwirtschafts- und Abfallentsorgung der Stadt Castrop-Rauxel (Kreislaufwirtschafts- und Abfallsatzung) 2. Synopse (Stand: 30.11.2017/in der Fassung vom 28.11.2018)  \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Erlass einer Satzung über die Kreislaufwirtschaft und Abfallentsorgung der Stadt Castrop-Rauxel (Kreislaufwirtschafts- und Abfallsatzung)",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2018/EUV/045",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

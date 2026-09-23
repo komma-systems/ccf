@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/2002236",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/000037%7C2002236%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/286",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000037",
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2002-08-29",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/2002236",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002236&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002236&id=69",
+      "fileName": "2002236",
+      "id": "https://castroprauxel.gremien.info/oparl/file/2002236",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2002/236",
+      "size": 15155,
+      "text": "eigenbetrieb;sitzungsvorlage;werksausschuss;laubaktion;haushaltsstelle;berührung;gesamtkosten;euv;angebot;laubabfuhr;leistungen;rahmen;straßenreinigungssatzung;laub;kehrmaschinen;zde;müllfahrzeug;laubsauggerät;aufnahme;straßenlaubes;baumbestand;reinigung;gehwege;vorgärten;entsorgung;kehrgutes;anlieger;grundstückseigentümer;biotonnen;papiersäcke;preis;straßenrand;abfuhrtagen;bio;sammelfahrzeugen;standorten;stadtgebiet;container;freiheitstr;ecke;bramkampstr;zechenstraße;kulturgemeinde;lange;zufahrt;getränke;risse;victorstraße;vördestraße;betriebshof;westring;stadtgarten;glückaufstraße;containerstandort;dortmunder;einmündung;ginsterweg;marktplatz;habinghorst;frohlinde;bürgerinnen;bürgern;laubabfällen;zusatzangebot;betreuung;standorte;mitarbeiter;kombomobil;fahrzeug;fahrer;beifahrer;laubaktion;herbst;2002;2002236;,2002/236;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Laubaktion Herbst 2002 ",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2002/236",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

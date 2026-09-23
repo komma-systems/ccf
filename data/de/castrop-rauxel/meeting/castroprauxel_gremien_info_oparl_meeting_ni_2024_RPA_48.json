@@ -1,0 +1,246 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-48",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-48%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-48",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-RPA-48%7C6%7C1",
+          "date": "2024-12-16",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-RPA-48%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-RPA-48%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 370984,
+          "text": "  1 Anfragen der Ausschussmitglieder    Keine Anfragen.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-48%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-48",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-RPA-48%7C4%7C1",
+          "date": "2024-12-16",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-RPA-48%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-RPA-48%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 367057,
+          "text": "  2 Mitteilungen der Verwaltung    Keine Mitteilung.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12099",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-48%7C350611100232%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-48",
+        "name": "Prüfung des Jahresabschlusses der Stadt Castrop-Rauxel zum 31.12.2022",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12105",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-48%7C350910100212%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-48",
+        "name": "Bericht über die Prüfung Erhebung der Grundsteuern A und B - Abwicklung mit dem EUV (13/2023)",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12100",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-48%7C350910100207%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-48",
+        "name": "Bericht über die Prüfung der Leistungen zur Grundsicherung im Alter und bei Erwerbsminderung 2023 (01/2024)",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12101",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-48%7C350910100208%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-48",
+        "name": "Bericht über die Prüfung Ermittlung der Geld- und Guthabenbestände beim Westfälischen Landestheater e.V. (WLT) in Castrop-Rauxel (02/2024)",
+        "number": "4",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12102",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-48%7C350910100209%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-48",
+        "name": "Bericht über die Prüfung Gewährung von Leistungen nach dem Unterhaltsvorschussgesetz 2023 (04/2024)",
+        "number": "5",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12103",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-48%7C350910100210%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-48",
+        "name": "Bericht über die Prüfung der Zahlungsabwicklung (05/2024)",
+        "number": "6",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12104",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-48%7C350910100211%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-48",
+        "name": "Bericht über die Prüfung Verwendungsnachweise der Verbraucher- sowie der Energieberatungsstelle 2023 der Verbraucherzentrale Castrop-Rauxel (07/2024)",
+        "number": "7",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12107",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-48%7C351510100220%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-48",
+        "name": "Bericht über die Prüfung Abrechnung mit Tagespflegepersonen im Kindergartenjahr 2022/2023 (08/2024)",
+        "number": "8",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12106",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-48%7C350910100214%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-48",
+        "name": "Inanspruchnahme der Vermögenseigenschadenversicherung 2023",
+        "number": "9",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-48%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-48",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "10",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-RPA-48%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-48",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "11",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2024-11-28T18:15:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-48",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-RPA-48",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-11-14",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2024-RPA-48",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2024-RPA-48",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "c9ac78cbe4c9a3361a9a198a7b1ea30372a075d1",
+      "size": 431230,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RPA-48/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Rechnungsprüfungsausschusses",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/RPA"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/1031",
+      "https://castroprauxel.gremien.info/oparl/person/596",
+      "https://castroprauxel.gremien.info/oparl/person/400",
+      "https://castroprauxel.gremien.info/oparl/person/318",
+      "https://castroprauxel.gremien.info/oparl/person/1063",
+      "https://castroprauxel.gremien.info/oparl/person/627",
+      "https://castroprauxel.gremien.info/oparl/person/667",
+      "https://castroprauxel.gremien.info/oparl/person/1189",
+      "https://castroprauxel.gremien.info/oparl/person/1007",
+      "https://castroprauxel.gremien.info/oparl/person/873",
+      "https://castroprauxel.gremien.info/oparl/person/814",
+      "https://castroprauxel.gremien.info/oparl/person/1185",
+      "https://castroprauxel.gremien.info/oparl/person/498",
+      "https://castroprauxel.gremien.info/oparl/person/242",
+      "https://castroprauxel.gremien.info/oparl/person/931",
+      "https://castroprauxel.gremien.info/oparl/person/928",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/999",
+      "https://castroprauxel.gremien.info/oparl/person/661",
+      "https://castroprauxel.gremien.info/oparl/person/560"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-RPA-48",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-01-06",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-RPA-48",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-RPA-48",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 438637,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2024-11-28T17:00:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-RPA-48",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-01-06",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-RPA-48",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-RPA-48",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 438637,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/72610100252",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-UMWA-13%7C72610100252%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/2405",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-UMWA-13",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-B3-14%7C72610100252%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/2406",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B3-14",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2006-10-26",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/72610100252",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=72610100252&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=72610100252&id=69",
+      "fileName": "72610100252",
+      "id": "https://castroprauxel.gremien.info/oparl/file/72610100252",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2006/250",
+      "size": 1006701,
+      "text": "als;aufstellung;ausschuss;ausweichstandort;baugesetzbuches;bauleitplanung;bebauungsplan;bebauungsplanentwurfes;bebauungsplanes;bebauungsplanverfahren;beigeordneter;berechtigung;berührung;betriebsausschuss;bkieingg;bockenfelder;bundeskleingartengesetz;castrop-rauxel;dauerkleingarten;dauerkleingärten;dauerkleingartenanlage;festsetzung;fläche;flächen;fördergelder;freiflächen;friedhofes;geltungsbereich;gewerbegebiet;gleisdreieck;grabeländer;hellweg;iii;inhalte;johannesstraße;karte;kleingarten;kleingartenanlagen;kleingärtnern;kriterien;lohfeld;merklinde;merklinder;nutzung;planbereich;plangebiet;planungsanlass;planungssicherheit;sitzungsvorlage;stadtentwicklung;stadtplanung;technischer;top-nr;umweltausschuss;verkehr;wittener;bauleitplanung;bebauungsplan;nr;185;planbereich;dauerkleingarten;lohfeld;hier;beschluss;zur;aufstellung;des;bebauungsplanentwurfes;2006/250;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "BAULEITPLANUNG\r\nBebauungsplan Nr. 185\r\nPlanbereich: Dauerkleingarten Lohfeld\r\nhier: Beschluss zur Aufstellung des Bebauungsplanentwurfes",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2006/250",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ]
+  }
+}

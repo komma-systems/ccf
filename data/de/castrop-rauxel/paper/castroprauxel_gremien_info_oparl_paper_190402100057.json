@@ -1,0 +1,118 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/190402100057",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=190402100057%7C20160211085211.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=190402100057%7C20160211085211.pdf%7C",
+        "fileName": "20160211085211.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C190402100057%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/190402100057",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "26cdb19f67dc1f5b1ee0b88633c99512ff657b3a",
+        "size": 223290,
+        "text": "Anlage 2: Verteilerschlüssel",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=190402100057%7C20160211095041.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=190402100057%7C20160211095041.pdf%7C",
+        "fileName": "20160211095041.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C190402100057%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/190402100057",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "4295921aea0a0266287d654f89472f34d795e0e8",
+        "size": 306620,
+        "text": "Anlage 3: öffentlich-rechtliche Vereinbarung Übernahme Schwarzarbeit",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2016-AuWi-9%7C190402100057%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6927",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2016-AuWi-9",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-B1-77%7C190402100057%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6879",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2016-B1-77",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B1"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-HFA-79%7C190402100057%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6880",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2016-HFA-79",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-RAT-92%7C190402100057%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6881",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2016-RAT-92",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2016-02-15",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/190402100057",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=190402100057&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=190402100057&id=69",
+      "fileName": "190402100057",
+      "id": "https://castroprauxel.gremien.info/oparl/file/190402100057",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2016/058",
+      "size": 181232,
+      "text": "Bereich Ordnungswesen 2016/058 öffentlich Az: 32-1 Datum: 15.02.2016 Sitzungsvorlage Beratungsfolge Datum TOP-Nr. Ausschuss für Wirtschaftsentwicklung 08.03.2016 Betriebsausschuss 1 (Kultur, Ordnung, Ausländerwesen und Feuerwehr) 09.03.2016 2 Haupt- und Finanzausschuss 15.03.2016 Rat der Stadt 17.03.2016 Betreff Abschluss einer öffentlich-rechtlichen Vereinbarung zur Übertragung der Aufgaben zur Bekämpfung der Schwarzarbeit von der Stadt Castrop-Rauxel auf die Stadt Recklinghausen Finanzielle Auswirkungen keine haushaltsmäßige Berührung X Auswirkungen siehe Sachverhalt Beschlussvorschlag Der Rat der Stadt beschließt den Abschluss einer öffentlich-rechtlichen Vereinbarung zur Übertragung der Aufgaben zur Bekämpfung der Schwarzarbeit von der Stadt Castrop-Rauxel auf die Stadt Recklinghausen mit einer Laufzeit von zunächst 3 Jahren gemäß Anlage 3 zu dieser Vorlage. Nach zwei Jahren entscheiden die kreisangehörigen Städte gemeinsam über die Fortsetzung der Arbeit der Ermittlungsgruppe Schwarzarbeit. K r a v a n j a E c k h a r d t Bürgermeister Beigeordneter Sachverhalt Situationsbeschreibung Die Konferenz der Hauptverwaltungsbeamten (HVB) der Städte und des Kreises Recklinghausen hat in der Sitzung am 24.09.2015 die Umsetzung des Themenfeldes Interkommunale Zusammenarbeit (IKZ) bei der Bekämpfung der Schwarzarbeit beschlossen. Sie realisiert damit einen Beschluss der Finanzkommission, der Räte und des Kreistages. Dieser Beschluss wurde zur Verbesserung der Wirtschaftlichkeit, der Einsparung von Haushaltsmitteln, dem Erhalt der Leistungsfähigkeit der Städte und des Kreises, der Bürgerfreundlichkeit und der Wahrung der kommunalen Selbstverwaltung zur Neuzuordnung verschiedener kommunaler Aufgaben in den Räten der Städte und im Kreistag aufbauend auf die Beschlussvorlage der Finanzkommission gefasst. Im Themenfeld „Bekämpfung der Schwarzarbeit“ soll die örtliche Kompetenz durch eine Verstärkung der Zusammenarbeit der Städte untereinander verbessert werden. Die Arbeit wird dann durch eine regelmäßig tagende Ordnungsamtsleiterrunde koordiniert und moderiert. Zu der Runde wird von der Stadt Herten eingeladen. Der regelmäßige Kontakt mit der Zollverwaltung wird ebenfalls sichergestellt. Es soll eine Ermittlungsgruppe Schwarzarbeit (EGS) eingerichtet werden, die untereinander abgestimmte Verbesserungen bei der Bekämpfung der Schwarzarbeit zum Ziel hat. Die gemeindliche Kompetenz der IKZ ergibt sich aus § 2 der Gemeindeordnung NRW in Verbindung mit Artikel 28 Grundgesetz und Artikel 78 der Landesverfassung NRW sowie dem Gesetz über Kommunale Gemeinschaftsarbeit NRW (GKG NRW). Nach dem GKG NRW kommt insbesondere die öffentlich-rechtliche Vereinbarung in Betracht. Rechtsgrundlagen Die Verfolgungs- und Ahndungszuständigkeit für die Bekämpfung der Schwarzarbeit ergibt sich in Nordrhein-Westfalen (NRW) aus der Verordnung zur Bestimmung der für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach wirtschaftsrechtlichen Vorschriften zuständigen Verwaltungsbehörden vom 25. März 2014 (GV. NRW. 2014, S. 226) in der zurzeit geltenden Fassung. Dieser Erlass überträgt die Verfolgung und Ahndung der Bekämpfung der Schwarzarbeit, soweit es sich um gewerbe- und handwerksrechtliche Verstöße handelt, auf die Ordnungsbehörden der Großen kreisangehörigen Städte, im Übrigen auf die Kreisordnungsbehörden. Dadurch besteht die Möglichkeit einer Übertragung der Aufgabe zwischen den Großen kreisangehörigen Städten im Rahmen einer öffentlich rechtlichen Vereinbarung nach den §§ 23 ff des GKG NRW. Zuständig für die Bekämpfung der Schwarzarbeit sind die Großen kreisangehörigen Städte Recklinghausen, Castrop-Rauxel, Marl, Dorsten, Gladbeck und Herten sowie der Kreis Recklinghausen für die Städte Haltern am See, Oer-Erkenschwick, Datteln und Waltrop. Zurzeit erfolgt eine intensive Wahrnehmung der Aufgabe nur in den Städten Recklinghausen und Herten. Die Stadt Castrop-Rauxel konnte sich bisher auf Grund fehlender personeller Ressourcen nur marginal mit der Thematik auseinander setzen. Gleichwohl bestanden bzw. bestehen Kontakte zu den Städten Recklinghausen und Herten, um hier bei einschlägigen Hinweisen zusammen zu arbeiten. Einrichtung einer gemeinsamen Ermittlungsgruppe Schwarzarbeit (EGS) Die Vertreter der kreisangehörigen Städte und des Kreises haben sich auf die Einrichtung einer EGS für das gesamte Kreisgebiet verständigt. Auf Grund der bereits vorhanden Sach- und Fachkompetenz in den Städten Recklinghausen und Herten sollen diese beiden Städte die Bekämpfung der Schwarzarbeit übernehmen. Im Rahmen einer öffentlich-rechtlichen Vereinbarung ist die Übertragung durch die beteiligten Städte – vorbehaltlich der Zustimmung der beteiligten Räte, des Kreistages und der Bezirksregierung Münster – der aus der Bekämpfung der Schwarzarbeit resultierenden Aufgaben auf die Städte Recklinghausen bzw. Herten vorgesehen. Die EGS besteht aus zwei Teams, die jeweils mit einem Sachbearbeiter des gehobenen Dienstes (ganze Stellen) und einem Sachbearbeiter des mittleren Dienstes mit einem Stellenanteil von 0,5 Stellen besetzt werden sollen. Team I wird bei der Stadt Recklinghausen, Team II bei der Stadt Herten eingerichtet. Team I bedient das Ost-Vest (Städteverbund Haltern am See, Datteln, Oer-Erkenschwick und Waltrop; Castrop-Rauxel und Recklinghausen); Team II bedient das West-Vest (Städte Dorsten, Gladbeck, Marl und Herten). Das Ministerium für Wirtschaft, Energie, Industrie, Mittelstand und Handwerk des Landes NRW hat im Übrigen am 17.04.2015 unter Hinweis auf die seit dem 01.04.2015 geltenden erweiterten Möglichkeiten für derartige Aufgabenübertragungen vor dem Hintergrund knapper Ressourcen in Verbindung mit dem Ziel, Schwarzarbeit gleichwohl effektiv zu bekämpfen, ausdrücklich für die Möglichkeiten der Zusammenarbeit geworben. Durch Bündelung der Aufgabe der Bekämpfung der Schwarzarbeit bei einer zentralen Stelle lässt sich bezogen auf das gesamte Kreisgebiet eine einheitliche Bearbeitung bei gleichmäßiger Kontrolldichte erreichen, was als zweckmäßig und vorteilhaft anzusehen ist. Personal- und Sachkosten Kosten eines Arbeitsplatzes nach KGSt Bemessungsgrundlage für die Ermittlung der Personal- und Sachkosten bildet das aktuelle KGSt-Gutachten „Kosten eines Arbeitsplatzes 2014/15 Kostenstelle Personalkosten Sachkosten Gemeinkosten Gesamt SB A 10 73.000 9.700 1.940 84.640 SB EG 10 68.100 9.700 1.940 79.740 SB EG 8 50.500 9.700 1.940 62.140 Personal- und Sachkosten der EGS Team Kostenstelle Stellenanteil Gesamtkosten (€) Team I SB A 10 1,0 84.640 SB EG 8 0,5 31.070 Team II SB EG 10 1,0 79.740 SB EG 8 0,5 31.070 226.520 Kostenverteilung in der EGS Als Ermittlungsgrundlage der von den beteiligten Vertragspartnern in der EGS zu erbringenden Kosten dienen Strukturdaten und Kennzahlen über allgemeine Gewerbe und Handwerksbetriebe im gesamten Kreis Recklinghausen. Diese Daten sind in der Anlage 2 unter 5.1. und 5.2. abgebildet. Demnach entfällt auf die Stadt Castrop-Rauxel ein jährlicher Kostenanteil nach einem vereinbarten Verteilerschlüssel von derzeit 11,89%. Demgegenüber stehen voraussichtlich Einnahmen in gleicher Höhe. Die in der Anlage 2 unter 5.1. bis 5.2. ermittelten Kennzahlen werden jeweils zum 01.01. eines jeden Jahres auf Grundlage der Vorvorjahresdaten mit Stichtag 30.06. für die Bevölkerungszahlen und Stichtag 31.12. für die Anzahl der Gewerbe- und Handwerksbetriebe ermittelt. Diese Kennzahlen dienen der Festlegung des unter 5.3. in der Anlage 2 abgebildeten Verteilerschlüssels. Aus den prozentualen Anteilen der Bevölkerung, Gewerbebetriebe und Handwerksbetriebe jeder Stadt wird ein Mittelwert gebildet, um die anfallenden Ausgaben und erwarteten Einnahmen angemessen zu verteilen. Die EGS beteiligt die Stadt Castrop-Rauxel bei einem Überschuss nach dem gleichen Verteilerschlüssel. Umsetzung Die Aufgaben der großen kreisangehörigen Stadt Castrop-Rauxel zur Bekämpfung der Schwarzarbeit sollen auf der Grundlage der als Anlage 3 beigefügten öffentlich–rechtlichen Vereinbarung gemäß §§ 1 und 23 ff. des GKG NRW vom 01. Oktober 1979 (GV. NRW. S. 621) in Verbindung mit § 1 Abs. 3 der Verordnung zur Bestimmung der für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach wirtschaftsrechtlichen Vorschriften zuständigen Verwaltungsbehörden vom 25.03.2014 (GV. NRW. S. 223), jeweils in der zurzeit geltenden Fassung, übertragen werden. Die öffentlich-rechtliche Vereinbarung beinhaltet eine Laufzeit von zunächst 3 Jahren. Nach zwei Jahren entscheiden die kreisangehörigen Städte gemeinsam über die Fortsetzung der der Arbeit der Ermittlungsgruppe Schwarzarbeit. Die Aufsichtsbehörden wurden vorab beteiligt und haben ihre Zustimmung signalisiert. Anlagen: Anlage 1 – Finanzielle Auswirkungen Anlage 2 – Darstellung der Kennzahlen für den Verteilerschlüssel Anlage 3 – Öffentlich-rechtliche Vereinbarung 20 30 Anlage 1 - Finanzielle Auswirkungen – I. Mittelbedarf: davon Ergebnisplan Aufwendungen: 13.466,- € - Erträge von Dritten: 13.466,- € = Städtischer Eigenanteil: 0,- € davon Finanzplan Auszahlungen: 13.466,- € - Einzahlungen von Dritten: 0,- € = Städtischer Finanzierungsanteil: 13.466,- € Die benötigten Haushaltsmittel stehen zur Verfügung: JA Buchungsstelle: NEIN Siehe Erläuterungen / Angabe von Deckungsvorschlägen Erläuterungen / Angabe von Deckungsvorschlägen: Es wird davon ausgegangen, dass die Erträge die Aufwendungen decken. Durch die Abrechnungsmodalitäten der Bußgelder (Stichtag: 31.03. des Folgejahres) ergibt sich eine Abweichung in der Finanzplanung. Bei Maßnahmen des Finanzplanes: Die Maßnahme ist in der vom Rat beschlossenen Dringlichkeitsliste enthalten. Die Maßnahme ist in die vom Rat beschlossene Dringlichkeitsliste zusätzlich aufzunehmen bzw. eine Erweiterung der Maßnahme ist vorzunehmen. Die Maßnahme ist in die vom Rat zu beschließende Dringlichkeitsliste aufzunehmen. II. Auswirkungen auf die mittelfristige Haushaltsplanung: Ergebnisplan 2016 2017 2018 2019 insgesamt Personalaufwendungen € € € € € Sachaufwendungen 13.466,- € 26.932,- € 26.932,- € 13.466,- € 80.796,- € Zinsaufwendungen € € € € € Aufwendungen für Abschreib. € € € € € Zusätzliche Erträge 13.466,- € 26.932,- € 26.932,- € 13.466,- € 80.796,- € Mindererträge € € € € € Summe 0,- € 0,- € 0,- € 0,- € 0,- € Die Finanzierung ist innerhalb der mittelfristigen Haushaltsplanung für die Produktgruppe gesichert nicht gesichert III. Es wurde geprüft, dass es sich um eine Maßnahme handelt, die unter Berücksichtigung der Vorgaben des § 82 GO NRW notwendig und unabweisbar ist.Abschluss einer öffentlich-rechtlichen Vereinbarung zur Übertragung der Aufgaben zur Bekämpfung der Schwarzarbeit von der Stadt Castrop-Rauxel auf die Stadt Recklinghausen2016/058%anl%;Anlage 2: VerteilerschlüsselAnlage 3: öffentlich-rechtliche Vereinbarung Übernahme Schwarzarbeit ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Abschluss einer öffentlich-rechtlichen Vereinbarung zur Übertragung der Aufgaben zur Bekämpfung der Schwarzarbeit von der Stadt Castrop-Rauxel auf die Stadt Recklinghausen",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2016/058",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B1",
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT",
+      "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+    ]
+  }
+}

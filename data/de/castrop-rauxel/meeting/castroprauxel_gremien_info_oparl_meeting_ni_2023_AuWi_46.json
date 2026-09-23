@@ -1,0 +1,411 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AuWi-46",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AuWi-46%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AuWi-46",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7C1%7C1",
+          "date": "2023-06-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AuWi-46%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 369509,
+          "text": "1 Fragestunde für Einwohnerinnen und Einwohner   Keine Fragen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AuWi-46%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AuWi-46",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7CProtokoll%7C1",
+          "date": "2023-06-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AuWi-46%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 371573,
+          "text": "2 Einwände gegen die letzte Niederschrift   Keine Einwände.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10672",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AuWi-46%7C331405100132%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AuWi-46",
+        "name": "Förderaufruf Zukunftsfähige Innenstädte und Ortszentren Nordrhein-Westfalen\r\nHier: Fortführung Innenstadtmanagement und Übertragung auf die Lange Straße",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7C331405100132%7C1",
+          "date": "2023-06-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7C331405100132%7C1",
+          "fileName": "be_331405100132_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AuWi-46%7C331405100132%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 503935,
+          "text": "3 Förderaufruf Zukunftsfähige Innenstädte und Ortszentren Nordrhein-Westfalen Hier: Fortführung Innenstadtmanagement und Übertragung auf die Lange Straße (2023/125)   Bereichsleiterin des Bereiches Stadtentwicklung und Statistik Frau Reuter stellt die Vorlage vor.  Der Ausschuss für Wirtschaftsentwicklung und Digitalisierung empfiehlt dem Rat der Stadt einstimmig wie folgt zu beschließen:  Der Rat der Stadt Castrop-Rauxel  nimmt den Sachverhalt zur Kenntnis.  beauftragt die Verwaltung beim zuständigen Fördergeber Förderanträge zu stellen, um das Innenstadtmanagement mit dem Anmietungsfonds und den Bausteinen der Innenstadtqualitäten in erster Priorität weiter fortzuführen und den Managementprozess mit dem Anmietungsfonds auf die Lange Straße in einer zweiten Priorität zu übertragen.  beauftragt die Verwaltung, die zur Fortführung des Innenstadtmanagements sowie die zur Umsetzung des Zentrenmanagements und Anmietungsfonds (inklusive Umbauzuschlag) für den Konzentrationsbereich Lange Straße erforderlichen Mittelveranschlagungen im Rahmen der anstehenden Haushaltsplanung 2024 (inklusive mittelfristigem Finanzplanungszeitraum 2025  2027) entsprechend zu berücksichtigen.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10662",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AuWi-46%7C330901100004%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AuWi-46",
+        "name": "Bebauungsplan Nr. 246\r\n'Gewerbegebiet Alte Brüninghauser Straße'\r\n(vormals 'Gewerbegebiet Knepper')\r\nhier:\r\na) Umbenennung des Bebauungsplans\r\nb) Anpassung des Geltungsbereichs\r\nc) Entscheidung über die Stellungnahmen nach § 3 Abs. 2 BauGB\r\nd) Entscheidung über die redaktionellen Änderungen und Ergänzungen\r\ne) Satzungsbeschluss nach § 10 Abs. 1 BauGB",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7C330901100004%7C1",
+          "date": "2023-06-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7C330901100004%7C1",
+          "fileName": "be_330901100004_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AuWi-46%7C330901100004%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 422290,
+          "text": "4 Bebauungsplan Nr. 246  Gewerbegebiet Alte Brüninghauser Straße  (vormals  Gewerbegebiet Knepper ) hier: a) Umbenennung des Bebauungsplans b) Anpassung des Geltungsbereichs c) Entscheidung über die Stellungnahmen nach § 3 Abs. 2 BauGB d) Entscheidung über die redaktionellen Änderungen und Ergänzungen e) Satzungsbeschluss nach § 10 Abs. 1 BauGB (2023/127)   Bereichsleiter des Bereiches 61 Stadtplanung und Bauordnung Herr Röhnert stellt die Vorlage vor.  Der Ausschuss für Wirtschaftsentwicklung und Digitalisierung empfiehlt dem Rat der Stadt wie folgt zu beschließen:  Der Rat beschließt, a) den Bebauungsplan Nr. 246  Gewerbegebiet Knepper  umzubenennen in Bebauungsplan Nr. 246  Gewerbegebiet Alte Brüninghauser Straße . b) den Geltungsbereich des Bebauungsplans Nr. 246  Gewerbegebiet Alte Brüninghauser Straße  entsprechend der Darstellung in der Anlage 1 zu ändern. Der Rat der Stadt Castrop-Rauxel hat die vorgebrachten Stellungnahmen im Einzelnen geprüft und abgewogen. Der Rat beschließt, c) die abgegebenen Stellungnahmen insoweit zu berücksichtigen, wie es im beiliegenden Abwägungsvorschlag (Anlagen 6, 7 und 8) angegeben ist. d) die redaktionellen Änderungen zu berücksichtigen, indem der Bebauungsplan sowie die Begründung mit Umweltbericht wie im Sachverhalt beschrieben geändert werden. Der Rat schließt sich der Stellungnahme der Verwaltung an und erhebt diese zum Beschluss. Der Rat beschließt ferner, e) den Bebauungsplan Nr. 246 in seiner geänderten Fassung als Satzung und billigt die zugehörige Begründung mit Umweltbericht in ihrer geänderten Fassung. Der räumliche Geltungsbereich des Bebauungsplans ist in der zum Beschluss gehörenden Anlage1 dargestellt.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10676",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AuWi-46%7C332205100138%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AuWi-46",
+        "name": "Antrag CDU-Fraktion vom 22.05.23_Buergerkoffer",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7C332205100138%7C1",
+          "date": "2023-06-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7C332205100138%7C1",
+          "fileName": "be_332205100138_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AuWi-46%7C332205100138%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 412060,
+          "text": "5 Antrag CDU-Fraktion vom 22.05.23_Buergerkoffer (2023/133)   SB Herr von Estorff begründet den Antrag der CDU-Fraktion.  Digitalisierungsbeauftragter Herr Hermes erläutert den aktuellen Sachstand zu den Bürgerkoffern. Diese wurden bereits im Jahr 2021 angeschafft. Allerdings hat sich die Lieferung seitens der Bundesdruckerei auf Grund der Flutkatastrophe verzögert. Die Bürgerkoffer wurden in Regionen wie dem Ahrtal dringender benötigt. Der voraussichtliche Liefertermin ist für das 4.Quartal 2023 angesetzt.  RM Herr Rodammer macht deutlich, dass der Antrag bereits durch Verwaltungshandeln erledigt ist.  RM Herr Kahl merkt an, dass der von Herrn Hermes vorgetragene Sachstandsbericht bereits Teil der Sitzung des Betriebsausschusses 1 am 24.08.2022 war.  SB Herr Feller fragt an, ob die Bürgerkoffer personell ausreichend betreut werden können.  RM Herr Bettinger betont, dass der Bereichsleiter des Bürgerbüros Herr Grunau, in den letzten Ausschussrunden berichtet hat, dass sich die personelle Situation im Bürgerbüro entspannt hat.  SB Herr von Estorff zieht den Antrag für die CDU-Fraktion zurück.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10679",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AuWi-46%7C332205100139%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AuWi-46",
+        "name": "Antrag CDU-Fraktion vom 22.05.23_Self_Service_Terminal",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7C332205100139%7C1",
+          "date": "2023-06-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7C332205100139%7C1",
+          "fileName": "be_332205100139_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AuWi-46%7C332205100139%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 401637,
+          "text": "6 Antrag CDU-Fraktion vom 22.05.23_Self_Service_Terminal (2023/134)    SB Herr Völker begründet den Antrag der CDU-Fraktion.  Der Ausschuss für Wirtschaftsentwicklung und Digitalisierung lehnt den Antrag bei 4 Ja-Stimmen mehrheitlich ab.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10683",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AuWi-46%7C332305100146%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AuWi-46",
+        "name": "Antrag SPD-Fraktion und Bündnis 90 Die Grünen vom 22.05.2023_Gründungen-Nachfolge",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7C332305100146%7C1",
+          "date": "2023-06-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7C332305100146%7C1",
+          "fileName": "be_332305100146_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AuWi-46%7C332305100146%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 402264,
+          "text": "7 Antrag SPD-Fraktion und Bündnis 90 Die Grünen vom 22.05.2023_Gründungen-Nachfolge (2023/141)   RM Herr Werkle begründet den Antrag. \u000bDer Ausschuss für Wirtschaftsentwicklung und Digitalisierung stimmt dem Antrag einstimmig zu.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10682",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AuWi-46%7C332205100142%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AuWi-46",
+        "name": "Bericht zur Entwicklung der Standortanfragen 2022",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7C332205100142%7C1",
+          "date": "2023-06-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7C332205100142%7C1",
+          "fileName": "be_332205100142_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AuWi-46%7C332205100142%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 401347,
+          "text": "8 Bericht zur Entwicklung der Standortanfragen 2022 (2023/137)   Leiter der Wirtschaftsförderung Herr Ratte stellt die Vorlage vor.  Der Ausschuss für Wirtschaftsentwicklung und Digitalisierung nimmt den Bericht zur Entwicklung der Standortanfragen 2022 zur Kenntnis.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10685",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AuWi-46%7C332405100147%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AuWi-46",
+        "name": "Wirtschaftspolitisches Leitbild/Ansiedlungskompass",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7C332405100147%7C1",
+          "date": "2023-06-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7C332405100147%7C1",
+          "fileName": "be_332405100147_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AuWi-46%7C332405100147%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 407549,
+          "text": "9 Wirtschaftspolitisches Leitbild/Ansiedlungskompass (2023/142)    Geschäftsführer der CAS-Wirtschaftsförderungs- und Stadtteilmanagement GmbH Herr Langensiepen stellt die Vorlage vor.  SB Herr Neuhaus fragt an, ob über die Entscheidung einer Nichtberücksichtigung von Unternehmen auf Grund dieses Leitbildes berichtet werden kann.  Herr Langensiepen bejaht dies und betont, dass dieses Leitbild genau aus dem Grund der Transparenz entwickelt wurde.  Der Ausschuss für Wirtschaftsentwicklung und Digitalisierung empfiehlt dem Rat der Stadt mehrheitlich bei 1 Nein-Stimme und 1 Enthaltung das in der Vorlage beschriebene Wirtschaftspolitische Leitbild zu beschließen.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AuWi-46%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AuWi-46",
+        "name": "Aktuelles aus dem Bereich Digitalisierung",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7Czt_0%7C1",
+          "date": "2023-06-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AuWi-46%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 398949,
+          "text": "10 Aktuelles aus dem Bereich Digitalisierung   Digitalisierungsbeauftragter Herr Hermes berichtet über den aktuellen Sachstand zum Thema Smart Vest. In diesem Zuge lädt er die Ausschussmitglieder zur Kick-Off-Veranstaltung des Digitaltages ein. Dieser findet am 16.06.2023 in der Zeit von 13 bis 16 Uhr auf dem Dr. Helene-Kuhlmann-Platz in Recklinghausen statt. Weitere Infos werden in Kürze auch auf folgender Homepage abrufbar sein: VestDigital.de  Des Weiteren berichtet Herr Hermes über den aktuellen Sachstand zum Thema OZG 2.0.  Der Ausschuss für Wirtschaftsentwicklung und Digitalisierung nimmt die Berichte zur Kenntnis.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2023-AuWi-46%7Czt_2%7C1%7C20230607110527-0_zt_2_1.pdf",
+            "date": "2023-06-07",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2023-AuWi-46%7Czt_2%7C1%7C20230607110527-0_zt_2_1.pdf",
+            "fileName": "20230607110527-0_zt_2_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2023-AuWi-46%7Czt_2%7C1%7C20230607110527-0_zt_2_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "2023-06-06 Aktueller Stand Glasfaserausbau",
+            "size": 2009871,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AuWi-46%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AuWi-46",
+        "name": "Breitbandausbau\r\nhier: Aktueller Sachstand",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7Czt_2%7C1",
+          "date": "2023-06-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AuWi-46%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 385128,
+          "text": "11 Breitbandausbau hier: Aktueller Sachstand   Leiter der Wirtschaftsförderung Herr Ratte berichtet zum aktuellen Sachstand des Glasfaserausbaus.  Der Ausschuss für Wirtschaftsentwicklung und Digitalisierung nimmt den Bericht zur Kenntnis.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AuWi-46%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AuWi-46",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7C6%7C1",
+          "date": "2023-06-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AuWi-46%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 372628,
+          "text": "12 Anfragen der Ausschussmitglieder   Keine Anfragen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AuWi-46%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AuWi-46",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "13",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7C4%7C1",
+          "date": "2023-06-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AuWi-46%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AuWi-46%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 13",
+          "size": 368464,
+          "text": "13 Mitteilungen der Verwaltung   Keine Mitteilungen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AuWi-46%7Czt_1%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AuWi-46",
+        "name": "Bericht zu aktuellen Ansiedlungen",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AuWi-46%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AuWi-46",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AuWi-46%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AuWi-46",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2023-06-06T17:56:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AuWi-46",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2023-AuWi-46",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-05-24",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2023-AuWi-46",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2023-AuWi-46",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "7c360e87977a1d4f05380bf54c2010c0faf79220",
+      "size": 436527,
+      "text": "Tagesordnung zur Sitzung des Ausschusses für Wirtschaftsentwicklung und Digitalisierung am Dienstag, 06.06.2023 um 17:00 Uhr im Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel  I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner  2. Einwände gegen die letzte Niederschrift  3. Förderaufruf Zukunftsfähige Innenstädte und Ortszentren Nordrhein-Westfalen Hier: Fortführung Innenstadtmanagement und Übertragung auf die Lange Straße  4. Bebauungsplan Nr. 246  Gewerbegebiet Alte Brüninghauser Straße  (vormals  Gewerbegebiet Knepper ) hier: a) Umbenennung des Bebauungsplans b) Anpassung des Geltungsbereichs c) Entscheidung über die Stellungnahmen nach § 3 Abs. 2 BauGB d) Entscheidung über die redaktionellen Änderungen und Ergänzungen e) Satzungsbeschluss nach § 10 Abs. 1 BauGB  5. Antrag CDU-Fraktion vom 22.05.23_Buergerkoffer  6. Antrag CDU-Fraktion vom 22.05.23_Self_Service_Terminal  7. Antrag SPD-Fraktion und Bündnis 90 Die Grünen vom 22.05.2023_Gründungen-Nachfolge  8. Bericht zur Entwicklung der Standortanfragen 2022  9. Wirtschaftspolitisches Leitbild/Ansiedlungskompass  10. Aktuelles aus dem Bereich Digitalisierung  11. Breitbandausbau hier: Aktueller Sachstand  12. Anfragen der Ausschussmitglieder  13. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  1. Bericht zu aktuellen Ansiedlungen  2. Anfragen der Ausschussmitglieder  3. Mitteilungen der Verwaltung    Josef Berkel Ausschussvorsitzender \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AuWi-46/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschusses für Wirtschaftsentwicklung und Digitalisierung",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/1031",
+      "https://castroprauxel.gremien.info/oparl/person/1029",
+      "https://castroprauxel.gremien.info/oparl/person/748",
+      "https://castroprauxel.gremien.info/oparl/person/645",
+      "https://castroprauxel.gremien.info/oparl/person/626",
+      "https://castroprauxel.gremien.info/oparl/person/1052",
+      "https://castroprauxel.gremien.info/oparl/person/1070",
+      "https://castroprauxel.gremien.info/oparl/person/1086",
+      "https://castroprauxel.gremien.info/oparl/person/1057",
+      "https://castroprauxel.gremien.info/oparl/person/1199",
+      "https://castroprauxel.gremien.info/oparl/person/420",
+      "https://castroprauxel.gremien.info/oparl/person/820",
+      "https://castroprauxel.gremien.info/oparl/person/1202",
+      "https://castroprauxel.gremien.info/oparl/person/1003",
+      "https://castroprauxel.gremien.info/oparl/person/612",
+      "https://castroprauxel.gremien.info/oparl/person/1025",
+      "https://castroprauxel.gremien.info/oparl/person/969"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-AuWi-46",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-07-04",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-AuWi-46",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-AuWi-46",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 494256,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2023-06-06T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-AuWi-46",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-07-04",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-AuWi-46",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-AuWi-46",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 494256,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36323",
+  "modified_at": "2026-09-18T12:11:25+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370181.pdf",
+        "created": "2026-09-16T14:40:02+02:00",
+        "date": "2026-09-16",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370181.pdf",
+        "fileName": "00370181.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370181",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-18T12:11:26+02:00",
+        "name": "Antwort auf Anfragen",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141782",
+        "created": "2026-09-11T09:48:32+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68803",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24672",
+        "modified": "2026-09-23T18:10:25+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/267"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36323",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-10T14:37:31+02:00",
+    "date": "2026-09-11",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36323",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-18T12:11:25+02:00",
+    "name": "Antwort auf die Anfrage des Jugendrings Wuppertal e. V. vom 31.08.2026 - Sozialverträglicher Zugang zu Wuppertaler Freibädern",
+    "paperType": "Antwort auf Anfragen",
+    "reference": "VO/1115/26-A",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/12"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/70711100262",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-UMWA-13%7C70711100262%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/2424",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-UMWA-13",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-B3-14%7C70711100262%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/2425",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B3-14",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-RAT-18%7C70711100262%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/2426",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-RAT-18",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2006-11-07",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/70711100262",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=70711100262&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=70711100262&id=69",
+      "fileName": "70711100262",
+      "id": "https://castroprauxel.gremien.info/oparl/file/70711100262",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2006/260",
+      "size": 1076930,
+      "text": "anlage;anpflanzung;aufsichtsbehörde;ausbau;ausgleich;ausschuss;bauaustellung;bäumen;bauweise;bebauung;bedeutung;beigeordneter;beisenherz;bereichs-budgets;berücksichtigung;berührung;besitz;betriebsausschuss;bezirksregierung;castrop-rauxel;dobrindt;dringlichkeitsliste;dritten;eigenanteil;emscher-lippe;emscherpark;engstelle;ergänzung;erläuterungen;erlöse;erwerb;finanzierung;finanzplanungszeitraum;fläche;flächen;flächenankauf;flächenerwerb;folgekosten;förderung;fuß-;fußwegebau;fußweges;gehölzen;gesamtkosten;gewässer;gewässersanierungen;grunderwerb;grünzug;grünzug-e-planungen;grünzuges;haushaltsstelle;herner;hsk-planung;iba;iii;internationalen;investitionsliste;komplettierung;kreises;lageplan;lückenschluss;mindereinnahmen;münster;nein;nrw;obstbäumen;personalkosten;planungsaussagen;projekte;rad-;radweg;radwegeausbau;radweges;radwegesystems;radwegeverbindung;rahmen;recklinghausen;regionalen;rossbach;rossbaches;sachkosten;schlüsselgrundstück;sitzungsvorlage;stadtentwicklung;städtischer;str;techn;top-nr;umweltausschuss;verkehr;verlegung;vermögens-hh;verwaltungs-hh;vorgaben;vorraussetzung;wegebaumaßnahme;weges;wegeteilstücks;zire-mittel;grunderwerb;einer;fläche;am;rossbach;/;südlich;herner;straße;sowie;bau;/;ergänzung;eines;fuß-;und;radweges;im;grünzug;e;2006/260;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Grunderwerb einer Fläche am Rossbach / südlich Herner Straße sowie \r\nBau / Ergänzung eines Fuß- und Radweges  im Grünzug E",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2006/260",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

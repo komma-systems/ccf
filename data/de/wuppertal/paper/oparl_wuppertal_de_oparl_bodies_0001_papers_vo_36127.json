@@ -1,0 +1,89 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36127",
+  "modified_at": "2026-09-08T10:13:12+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368417.pdf",
+        "created": "2026-08-06T14:50:27+02:00",
+        "date": "2026-08-06",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368417.pdf",
+        "fileName": "00368417.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368417",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T10:13:12+02:00",
+        "name": "Lageplan_1",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368422.pdf",
+        "created": "2026-08-06T14:56:01+02:00",
+        "date": "2026-08-26",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368422.pdf",
+        "fileName": "00368422.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368422",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T10:13:12+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369571.pdf",
+        "created": "2026-09-07T10:27:58+02:00",
+        "date": "2026-09-07",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369571.pdf",
+        "fileName": "00369571.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369571",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T10:13:12+02:00",
+        "name": "Beschlussauszug BV Heck 01.09.26",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141190",
+        "authoritative": true,
+        "created": "2026-08-06T15:15:25+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68417",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24579",
+        "modified": "2026-09-02T07:42:50+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/46"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36127",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141287",
+        "authoritative": true,
+        "created": "2026-08-17T10:01:03+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68418",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24630",
+        "modified": "2026-09-21T11:47:50+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/274"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36127",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-06T13:52:20+02:00",
+    "date": "2026-08-06",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36127",
+    "modified": "2026-09-08T10:13:12+02:00",
+    "name": "Waldeckstraße - Einrichtung einer Radverkehrsanlage im Zuge der Straßensanierung, Vorlage VO/0611/26",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/0933/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/6"
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/272301100022",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272301100022%7C20200127115857-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-27",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272301100022%7C20200127115857-0.pdf%7C",
+        "fileName": "20200127115857-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272301100022%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272301100022",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "ccfc9ba4c4da0280f4610745dfaaee8bb2643e06",
+        "size": 1466152,
+        "text": "Abweichungsanalyse 30.09.2019",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272301100022%7C20200127115915-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-27",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272301100022%7C20200127115915-0.pdf%7C",
+        "fileName": "20200127115915-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272301100022%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272301100022",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "51d9d1e1115b0414c7129e086c92452c2444db0e",
+        "size": 597984,
+        "text": "2019 Muster 1",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272301100022%7C20200127115923-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-27",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272301100022%7C20200127115923-0.pdf%7C",
+        "fileName": "20200127115923-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272301100022%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272301100022",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "33015e9898ce64ae55816955be24e81e6fd9d14d",
+        "size": 645779,
+        "text": "2019 Muster 1a",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272301100022%7C20200127115928-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-27",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272301100022%7C20200127115928-0.pdf%7C",
+        "fileName": "20200127115928-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272301100022%7C4",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272301100022",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 4",
+        "sha1Checksum": "031de3b121bb28eef6c23cda873b148b36c3fb83",
+        "size": 1320420,
+        "text": "2019 Muster 2",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272301100022%7C20200127115934-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-27",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272301100022%7C20200127115934-0.pdf%7C",
+        "fileName": "20200127115934-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272301100022%7C5",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272301100022",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 5",
+        "sha1Checksum": "7ff5d9f190c29f8d6e2659a6b778100125e7a887",
+        "size": 547124,
+        "text": "2019 Muster 3a",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272301100022%7C20200127115938-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-27",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272301100022%7C20200127115938-0.pdf%7C",
+        "fileName": "20200127115938-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272301100022%7C6",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272301100022",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 6",
+        "sha1Checksum": "397e10ea85020943d8d09ca262a387f1a686939a",
+        "size": 1553511,
+        "text": "2019 Muster 5",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272301100022%7C20200127120002-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-27",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272301100022%7C20200127120002-0.pdf%7C",
+        "fileName": "20200127120002-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272301100022%7C7",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272301100022",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 7",
+        "sha1Checksum": "eda601ec791d225a9fe9348c1f6c523b98ee8199",
+        "size": 638631,
+        "text": "Anlage 1 Finanzcontrolling 30.09.2019",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272301100022%7C20200127120009-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-27",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272301100022%7C20200127120009-0.pdf%7C",
+        "fileName": "20200127120009-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272301100022%7C8",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272301100022",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 8",
+        "sha1Checksum": "df810e2ddad235f6af2e2b3cce4172f2d6512b65",
+        "size": 5677081,
+        "text": "Finanzcontrolling 30.10.2019",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-HFA-101%7C272301100022%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8820",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-HFA-101",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-116%7C272301100022%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8821",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-116",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-01-23",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/272301100022",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272301100022&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272301100022&id=69",
+      "fileName": "272301100022",
+      "id": "https://castroprauxel.gremien.info/oparl/file/272301100022",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/018",
+      "size": 143697,
+      "text": " Bereich Finanzen 2020/018 öffentlich  Az:     Datum: 23.01.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Haupt- und Finanzausschuss 25.02.2020   Rat der Stadt 27.02.2020    Betreff  Sachstandsbericht Haushaltssanierungsplan 2019 - Stand 30.09.2019 (Berichterstattung gegenüber der Bezirksregierung Münster)  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  Der Rat der Stadt nimmt den Sachstandsbericht (Stand 30.09.2019) der Verwaltung zum Haushaltssanierungsplan 2019 gegenüber der Bezirksregierung Münster zur Kenntnis.   \f  \f______________        ______________ Kravanja         Eckhardt  Bürgermeister        Erster Beigeordneter/           Stadtkämmerer  \f Sachverhalt  Der Rat der Stadt hat in seiner Sitzung vom 29.11.2018 den fortgeschriebenen Haushaltssanierungsplan 2019  2021 beschlossen. Dieser wurde mit Verfügung der Bezirksregierung Münster vom 29.03.2019 genehmigt.   Gemäß § 6 Abs. 3 Stärkungspaktgesetz NRW ist der Haushaltssanierungsplan jährlich fortzuschreiben und der Bezirksregierung Münster spätestens am 01. Dezember vor Beginn des Haushaltsjahres zur Genehmigung vorzulegen.   Gemäß Verfügung der Bezirksregierung Münster zu § 7 Stärkungspaktgesetz NRW ist der Bericht zur Umsetzung des Haushaltssanierungsplans im laufenden Haushaltsjahr zum Stand 30. September der Bezirksregierung bis spätestens 01. Dezember vorzulegen.   Der genannte Bericht wiederum ist wesentliche Grundlage für den gemäß § 7 Abs. 2 Stärkungspaktgesetz NRW vorzulegenden Bericht der Bezirksregierung an das Ministerium für Inneres und Kommunales bzw. Heimat, Kommunales, Bau und Gleichstellung des Landes Nordrhein-Westfalen.   Der zum 01.12.2019 der Bezirksregierung vorgelegte Bericht samt Anlagen wird dem Rat der Stadt mit dieser Vorlage zur Kenntnis gegeben.     \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Sachstandsbericht Haushaltssanierungsplan 2019 - Stand 30.09.2019\r\n(Berichterstattung gegenüber der Bezirksregierung Münster)",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/018",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

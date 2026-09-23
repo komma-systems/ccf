@@ -1,0 +1,62 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36161",
+  "modified_at": "2026-08-17T11:28:39+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368578.pdf",
+        "created": "2026-08-17T11:23:57+02:00",
+        "date": "2026-08-17",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368578.pdf",
+        "fileName": "00368578.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368578",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-17T11:28:39+02:00",
+        "name": "Gemeinsame große Anfrage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368579.pdf",
+        "created": "2026-08-17T11:27:11+02:00",
+        "date": "2026-08-17",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368579.pdf",
+        "fileName": "00368579.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368579",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-17T11:28:39+02:00",
+        "name": "Gemeinsame Große Anfrage des BSW, B90/G und Die Linke",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141305",
+        "created": "2026-08-17T11:29:18+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68486",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24783",
+        "modified": "2026-08-25T15:47:09+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/45"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36161",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-17T11:23:49+02:00",
+    "date": "2026-08-17",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36161",
+    "modified": "2026-08-17T11:28:39+02:00",
+    "name": "Entfernung von Spielhallen - Gemeinsame Große Anfrage des BSW, B90/G und Die Linke",
+    "paperType": "Gemeinsame große Anfrage",
+    "reference": "VO/0965/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

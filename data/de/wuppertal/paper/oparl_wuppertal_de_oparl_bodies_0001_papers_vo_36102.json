@@ -1,0 +1,63 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36102",
+  "modified_at": "2026-08-26T12:28:27+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368789.pdf",
+        "created": "2026-08-20T14:25:58+02:00",
+        "date": "2026-08-20",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368789.pdf",
+        "fileName": "00368789.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368789",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-26T09:25:14+02:00",
+        "name": "Anlage 1",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368878.pdf",
+        "created": "2026-08-24T15:56:42+02:00",
+        "date": "2026-08-24",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368878.pdf",
+        "fileName": "00368878.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368878",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-26T09:25:14+02:00",
+        "name": "Bericht",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141409",
+        "authoritative": true,
+        "created": "2026-08-25T08:15:24+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68374",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24597",
+        "modified": "2026-09-03T10:57:45+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/40"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36102",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-27T14:25:32+02:00",
+    "date": "2026-08-25",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36102",
+    "modified": "2026-08-26T12:28:27+02:00",
+    "name": "Antwort der Verwaltung zum Prüfauftrag vom 22.06.2026 zur Beleuchtungssituation am Rutenbecker Weg",
+    "paperType": "Bericht",
+    "reference": "VO/1029/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/6"
+    ]
+  }
+}

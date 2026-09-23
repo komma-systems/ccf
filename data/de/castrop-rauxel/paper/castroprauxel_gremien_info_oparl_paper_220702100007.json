@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/220702100007",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2017-EUV-17%7C220702100007%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7356",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2017-EUV-17",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2017-02-07",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/220702100007",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=220702100007&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=220702100007&id=69",
+      "fileName": "220702100007",
+      "id": "https://castroprauxel.gremien.info/oparl/file/220702100007",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2017/EUV/008",
+      "size": 152513,
+      "text": "Datum: 07.02.2017 TB I 9686-500 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 08.03.2016 TOP: I.4 Drucksache-Nr. 2017/EUV/008 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 21.06.2017 4 Rat der Stadt 06.07.2017 Betreff: Bestellung des Vorstandes EUV Stadtbetrieb Castrop-Rauxel - Anstalt öffentlichen Rechts - ab 01.01.2018 Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Bechlussvorschlag: Der Verwaltungsrat beschließt, Herrn Michael Werner ab 01.01.2018 erneut zum Vorstand des EUV Stadtbetrieb – AöR zu bestellen. In Vertretung In Vertretung __________________ __________________ Linke Werth-von Kampen stellv. Vorstand stellv. Vorstand Sachverhalt: Der derzeitige Vorstand, Herr Michael Werner, ist bis zum 31.12.2017 als Vorstand des EUV Stadtbetrieb gem. des Beschlusses des Rates vom 21.06.2012 (Drucksache 2012/236) einstimmig bestellt worden. Der Verwaltungsrat entscheidet gem. § 5 Abs. 2 Nr. 3 über die Bestellung und Abberufung des Vorstandes der Kommunalunternehmenssatzung der Stadt Castrop-Rauxel, EUV Stadtbetrieb, Anstalt öffentlichen Rechts, in der gültigen Fassung. Er unterliegt dabei dem § 9 Abs. 1 der Kommunalunternehmenssatzung für den EUV der Weisung des Rates der Stadt Castrop-Rauxel. Gem. § 7 Abs. 2 der Satzung für das Kommunalunternehmens der Stadt Castrop-Rauxel, EUV Stadtbetrieb, wird der Vorstand auf die Dauer von 5 Jahren bestellt, eine erneute Bestellung ist zulässig. Diese Beschlussfassung des Verwaltungsrates ist durch den Rat der Stadt Castrop-Rauxel zu bestätigen.%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Bestellung des Vorstandes EUV Stadtbetrieb Castrop-Rauxel - Anstalt öffentlichen Rechts - ab 01.01.2018",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2017/EUV/008",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

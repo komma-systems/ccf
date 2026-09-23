@@ -1,0 +1,47 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/141601100024",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-B2-58%7C141601100024%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5440",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B2-58",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B2"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2013-01-16",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/141601100024",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=141601100024&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=141601100024&id=69",
+      "fileName": "141601100024",
+      "id": "https://castroprauxel.gremien.info/oparl/file/141601100024",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2013/025",
+      "size": 176434,
+      "text": "bereich stadtentwicklung und wirtschaftsförderung 2013/025 öffentlich az: datum: 16.01.2013 sitzungsvorlage beratungsfolge datum top-nr. betriebsausschuss 2 (ausschuss für jugend, schule und soziales) 07.02.2013 betreff soziale stadt habinghorst hier: vorstellung der sozial-flankierenden maßnahmen finanzielle auswirkungen x keine haushaltsmäßige berührung auswirkungen siehe sachverhalt beschlussvorschlag der betriebsausschuss 2 nimmt den sachstandbericht zum projekt „soziale stadt habinghorst“ und den sozial-flankierenden maßnahmen zur kenntnis. die verwaltung wird beauftragt, in einem halbjährlichen turnus über die eingeleiteten maßnahmen zu berichten. j. beisenherz glöß bürgermeister erste beigeordnete sachverhalt das projekt „soziale stadt habinghorst“, offiziell gefördert bis zum 31.12.2014, hat vor kurzem sein „bergfest“ gefeiert. die ersten baulichen maßnahmen sind auf den weg gebracht (am 5.11.2012 begannen die ersten arbeiten für den stadtteilpark lange straße/wartburgstraße), die ausschreibungen für die „umgestaltung des schulhofes der fridtjof-nansen-realschule“ und der „grünen achse“ sind auf den weg gebracht und die fördergelder aus düsseldorf für das großprojekt der umgestaltung der lange straße einschl. lichtkonzept sind bewilligt. neben diesen im stadtbild sichtbaren veränderungen, sind eine reihe von sozial-flankierenden maßnahmen schon begonnen worden bzw. starten in kürze. im letzten stadtteilbeirat am 9. januar 2013 wurde z. b. über das projekt „stadtteilmütter“ mündlich informiert. im betriebsausschuss 2 wird ein umfassender bericht über die sozial-flankierenden maßnahmen und die bürgerschaftlichen aktivitäten vorgetragen. dieser bericht erfolgt in wort und bild durch herrn martin elbl vom stadtteilbüro habinghorst.soziale stadt habinghorst hier: vorstellung der sozial-flankierenden maßnahmen2013/025%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Soziale Stadt Habinghorst\r\nhier: Vorstellung der sozial-flankierenden Maßnahmen",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2013/025",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2"
+    ]
+  }
+}

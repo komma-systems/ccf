@@ -1,0 +1,77 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/272804100103",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272804100103%7C20200428112834-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-04-28",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272804100103%7C20200428112834-0.pdf%7C",
+        "fileName": "20200428112834-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272804100103%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272804100103",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "bfc3c825c0805c979a4165607cf16708dca24c5a",
+        "size": 1158636,
+        "text": "Antrag UBP Fraktion vom 28.04.2020_Antrag Rats-TV",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-117%7C272804100103%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8923",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-117",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-118%7C272804100103%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8924",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-118",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-04-28",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/272804100103",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272804100103&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272804100103&id=69",
+      "fileName": "272804100103",
+      "id": "https://castroprauxel.gremien.info/oparl/file/272804100103",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/094",
+      "size": 38749,
+      "text": " Bereich Stabsstelle Ratsangelegenheiten 2020/094 öffentlich  Az:     Datum: 28.04.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Rat der Stadt 30.04.2020 23  Rat der Stadt 25.06.2020 39   Betreff  Antrag UBP Fraktion vom 20.04.2020_Antrag Rats-TV  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Siehe Anlage.  \f  \f gez. Thomas Schmidt Fraktionsvorsitzender UBP  \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Antrag UBP Fraktion vom 20.04.2020_Antrag Rats-TV",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/094",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/RAT",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "council_id": "muenster",
+  "record_type": "paper",
+  "source_id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056581",
+  "modified_at": "2026-08-28T11:20:50+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588557.pdf",
+        "created": "2026-08-28T11:19:20+02:00",
+        "date": "2026-08-28",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588557.pdf",
+        "fileName": "00588557.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588557",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-28T11:20:50+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://oparl.stadt-muenster.de/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/287886",
+        "created": "2026-08-26T16:27:54+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91605",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14530",
+        "modified": "2026-09-17T09:02:32+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/482"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056581",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-19T16:50:31+02:00",
+    "date": "2026-08-20",
+    "id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056581",
+    "modified": "2026-08-28T11:20:50+02:00",
+    "name": "Jahresabschluss der citeq 2025 - Entlastung der Betriebsleitung",
+    "paperType": "Vorlagen",
+    "reference": "V/0463/2026",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "https://oparl.stadt-muenster.de/bodies/0001/organizations/at/100018"
+    ]
+  }
+}

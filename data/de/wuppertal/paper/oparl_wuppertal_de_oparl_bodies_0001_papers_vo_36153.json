@@ -1,0 +1,91 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36153",
+  "modified_at": "2026-09-14T12:57:03+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368533.pdf",
+        "created": "2026-08-14T10:31:50+02:00",
+        "date": "2026-09-07",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368533.pdf",
+        "fileName": "00368533.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368533",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-14T12:57:03+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370002.pdf",
+        "created": "2026-09-11T12:07:17+02:00",
+        "date": "2026-09-11",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370002.pdf",
+        "fileName": "00370002.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370002",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-14T12:57:03+02:00",
+        "name": "Zweite Satzung zur Änderung der Satzung zur Erhebung einer Beherbergungsabgabe in der Stadt Wuppertal vom 16.12.2019",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141260",
+        "created": "2026-08-14T12:10:53+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68475",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24698",
+        "modified": "2026-09-22T17:36:42+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/270"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36153",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141723",
+        "created": "2026-09-09T10:44:31+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68476",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24654",
+        "modified": "2026-09-21T12:13:02+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36153",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141844",
+        "created": "2026-09-16T08:46:02+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68477",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24543",
+        "modified": "2026-09-23T10:41:34+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36153",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-14T10:22:44+02:00",
+    "date": "2026-08-14",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36153",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-14T12:57:03+02:00",
+    "name": "Zweite Satzung zur Änderung der Satzung zur Erhebung einer Infrastrukturförderabgabe in der Stadt Wuppertal vom 16.12.2019",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/0958/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/65"
+    ]
+  }
+}

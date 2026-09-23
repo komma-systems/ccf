@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/241306100026",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-22%7C241306100026%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7952",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2018-EUV-22",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2018-06-13",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/241306100026",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=241306100026&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=241306100026&id=69",
+      "fileName": "241306100026",
+      "id": "https://castroprauxel.gremien.info/oparl/file/241306100026",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2018/EUV/027",
+      "size": 152496,
+      "text": "/  Datum:  13.06.2018   UWR/E 9686-330      Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 20.06.2018 TOP: Drucksache-Nr. 2018/EUV/027     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 20.06.2018   Umweltausschuss 26.06.2018     Betreff:  KliMarkt in Castrop-Rauxel     Finanzielle Auswirkungen gem. Wirtschaftsplan   ja Gesamtkosten       X nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat nimmt die Planungen  zum KliMarkt in Castrop-Rauxel zur Kenntnis.   \f  \f  ________________________ Werner \f Sachverhalt:  Der EUV Stadtbetrieb Castrop-Rauxel AöR- plant im Rahmen des Auftakts der KlimaChallenge Ruhr (ehemals Klimawochen Ruhr) am Freitag, den 21.09.2018 von 15.00 - 19.30 Uhr einen sogenannten KliMarkt auf dem Marktplatz oder Boulevard von Castrop-Rauxel zu veranstalten.   Es sollen Produkte der folgenden Güte angeboten werden: regional, bio, fair gehandelt, klimaneutral, recycled, etc. Mit der Veranstaltung soll dem Thema Nachhaltigkeit zum ersten Mal in Castrop-Rauxel, die volle Aufmerksamkeit zuteilwerden. Bei großer Nachfrage, soll der KliMarkt fester Bestandteil im Veranstaltungsrepertoire Castrop-Rauxels werden.  Weiterer Bericht in der Sitzung.     \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "KliMarkt in Castrop-Rauxel",
+    "paperType": "Tischvorlage",
+    "reference": "2018/EUV/027",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

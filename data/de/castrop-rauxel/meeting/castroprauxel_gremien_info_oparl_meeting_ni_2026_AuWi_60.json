@@ -1,0 +1,223 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AuWi-60",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AuWi-60%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AuWi-60",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17549",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AuWi-60%7C402206100172%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AuWi-60",
+        "name": "Antrag der CDU-Fraktion_Nacht der Ausbildung",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AuWi-60%7C402206100172%7C1",
+          "date": "2026-08-17",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AuWi-60%7C402206100172%7C1",
+          "fileName": "be_402206100172_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AuWi-60%7C402206100172%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 182031,
+          "text": "  2 Antrag der CDU-Fraktion_Nacht der Ausbildung (2026/166)     Frau Vogt begründet den Antrag der CDU-Fraktion. Herr Langensiepen, Geschäftsführer der Wirtschaft und Marketing Castrop-Rauxel GmbH, führt aus, dass eine Nacht der Ausbildung bisher aus personellen Gründen nicht stattfinden konnte bzw. eine andere Veranstaltung weichen müsste. \u000bDie Veranstaltungsserie Job Speeddating stelle allerdings eine Alternative zu einer Nacht der Ausbildung dar und wurde in der Vergangenheit auch durch Ausbildungssuchende besucht. Zur Bedarfsermittlung einer möglichen Nacht der Ausbildung schlägt das Ausschussmitglied Herr Hermes vor, die Zielgruppe zu befragen. Frau Schlüter, Sachkundige Bürgerin, regt an, dass eine Prioritätenliste erstellt werden könnte, wann welche Veranstaltungen stattfinden.  Der Antrag wird mit zehn Ja-Stimmen, zwei Gegenstimmen und drei Enthaltungen mehrheitlich angenommen.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17014",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AuWi-60%7C402206100173%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AuWi-60",
+        "name": "Antrag der SPD-Ratsfraktion_Prüfauftrag zur Einrichtung eines DigitalLabs als Innovationsraum für Verwaltung, Schulen, Unternehmen und Start-ups",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AuWi-60%7C402206100173%7C1",
+          "date": "2026-08-17",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AuWi-60%7C402206100173%7C1",
+          "fileName": "be_402206100173_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AuWi-60%7C402206100173%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 174796,
+          "text": "  3 Antrag der SPD-Ratsfraktion_Prüfauftrag zur Einrichtung eines DigitalLabs als Innovationsraum für Verwaltung, Schulen, Unternehmen und Start-ups (2026/167)     Herr Hermes erläutert den Antrag der SPD-Fraktion.\u000bDieser wird einstimmig angenommen.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AuWi-60%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AuWi-60",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AuWi-60%7C6%7C1",
+          "date": "2026-08-17",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AuWi-60%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AuWi-60%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 150988,
+          "text": "  4 Anfragen der Ausschussmitglieder    Keine Anfragen.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AuWi-60%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AuWi-60",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-AuWi-60%7C4%7C1",
+          "date": "2026-08-17",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-AuWi-60%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-AuWi-60%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 162239,
+          "text": "  5 Mitteilungen der Verwaltung   Herr Ratte, Leiter der Wirtschaftsförderung, berichtet zum Graue-Flecken Projekt und teilt mit, dass die öffentliche Ausschreibung durch den Kreis Recklinghausen erfolgt ist.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AuWi-60%7Czt_0%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AuWi-60",
+        "name": "Informationen zum Gewerbegebiet \"Am Koksbach\"",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AuWi-60%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AuWi-60",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-AuWi-60%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AuWi-60",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-06-30T17:45:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AuWi-60",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2026-AuWi-60",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-06-22",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2026-AuWi-60",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2026-AuWi-60",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "ccfcabc13d20926f9918c0e04822890581c219a9",
+      "size": 198353,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-AuWi-60/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschusses für Wirtschaftsentwicklung und Digitalisierung",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/645",
+      "https://castroprauxel.gremien.info/oparl/person/1003",
+      "https://castroprauxel.gremien.info/oparl/person/1367",
+      "https://castroprauxel.gremien.info/oparl/person/1052",
+      "https://castroprauxel.gremien.info/oparl/person/1339",
+      "https://castroprauxel.gremien.info/oparl/person/1305",
+      "https://castroprauxel.gremien.info/oparl/person/1086",
+      "https://castroprauxel.gremien.info/oparl/person/1215",
+      "https://castroprauxel.gremien.info/oparl/person/309",
+      "https://castroprauxel.gremien.info/oparl/person/1331",
+      "https://castroprauxel.gremien.info/oparl/person/1309",
+      "https://castroprauxel.gremien.info/oparl/person/1375",
+      "https://castroprauxel.gremien.info/oparl/person/1069",
+      "https://castroprauxel.gremien.info/oparl/person/1384",
+      "https://castroprauxel.gremien.info/oparl/person/1385",
+      "https://castroprauxel.gremien.info/oparl/person/1322",
+      "https://castroprauxel.gremien.info/oparl/person/1202",
+      "https://castroprauxel.gremien.info/oparl/person/1259",
+      "https://castroprauxel.gremien.info/oparl/person/612",
+      "https://castroprauxel.gremien.info/oparl/person/1240"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-AuWi-60",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-08-21",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-AuWi-60",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-AuWi-60",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 233920,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2026-06-30T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-AuWi-60",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-08-21",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-AuWi-60",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-AuWi-60",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 233920,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

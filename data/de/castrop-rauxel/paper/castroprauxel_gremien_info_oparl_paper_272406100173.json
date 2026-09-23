@@ -1,0 +1,113 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/272406100173",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272406100173%7C20200624135454-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-24",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272406100173%7C20200624135454-0.pdf%7C",
+        "fileName": "20200624135454-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272406100173%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272406100173",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "fb24e037a917a3dcc67257c3dd91a978c4eed991",
+        "size": 443801,
+        "text": "Anlage 1 zu Vorlage 2020.148.1 - Bericht über die finanzielle Lage der Stadt Castrop-Rauxel Stand 24.06.2020 sowie Bericht zum Finanzcontrolling zum S",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272406100173%7C20200624135511-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-24",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272406100173%7C20200624135511-0.pdf%7C",
+        "fileName": "20200624135511-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272406100173%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272406100173",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "b5b7bf8ca0124c00a5e45798e085f04af468344b",
+        "size": 228170,
+        "text": "Anlage 2 zu Vorlage 2020.148.1- Ergebnis Finanzcontrolling Stand 30.05.2020",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272406100173%7C20200624135515-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-24",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272406100173%7C20200624135515-0.pdf%7C",
+        "fileName": "20200624135515-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272406100173%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272406100173",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "7c0b702ec79bfef6f810632fe6029ed64ce4972b",
+        "size": 276146,
+        "text": "Anlage 3 zu Vorlage 2020.148.1 - Ergebnis Finanzcontrolling, Darstellung Ergebnisplan",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-HFA-103%7C272406100173%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/9060",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-HFA-103",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-118%7C272406100173%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/9061",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-118",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-06-24",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/272406100173",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272406100173&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272406100173&id=69",
+      "fileName": "272406100173",
+      "id": "https://castroprauxel.gremien.info/oparl/file/272406100173",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/148.1",
+      "size": 223319,
+      "text": " Bereich Finanzen 2020/148.1 öffentlich  Az: 20   Datum: 24.06.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Haupt- und Finanzausschuss 25.06.2020 8  Rat der Stadt 25.06.2020 9   Betreff  Bericht über die finanzielle Lage der Stadt Castrop-Rauxel hier: Auswertung des Finanzcontrollings zum 30.05.2020  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \fBeschlussvorschlag  Der Rat nimmt den Bericht über die finanzielle Lage der Stadt Castrop-Rauxel und insbesondere den Bericht zum Finanzcontrolling Stand 30.05.2020 zur Kenntnis.  Hinweis:  Der Bericht über die finanzielle Lage der Stadt Castrop-Rauxel inklusive des Berichts zum Finanzcontrolling Stand 30.05.2020 ist dieser Ergänzungsvorlage zur ursprünglichen Vorlage 2020/148 nunmehr beigefügt.     \f  \fK r a v a n j a       E c k h a r d t  Bürgermeister      Erster Beigeordneter/         Stadtkämmerer\f Sachverhalt  Mit Sitzungsvorlage 2020/148 wurde den Mitgliedern des Rates zunächst folgender Sachstand mitgeteilt:   Die Abfrage des Bereichs Finanzen bei den Fachbereichen zum Finanzcontrolling Stand 30.05.2020 befindet sich aktuell in der Auswertung. Gleichzeitig sind im Hinblick auf die Auswirkungen der Corona-Krise und deren Auswirkungen auf den Haushalt der Stadt Castrop-Rauxel nahezu täglich neue Informationen zu berücksichtigen.   Um den Mitgliedern des Rates ein möglichst aktuelles und damit zutreffendes Bild der finanziellen Lage der Stadt Castrop-Rauxel zu verschaffen, wird die finale Erstellung des Berichts erst kurz vor der Ratssitzung am 25.06.2020 abgeschlossen.   Herr Erster Beigeordneter und Stadtkämmerer Eckhardt wird die wesentlichen Punkte des Berichts mündlich erläutern.   Die Auswertung des Finanzcontrollings Stand 30.05.2020 ist inzwischen erfolgt und ein ausführlicher Bericht über die finanzielle Lage der Stadt Castrop-Rauxel (Stand 24.06.2020) liegt nunmehr vor.   Die entsprechenden Unterlagen sind dieser Ergänzungsvorlage als Anlage 1 (Bericht über die finanzielle Lage der Stadt  Stand 24.06.2020), Anlage 2 (Tabellarische Übersicht Ergebnis Finanzcontrolling Stand 30.05.2020) sowie Anlage 3 (Ergebnis des Finanzcontrollings in Form des Ergebnisplans) beigefügt.  Herr Erster Beigeordneter und Stadtkämmerer Eckhardt wird die wesentlichen Punkte des Berichts bzw. des Finanzcontrollings wie angekündigt in der Ratssitzung am 25.06.2020 erläutern.      Bereich 20        \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Bericht über die finanzielle Lage der Stadt Castrop-Rauxel\r\nhier: Auswertung des Finanzcontrollings zum 30.05.2020",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/148.1",
+    "superordinatedPaper": [
+      "https://castroprauxel.gremien.info/oparl/paper/270906100164"
+    ],
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

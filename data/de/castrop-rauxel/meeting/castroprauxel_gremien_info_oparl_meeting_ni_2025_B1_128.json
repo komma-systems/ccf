@@ -1,0 +1,291 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B1-128",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B1-128%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B1-128",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B1-128%7C1%7C1",
+          "date": "2025-07-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B1-128%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B1-128%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 62960,
+          "text": "  1 Fragestunde für Einwohnerinnen und Einwohner  Keine Anfragen.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B1-128%7C20%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B1-128",
+        "name": "Genehmigung des Protokolls",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B1-128%7C20%7C1",
+          "date": "2025-07-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B1-128%7C20%7C1",
+          "fileName": "be_20_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B1-128%7C20%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 63945,
+          "text": "  2 Genehmigung des Protokolls  Einstimmig beschlossen.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/14243",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B1-128%7C381006100118%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B1-128",
+        "name": "Ordnungsbehördliche Verordnung über das Verbot des Verkaufs sowie der Ab- und Weitergabe von Distickstoffmonoxid (\"Lachgas\") an Minderjährige in der Stadt Castrop-Rauxel",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B1-128%7C381006100118%7C1",
+          "date": "2025-07-11",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B1-128%7C381006100118%7C1",
+          "fileName": "be_381006100118_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B1-128%7C381006100118%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 103068,
+          "text": "  3 Ordnungsbehördliche Verordnung über das Verbot des Verkaufs sowie der Ab- und Weitergabe von Distickstoffmonoxid ( Lachgas ) an Minderjährige in der Stadt Castrop-Rauxel (2025/115)     Der Betriebsausschuss 1 beschließt die als Anlage beigefügte Ordnungsbehördliche Verordnung über das Verbot des Verkaufs sowie der Ab- und Weitergabe von Distickstoffmonoxid (Lachgas) an Minderjährige in der Stadt Castrop-Rauxel und die Resolution (Tischvorlage) einstimmig mit einer Enthaltung.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/14221",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B1-128%7C381006100115%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B1-128",
+        "name": "Einführung Tempo 30 Ickerner Straße",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B1-128%7C381006100115%7C1",
+          "date": "2025-07-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B1-128%7C381006100115%7C1",
+          "fileName": "be_381006100115_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B1-128%7C381006100115%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 103808,
+          "text": "  4 Einführung Tempo 30 Ickerner Straße (2025/112)     Herr Thiel erläutert den vorliegenden Antrag und führt aus, dass die Einrichtung einer unterbrochenen Tempo-30-Strecke nicht vorgesehen sei. Im Anschluss soll die verkehrsrechtliche Prüfung der Recklinghauser Straße erfolgen. Herr Bettinger spricht sich für den Antrag aus. Er regt an, eine zeitliche Begrenzung der Maßnahme zu berücksichtigen und bittet darum, den betroffenen Streckenabschnitt der Temporeduzierung mittels einer Visualisierung anschaulich darzustellen. Herr Schneider (CDU) nimmt den Antrag zustimmend zur Kenntnis. Der Betriebsausschuss 1 nimmt den Zwischenbericht der Verwaltung zur möglichen Einführung von Tempo 30 auf der Ickerner Straße -L 645- zustimmend zur Kenntnis.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/14229",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B1-128%7C381006100116%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B1-128",
+        "name": "Antrag der CDU-Fraktion vom 6. Juni 2025;\r\nEinsatz von Künstlicher Intelligenz an sicherheitsrelevanten Orten",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B1-128%7C381006100116%7C1",
+          "date": "2025-07-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B1-128%7C381006100116%7C1",
+          "fileName": "be_381006100116_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B1-128%7C381006100116%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 105743,
+          "text": "  5 Antrag der CDU-Fraktion vom 6. Juni 2025; Einsatz von Künstlicher Intelligenz an sicherheitsrelevanten Orten (2025/113)   Herr Schneider stellt den Antrag vor und führt aus, dass zahlreiche Verfahrensfragen noch zu klären seien, unter anderem der Umgang mit Alarmmeldungen. Er schlägt vor, eine fachkundige Person einzuladen, die dem Ausschuss das System näher erläutert. Herr Bettinger unterstützt grundsätzlich die Prüfung des Systems, äußert jedoch Bedenken in mehreren Punkten: Datenschutz, Individualität der Lösung (kein System von der Stange), Anbieterstruktur sowie die finanzielle Machbarkeit für die Stadt Castrop-Rauxel. Er weist darauf hin, dass die aktuell verfügbaren Technologien mit hohen Kosten verbunden seien. Er bittet darum, dass die Recherche nur in begrenztem Umfang Ressourcen in Anspruch nimmt, da er die Einführung zum jetzigen Zeitpunkt für verfrüht hält. Herr Stennei befürwortet ebenfalls die Einladung einer sachkundigen Person zur ausführlichen Vorstellung des Systems im Ausschuss. Herr Pelzing schlägt ein zweistufiges Verfahren vor: Die Stadt Gelsenkirchen stellt das bestehende System vor. \u000bDer Antrag wird bis dahin zurückgestellt. Im Anschluss erfolgt die Entscheidung über das weitere Vorgehen. Der Betriebsausschuss 1 beschließt das vorgeschlagene Vorgehen mehrheitlich bei einer Gegenstimme.          \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/15459",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B1-128%7C381006100117%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B1-128",
+        "name": "Antrag der CDU-Fraktion vom 6. Juni 2025;\r\nSicherheitskonzept öffentliche Veranstaltungen",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B1-128%7C381006100117%7C1",
+          "date": "2025-07-11",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B1-128%7C381006100117%7C1",
+          "fileName": "be_381006100117_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B1-128%7C381006100117%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 104111,
+          "text": "6 Antrag der CDU-Fraktion vom 6. Juni 2025; Sicherheitskonzept öffentliche Veranstaltungen (2025/114)   Herr Schneider stellt den Antrag vor und führt aus, dass es darum gehe, Veranstaltungen  insbesondere kleinere  effizient und kostengünstig zu organisieren. Herr Bettinger stimmt dem Antrag grundsätzlich zu, merkt jedoch kritisch an, dass die Stadtverwaltung den zweiten Schritt vor dem ersten getan habe: Es seien bereits HTS-Sperren beschafft worden, obwohl bislang noch kein übergreifendes Sicherheitskonzept vorliege. Frau Seibel stellt die Frage, ob mit den Maßnahmen tatsächliche Sicherheit erreicht oder lediglich ein Gefühl von Sicherheit vermittelt werde.\u000bIm Ausschuss wird vorgeschlagen, ein Verkehrskonzept zu erarbeiten, das den Innenstadtbereich bei Veranstaltungen grundsätzlich absichert. Herr Pelzing weist darauf hin, dass es eine absolute Sicherheit nie geben könne. Herr Eckert betont, dass es sich bei der Veranstaltungssicherheit um ein schwieriges Aufgabenfeld handelt. Die Verwaltung vertrete die Auffassung, dass Sicherheitsmaßnahmen stets an aktuelle Entwicklungen angepasst werden sollten. Dennoch bleibe immer ein allgemeines Lebensrisiko bzw. Restrisiko bestehen. Herr Thiel erläutert das verwaltungsinterne Verfahren und führt aus, dass die Polizei lediglich bei sogenannten gelben Veranstaltungen ihr Einvernehmen geben müsse. Alle übrigen Veranstaltungen würden in eigener Zuständigkeit durch das Ordnungsamt bearbeitet. Er betont die Notwendigkeit einer politischen Diskussion zur Entwicklung einer klaren Linie in Sicherheitsfragen. Herr Bettinger regt die Gründung eines Arbeitskreises an, der eine gemeinsame politische Position zum Thema Sicherheit erarbeitet und nach außen vertritt. Auf Nachfrage des Ausschussmitglieds Herrn Rednoss gibt Herr Thiel eine Einschätzung zur aktuellen Vorgehensweise ab und erläutert beispielhaft das Sicherheitskonzept beim Naschmarkt. Dieser findet im Innenstadtbereich statt; laut Rückmeldung der Polizei habe sich die Sicherheitslage gegenüber früheren Veranstaltungen nicht verändert. Daher sei auch weiterhin der Einsatz von HTS-Sperren erforderlich. Er weist darauf hin, dass für jede Veranstaltung eine Prüfpflicht hinsichtlich des Schutzes vor Überfahrtaten besteht. Sicherheitsbedenken dürften nicht zulasten der Veranstalter gehen. Auch wenn derzeit das Ordnungsamt die Verantwortung trage, sei dies eine herausfordernde Aufgabe. Herr Bettinger erkundigt sich erneut nach der Kostenverteilung für Aufbau und Bewirtschaftung der HTS-Sperren. Herr Thiel bestätigt, dass diese zunächst vollständig durch das Ordnungsamt übernommen werden. Der Betriebsausschuss I beschließt die Erstellung eines Sicherheitskonzeptes für Veranstaltungen einstimmig.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B1-128%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B1-128",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B1-128%7C6%7C1",
+          "date": "2025-07-11",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B1-128%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B1-128%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 103267,
+          "text": "  7 Anfragen der Ausschussmitglieder  Ausschussmitglied Gudjons regt an, durch die Verkehrsabteilung prüfen zu lassen, ob auf der Waldstraße die Einrichtung einer Spielstraße möglich ist.  Herr Kahl übermittelt eine Anwohnerbeschwerde zur Parksituation beim Gemeindefest an der Uferstraße. Für künftige Veranstaltungen bittet er um den Einsatz von Politessen zur Verkehrsüberwachung. Zudem weist Herr Kahl auf die angespannte Parkplatzsituation am Hallenbad hin  insbesondere montags und donnerstags in den Abendstunden sei die Lage problematisch. Auch hier bittet er um vermehrte Kontrollen durch den Ordnungsdienst.  Herr Bettinger stellt folgende Anfragen: Werbeuhr am Münsterplatz:\u000bDie Werbeuhr sei nicht auf Sommerzeit umgestellt. Er bittet darum, den zuständigen Anbieter zu kontaktieren und die Umstellung zeitnah vorzunehmen. Störung bei der WLT-Veranstaltung:\u000bBei der genannten Veranstaltung sei es aufgrund der bereits bekannten Situation zu Störungen gekommen, woraufhin Platzverweise durch den Bürgermeister ausgesprochen wurden. Herr Bettinger bittet erneut um Prüfung, ob bauliche Maßnahmen oder Aufbauten auf der Parkplatzfläche zur Konfliktvermeidung beitragen könnten. Parksituation am Freibad:\u000bEs wird berichtet, dass regelmäßig Feuerwehrzufahrten zugeparkt und Fahrzeuge mit Behinderung abgestellt würden. Herr Bettinger fragt, wer außerhalb der Dienstzeiten für die Kontrolle des ruhenden Verkehrs zuständig ist, und bittet um eine schriftliche Stellungnahme.\u000bHerr Gadde weist in diesem Zusammenhang darauf hin, dass gemäß §48 OWiG die Zuständigkeit ordinär bei der Ordnungsbehörde liegt.\u000bHerr Thiel bestätigt dies und ergänzt, dass gemäß §1 des Polizeigesetzes die Polizei zuständig ist, wenn die Ordnungsbehörde nicht rechtzeitig vor Ort sein kann oder nicht im Dienst ist. Stellwerk an der Vördestraße:\u000bDie dortige Sirene habe offenbar einen Wackelkontakt, wodurch mehrere Anwohner sich gestört fühlten. Das Stellwerk befinde sich im Eigentum der Deutschen Bahn. Herr Bettinger bittet die Verwaltung, sich mit dem zuständigen Ansprechpartner bei der Deutschen Bahn in Verbindung zu setzen, um Abhilfe für die Anwohner zu schaffen.   Abschließend bittet Herr Schneider um Überprüfung der Ampelschaltung an der Kreuzung Pallasststraße / B235. Gegen ca. 5:30 Uhr würden sich dort regelmäßig alle vier Ampeln gleichzeitig auf Rot stellen, was zu Irritationen führe. \u000b         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B1-128%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B1-128",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B1-128%7C4%7C1",
+          "date": "2025-07-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B1-128%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B1-128%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 55438,
+          "text": "  8 Mitteilungen der Verwaltung  Keine         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B1-128%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B1-128",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B1-128%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B1-128",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2025-06-25T17:55:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B1-128",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2025-B1-128",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-06-12",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2025-B1-128",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2025-B1-128",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "4e1d645bdbb9d3a7c07285945fe5aa86324fc07d",
+      "size": 431052,
+      "text": "Amtliche Bekanntmachung der Tagesordnung zur Sitzung des Betriebsausschusses 1 (Kultur, Ordnung, Ausländerwesen und Feuerwehr) am Mittwoch, 25.06.2025 um 17:00 Uhr in den Sitzungsraum 3, Europaplatz 1, 44575 Castrop-Rauxel,   I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner   2. Genehmigung des Protokolls   3. Ordnungsbehördliche Verordnung über das Verbot des Verkaufs sowie der Ab- und Weitergabe von Distickstoffmonoxid ( Lachgas ) an Minderjährige in der Stadt Castrop-Rauxel   4. Einführung Tempo 30 Ickerner Straße   5. Antrag der CDU-Fraktion vom 6. Juni 2025; Einsatz von Künstlicher Intelligenz an sicherheitsrelevanten Orten   6. Antrag der CDU-Fraktion vom 6. Juni 2025; Sicherheitskonzept öffentliche Veranstaltungen   7. Anfragen der Ausschussmitglieder   8. Mitteilungen der Verwaltung      II. Nichtöffentliche Sitzung:  1. Anfragen der Ausschussmitglieder   2. Mitteilungen der Verwaltung    Rajko   K r a v a n j a  Bürgermeister \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Sitzungsraum 3, Europaplatz 1,44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B1-128/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Sitzungsraum 3, Europaplatz 1,44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Betriebsausschusses 1 (Kultur, Ordnung, Ausländerwesen und Feuerwehr)",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/B1"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/241",
+      "https://castroprauxel.gremien.info/oparl/person/1029",
+      "https://castroprauxel.gremien.info/oparl/person/748",
+      "https://castroprauxel.gremien.info/oparl/person/400",
+      "https://castroprauxel.gremien.info/oparl/person/642",
+      "https://castroprauxel.gremien.info/oparl/person/1059",
+      "https://castroprauxel.gremien.info/oparl/person/292",
+      "https://castroprauxel.gremien.info/oparl/person/112",
+      "https://castroprauxel.gremien.info/oparl/person/817",
+      "https://castroprauxel.gremien.info/oparl/person/1045",
+      "https://castroprauxel.gremien.info/oparl/person/649",
+      "https://castroprauxel.gremien.info/oparl/person/1007",
+      "https://castroprauxel.gremien.info/oparl/person/874",
+      "https://castroprauxel.gremien.info/oparl/person/873",
+      "https://castroprauxel.gremien.info/oparl/person/420",
+      "https://castroprauxel.gremien.info/oparl/person/814",
+      "https://castroprauxel.gremien.info/oparl/person/837",
+      "https://castroprauxel.gremien.info/oparl/person/58",
+      "https://castroprauxel.gremien.info/oparl/person/1273",
+      "https://castroprauxel.gremien.info/oparl/person/1283",
+      "https://castroprauxel.gremien.info/oparl/person/267"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-B1-128",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-07-14",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2025-B1-128",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2025-B1-128",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 173699,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2025-06-25T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-B1-128",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-07-14",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2025-B1-128",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2025-B1-128",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 173699,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "council_id": "muenster",
+  "record_type": "paper",
+  "source_id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056568",
+  "modified_at": "2026-09-16T12:59:39+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588139.pdf",
+        "created": "2026-08-14T10:14:58+02:00",
+        "date": "2026-08-14",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588139.pdf",
+        "fileName": "00588139.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588139",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-14T11:38:42+02:00",
+        "name": "Anlage 2a Ausbauquerschnitt 12103 Blatt F-F",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588140.pdf",
+        "created": "2026-08-14T10:14:58+02:00",
+        "date": "2026-08-14",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588140.pdf",
+        "fileName": "00588140.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588140",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-14T11:38:42+02:00",
+        "name": "Anlage 2b Ausbauquerschnitt 12103 Blatt G-G",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588141.pdf",
+        "created": "2026-08-14T10:14:58+02:00",
+        "date": "2026-08-14",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588141.pdf",
+        "fileName": "00588141.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588141",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-14T11:38:42+02:00",
+        "name": "Anlage 2c Ausbauquerschnitt 12103 Blatt H-H",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588142.pdf",
+        "created": "2026-08-14T10:14:58+02:00",
+        "date": "2026-08-14",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588142.pdf",
+        "fileName": "00588142.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588142",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-14T11:38:42+02:00",
+        "name": "Anlage 2d Ausbauquerschnitt 12103 Blatt I-I",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588147.pdf",
+        "created": "2026-08-14T11:23:44+02:00",
+        "date": "2026-08-14",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588147.pdf",
+        "fileName": "00588147.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588147",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-14T11:38:42+02:00",
+        "name": "Anlage 3 Folgelastenberechnung",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00589124.pdf",
+        "created": "2026-09-14T09:01:21+02:00",
+        "date": "2026-09-14",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00589124.pdf",
+        "fileName": "00589124.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/589124",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-14T11:38:42+02:00",
+        "name": "Anlage 1a Lageplan 12134 Blatt 5",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00589125.pdf",
+        "created": "2026-09-14T09:01:21+02:00",
+        "date": "2026-09-14",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00589125.pdf",
+        "fileName": "00589125.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/589125",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-14T11:38:42+02:00",
+        "name": "Anlage 1b Lageplan 12134 Blatt 6",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00589126.pdf",
+        "created": "2026-09-14T09:01:22+02:00",
+        "date": "2026-09-14",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00589126.pdf",
+        "fileName": "00589126.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/589126",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-14T11:38:42+02:00",
+        "name": "Anlage 1c Lageplan 12134 Blatt 7",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00589129.pdf",
+        "created": "2026-09-14T10:43:58+02:00",
+        "date": "2026-09-14",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00589129.pdf",
+        "fileName": "00589129.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/589129",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-14T11:38:42+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://oparl.stadt-muenster.de/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/287554",
+        "created": "2026-08-20T11:47:46+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91586",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14508",
+        "modified": "2026-09-16T11:33:57+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056568",
+        "role": "Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/288240",
+        "created": "2026-09-02T13:21:01+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91682",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14523",
+        "modified": "2026-09-14T16:31:22+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/523"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056568",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-14T09:36:06+02:00",
+    "date": "2026-09-02",
+    "id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056568",
+    "modified": "2026-09-16T12:59:39+02:00",
+    "name": "Veloroute 12 Münster-Telgte - Teilabschnitt Niedersachsenring/Ostmarkstraße - Bohlweg bis Dieckstraße",
+    "paperType": "Vorlagen",
+    "reference": "V/0452/2026",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "https://oparl.stadt-muenster.de/bodies/0001/organizations/at/100310"
+    ]
+  }
+}

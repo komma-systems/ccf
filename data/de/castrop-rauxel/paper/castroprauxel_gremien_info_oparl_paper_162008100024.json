@@ -1,0 +1,82 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/162008100024",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=162008100024%7C20140820085023.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=162008100024%7C20140820085023.pdf%7C",
+        "fileName": "20140820085023.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C162008100024%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/162008100024",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "fe3d2303f3737a13aaea33ce0be984ff603f1184",
+        "size": 154082,
+        "text": "Geschäftsordnung Verwaltungsrat - 1. Änderung",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=162008100024%7C20140820090218.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=162008100024%7C20140820090218.pdf%7C",
+        "fileName": "20140820090218.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C162008100024%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/162008100024",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "1ffb8617f333211dbbd81ca1126757c79b25205a",
+        "size": 323943,
+        "text": "Synopse zur Änderung der Geschäftsordnung",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7C162008100024%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6122",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2014-EUV-4",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2014-08-20",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/162008100024",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=162008100024&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=162008100024&id=69",
+      "fileName": "162008100024",
+      "id": "https://castroprauxel.gremien.info/oparl/file/162008100024",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2014/EUV/023",
+      "size": 88837,
+      "text": "Datum: 20.08.2014 TB I 9686-380 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 17.09.2014 TOP: I.4 Drucksache-Nr. 2014/EUV/023 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 17.09.2014 4 Betreff: Erste Änderung der Geschäftsordnung für den Verwaltungsrat Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € x nein Förderung € Beschlussvorschlag: Der Verwaltungsrat beschließt die als Anlage beigefügte erste Änderung seiner Geschäftsordnung vom 25. November 2009. ________________________ Werner Sachverhalt: Der Beschluss des Rates vom 08. Mai 2014, den Sitzungsdienst zukünftig papierlos abzuwickeln, soll auch für den Verwaltungsrat des Stadtbetriebs EUV umgesetzt werden. Die Umsetzung macht die nachfolgenden Änderungen der aktuellen Geschäftsordnung erforderlich. Die Änderungen sind in einer Synopse der bisher gültigen Fassung gegenübergestellt. Weiterer Bericht in der Sitzung.Erste Änderung der Geschäftsordnung für den Verwaltungsrat2014/EUV/023%anl%;Geschäftsordnung Verwaltungsrat - 1. Änderung Neue Geschäftsordnung des Verwaltungsrates nach Einführung der papierlosen RatsarbeitSynopse zur Änderung der Geschäftsordnung ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Erste Änderung der Geschäftsordnung für den Verwaltungsrat",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2014/EUV/023",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

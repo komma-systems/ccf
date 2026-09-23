@@ -1,0 +1,47 @@
+{
+  "council_id": "koeln",
+  "record_type": "paper",
+  "source_id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134757",
+  "modified_at": "2026-09-23T09:38:43+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01111987.pdf",
+        "created": "2026-09-17T14:52:34+02:00",
+        "date": "2026-09-17",
+        "downloadUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/01111987.pdf",
+        "fileName": "01111987.pdf",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/files/1111987",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-17T15:18:56+02:00",
+        "name": "Grüne Anfrage nach § 4",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln",
+    "consultation": [
+      {
+        "agendaItem": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/450351",
+        "created": "2026-09-17T15:21:10+02:00",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/206712",
+        "meeting": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34220",
+        "modified": "2026-09-21T07:44:09+02:00",
+        "organization": [
+          "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/200"
+        ],
+        "paper": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134757",
+        "role": "Antrag / Anfrage",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-17T14:46:33+02:00",
+    "date": "2026-09-17",
+    "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134757",
+    "modified": "2026-09-23T09:38:43+02:00",
+    "name": "Möglichkeiten der Umnutzung von gewerblichen Flächen und Gebäuden für temporären Wohnraum",
+    "paperType": "Grüne Anfrage nach § 4",
+    "reference": "AN/1491/2026",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

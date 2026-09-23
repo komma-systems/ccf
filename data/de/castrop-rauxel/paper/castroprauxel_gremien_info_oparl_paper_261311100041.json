@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/261311100041",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=261311100041%7C20191119162411.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-11-19",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=261311100041%7C20191119162411.pdf%7C",
+        "fileName": "20191119162411.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C261311100041%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/261311100041",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "fecfdae604619f42f2ea3f1c1b13fd5ed2ec282f",
+        "size": 399072,
+        "text": "Gebührenbedarfsberechnung 2020 -Stadtentwässerung-",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-EUV-28%7C261311100041%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8719",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-EUV-28",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-11-13",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/261311100041",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=261311100041&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=261311100041&id=69",
+      "fileName": "261311100041",
+      "id": "https://castroprauxel.gremien.info/oparl/file/261311100041",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/EUV/042",
+      "size": 136696,
+      "text": "/   Datum: 13.11.2019    TB VII 9686-120       Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 27.11.2019 TOP: Drucksache-Nr. 2019/EUV/042     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 27.11.2019 7    Betreff:  Gebührenbedarfsberechnung 2020 -Stadtentwässerung- und Erlass einer Gebührensatzung zur Entwässerungssatzung in der Stadt Castrop-Rauxel     Finanzielle Auswirkungen gem. Wirtschaftsplan  X ja Gesamtkosten        nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat nimmt die als Anlage beigefügte Gebührenbedarfsberechnung 2020  Stadtentwässerung - zur Kenntnis und bestätigt, die Gebühren für die Stadtentwässerung nicht zu ändern.    \f  \f ________________________ Werner \fSachverhalt:  Gemäß beiliegender Gebührenbedarfsberechnung 2020 ist eine Änderung bzw. Erhöhung der Gebühr für die Stadtentwässerung nicht notwendig.   Weiterer Bericht in der Sitzung.   Anlage: Gebührenbedarfsberechnung Stadtentwässerung 2020   \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Gebührenbedarfsberechnung 2020 -Stadtentwässerung- und Erlass einer Gebührensatzung zur Entwässerungssatzung in der Stadt Castrop-Rauxel",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/EUV/042",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

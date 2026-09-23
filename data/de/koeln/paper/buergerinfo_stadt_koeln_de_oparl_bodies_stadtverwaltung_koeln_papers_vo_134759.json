@@ -1,0 +1,59 @@
+{
+  "council_id": "koeln",
+  "record_type": "paper",
+  "source_id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134759",
+  "modified_at": "2026-09-17T16:21:08+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01112019.pdf",
+        "created": "2026-09-17T16:18:55+02:00",
+        "date": "2023-01-19",
+        "downloadUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/01112019.pdf",
+        "fileName": "01112019.pdf",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/files/1112019",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-17T16:21:08+02:00",
+        "name": "Anlage 1 Öffentlichkeitsbeteiligung",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01112020.pdf",
+        "created": "2026-09-17T16:18:56+02:00",
+        "date": "2026-09-17",
+        "downloadUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/01112020.pdf",
+        "fileName": "01112020.pdf",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/files/1112020",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-17T16:21:08+02:00",
+        "name": "Beschlussvorlage Bezirksvertretung",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln",
+    "consultation": [
+      {
+        "agendaItem": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/450364",
+        "created": "2026-09-17T16:37:04+02:00",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/206714",
+        "meeting": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33913",
+        "modified": "2026-09-23T15:39:24+02:00",
+        "organization": [
+          "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24"
+        ],
+        "paper": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134759",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-17T16:18:55+02:00",
+    "date": "2026-09-17",
+    "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134759",
+    "modified": "2026-09-17T16:21:08+02:00",
+    "name": "Vergabe bezirksorientierter Mittel an Herrn Oliver Bedorf",
+    "paperType": "Beschlussvorlage Bezirksvertretung",
+    "reference": "2614/2026",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

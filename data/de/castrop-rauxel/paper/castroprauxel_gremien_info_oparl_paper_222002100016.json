@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/222002100016",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2017-EUV-20%7C222002100016%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7416",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2017-EUV-20",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2017-02-20",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/222002100016",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=222002100016&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=222002100016&id=69",
+      "fileName": "222002100016",
+      "id": "https://castroprauxel.gremien.info/oparl/file/222002100016",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2017/EUV/017",
+      "size": 153087,
+      "text": "Datum: 20.02.2017 TB I 9686-700 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 08.03.2017 TOP: Drucksache-Nr. 2017/EUV/017 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 08.03.2017 3 Betreff: Zwischenbericht 1 / 2017 Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt den Zwischenbericht 1 / 2017 zur Kenntnis. ________________________ Werner Sachverhalt: Der Vorstand des EUV Stadtbetrieb Castrop-Rauxel – AöR – hat gem. § 8 Abs. 5 der Satzung für das gleichnamige Kommunalunternehmen der Stadt Castrop-Rauxel den Verwaltungsrat mindestens halbjährlich über die Entwicklung des Vermögens- und Erfolgsplanes schriftlich zu unterrichten. Der aktuelle Stand im Zusammenhang mit dem angestrebten Zwischenbericht des EUV Stadtbetriebs Castrop-Rauxel stellt sich zum 15.02.2017 wie folgt dar: Die Verbuchung der Erträge und Aufwendungen für die ersten zwei Monate ist noch nicht komplett abgeschlossen. Daher können lediglich Tendenzen für 2017 sowie Änderungen, die sich nach dem Planungsstichtag ergeben haben, dargestellt werden. Die Umsatzentwicklung für das Jahr 2017 im Vergleich zum Planansatz ist wie folgt: Teilbetrieb III – Abfallentsorgung Die veranlagten Abfallentsorgungsgebühren belaufen sich auf 8.030.148 € und liegen leicht über dem Planwert in Höhe von 7.944.148 € bzw. + 1,1 %. Teilbetrieb V – Stadtentwässerung Die im Teilbetrieb Stadtentwässerung veranlagten Gebühren belaufen sich auf 16.484.481 €, der Planwert liegt bei 16.409.345 € bzw. 0,5 %. Teilbetrieb VI – Straßenreinigung/Winterdienst Die veranlagten Gebühren betragen 1.655.375 €, der Planwert liegt bei 1.701.985 € bzw. -2,7 %. Da das tatsächliche Ergebnis des Teilbetriebes vom Winterhalbjahr 2016/2017 und 2017/2018 abhängt, ist zurzeit noch keine fixierte Aussage über das erzielte Ergebnis möglich. Andere Teilbetriebe entwickeln sich im Rahmen des Wirtschaftsplanes 2017. Weiterer Sachvortrag in der Sitzung.%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Zwischenbericht 1 / 2017",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2017/EUV/017",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

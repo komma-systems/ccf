@@ -1,0 +1,90 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/270801100003",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270801100003%7C20200113152738.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-13",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270801100003%7C20200113152738.pdf%7C",
+        "fileName": "20200113152738.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270801100003%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270801100003",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "05191e25f70631dfc06ba64d0f98124018da3e08",
+        "size": 227210,
+        "text": "Ordnungsbehördliche Verordnung verkaufsoffene Sonn- und Feiertage 2020",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-AuWi-30%7C270801100003%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8758",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-AuWi-30",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B1-100%7C270801100003%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8756",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B1-100",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B1"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-116%7C270801100003%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8757",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-116",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-01-13",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/270801100003",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270801100003&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270801100003&id=69",
+      "fileName": "270801100003",
+      "id": "https://castroprauxel.gremien.info/oparl/file/270801100003",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/004",
+      "size": 149388,
+      "text": " Bereich Ordnungswesen und Bürgerservice 2020/004 öffentlich  Az: 32-1   Datum: 13.01.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Ausschuss für Wirtschaftsentwicklung 18.02.2020   Betriebsausschuss 1 (Kultur, Ordnung, Ausländerwesen und Feuerwehr) 19.02.2020   Rat der Stadt 27.02.2020    Betreff  Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen für das Jahr 2020  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  Der Rat der Stadt beschließt die als Anlage beigefügte Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen für das Jahr 2020  \f  \f K r a v a n j a        E c k h a r d t Bürgermeister       Erster Beigeordneter  \fSachverhalt  Nach § 6 des Gesetzes zur Regelung Ladenöffnungszeiten (Ladenöffnungsgesetz  LÖG NRW) vom 16.11.2006 kann die örtliche Ordnungsbehörde an jährlich höchstens 8, nicht unmittelbar aufeinanderfolgenden Sonn- oder Feiertagen, Verkaufsstellen im öffentlichen Interesse ab 13 Uhr für die Dauer von bis zu 5 Stunden für den Verkauf freigeben.  Nach Auslegung des § 6 des LÖG NRW erfolgt die Einschränkung der nicht aufeinanderfolgenden Sonntage zum Schutz der Arbeitnehmer.   Die geplanten verkaufsoffenen Sonntage für das Kalenderjahr 2020 beinhalten zwei Termine, die aufeinanderfolgende Veranstaltungen anstreben (29.03.2020+05.04.2020 und 27.09.2020+04.10.2020). Jedoch werden die aufeinanderfolgenden verkaufsoffenen Sonntage in verschiedenen Stadtteilen (Altstadt + Habinghorst und Altstadt + Habinghorst) durchgeführt.   Im Hinblick auf den Arbeitnehmerschutz kann durch die Verlagerung des Standortes gewährleistet werden, dass Mitarbeiter nicht an zwei aufeinanderfolgenden Sonntagen arbeiten müssen.   Ein öffentliches Interesse liegt u. a. gem. Abs. 1 Nr. 1 insbesondere dann vor, wenn die Öffnung im Zusammenhang mit örtlichen Festen, Märkten, Messen oder ähnlichen Veranstaltungen erfolgt.  In 2018 wurden die Voraussetzungen für die Durchführung verkaufsoffener Sonntage vom Gesetzgeber angepasst. Zentraler Punkt ist nun das Vorhandensein eines öffentlichen Interesses. Der Anlassbezug, der bis 2018 zwingend erforderlich war, ist aus der Vorschrift gestrichen worden. Er findet sich jedoch in ähnlicher Form in der o.g. Regelung wieder.   In Castrop-Rauxel werden seit vielen Jahren Sonntagsöffnungen nur in Verbindung mit örtlichen Festen durchgeführt. Die verkaufsoffenen Sonntage sind dabei auch regelmäßig nur Annex zu den durchgeführten Veranstaltungen. Die Veranstaltungen haben teilweise eine mehr als 20-jährige Tradition.  Es wird hier daher davon ausgegangen, dass die Ordnungsbehördliche Verordnung einer gerichtlichen Überprüfung standhalten würde. Entsprechende Verfahren hat es in den letzten Jahren wiederholt in NRW gegeben.   Die Ordnungsbehördliche Verordnung hat, wie seit 2014, eine einjährige Gültigkeits-dauer. Damit ist gewährleistet, dass auf etwaige Änderungen der rechtlichen Voraussetzungen zeitnah reagiert werden kann.  Die in der als Anlage beigefügten neuen Verordnung genannten Termine sind mit den Vertretern des jeweils betroffenen Einzelhandels abgestimmt worden.   \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen für das Jahr 2020",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/004",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B1",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT",
+      "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+    ]
+  }
+}

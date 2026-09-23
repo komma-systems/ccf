@@ -1,0 +1,86 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/250411100286",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=250411100286%7C20191104142650.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-11-04",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=250411100286%7C20191104142650.pdf%7C",
+        "fileName": "20191104142650.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C250411100286%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/250411100286",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "8d3661a132604b11d2b083468049e8377f564137",
+        "size": 191293,
+        "text": "Antrag der FDP_H2-Netzwerk",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-UMWA-93%7C250411100286%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8666",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-UMWA-93",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-AuWi-29%7C250411100286%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8667",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-AuWi-29",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-RAT-115%7C250411100286%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8668",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-RAT-115",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-11-04",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/250411100286",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=250411100286&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=250411100286&id=69",
+      "fileName": "250411100286",
+      "id": "https://castroprauxel.gremien.info/oparl/file/250411100286",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/274",
+      "size": 38863,
+      "text": " Bereich EUV Stadtbetrieb 2019/274 öffentlich  Az:     Datum: 04.11.2019    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Umweltausschuss 19.11.2019   Ausschuss für Wirtschaftsentwicklung 19.11.2019   Rat der Stadt 28.11.2019    Betreff  Antrag der FDP-Fraktion Hier: Beitritt der Stadt Castrop-Rauxel zum H2-Netzwerk-Ruhr e. V.  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Siehe Antrag.  \f  \f  gez. Bettinger Fraktionsvorsitzender FDP  \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Antrag der FDP-Fraktion\r\nHier: Beitritt der Stadt Castrop-Rauxel zum H2-Netzwerk-Ruhr e. V.",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/274",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/AuWi",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

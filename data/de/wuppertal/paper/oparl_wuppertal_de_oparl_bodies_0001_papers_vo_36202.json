@@ -1,0 +1,63 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36202",
+  "modified_at": "2026-08-24T10:48:13+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368840.pdf",
+        "created": "2026-08-24T10:41:01+02:00",
+        "date": "2026-08-24",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368840.pdf",
+        "fileName": "00368840.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368840",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-24T10:48:13+02:00",
+        "name": "Große Anfrage der CDU-Fraktion",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368841.pdf",
+        "created": "2026-08-24T10:41:12+02:00",
+        "date": "2026-08-24",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368841.pdf",
+        "fileName": "00368841.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368841",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-24T10:48:13+02:00",
+        "name": "Große Anfrage CDU",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141372",
+        "authoritative": true,
+        "created": "2026-08-24T10:48:37+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68566",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24660",
+        "modified": "2026-09-03T19:26:14+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/41"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36202",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-24T10:39:33+02:00",
+    "date": "2026-08-24",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36202",
+    "modified": "2026-08-24T10:48:13+02:00",
+    "name": "Aktueller Sachstand zur Gestaltung der Stützmauer am Briller Kreuz - Große Anfrage der CDU-Fraktion",
+    "paperType": "Große Anfrage CDU",
+    "reference": "VO/1004/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

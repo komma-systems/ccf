@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/200206100019",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-13%7C200206100019%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7051",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2016-EUV-13",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2016-06-02",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/200206100019",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=200206100019&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=200206100019&id=69",
+      "fileName": "200206100019",
+      "id": "https://castroprauxel.gremien.info/oparl/file/200206100019",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2016/EUV/020",
+      "size": 90430,
+      "text": "Datum: 02.06.2016 TB I 9686-500 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 15.06.2016 TOP: I.5 Drucksache-Nr. 2016/EUV/020 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 15.06.2016 5 Betreff: Änderung im Umsatzsteuerrecht (§ 2b UStG) Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt den Bericht zur Kenntnis. ________________________ Werner Sachverhalt: Die Umsatzbesteuerung von juristischen Personen des öffentlichen Rechts (jPdöR) wird ab 2016 mit der Ergänzung des § 2b UStG neu geregelt, um die Rechtsprechungen des Bundesfinanzhofes und des Europäischen Gemeinschaftsrechts anzugleichen. Der neue § 2b UStG hat unter anderem zur Folge, dass zahlreiche und wesentliche Besteuerungsprivilegien der öffentlichen Hand aufgehoben werden sollen. Somit können Leistungen der AöR, die bisher nicht in den Betrieb gewerblicher Art fallen, zukünftig auch umsatzsteuerpflichtig sein. Die Voraussetzung für eine Umsatzsteuerpflicht ist das Vorliegen einer potentiellen Wettbewerbsfähigkeit und das Übersteigen eine bestimmten jährlichen Umsatzgrenze. Leistungen aufgrund gesetzlicher Bestimmungen, z. B. nach dem Kreislaufwirtschaftsgesetz (wie die hoheitliche Leistung der Abfallentsorgung) bleiben außen vor. Die Umsatzsteuerpflicht könnte auch Leistungsbeziehungen zwischen dem EUV und der Stadt Castrop-Rauxel betreffen. Welche finanzielle Auswirkung die Änderung für die interkommunale Zusammenarbeit bzw. Leistungen zwischen Stadt und EUV hat, muss nach Veröffentlichung des BMF-Schreibens (wird im Laufe des Jahres 2016 erwartet) noch spezifiziert werden. Der EUV dokumentiert zunächst sämtliche Leistungen, die von der Gesetzesänderung betroffen sein können, bis zum Jahresende. Der Gesetzgeber sieht eine Übergangsregelung mit der Möglichkeit einer Option vor, nach der die jPdöR bis 2021 nach der alten Gesetzgebung weiter verfahren kann. Die Erklärung gegenüber dem Finanzamt muss bei Ausübung bis zum 31.12.2016 erfolgen. Weiterer Bericht in der Sitzung.Änderung im Umsatzsteuerrecht (§ 2b UStG)2016/EUV/020%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Änderung im Umsatzsteuerrecht (§ 2b UStG)",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2016/EUV/020",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

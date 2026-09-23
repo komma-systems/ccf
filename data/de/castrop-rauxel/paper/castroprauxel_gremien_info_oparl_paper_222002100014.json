@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/222002100014",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=222002100014%7C20170220153021.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2017-02-20",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=222002100014%7C20170220153021.pdf%7C",
+        "fileName": "20170220153021.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C222002100014%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/222002100014",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "9482f2f44f943b17df7f3dd2ccf0e274aedc6a14",
+        "size": 126312,
+        "text": "Anlage zum Zwischenbericht 5_2016 zu VR Sitzung 08.03.2017 V2",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2017-EUV-20%7C222002100014%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7413",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2017-EUV-20",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2017-02-20",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/222002100014",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=222002100014&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=222002100014&id=69",
+      "fileName": "222002100014",
+      "id": "https://castroprauxel.gremien.info/oparl/file/222002100014",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2017/EUV/015",
+      "size": 160814,
+      "text": "Datum: 20.02.2017 TB I 9686-700 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 08.03.2017 TOP: Drucksache-Nr. 2017/EUV/015 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 08.03.2017 2 Betreff: Zwischenbericht 5 / 2016 Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt den Zwischenbericht 5 / 2016 zur Kenntnis. ________________________ Werner Sachverhalt: Der Vorstand des EUV Stadtbetrieb Castrop-Rauxel – AöR – hat gem. § 8 Abs. 5 der Satzung der Stadt Castrop-Rauxel den Verwaltungsrat mindestens halbjährlich über die Entwicklung des Vermögens- und Erfolgsplanes des EUV Stadtbetrieb Castrop-Rauxel schriftlich zu unterrichten. Es wird regelmäßig vierteljährlich berichtet, zuletzt in der Sitzung des Verwaltungsrates am 23.11.2016. Dieser Zwischenbericht 5 / 2016 berücksichtigt nunmehr alle Buchungsvorgänge und -belege, die bis einschließlich zum Stichtag 31.12.2016 durch die Buchhaltung erfasst worden sind. Die erforderlichen Rückstellungen (u. a. Gebührenrückstellungen) sowie kalkulatorischen Buchungen konnten für diesen Zwischenbericht aufgrund der laufenden Arbeiten nur teilweise berücksichtigt werden. Das Ergebnis kann sich daher für den Jahresabschlussbericht gegebenenfalls ändern. Die wirtschaftliche Entwicklung des EUV stellt sich für das Jahr 2016 wie folgt dar:  Das Prognoseergebnis des Gesamtbetriebes EUV wird in diesem Zwischenbericht mit 880 Tsd. Euro und somit um voraussichtlich 650 Tsd. Euro höher als geplant ausgewiesen. Der Zwischenbericht 4 / 2016 kann mit Ausnahmepunkten bestätigt werden, daher gelten die im vorherigen Zwischenbericht genannten Begründungen auch hier. Die gebührenfinanzierten Teilbetriebe stellen sich wie folgt dar: Teilbetrieb III – Abfallentsorgung Der Teilbetrieb III weist in der Hochrechnung ein Ergebnis von zurzeit - 200 Tsd. Euro aus, der Planwert liegt bei - 64 Tsd. Euro. Im Gesamtergebnis haben sich die Umsatzerlöse für Leistungen im Bereich Sondergebühren für Leerung und Gestellung, kommunale Schrotte und Elektrogeräte sowie Entgelte für Altpapier verbessert. Dagegen stehen Mehraufwendungen für Verwaltungsaufgaben, in die auch Anwaltskosten für Rechtsstreitigkeiten einfließen. Die Ergebnisverschlechterung liegt an der Zuführung zu Rückstellungen für Verpflichtungen aus Vorjahren. Das Ergebnis ist nach dem Handelsrecht (HGB) aufgestellt und ist die Vorjahre betreffend nicht gebührenrelevant. Teilbetrieb IV – Duales System Der Teilbetrieb IV weist eine negative Prognose über - 92 Tsd. Euro aus (Plan - 84 Tsd. Euro). Zum Stichtag 31.12.2016 liegen die Entgelte für Altpapier weiterhin im Plan. Die Erlöse für PPK-Verpackungen (DSD) und Sonderleistungen liegen deutlich unter Plan. Somit können die Aufwendungen für bezogene Leistungen und Fixkosten nicht gedeckt werden. Insgesamt kann sich das Prognoseergebnis gegenüber dem letzten Zwischenbericht leicht verbessern. Teilbetrieb V – Stadtentwässerung Der Teilbetrieb V kann nach dem jetzigen Stand mit einem Ergebnis i. H. v. 1,3 Mio. Euro abschließen (Plan 745 Tsd. Euro). Die positive Abweichung aus Umsatzerlösen (Gebühren) resultiert aus einer Gebührennachveranlagung an den Landesbetrieb Straßen NRW für Flächen der Bundesautobahnen. Teilbetrieb VI – Straßenreinigung/Winterdienst Das Ergebnis im Teilbetrieb Straßenreinigung/Winterdienst wird sich voraussichtlich auf - 25 Tsd. Euro (Plan - 9 Tsd. Euro) einstellen. Es liegen zwar Einsparungen diverser Aufwandsposten, z. B. für Fahrzeuge und Streusalz vor, jedoch ist die Verrechnung der Umlage zwischen den Teilbetrieben noch nicht endgültig abgeschlossen und daher das negative Ergebnis unter Vorsichtsgesichtspunkten ermittelt worden. Teilbetrieb VIII – Energie: Für den Teilbetrieb VIII wird für das Jahr 2016 ein negatives Ergebnis von - 28 Tsd. Euro prognostiziert (Plan - 53 Tsd. Euro). Maßnahmen zur Verbesserung des Ergebnisses und damit die Gewährleistung einer mittelfristigen Stabilität des Bereichs Energie sind durch den Vorstand eingeleitet worden, die Ergebnisse können aber erst im laufenden Wirtschaftsjahr greifen. Teilbetrieb XI -Wochenmärkte: Das Ergebnis des Teilbetriebes XI liegt mit nunmehr - 22 Tsd. Euro unter dem angesetzten Planwert für 2016 (1 Tsd. Euro). Die Begründung liegt in den reduzierten Umsatzerlösen für Wochenmärkte: Zum einen aufgrund des Umbaus Marktplatz („fliegende Händler“ fehlen) und aufgrund des stärkeren Regenwetters. Weiterhin muss berücksichtigt werden, dass der Teilbetrieb X Liegenschaften voraussichtlich mit einem Ergebnis von - 30 Tsd. Euro abschließen wird (Planergebnis 0 Euro). Hier müssen gesetzliche Vorgaben nach dem Bilanzrechtsmodernisierungsgesetz (BilMoG) hinsichtlich der Verzinsung von Rückstellungen für Altdeponien berücksichtigt werden. Andere Teilbetriebe entwickeln sich im Rahmen des Wirtschaftsplanes. Weiterer Sachvortrag in der Sitzung. Anlage%anl%;Anlage zum Zwischenbericht 5_2016 zu VR Sitzung 08.03.2017 V2 ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Zwischenbericht  5 / 2016",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2017/EUV/015",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

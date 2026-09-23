@@ -1,0 +1,47 @@
+{
+  "council_id": "koeln",
+  "record_type": "paper",
+  "source_id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134842",
+  "modified_at": "2026-09-23T15:56:21+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01113048.pdf",
+        "created": "2026-09-23T12:25:21+02:00",
+        "date": "2026-09-23",
+        "downloadUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/01113048.pdf",
+        "fileName": "01113048.pdf",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/files/1113048",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T15:56:22+02:00",
+        "name": "Änderungsantrag  (Die Linke BV5)",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln",
+    "consultation": [
+      {
+        "agendaItem": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/450952",
+        "created": "2026-09-23T15:22:48+02:00",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/206809",
+        "meeting": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33913",
+        "modified": "2026-09-23T15:39:24+02:00",
+        "organization": [
+          "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24"
+        ],
+        "paper": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134842",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-23T12:15:20+02:00",
+    "date": "2026-09-23",
+    "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134842",
+    "modified": "2026-09-23T15:56:21+02:00",
+    "name": "Beschluss einer zeitlich begrenzten Anpassung von städtischen Vorgaben zur Baukostenreduzierung im Wohnungsbau",
+    "paperType": "Änderungsantrag BV5 (Die Linke)",
+    "reference": "AN/1537/2026",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

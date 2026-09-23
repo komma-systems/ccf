@@ -1,0 +1,60 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36358",
+  "modified_at": "2026-09-21T11:53:03+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370353.pdf",
+        "created": "2026-09-21T11:10:21+02:00",
+        "date": "2026-09-21",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370353.pdf",
+        "fileName": "00370353.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370353",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-21T11:53:04+02:00",
+        "name": "Große Anfrage die Linke",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141919",
+        "created": "2026-09-21T11:45:34+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68866",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24654",
+        "modified": "2026-09-21T12:13:08+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36358",
+        "role": "--------------------------------------------------",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141920",
+        "created": "2026-09-21T11:46:08+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68863",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24543",
+        "modified": "2026-09-23T10:42:01+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36358",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-21T10:55:32+02:00",
+    "date": "2026-09-21",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36358",
+    "modified": "2026-09-21T11:53:03+02:00",
+    "name": "Kürzungen beim Wohngeld - Wie hart trifft es die Wuppertaler*innen und den städtischen Haushalt?",
+    "paperType": "Große Anfrage die Linke",
+    "reference": "VO/1144/26",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

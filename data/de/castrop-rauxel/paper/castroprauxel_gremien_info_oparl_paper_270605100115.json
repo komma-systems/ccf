@@ -1,0 +1,186 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/270605100115",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270605100115%7C20200506130107-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-06",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270605100115%7C20200506130107-0.pdf%7C",
+        "fileName": "20200506130107-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270605100115%7C6",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270605100115",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 6",
+        "sha1Checksum": "4ef7123169b94bd42ba030ad2630744a02f70c4e",
+        "size": 292838,
+        "text": "Anlage 05__Aufhebungssatzung, Satzungstext DIN A4-",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270605100115%7C20200506130118-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-06",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270605100115%7C20200506130118-0.pdf%7C",
+        "fileName": "20200506130118-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270605100115%7C7",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270605100115",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 7",
+        "sha1Checksum": "fa02d85d61bef48ad839f14e584e2dc5a7c22137",
+        "size": 2681163,
+        "text": "Anlage 06__Begründung mit Umweltbericht, in redaktioneller Überarbeitung",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270605100115%7C20200506130129-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-06",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270605100115%7C20200506130129-0.pdf%7C",
+        "fileName": "20200506130129-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270605100115%7C8",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270605100115",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 8",
+        "sha1Checksum": "0090c9e3c96ced96144e5a5b0373cd0d32d88ebd",
+        "size": 3537807,
+        "text": "Anlage 07__Artenschutzprüfung",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270605100115%7C20200519151600-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-19",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270605100115%7C20200519151600-0.pdf%7C",
+        "fileName": "20200519151600-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270605100115%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270605100115",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "435a9830e748498c8bdbd686e6865cf112194683",
+        "size": 471587,
+        "text": "Anlage 01__Übersichtsskizze mit Geltungsbereich",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270605100115%7C20200519151600-1.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-19",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270605100115%7C20200519151600-1.pdf%7C",
+        "fileName": "20200519151600-1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270605100115%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270605100115",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "016c393b8a1f6d7fbd33ce353468aac2b1ae5c65",
+        "size": 360851,
+        "text": "Anlage 02__Liste der beteiligten Bereiche der Stadt und der Träger öffentlicher Belange",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270605100115%7C20200519151601-2.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-19",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270605100115%7C20200519151601-2.pdf%7C",
+        "fileName": "20200519151601-2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270605100115%7C4",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270605100115",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 4",
+        "sha1Checksum": "c4ba5170fed430968a5019570ae9698d8ae7857f",
+        "size": 2523118,
+        "text": "Anlage 03__Abwägungsvorschlag zu den Stellungnahmen der Behörden und sonstigen Träger öfftl Belange",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270605100115%7C20200519152000-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-19",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270605100115%7C20200519152000-0.pdf%7C",
+        "fileName": "20200519152000-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270605100115%7C5",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270605100115",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 5",
+        "sha1Checksum": "40224a0a231a3fbf14688323cd77f860a0f3b8d2",
+        "size": 3399720,
+        "text": "Anlage 04__Aufhebungssatzung_",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-AuWi-32%7C270605100115%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8970",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-AuWi-32",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B3-99%7C270605100115%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8968",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B3-99",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-118%7C270605100115%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8969",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-118",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-05-06",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/270605100115",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270605100115&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270605100115&id=69",
+      "fileName": "270605100115",
+      "id": "https://castroprauxel.gremien.info/oparl/file/270605100115",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/121",
+      "size": 173517,
+      "text": " Bereich Stadtplanung und Bauordnung 2020/121  öffentlich  Az: 61.26.113.teil1.aufh   Datum: 06.05.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Ausschuss für Wirtschaftsentwicklung 16.06.2020   Betriebsausschuss 3 (Bauen, Verkehr und Sport) 18.06.2020   Rat der Stadt 25.06.2020    Betreff  Satzung über die Aufhebung des Bebauungsplanes Nr. 113 Teil 1 Planbereich Gewerbegebiet Habinghorst hier:  a) Entscheidung über die Stellungnahmen nach § 2 Abs. 3 BauGB  b) Entscheidung über die redaktionellen Änderungen und Ergänzungen  c) Satzungsbeschluss nach § 10 Abs. 1 BauGB  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Der Rat der Stadt Castrop-Rauxel hat die vorgebrachten Stellungnahmen im Einzelnen geprüft und abgewogen. Der Rat beschließt, a) die abgegebenen Stellungnahmen insoweit zu berücksichtigen, wie es im beiliegenden Abwägungsvorschlag (Anlage 3) angegeben ist. b) die redaktionellen Änderungen zu berücksichtigen, indem die Begründung mit Umweltbericht wie im Sachverhalt beschrieben geändert wird. Der Rat schließt sich der Stellungnahme der Verwaltung an und erhebt diese zum Beschluss. Der Rat beschließt ferner c) die Satzung über die Aufhebung des Bebauungsplanes Nr. 113 Teil 1 und billigt die zugehörige Begründung mit Umweltbericht in ihrer geänderten Fassung. Der räumliche Geltungsbereich der Satzung über die Aufhebung des Bebauungsplans ist in der zum Beschluss gehörenden Anlage 1 dargestellt.  \f  \f          _______________               _______________  K r a v a n j a       Lenort\u000b Bürgermeister       Stadtbaurätin    \f  Sachverhalt  Geltungsbereich Der Geltungsbereich der Aufhebungssatzung liegt im Stadtteil Habinghorst und erstreckt sich über eine Größe von ca. 8,6 ha zwischen Rhein-Herne-Kanal und Wartburgstraße. Er umfasst den um die Straße  Zum Düker  liegenden Teil des bestehenden Gewerbegebietes. Der Geltungsbereich wird begrenzt - im Norden durch den Verlauf der alten Emscher, - im Westen durch den Rhein-Herne-Kanal, - im Osten durch die Wartburgstraße sowie - im Süden durch die Grundstücke der durch die Lippestraße erschlossenen Gewerbe- und Industriebetriebe. Das Aufhebungsverfahren bezieht sich somit auf den gesamten Geltungsbereich des Bebauungs-plans Nr. 113 Teil 1, Planbereich  Gewerbegebiet Habinghorst . Der genaue Geltungsbereich ist dem als Anlage 1 beigefügten Übersichtsplan zu entnehmen. Maßgeblich ist die zeichnerische Darstellung der Aufhebungssatzung.  Planungsanlass und -erfordernis sowie allgemeine Ziele und Zwecke der Planung Das Ziel des Bebauungsplans Nr. 113 Teil 1  Gewerbegebiet Habinghorst  war die Entwicklung von Gewerbeflächen. Das ursprüngliche Planerfordernis ist zum heutigen Zeitpunkt entfallen, das Plangebiet ist entsprechend den Festsetzungen des Bebauungsplans entwickelt und bebaut. Auch erweist sich die zentrale Festsetzung von Abstandsklassen anhand der ständigen Rechtsprechung des Bundesverwaltungsgerichtes als rechtswidrig, da die Anforderungen von § 1 Abs. 4 BauNVO nicht erfüllt sind. Damit erweist sich der Bebauungsplan Nr. 113 Teil 1 ungeeignet und soll daher aufgehoben werden.  Um die bestehende Zentrenstruktur zu erhalten und zu sichern, wird gleichzeitig beabsichtigt für das gesamte Gewerbegebiet Habinghorst den Bebauungsplan Nr. 241 mit Festsetzungen zum Ausschluss von zentren- und nahversorgungsrelevantem Einzelhandel aufzustellen. Da die Anwendung des einfachen Bebauungsplans Nr. 241 gemäß § 9 Abs. 2a BauGB nur im unbeplanten Innenbereich möglich ist, wird dieser erst mit der rechtswirksamen Aufhebung des bestehenden Bebauungsplans Nr. 113 Teil 1 seine Einzelhandelssteuerungsfunktion wirkungsvoll entfalten können, um der konsequenten Umsetzung des Zentren- und Einzelhandelskonzeptes zu dienen.  Inhalte der Planung Inhalt der Planung ist die Aufhebung des Bebauungsplanes Nr. 113 Teil 1 mit seinen Festsetzungen. Dieses Ziel wird mit Hilfe der Satzung über die Aufhebung des Bebauungsplanes Nr. 113 Teil 1  Gewerbegebiet Habinghorst  umgesetzt.  Auswirkungen der Planung Das Plangebiet ist heute entsprechend den Festsetzungen des Bebauungsplanes Nr. 113 Teil 1 entwickelt. Durch die Aufhebung des Bebauungsplans wird kein Baurecht auf den betreffenden Grundstücken geschaffen, sondern lediglich das zugrundeliegende Planungsrecht geändert. Nach der rechtswirksamen Aufhebung richtet sich die Zulässigkeit von Vorhaben im Sinne des § 29 BauGB nach den Vorschriften des § 34 BauGB.  Demnach ist ein Vorhaben zulässig, wenn es sich nach Art und Maß der baulichen Nutzung, der Bauweise und der Grundstücksfläche, die überbaut werden soll, in die Eigenart der näheren Umgebung einfügt und die Erschließung gesichert ist. In der Folge ergeben sich keine wesentlichen Änderungen in der Zulässigkeit von Vorhaben durch die Aufhebung des Bebauungsplanes, da die nähere Umgebung in etwa den Festsetzungen des aufzuhebenden Bebauungsplanes entspricht. Die im Geltungsbereich der Satzung vorhandenen Flurstücke liegen, mit Ausnahme der öffentlichen Flächen für die Erschließung, in privater Hand. Bodenordnende Maßnahmen sind nicht erforderlich. Im Zuge einer für das Plangebiet durchgeführten Artenschutzprüfung wurden vorhandene Daten ausgewertet, um festzustellen, wie das Vorhaben mit den gesetzlichen Regelungen zum Artenschutz in Einklang gebracht werden kann. Grundlage für die Beurteilung sind die Angaben des Fachinformationssystems des LANUV (Landesamt für Natur, Umwelt und Verbraucherschutz). Danach wurden Arten der folgenden Tiergruppen untersucht: - Säugetiere - Vögel - Amphibien Da die Aufhebung des Bebauungsplanes weder ein erstmaliges Baurecht auf den betreffenden Grundstücken schafft noch deren Zulässigkeitsrahmen wesentlich verändert, stellt die Artenschutzprüfung im Ergebnis fest, dass die Verbotstatbestände des § 44 BNatSchG für planungsrelevante Arten nicht erfüllt sind. Eine weitergehende Artenschutzprüfung im Sinne einer  Vertiefenden Prüfung der Verbotstatbestände  (Stufe II) oder ein  Ausnahmeverfahren  (Stufe III) war auf dieser Grundlage nicht erforderlich. Im Rahmen des Umweltberichtes werden die zu erwartenden Umweltauswirkungen auf die verschiedenen Schutzgüter gemäß § 1 Abs. 6 Nr. 7 BauGB, die sich aufgrund der Aufhebung des Bebauungsplanes ergeben können, prognostiziert und bewertet. Im Einzelnen untersucht der Umweltbericht folgende Schutzgüter und deren Wechselwirkungen: - Mensch, Gesundheit und Bevölkerung - Tiere, Pflanzen, biologische Vielfalt und Artenschutz - Risiken durch Unfälle und Kaatastrophen / Störfälle - Boden - Fläche - Wasser - Klima und Luft - Landschaft, Landschafts- und Ortsbild - Denkmäler, Kultur- und sonstige Sachgüter Der Umweltbericht kommt zum zusammenfassenden Ergebnis, dass insgesamt keine erheblichen Auswirkungen erkennbar sind, die der Aufhebung des Bebauungsplanes entgegenstehen. Für Bauleitplanverfahren ist die bauplanungsrechtliche Eingriffsregelung nach dem BauGB anzuwenden (§ 1a Abs. 3 BauGB). Im Ergebnis der Gegenüberstellung des derzeitigen Planungsrechtes mit der beabsichtigten Aufhebung des Bebauungsplanes ist festzustellen, dass ein Ausgleich nicht erforderlich wird, da die Eingriffe bereits vor der planerischen Entscheidung erfolgt sind oder zulässig waren (§ 1a Abs. 3 Satz 6 BauGB).  Auswirkungen der Planung auf das Klima In Folge des Satzungsbeschlusses gem. § 10 Abs. 1 BauGB sind keine unmittelbaren Auswirkungen auf das Klima im Castrop-Rauxeler Stadtgebiet zu erwarten, da mit der Aufhebung des Bebauungsplanes keine erweiterten Baurechte geschaffen werden.  Verfahren und weitere Vorgehensweise Der Ausschuss für Bauen, Verkehr und Sport der Stadt Castrop-Rauxel hat in seiner Sitzung am 19.11.2015 die Aufstellung der Satzung über die Aufhebung des Bebauungsplanes Nr. 113 Teil 1, Planbereich  Gewerbegebiet Habinghorst  beschlossen. Der Aufstellungsbeschluss wurde am 04.12.2015 öffentlich bekanntgemacht.  Die frühzeitige Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB fand in der Zeit vom 04.03.2019 bis einschließlich 15.03.2019 statt. Parallel wurden die Behörden und sonstigen Träger öffentliche Belange gemäß § 4 Abs. 1 BauGB an der Planung beteiligt. Am 20.02.2020 fasste der Ausschuss für Bauen, Verkehr und Sport der Stadt Castrop-Rauxel den Offenlagebeschluss. Die öffentliche Auslegung nach § 3 Abs. 2 BauGB fand im Zeitraum vom 13.03.2020 bis einschließlich 17.04.2020 statt. Parallel erfolgte die förmliche Beteiligung der Träger öffentlicher Belange nach § 4 Abs. 2 BauGB. Zur Minimierung des Ansteckungsrisikos mit dem Coronavirus hatte die Stadtverwaltung präventive Maßnahmen eingeleitet. Infolgedessen war ab dem 16.03.2020 der uneingeschränkte Zugang für die Öffentlichkeit zum Rathaus und somit zu den für die Öffentlichkeitsbeteiligung ausgelegten Planunterlagen nicht mehr gewährleistet. Zur besseren Gewährleistung der öffentlichen Einsehbarkeit, sowie der Möglichkeit zur Stellungnahme wurden ab 16.03.2020 über das übliche Maß hinausgehende Informationsmöglichkeiten geschaffen. Dazu gehörte - neben der sonst auch üblichen Bereitstellung der vollständigen Planunterlagen im Internet - unter anderem ein zusätzlicher, von außen einsehbarer Aushang an der Glasfassade des Foyers des Ratssaals mit Angabe einer Telefonnummer für Rückfragen und Anregungen. Durch die explizite Veröffentlichung mit Hinweis auf die veränderte Beteiligung in der Offenlage bei Planverfahren wurde die Anstoßwirkung für die Öffentlichkeit erneuert und ausgeschlossen, dass Teile der Öffentlichkeit von der Offenlage ausgeschlossen wurden. Ergänzend waren sämtliche Unterlagen auch am regulären veröffentlichten Ort im Rathaus ausgehängt und konnten bei Anmeldung an der Pforte eingesehen werden. Die vorgebrachten Anregungen sind zu prüfen und abzuwägen. Die Satzung über die Aufhebung des Bebauungsplanes ist zu beschließen. Anschließend führt die Verwaltung die erforderlichen Abschlussarbeiten durch und setzt die Satzung in Kraft.  Anregungen im Rahmen der Beteiligungsverfahren Im Rahmen der frühzeitigen Beteiligung der Öffentlichkeit nach § 3 Abs. 1 BauGB sowie der Öffentlichen Auslegung der Satzung über die Aufhebung des Bebauungsplanes nach § 3 Abs. 2 BauGB sind keine Anregungen aus der Öffentlichkeit eingegangen. Anlage 2 listet alle an der Planung beteiligten Träger öffentlicher Belange und hausinternen Bereiche auf. Die im Rahmen der Beteiligung nach § 4 Abs. 1 und § 4 Abs. 2 BauGB vorgebrachten Stellungnahmen sowie der Abwägungsvorschlag sind in der Anlage 3 aufgeführt. Neben Informationen zur technischen Infrastruktur wurden vor allem mögliche Änderungen bei den Zulässigkeitsvoraussetzungen der Betriebe und mögliche immissionsschutzrechtliche Auswirkungen thematisiert. Folgende Stellen haben abwägungsrelevante Stellungnahmen vorgebracht: Bereich 30, Rechtsamt Bereich 37, Feuerwehr - Kampfmittel EUV Bezirksregierung Münster, Dez. 53, Anlagenbezogener Immissionsschutz Kreis Recklinghausen Uniper Kraftwerke GmbH Industrie- und Handelskammer Nord Westfalen  Redaktionelle Änderungen nach der öffentlichen Auslegung Die Satzung über die Aufhebung des Bebauungsplanes wurde nach der Öffentlichen Auslegung inhaltlich nicht geändert. In der Begründung wurden redaktionelle Änderungen vorgenommen. Die Änderungen erfordern keine erneute Offenlage, da sie keinen materiellen Regelungsinhalt haben.  Kosten Im Geltungsbereich der Aufhebungssatzung bzw. in seiner direkten Umgebung sind alle erforderlichen Erschließungsanlagen, d. h. Straßen, Kanalleitungen und Versorgungsleitungen vorhanden. Die Aufhebung des Bebauungsplanes bereitet auch keine neuen, erweiterten Entwicklungsmöglichkeiten vor, in deren Folge sich ein erhöhter Erschließungsaufwand ergeben könnte. Der Stadt Castrop-Rauxel entstehen durch die Aufhebung des Bebauungsplanes daher keine kassenwirksamen Kosten.  Es entstehen Kosten für bauleitplanerische Leistungen, die die erforderlichen Ausarbeitungen und Planfassungen sowie die Durchführung des Verfahrens beinhalten.       Anlagen Anlage 1: Übersichtsskizze mit Geltungsbereich Anlage 2: Liste der beteiligten Behörden und sonstigen Träger öffentlicher Belange Anlage 3: Abwägungsvorschlag zu den Stellungnahmen der Behörden und sonstigen Träger öffentlicher Belange Anlage 4: Satzung über die Aufhebung des Bebauungsplans Anlage 5: Satzungstext, DIN A4 Anlage 6: Begründung mit Umweltbericht in der aufgrund der redaktionellen Änderungen überarbeiteten Fassung Anlage 7: Artenschutzprüfung    Mitzeichnung Stadtentwicklung Wirtschaftsförderung          \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Satzung über die Aufhebung des Bebauungsplanes Nr. 113 Teil 1\r\nPlanbereich „Gewerbegebiet Habinghorst“\r\nhier:\r\n\ta)\tEntscheidung über die Stellungnahmen nach § 2 Abs. 3 BauGB\r\n\tb)\tEntscheidung über die redaktionellen Änderungen und Ergänzungen\r\n\tc)\tSatzungsbeschluss nach § 10 Abs. 1 BauGB",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/121",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT",
+      "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+    ]
+  }
+}

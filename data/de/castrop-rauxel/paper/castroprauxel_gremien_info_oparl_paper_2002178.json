@@ -1,0 +1,32 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/2002178",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2002-06-13",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/2002178",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002178&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002178&id=69",
+      "fileName": "2002178",
+      "id": "https://castroprauxel.gremien.info/oparl/file/2002178",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2002/178",
+      "size": 14561,
+      "text": "eigenbetrieb;euv;sitzungsvorlage;werksausschuss;benennung;wirtschaftsprüfers;prüfung;jahresabschlusses;eigenbetriebes;haushaltsstelle;berührung;gesamtkosten;wirtschaftsprüfungs;beratungsgesellschaft;rödl;partner;köln;prüfer;jahresabschluss;gemeindeprüfungsamt;werner;mönch;abs;bezirksregierung;münster;jahresabschlussprüfung;wirtschaftsberatungsgesellschaft;rechtsvorschrift;vorschlagsrecht;regel;verordnung;durchführung;eigenbetrieben;einrichtungen;wirtschaftsjahres;eigenbetriebsverordnung;eigvo;zuständigkeitsbereich;werksausschusses;entsorgung;umweltschutz;versorgung;prüfarbeiten;gründen;wirtschaftlichkeit;jahresrechnungen;mehrjahreszeitraum;wirtschaftsberatungsunternehmen;prüftätigkeiten;intensivprüfung;prüfumfang;einarbeitung;abrechnung;wirtschaftsprüfer;tagessätzen;jahrsabschluss;kontinuität;ablauf;prüfungsumfang;bedeutung;wirtschaftsplan;wirtschaftsjahr;benennung;eines;wirtschaftsprüfers;für;die;prüfung;des;jahresabschlusses;2002;des;eigenbetriebes;euv;2002178;,2002/178;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Benennung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2002 des Eigenbetriebes EUV",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2002/178",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

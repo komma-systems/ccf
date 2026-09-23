@@ -1,0 +1,53 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36298",
+  "modified_at": "2026-09-09T10:12:08+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369689.pdf",
+        "created": "2026-09-09T09:31:19+02:00",
+        "date": "2026-09-09",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369689.pdf",
+        "fileName": "00369689.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369689",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-09T10:12:08+02:00",
+        "name": "Bericht",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141673",
+        "created": "2026-09-08T09:19:08+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68749",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24624",
+        "modified": "2026-09-17T10:20:05+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/273"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36298",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-04T09:41:27+02:00",
+    "date": "2026-09-08",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36298",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-09T10:12:08+02:00",
+    "name": "Einrichtung von Familiengrundschulzentren in Wuppertal",
+    "paperType": "Bericht",
+    "reference": "VO/1093/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/13"
+    ]
+  }
+}

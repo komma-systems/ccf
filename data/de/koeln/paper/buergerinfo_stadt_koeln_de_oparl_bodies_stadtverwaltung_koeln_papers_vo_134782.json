@@ -1,0 +1,48 @@
+{
+  "council_id": "koeln",
+  "record_type": "paper",
+  "source_id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134782",
+  "modified_at": "2026-09-22T08:14:11+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01112433.pdf",
+        "created": "2026-09-21T10:00:13+02:00",
+        "date": "2026-09-21",
+        "downloadUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/01112433.pdf",
+        "fileName": "01112433.pdf",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/files/1112433",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-21T10:04:30+02:00",
+        "name": "Änderungsantrag  (Grüne BV2)",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln",
+    "consultation": [
+      {
+        "agendaItem": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/450560",
+        "authoritative": true,
+        "created": "2026-09-21T10:07:27+02:00",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/206739",
+        "meeting": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34010",
+        "modified": "2026-09-21T23:13:15+02:00",
+        "organization": [
+          "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21"
+        ],
+        "paper": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134782",
+        "role": "Antrag / Anfrage",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-21T09:59:07+02:00",
+    "date": "2026-09-21",
+    "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134782",
+    "modified": "2026-09-22T08:14:11+02:00",
+    "name": "Änderungsantrag der Fraktion Bündnis 90/Die Grünen zu Top 9.2.1 - Aufrechterhaltung des KFW 40 Standards für Neubauten",
+    "paperType": "Änderungsantrag BV2 (Grüne)",
+    "reference": "AN/1505/2026",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

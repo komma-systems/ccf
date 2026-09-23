@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/181003100009",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-11%7C181003100009%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6475",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2015-EUV-11",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2015-03-10",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/181003100009",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=181003100009&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=181003100009&id=69",
+      "fileName": "181003100009",
+      "id": "https://castroprauxel.gremien.info/oparl/file/181003100009",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2015/EUV/010",
+      "size": 168067,
+      "text": "Datum: 10.03.2015 TB I 9686-380 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 25.03.2015 TOP: I.2 Drucksache-Nr. 2015/EUV/010 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 25.03.2015 2 Betreff: Sachstandsbericht Einführung einer Grundgebühr im Bereich Stadtentwässerung -Bericht Vertreter Kommunalagentur NRW- Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt die Präsentation der Vertreterin der Kommunalagentur NRW zur möglichen Einführung einer Grundgebühr zur Kenntnis. ________________________ Werner Sachverhalt: In den vorausgegangenen Jahren hat sich der Verwaltungsrat des EUV Stadtbetriebes mehrfach im Zusammenhang mit der Gebührenbedarfskalkulation insbesondere Stadtentwässerung hinsichtlich der Möglichkeit der Einführung eines Gebührenmodells auseinandergesetzt. Insbesondere unter Zugrundelegung der Drucksache 1/I.2/2010 und dem Sachvortrag von Herrn Dr. Queitsch vom Städte- und Gemeindebund NRW wurde die grundsätzliche Möglichkeit der Heranziehung einer Grundgebühr thematisiert. Die bisherige Diskussion der praktizierten bzw. vorhandenen Gebührenbemessung zeigt das Erfordernis, ein möglichst wirklichkeitsnahes und für die Bürger/innen nachvollziehbares Gebührenmodell zu entwickeln und ggf. einzuführen. Dabei sind die nachfolgenden Aspekte zu beachten: Rechtssicherheit Kostendeckung/Gebührenausfallrisiko Gebührengerechtigkeit Transparenz Verwaltungsaufwand/Umsetzbarkeit und Nachhaltigkeit. Insbesondere vor dem Hintergrund der demografischen Entwicklung (Generationengerechtigkeit) ist ein zukunftsweisendes Gebührenmodell aufzustellen. Die Beschäftigung mit der langfristigen demografischen Entwicklung im Zuständigkeitsbereich des Kommunalunternehmens EUV ist nicht nur relevant für das zukünftige Abwasseraufkommen bzw. Abfallaufkommen innerhalb des Stadtgebietes, sondern liefert auch zudem wichtige Aufschlüsse für die jährlich zu erwartende Gebührenentwicklung die zukünftige Personalstruktur und –entwicklung die daraus resultierende Gesamtentwicklung des Kommunalunternehmens EUV Stadtbetrieb Castrop-Rauxel. In der Sitzung wird die Vertreterin der Kommunalagentur NRW die Vor- und Nachteile einer Grundgebühr für die Leistungen der Stadtentwässerung in der Stadt Castrop-Rauxel vorstellen und die Auswirkungen auf die Gebührenpflichtigen darstellen. Weiterer Bericht in der Sitzung.Sachstandsbericht Einführung einer Grundgebühr im Bereich Stadtentwässerung -Bericht Vertreter Kommunalagentur NRW-2015/EUV/010%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Sachstandsbericht Einführung einer Grundgebühr im Bereich Stadtentwässerung\r\n-Bericht Vertreter Kommunalagentur NRW-",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2015/EUV/010",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

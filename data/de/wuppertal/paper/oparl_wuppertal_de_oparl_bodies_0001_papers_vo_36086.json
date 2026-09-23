@@ -1,0 +1,77 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36086",
+  "modified_at": "2026-09-01T10:09:28+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367730.pdf",
+        "created": "2026-07-20T13:29:06+02:00",
+        "date": "2026-07-20",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367730.pdf",
+        "fileName": "00367730.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367730",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-01T10:09:28+02:00",
+        "name": "Anlage 02 - gemeinsamer Antrag von SPD und Bündnis 90_Die Grünen",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367732.pdf",
+        "created": "2026-07-20T13:53:09+02:00",
+        "date": "2026-07-20",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367732.pdf",
+        "fileName": "00367732.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367732",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-01T10:09:28+02:00",
+        "name": "Anlage 01 - Beschlussauszug zur Vorlage VO_0756_26",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367812.pdf",
+        "created": "2026-07-27T08:45:32+02:00",
+        "date": "2026-07-27",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367812.pdf",
+        "fileName": "00367812.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367812",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-01T10:09:28+02:00",
+        "name": "Bericht",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141204",
+        "created": "2026-08-07T13:22:00+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68340",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24789",
+        "modified": "2026-09-09T12:19:19+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/44"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36086",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-16T14:42:17+02:00",
+    "date": "2026-08-03",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36086",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-01T10:09:28+02:00",
+    "name": "Bericht der Verwaltung zum Prüfauftrag der BV Barmen zur Buserschließung Rott (VO/0756/26)",
+    "paperType": "Bericht",
+    "reference": "VO/0895/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/6"
+    ]
+  }
+}

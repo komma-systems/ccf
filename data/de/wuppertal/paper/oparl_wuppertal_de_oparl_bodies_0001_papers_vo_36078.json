@@ -1,0 +1,51 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36078",
+  "modified_at": "2026-09-01T09:46:51+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367665.pdf",
+        "created": "2026-07-14T11:45:21+02:00",
+        "date": "2026-07-14",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367665.pdf",
+        "fileName": "00367665.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367665",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-01T09:46:52+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141201",
+        "authoritative": true,
+        "created": "2026-08-07T13:22:00+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68326",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24789",
+        "modified": "2026-09-09T12:25:37+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/44"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36078",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-14T11:20:05+02:00",
+    "date": "2026-08-03",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36078",
+    "modified": "2026-09-01T09:46:51+02:00",
+    "name": "Neuwahl einer Schiedsperson für den Schiedsamtsbezirk Barmen-Süd",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/0888/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/95"
+    ]
+  }
+}

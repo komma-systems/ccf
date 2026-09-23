@@ -1,0 +1,78 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36253",
+  "modified_at": "2026-09-10T12:15:41+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369129.pdf",
+        "created": "2026-08-31T15:19:12+02:00",
+        "date": "2026-08-31",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369129.pdf",
+        "fileName": "00369129.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369129",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-10T12:15:42+02:00",
+        "name": "Bericht",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369701.pdf",
+        "created": "2026-09-09T10:47:06+02:00",
+        "date": "2026-09-09",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369701.pdf",
+        "fileName": "00369701.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369701",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-10T12:15:42+02:00",
+        "name": "20260908 - KGSt-Abschlussbericht_ABH-Wuppertal",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369702.pdf",
+        "created": "2026-09-09T10:47:07+02:00",
+        "date": "2026-09-09",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369702.pdf",
+        "fileName": "00369702.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369702",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-10T12:15:42+02:00",
+        "name": "20260908 - KGSt-Handlungsempfehlungen_ABH-Wuppertal",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141579",
+        "authoritative": true,
+        "created": "2026-09-01T10:52:40+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68648",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24678",
+        "modified": "2026-09-18T07:30:18+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/269"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36253",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-31T15:17:11+02:00",
+    "date": "2026-09-01",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36253",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-10T12:15:41+02:00",
+    "name": "Bericht zur Organisationsuntersuchung der KGSt in der Ausländerbehörde",
+    "paperType": "Bericht",
+    "reference": "VO/1051/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/10"
+    ]
+  }
+}

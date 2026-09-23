@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/220809100044",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2017-EUV-18%7C220809100044%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7657",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2017-EUV-18",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2017-09-08",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/220809100044",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=220809100044&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=220809100044&id=69",
+      "fileName": "220809100044",
+      "id": "https://castroprauxel.gremien.info/oparl/file/220809100044",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2017/EUV/044",
+      "size": 89313,
+      "text": "Datum: 08.09.2017 TB I 96 86 - 500 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 13.09.2017 TOP: Tischvorlage Drucksache-Nr. 2017/EUV/044 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Betreff: Ernennung von Frau Bianca Sieck als stellvertretende Schriftführerin für den Verwaltungsrat des EUV Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat beschließt gemäß §§ 52 und 58 der Gemeindeordnung NRW Frau Bianca Sieck als stellvertretende Schriftführerin zu benennen. ________________________ Werner Sachverhalt: Gemäß § 58 Abs. 7 der Gemeindeordnung NRW (GO NRW) ist über die Beschlüsse der Ausschüsse eine Niederschrift aufzunehmen. Diese wird in analoger Anwendung des § 52 Abs. 1 in Verbindung mit § 58 Abs. 2 GO NRW von einem/r vom Verwaltungsrat zu bestellenden Schriftführer/in gefertigt. Die Mitarbeiterin des Sekretariats Frau Bianca Sieck wird in die Funktion eingeführt, um zukünftig an Stelle des stellvertretenden Vorstands Herrn Wolfgang Linke in Vertretung für den Schriftführer Herrn Gert Krause-Joseph das Protokoll zu führen.%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Abberufung des stellvertretenden Vorstands Herrn Wolfgang Linke und Ernennung von Frau Bianca Sieck als stellvertretenden Schriftführers für den Verwaltugnsrat des EUV",
+    "paperType": "Tischvorlage",
+    "reference": "2017/EUV/044",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

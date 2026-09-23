@@ -1,0 +1,113 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36094",
+  "modified_at": "2026-08-24T10:07:56+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368326.pdf",
+        "created": "2026-08-04T15:58:49+02:00",
+        "date": "2026-08-04",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368326.pdf",
+        "fileName": "00368326.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368326",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-21T08:10:22+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368539.pdf",
+        "created": "2026-08-14T12:38:55+02:00",
+        "date": "2026-08-14",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368539.pdf",
+        "fileName": "00368539.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368539",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-21T08:10:22+02:00",
+        "name": "BeiratderMmB_ Änderungssatzung",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369700.pdf",
+        "created": "2026-09-09T10:44:18+02:00",
+        "date": "2026-09-09",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369700.pdf",
+        "fileName": "00369700.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369700",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-09T10:44:18+02:00",
+        "name": "Synopse_SatzungBeirat",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141185",
+        "created": "2026-08-05T10:38:47+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68355",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24604",
+        "modified": "2026-09-09T11:24:28+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/265"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36094",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141212",
+        "created": "2026-08-10T11:46:16+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68356",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24648",
+        "modified": "2026-09-09T10:26:29+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/271"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36094",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141834",
+        "created": "2026-09-16T08:46:02+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68357",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24543",
+        "modified": "2026-09-23T10:41:34+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36094",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141869",
+        "created": "2026-09-16T09:02:35+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68820",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24654",
+        "modified": "2026-09-21T12:13:02+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36094",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-22T08:00:12+02:00",
+    "date": "2026-08-05",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36094",
+    "modified": "2026-08-24T10:07:56+02:00",
+    "name": "Änderung der Satzung des Beirates der Menschen mit Behinderung",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/0901/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/8"
+    ]
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B2-117",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B2-117%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B2-117",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B2-117%7C1%7C1",
+          "date": "2023-10-12",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B2-117%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B2-117%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 369324,
+          "text": "1 Fragestunde für Einwohnerinnen und Einwohner    Keine Fragen. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B2-117%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B2-117",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B2-117%7CProtokoll%7C1",
+          "date": "2023-10-12",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B2-117%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B2-117%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 371370,
+          "text": "2 Einwände gegen die letzte Niederschrift    Keine Einwände. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B2-117%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B2-117",
+        "name": "Begrüßung durch Herrn Dr. Mayer\r\nSchulleiter des Ernst-Barlach-Gymnasiums",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B2-117%7Czt_2%7C1",
+          "date": "2023-10-12",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B2-117%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B2-117%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 388631,
+          "text": "  3 Begrüßung durch Herrn Dr. Mayer Schulleiter des Ernst-Barlach-Gymnasiums   Herr Dr. Mayer begrüßt die Ausschussmitglieder und Gäste in den Räumlichkeiten des Ernst-Barlach-Gymnasiums und wünscht einen guten Sitzungsverlauf. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2023-B2-117%7Czt_0%7C1%7C20231030094433-0_zt_0_1.pdf",
+            "date": "2023-10-30",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2023-B2-117%7Czt_0%7C1%7C20231030094433-0_zt_0_1.pdf",
+            "fileName": "20231030094433-0_zt_0_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2023-B2-117%7Czt_0%7C1%7C20231030094433-0_zt_0_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Castrop-Rauxel-Ausschuss_2023_08_17",
+            "size": 1991332,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B2-117%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B2-117",
+        "name": "Kreisweite Schulentwicklungsplanung 'Sonderpädagogischer Förderbedarf'\r\n-Frau Dr. Wadenpohl-",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B2-117%7Czt_0%7C1",
+          "date": "2023-11-02",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B2-117%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B2-117%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 396067,
+          "text": "4 Kreisweite Schulentwicklungsplanung  Sonderpädagogischer Förderbedarf  -Frau Dr. Wadenpohl-    Fr. Dr. Wadenpohl präsentiert dem Betriebsausschuss 2 anhand einer  Power-Point-Präsentation (Anlage 1) die Schulentwicklungsplanung Sonderpädagogischer Förderbedarf und beantwortet die Fragen  der Ausschussmitglieder.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B2-117%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B2-117",
+        "name": "Suchtberatung des Diakonischen Werkes in Castrop-Rauxel\r\n-Frau Walli-",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B2-117%7Czt_3%7C1",
+          "date": "2023-11-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B2-117%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B2-117%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 324237,
+          "text": "5 Suchtberatung des Diakonischen Werkes in Castrop-Rauxel -Frau Walli-    Frau Walli stellt sich und Ihre Kollegin Fr. Friedrich vor.  Sie berichten von ihrer Tätigkeit, ihren Klienten und den Kooperationspartnern. Problematisch sei jedoch, dass die Suchtberatungsstellen vor extrem finanziellen  Problemen stehen und eine Schließung zu befürchten sei. Die 1. Beigeordnete, Frau Kleff, möchte das Thema gemeinsam mit den  Ausschussmitgliedern begleiten und möchte dieses Angebot der Suchtberatung in  Castrop-Rauxel nicht verlieren.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B2-117%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B2-117",
+        "name": "aktueller Sachstand Wohngeld-Plus\r\n-Thomas Woitalla-\r\n",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B2-117%7Czt_1%7C1",
+          "date": "2023-11-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B2-117%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B2-117%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 323806,
+          "text": "6 aktueller Sachstand Wohngeld-Plus -Thomas Woitalla-    Herr Woitalla berichtet dem Betriebsausschuss 2 von dem seit Januar 2023 neu  eingeführtem Wohngeldgesetz.  Aufgrund der Wohngeldreform haben sich die Anspruchsberechtigten verdreifacht,  die Durchschnittswohngeldhöhe wurde verdoppelt.  Der Unterschied zum vorherigem Gesetz liegt bei den nun zu berücksichtigenden Heizkosten und der Klimakomponente, vorher wurde lediglich die Grundmiete zur Berechnung des Wohngeldes berücksichtigt. Die Bearbeitungszeit liege derzeit bei 6 Monaten. Der Anteil von digitalen Anträgen sei gering.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2023-B2-117%7Czt_5%7C1%7C20231102141124-0_zt_5_1.pdf",
+            "date": "2023-11-02",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2023-B2-117%7Czt_5%7C1%7C20231102141124-0_zt_5_1.pdf",
+            "fileName": "20231102141124-0_zt_5_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2023-B2-117%7Czt_5%7C1%7C20231102141124-0_zt_5_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "2023-08-16_Vorstellung_Welt-Alzheimerwoche- AGID und B2",
+            "size": 1571906,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B2-117%7Czt_5%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B2-117",
+        "name": "Welt-Alzheimerwoche 18. - 22. September 2023 'Demenz - die Welt steht Kopf'\r\nmündlicher Bericht: Beratungs- und Infocenter Pflege (BIP)\r\n",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B2-117%7Czt_5%7C1",
+          "date": "2023-11-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B2-117%7Czt_5%7C1",
+          "fileName": "be_zt_5_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B2-117%7Czt_5%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 337931,
+          "text": "7 Welt-Alzheimerwoche 18. - 22. September 2023  Demenz - die Welt steht Kopf  mündlicher Bericht: Beratungs- und Infocenter Pflege (BIP)     Frau Barth, seit Oktober 2022 im BIP der Stadt Castrop-Rauxel beschäftigt, stellt sich dem Betriebsausschuss 2 vor. Ebenfalls gibt sie einen Einblick in das Tätigkeitsfeld des Beratungs- und Infocenter Pflege. Sie stellt den Ablauf der Welt-Alzheimerwoche anhand einer Power-Point-Präsentation vor, die dem Protokoll als Anlage 2 beigefügt ist.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B2-117%7Czt_4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B2-117",
+        "name": "Informationen zum Start des Schuljahres 2023/2024\r\n",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B2-117%7Czt_4%7C1",
+          "date": "2023-11-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B2-117%7Czt_4%7C1",
+          "fileName": "be_zt_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B2-117%7Czt_4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 342085,
+          "text": "8 Informationen zum Start des Schuljahres 2023/2024     Die 1. Beigeordnete, Regina Kleff, begrüßt Frau Krüselmann, neue Schulamtsdirektorin vom Kreis Recklinghausen für Grundschulen. Sie stellt sich dem Betriebsausschuss 2 vor und berichtet, dass sie die Grundschulen in Castrop-Rauxel besucht hat. Ebenso berichtet Frau Kleff über Personaländerungen seit Schulstart. An der Elisabethschule übernimmt Frau Haberger die Funktion als kommissarische Schulleitung, an der  Marktschule Ickern wird Frau Kemper Schulleiterin. Frau Edeler wird in den Ruhestand gehen, Herr Wagener wird kommissarischer Schulleiter der Sekundarschule Süd. Die Grundschule Am Hügel ist zum neuen Standort, Kleine Lönsstraße, gezogen. Der Teilstandort der Cottenburgschule am Standort Am Hügel ist gestartet. Im folgenden Schuljahr sei mit 765 Schülerinnen und Schüler zu rechnen, das  Anmeldeverfahren läuft bald an. Die Dokumentation zum Thema Bio-Bitte liegt vor und wird in einer der nächsten  Ausschusssitzungen Thema. Die 1. Beigeordnete teilt mit, dass derzeit 1315 SuS in den offenen Ganztagsschulen betreut werden. Hinsichtlich des Deutschlandticket für SuS haben all diejenigen eines erhalten, die vorher Schokoticket berechtigt waren.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10773",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B2-117%7C332306100170%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B2-117",
+        "name": "Sachstandsbericht zum Handlungskonzept Wohnen",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B2-117%7C332306100170%7C1",
+          "date": "2023-11-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B2-117%7C332306100170%7C1",
+          "fileName": "be_332306100170_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B2-117%7C332306100170%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 335329,
+          "text": "9 Sachstandsbericht zum Handlungskonzept Wohnen (2023/165)    Regina Kleff, 1. Beigeordnete, berichtet über die Vorlage aus dem Betrieb 3. Sie hat selbst bei den ersten Auftaktworkshops teilgenommen. Das Handlungskonzept Wohnen sei ebenfalls für den B2 interessant, vor allem zum Thema bezahlbarer- und barrierefreier Wohnraum.  Es sei wichtig, dieses dauerhaft im Betriebsausschuss 2 im Blick zu halten. Der Betriebsausschuss 2 nimmt die Ausführungen zur Kenntnis und stimmt   einstimmig   der Vorlage zu.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10783",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B2-117%7C330308100215%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B2-117",
+        "name": "Antrag der FWI vom 01.08.2023\r\n-Einladung einer Vertretung der Volksbank Dortmund-",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B2-117%7C330308100215%7C1",
+          "date": "2023-11-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B2-117%7C330308100215%7C1",
+          "fileName": "be_330308100215_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B2-117%7C330308100215%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 453036,
+          "text": "  10 Antrag der FWI vom 01.08.2023 -Einladung einer Vertretung der Volksbank Dortmund- (2023/207)    Frau Leuchtmann erklärt den Antrag.  Die Ausschussvorsitzende, Frau Lasser-Moryson, findet das Thema wichtig, jedoch sollten  auch weitere Banken zu diesem Thema eingeladen werden.  Jedoch nicht als Thema im Betriebsausschuss 2, sondern man möge sich gemeinsam mit Verwaltung an einen runden Tisch setzen. Sie schlägt dem Betriebsausschuss 2 vor, den Antrag wie folgt zu ändern:  Die Verwaltung wird beauftragt einen runden Tisch zu initiieren und die Geldinstitute (Volksbank, Sparkasse, Targo Bank) dazu einzuladen, um ins Gespräch zu kommen.  Der Änderungsantrag findet Zustimmung bei der Antragstellerin.  Die Ausschussmitglieder des Betriebsausschusses 2 stimmen diesem einstimmig zu.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10781",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B2-117%7C330108100209%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B2-117",
+        "name": "Antrag der FWI-Fraktion vom 01.08.2023_Mobile Sitzbänke",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B2-117%7C330108100209%7C1",
+          "date": "2023-11-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B2-117%7C330108100209%7C1",
+          "fileName": "be_330108100209_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B2-117%7C330108100209%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 330460,
+          "text": "11 Antrag der FWI-Fraktion vom 01.08.2023_Mobile Sitzbänke (2023/201)   Frau Leuchtmann erklärt den Antrag. Frau Lasser-Moryson, Ausschussvorsitzende, teilt mit, dass diesem Antrag im B1  zugestimmt wurde jedoch noch darauf hingewiesen wurde, dass hierzu noch eine Satzungsänderung erfolgen muss.  Herr Schelte findet das Thema ebenfalls für den AGID wichtig.  Der Betriebsausschuss 2 stimmt dem Antrag  einstimmig zu.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/13126",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B2-117%7C330308100216%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B2-117",
+        "name": "Antrag SPD Ratsfraktion und Bündnis 90/Die Grünen vom 03.08.2023_Prüfauftrag 'Mehr Demokratieförderung durch Formen der Mitbestimmung an weiterführenden Schulen'",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B2-117%7C330308100216%7C1",
+          "date": "2023-11-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B2-117%7C330308100216%7C1",
+          "fileName": "be_330308100216_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B2-117%7C330308100216%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 342192,
+          "text": "12 Antrag SPD Ratsfraktion und Bündnis 90/Die Grünen vom 03.08.2023_Prüfauftrag  Mehr Demokratieförderung durch Formen der Mitbestimmung an weiterführenden Schulen  (2023/208)   Herr Eismann erklärt den Antrag.  Die Ausschussmitglieder diskutieren über diesen. Vieles sei in den Schulen bereits  vorhanden. Folgekosten sind ebenfalls zu erwarten, z. B. wegen der administrativen Betreuung, die wahrscheinlich durch einen Lehrer erfolgen muss. Bedarfe an den Schulen sollen noch einmal in den Vordergrund gestellt werden.  Gespräche seien diesbezüglich erforderlich.  Der Betriebsausschuss 2 stimmt wie folgt:  10-Ja Stimmen 6- Nein Stimmen  Antrag wurde positiv beschlossen.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2023-B2-117%7C6%7C1%7C20231106154120-0_6_1.pdf",
+            "date": "2023-11-06",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2023-B2-117%7C6%7C1%7C20231106154120-0_6_1.pdf",
+            "fileName": "20231106154120-0_6_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2023-B2-117%7C6%7C1%7C20231106154120-0_6_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Anfrage Rebional",
+            "size": 330950,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B2-117%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B2-117",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "13",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B2-117%7C6%7C1",
+          "date": "2023-11-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B2-117%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B2-117%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 13",
+          "size": 326015,
+          "text": "13 Anfragen der Ausschussmitglieder   Herr Fritsch informiert sich über die Essensbestellung bzw. Abbestellung bei Krankheit von Rebional. Frau Kleff nimmt dieses Thema mit. Hierzu sind die Ausführungen dem Protokoll als Anlage 3 hinzugefügt. Frau Leuchtmann informiert sich nach dem mobilen Treppensteiger für Schulen der zum damaligen Zeitpunkt für die Marktschule angeschafft wurde. Außerdem erkundigt sie sich nach den zentralen Eingängen des Rathauses. Hier teilt Frau Kleff, 1. BG, mit, dass es derzeit 2 Eingänge gibt. Frau Lasser-Moryson weist darauf hin, dass im Eingangsbereich des Bereich Soziales keine Sitzmöglichkeiten vorhanden sind.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B2-117%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B2-117",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "14",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B2-117%7C4%7C1",
+          "date": "2023-11-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B2-117%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B2-117%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 14",
+          "size": 321030,
+          "text": "14 Mitteilungen der Verwaltung   Herr Trzeziak, Altenhilfekoordinator, von der Stabsstelle Bildung, Vielfalt und Teilhabe weist auf den 2. Palliativtag in Castrop-Rauxel hin, der am 02.09.2023 im Evangelischen Krankenhaus stattfindet. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B2-117%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B2-117",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B2-117%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B2-117",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2023-08-17T20:10:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B2-117",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2023-B2-117",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-08-03",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2023-B2-117",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2023-B2-117",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "2b1ff5505f37c9b51272a211dfa570210e77d52c",
+      "size": 437554,
+      "text": "Amtliche Bekanntmachung der Tagesordnung zur Sitzung des Betriebsausschusses 2 (Familie, Jugend, Soziales und Bildung) am Donnerstag, 17.08.2023 um 17:00 Uhr in der Aula des Ernst-Barlach-Gymnasiums, Lunastraße 3, 44575 Castrop-Rauxel  I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner  2. Einwände gegen die letzte Niederschrift  3. Begrüßung durch Herrn Dr. Mayer Schulleiter des Ernst-Barlach-Gymnasiums  4. Kreisweite Schulentwicklungsplanung  Sonderpädagogischer Förderbedarf  -Frau Dr. Wadenpohl-  5. Suchtberatung des Diakonischen Werkes in Castrop-Rauxel -Frau Walli-  6. aktueller Sachstand Wohngeld-Plus -Thomas Woitalla-   7. Welt-Alzheimerwoche 18. - 22. September 2023  Demenz - die Welt steht Kopf  mündlicher Bericht: Beratungs- und Infocenter Pflege (BIP)   8. Informationen zum Start des Schuljahres 2023/2024   9. Sachstandsbericht zum Handlungskonzept Wohnen  10. Antrag der FWI vom 01.08.2023 -Einladung einer Vertretung der Volksbank Dortmund-  11. Antrag der FWI-Fraktion vom 01.08.2023_Mobile Sitzbänke  12. Antrag SPD Ratsfraktion und Bündnis 90/Die Grünen vom 03.08.2023_Prüfauftrag  Mehr Demokratieförderung durch Formen der Mitbestimmung an weiterführenden Schulen   13. Anfragen der Ausschussmitglieder  14. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  1. Anfragen der Ausschussmitglieder  2. Mitteilungen der Verwaltung   Gez. Katrin Lasser-Moryson Ausschussvorsitzende \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "außerhalb des Rathauses, Info siehe Bekanntmachung, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B2-117/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "außerhalb des Rathauses, Info siehe Bekanntmachung",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Betriebsausschusses 2 (Familie, Jugend, Soziales und Bildung)",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/597",
+      "https://castroprauxel.gremien.info/oparl/person/694",
+      "https://castroprauxel.gremien.info/oparl/person/1063",
+      "https://castroprauxel.gremien.info/oparl/person/138",
+      "https://castroprauxel.gremien.info/oparl/person/1032",
+      "https://castroprauxel.gremien.info/oparl/person/1062",
+      "https://castroprauxel.gremien.info/oparl/person/292",
+      "https://castroprauxel.gremien.info/oparl/person/1043",
+      "https://castroprauxel.gremien.info/oparl/person/858",
+      "https://castroprauxel.gremien.info/oparl/person/309",
+      "https://castroprauxel.gremien.info/oparl/person/977",
+      "https://castroprauxel.gremien.info/oparl/person/895",
+      "https://castroprauxel.gremien.info/oparl/person/1060",
+      "https://castroprauxel.gremien.info/oparl/person/1118",
+      "https://castroprauxel.gremien.info/oparl/person/29",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/1122",
+      "https://castroprauxel.gremien.info/oparl/person/758",
+      "https://castroprauxel.gremien.info/oparl/person/733"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-B2-117",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-11-06",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-B2-117",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-B2-117",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 538912,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2023-08-17T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-B2-117",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-11-06",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-B2-117",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-B2-117",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 538912,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

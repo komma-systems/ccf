@@ -1,0 +1,60 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36328",
+  "modified_at": "2026-09-14T14:22:25+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370010.pdf",
+        "created": "2026-09-11T13:12:04+02:00",
+        "date": "2026-09-11",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370010.pdf",
+        "fileName": "00370010.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370010",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-15T16:05:10+02:00",
+        "name": "Große Anfrage AfD",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141799",
+        "created": "2026-09-14T14:21:07+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68806",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24654",
+        "modified": "2026-09-14T14:40:14+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36328",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141862",
+        "created": "2026-09-16T08:46:02+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68807",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24543",
+        "modified": "2026-09-17T09:32:11+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36328",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-11T12:47:08+02:00",
+    "date": "2026-09-14",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36328",
+    "modified": "2026-09-14T14:22:25+02:00",
+    "name": "Finanzbeziehungen zwischen der Stadt Wuppertal und dem Landschaftsverband Rheinland (LVR) – Landschaftsumlage und Mittelrückflüsse im Haushaltsjahr 2026",
+    "paperType": "Große Anfrage AfD",
+    "reference": "VO/1118/26",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

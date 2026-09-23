@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/60103100082",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2004-SCHULA-2%7C60103100082%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/1653",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2004-SCHULA-2",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2005-03-01",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/60103100082",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=60103100082&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=60103100082&id=69",
+      "fileName": "60103100082",
+      "id": "https://castroprauxel.gremien.info/oparl/file/60103100082",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2005/084",
+      "size": 142483,
+      "text": "abbruch;ahornstraße;ahornstraße;;altgebäudes;anlage;aufstellung;baukosten;berücksichtigung;berührung;beteiligung;betreuung;betreuungsmaßnahme;bildung;bundesprogramm;castrop;computerraum;dringlichkeitsentscheidung;dritten;eigenanteil;einbeziehung;einrichtung;endes;entwurf;erläuterungen;erlöse;ersatzbau;festlegung;finanzausschuss;finanzierung;finanzplanungszeitraum;folgekosten;ganztagsschule;gebäude;gebäudes;gesamtkosten;grundsätze;grundschule;gruppe;gruppen;haupt;haushaltseckdaten;haushaltsstelle;hausmeister;hsk;iii;immobilienmanagements;investitionskostenkosten;kindertagesstätte;klassen;land;mindereinnahmen;mio;nein;neubau;neubauplänen;nrw;nutzung;personalkosten;plänen;projekt;ratssitzung;räumlichkeiten;raumprogrammen;raumprogramms;rauxel;reinigungspersonal;runderlass;sachkosten;schaffung;schulausschuss;schulausschusses;schulen;schulgebäude;schuljahresbeginn;schulkindergarten;schulkindergartens;schulkonferenz;schulneubau;sitzungsvorlage;sonderschulen;städtischer;turnhalle;verein;verträge;verwaltungsräume;vorbereitung;vorgaben;vorplanung;zukunft;neubau;der;grundschule;an;der;ahornstraße;;genehmigung;der;vorplanung;60103100082;,2005/084;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Neubau der Grundschule an der Ahornstraße;\r\nGenehmigung der Vorplanung ",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2005/084",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

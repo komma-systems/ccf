@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/70811100266",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-UMWA-13%7C70811100266%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/2433",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-UMWA-13",
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2006-11-08",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/70811100266",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=70811100266&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=70811100266&id=69",
+      "fileName": "70811100266",
+      "id": "https://castroprauxel.gremien.info/oparl/file/70811100266",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2006/264",
+      "size": 116523,
+      "text": "award;beigeordneter;beisenherz;berührung;dobrindt;eea;eea-berichtes;energy;essen;european;gertec;rechenschaftsbericht;sachstands-;sitzungsvorlage;stadtentwicklung;techn;top-nr;umweltausschuss;umweltausschusses;zertifizierungsverfahren;european;energy;award;eea;hier;aktueller;sachstand;2006/264;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "European Energy Award (EEA)\r\nhier: aktueller Sachstand",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2006/264",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

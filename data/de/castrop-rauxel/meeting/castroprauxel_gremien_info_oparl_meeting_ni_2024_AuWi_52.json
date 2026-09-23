@@ -1,0 +1,331 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-52",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-52%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-52",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-52%7C1%7C1",
+          "date": "2024-09-04",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-52%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-52%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 374066,
+          "text": "  2 Fragestunde für Einwohnerinnen und Einwohner    Keine Fragen.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-52%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-52",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-52%7CProtokoll%7C1",
+          "date": "2024-09-04",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-52%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-52%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 376119,
+          "text": "  3 Einwände gegen die letzte Niederschrift    Keine Einwände.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/15871",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-52%7C351908100172%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-52",
+        "name": "Antrag der CDU-Fraktion vom 16.08.2024_Antrag für einen Naschmarkt in Ickern",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-52%7C351908100172%7C1",
+          "date": "2024-09-04",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-52%7C351908100172%7C1",
+          "fileName": "be_351908100172_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-52%7C351908100172%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 416323,
+          "text": "  4 Antrag der CDU-Fraktion vom 16.08.2024_Antrag für einen Naschmarkt in Ickern (2024/168)    Herr von Estorff erläutert den Antrag der CDU-Fraktion und geht dabei auf die positiven Effekte ein, die ein Naschmarkt in Ickern bewirken könnte.  Er betont, dass es sich zunächst um einen Prüfauftrag handelt.  Herr Rodammer spricht sich für den Antrag aus, bittet aber auch darum, zu beachten, dass das Konzept des Naschmarktes in der Innenstadt nicht eins zu eins in Ickern umgesetzt werden kann/sollte.  Auch die Ausschussmitglieder Herr Bettinger, Herr Tamouh und Herr Epkenhaus drücken Ihre Zustimmung zu dem Antrag aus.  Der Ausschuss für Wirtschaftsentwicklung und Digitalisierung empfiehlt dem Rat der Stadt folgenden Beschluss zu fassen: Die Verwaltung wird beauftragt zu prüfen, ob sich die Veranstaltung des Naschmarkts neben dem Marktplatz in der Innenstadt auch auf dem Marktplatz in Ickern realisieren lässt.    Abstimmungsergebnis: einstimmig beschlossen  Ja-Stimmen: 13  Nein-Stimmen: -  Enthaltungen: -       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/13111",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-52%7C351908100175%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-52",
+        "name": "Antrag der CDU-Fraktion vom 16.08.2024_Leerung der Abfallbehälter",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-52%7C351908100175%7C1",
+          "date": "2024-09-04",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-52%7C351908100175%7C1",
+          "fileName": "be_351908100175_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-52%7C351908100175%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 406966,
+          "text": "  5 Antrag der CDU-Fraktion vom 16.08.2024_Leerung der Abfallbehälter (2024/171)    Herr von Estorff erläutert den Antrag der CDU-Fraktion.  Nach kurzer Diskussion beschließt der Ausschuss einstimmig, dass der Antrag zuständigkeitshalber zur Beratung an den Verwaltungsrat EUV verwiesen wird.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11741",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-52%7C352507100161%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-52",
+        "name": "Einzelhandelskonzept\r\nhier: Einbringung der Fortschreibung",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-52%7C352507100161%7C1",
+          "date": "2024-09-04",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-52%7C352507100161%7C1",
+          "fileName": "be_352507100161_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-52%7C352507100161%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 379455,
+          "text": "  6 Einzelhandelskonzept hier: Einbringung der Fortschreibung (2024/154)     Frau Kollmar, Projektleiterin der GMA mbH, erläutert anhand einer kurzen Präsentation die Einbringung der Fortschreibung des Einzelhandelskonzeptes. Sie merkt an, dass sich die die Fraktionen bei Rückfragen gerne an sie oder an Frau Höber vom Bereich Stadtplanung und Bauordnung wenden können. Der Ausschussvorsitzende, Herr Berkel, bedankt sich bei Frau Kollmar für den Vortrag. Der Ausschuss für Wirtschaftsentwicklung und Digitalisierung nimmt die Einbringung der Fortschreibung des Einzelhandelskonzepts zur Kenntnis.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11729",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-52%7C351607100152%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-52",
+        "name": "Bebauungsplan Nr. 267\r\n\"Deininghauser Weg / Recklinghauser Straße\"\r\nhier: Beschluss zur Aufstellung des Bebauungsplans nach § 2 Abs. 1 BauGB",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-52%7C351607100152%7C1",
+          "date": "2024-09-04",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-52%7C351607100152%7C1",
+          "fileName": "be_351607100152_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-52%7C351607100152%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 408562,
+          "text": "  7 Bebauungsplan Nr. 267  Deininghauser Weg / Recklinghauser Straße  hier: Beschluss zur Aufstellung des Bebauungsplans nach § 2 Abs. 1 BauGB (2024/145)  Frau Höber vom Bereich Stadtplanung und Bauordnung erläutert die Vorlage der Verwaltung. Die Beschlussfassung soll im Betriebsausschuss 3 erfolgen.   \f      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-AuWi-52%7Czt_0%7C1%7C20240827162426-1_zt_0_1.pdf",
+            "date": "2024-08-27",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-AuWi-52%7Czt_0%7C1%7C20240827162426-1_zt_0_1.pdf",
+            "fileName": "20240827162426-1_zt_0_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-AuWi-52%7Czt_0%7C1%7C20240827162426-1_zt_0_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Brachflächenkonzeption_2024-08-20",
+            "size": 759795,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-52%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-52",
+        "name": "Konzept Brachflächenmanagement",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-52%7Czt_0%7C1",
+          "date": "2024-09-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-52%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-52%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 396694,
+          "text": "  8 Konzept Brachflächenmanagement    Herr Langensiepen erläutert noch einmal kurz das Konzept und hebt das Ziel hervor, dass die Nutzung von mindergenutzten Brachflächen verbessert werden soll.  Er bittet die Ausschussmitglieder sich bei Nachfragen und Anregungen bis November 2024 zu melden, damit das Konzept dann in der Dezembersitzung verabschiedet werden kann.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-52%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-52",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-52%7C6%7C1",
+          "date": "2024-09-11",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-52%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-52%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 401616,
+          "text": "  9 Anfragen der Ausschussmitglieder     Herr Epkenhaus fragt an, was man gegen die Entwendung von Einkaufswagen, den Drogenkonsum und das Nichteinhalten von Hausverboten in Supermärkten in Castrop-Rauxel tun könne. Der Ausschussvorsitzende, Herr Berkel, bittet, diese Anfrage zuständigkeitshalber im Betriebsausschuss 1 zu stellen.   Herr Epkenhaus fragt an, warum bei einigen Sitzungsvorlagen keine haushaltsmäßige Berührung ausgewiesen wird, obwohl offensichtlich doch eine finanzielle Auswirkung vorliegt. Er bittet um Anpassung bei zukünftigen Vorlagen und entsprechenden Ausführungen in den jeweiligen Sachverhaltsbeschreibungen der Vorlagen.   Herr Neuhaus fragt an, wie der Stand der Ausschreibung bei der Suche nach dem/der neuen Informationssicherheitsbeauftragten ist.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-52%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-52",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-52%7C4%7C1",
+          "date": "2024-09-11",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-52%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-52%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 402121,
+          "text": "  10 Mitteilungen der Verwaltung     Herr Langensiepen gibt einen kurzen Sachstandsbericht zur Errichtung der sogenannten Smart Poles. Die wesentlichen Arbeiten sind bereits abgeschlossen, sodass sowohl die Beleuchtung als auch die Audiofunktion funktioniert. Nun müssen nur noch kleinere Nacharbeiten durchgeführt werden.   Herr Langensiepen teilt mit, dass der Klima- und Karrieretag, der eigentlich am 29.09.2024 stattfinden sollte, aufgrund zu wenig aktuell verfügbarer Aussteller auf das nächste Jahr verschoben werden muss.   Herr Langensiepen erinnert an die Einladung zur Castroper Wirtschaftslounge und hofft auf eine rege Teilnahme der Ausschussmitglieder.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-52%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-52",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-52%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-52",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2024-AuWi-52%7C20240903104432-0_2024-AuWi-52_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2024-09-03",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2024-AuWi-52%7C20240903104432-0_2024-AuWi-52_1.pdf",
+        "fileName": "20240903104432-0_2024-AuWi-52_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2024-AuWi-52%7C1",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Tischvorlage-2024-191_ Ernennung eines stellvertretenden Schriftführers für den Ausschuss Wirtschaftsentwicklung und Digitalisierung",
+        "size": 479807,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2024-09-03T17:52:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-52",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-AuWi-52",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-08-21",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2024-AuWi-52",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2024-AuWi-52",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "4180f569b23bcf739d1da7e7a9df1b61883f53a3",
+      "size": 436907,
+      "text": "Amtliche Bekanntmachung der Tagesordnung zur Sitzung des Ausschusses für Wirtschaftsentwicklung und Digitalisierung am Dienstag, 03.09.2024 um 17:00 Uhr in den Sitzungsraum 3, Europaplatz 1, 44575 Castrop-Rauxel,   I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner  2. Einwände gegen die letzte Niederschrift  3. Antrag der CDU-Fraktion vom 16.08.2024_Antrag für einen Naschmarkt in Ickern  4. Antrag der CDU-Fraktion vom 16.08.2024_Leerung der Abfallbehälter  5. Einzelhandelskonzept hier: Einbringung der Fortschreibung  6. Bebauungsplan Nr. 267  Deininghauser Weg / Recklinghauser Straße  hier: Beschluss zur Aufstellung des Bebauungsplans nach § 2 Abs. 1 BauGB  7. Konzept Brachflächenmanagement  8. Anfragen der Ausschussmitglieder  9. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  1. Anfragen der Ausschussmitglieder  2. Mitteilungen der Verwaltung    gez. Jens Langensiepen Ausschussvorsitzender \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Sitzungsraum 3, Europaplatz 1,44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-52/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Sitzungsraum 3, Europaplatz 1,44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschusses für Wirtschaftsentwicklung und Digitalisierung",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/1031",
+      "https://castroprauxel.gremien.info/oparl/person/1029",
+      "https://castroprauxel.gremien.info/oparl/person/748",
+      "https://castroprauxel.gremien.info/oparl/person/645",
+      "https://castroprauxel.gremien.info/oparl/person/626",
+      "https://castroprauxel.gremien.info/oparl/person/1052",
+      "https://castroprauxel.gremien.info/oparl/person/1070",
+      "https://castroprauxel.gremien.info/oparl/person/1069",
+      "https://castroprauxel.gremien.info/oparl/person/1199",
+      "https://castroprauxel.gremien.info/oparl/person/420",
+      "https://castroprauxel.gremien.info/oparl/person/1194",
+      "https://castroprauxel.gremien.info/oparl/person/1202"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-AuWi-52",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-09-11",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-AuWi-52",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-AuWi-52",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 484992,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2024-09-03T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-AuWi-52",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-09-11",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-AuWi-52",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-AuWi-52",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 484992,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/2002207",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2002-06-26",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/2002207",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002207&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002207&id=69",
+      "fileName": "2002207",
+      "id": "https://castroprauxel.gremien.info/oparl/file/2002207",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2002/207",
+      "size": 10356,
+      "text": "eigenbetrieb;tischvorlage;werksausschuss;jahresabschlusses;haushaltsstelle;berührung;gesamtkosten;ausführungen;werksausschusssitzung;werner;mönch;kein;jahresabschluss;vorlage;des;vorläufigen;jahresabschlusses;2001;2002207;,2002/207;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Vorlage des vorläufigen Jahresabschlusses 2001",
+    "paperType": "Tischvorlage",
+    "reference": "2002/207",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

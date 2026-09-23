@@ -1,0 +1,65 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/270206100151",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270206100151%7C20200602132952-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-02",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270206100151%7C20200602132952-0.pdf%7C",
+        "fileName": "20200602132952-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270206100151%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270206100151",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "d613e54ea940c06d730a1e6c23e9ea9b9be2040f",
+        "size": 554912,
+        "text": "Antrag B2 Juni 2020 - Einrichtung eines AK digitale Unterrichtsinhalte",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B2-101%7C270206100151%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8994",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B2-101",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B2"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-06-02",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/270206100151",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270206100151&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270206100151&id=69",
+      "fileName": "270206100151",
+      "id": "https://castroprauxel.gremien.info/oparl/file/270206100151",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/135",
+      "size": 11505,
+      "text": " Bereich Schule 2020/135 öffentlich  Az:     Datum: 02.06.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 2 (Familie, Jugend, Soziales und Bildung) 18.06.2020 9   Betreff  Antrag der CDU Fraktion vom 02.06.2020 zur Einrichtung eines Arbeitskreises  Kompetenzen im Digitalen Schulunterricht   auf freiwilliger Basis und zur Unterstützung der Lehrerschaft  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  s. Anlage  \f\f   gez. Michael Breilmann Fraktionsvorsitzender CDU \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Antrag der CDU Fraktion vom 02.06.2020\r\nzur Einrichtung eines Arbeitskreises 'Kompetenzen im Digitalen Schulunterricht '\r\nauf freiwilliger Basis und zur Unterstützung der Lehrerschaft",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/135",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2"
+    ]
+  }
+}

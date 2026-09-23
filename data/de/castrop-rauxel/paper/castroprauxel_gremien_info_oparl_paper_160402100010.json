@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/160402100010",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=160402100010%7C20140204115437.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=160402100010%7C20140204115437.pdf%7C",
+        "fileName": "20140204115437.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C160402100010%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/160402100010",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "d867bf7bdacabae8151ff2bdefc880d4cb448dc6",
+        "size": 1032321,
+        "text": "Anlage zur Vorlage Zwischenbericht 5_2013",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-0%7C160402100010%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5854",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2014-EUV-0",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2014-02-04",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/160402100010",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=160402100010&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=160402100010&id=69",
+      "fileName": "160402100010",
+      "id": "https://castroprauxel.gremien.info/oparl/file/160402100010",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2014/EUV/009",
+      "size": 158933,
+      "text": "Datum: 04.02.2014 TB I Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: TOP: Drucksache-Nr. 2014/EUV/009 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 19.02.2014 2 Betreff: Zwischenbericht 5/2013 Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt den Zwischenbericht 5/2013 zur Kenntnis. ________________________ Werner Sachverhalt: Gem. § 8 Abs. 5 der Satzung für das gleichnamige Kommunalunternehmen der Stadt Castrop-Rauxel hat der Vorstand des EUV Stadtbetrieb Castrop-Rauxel – AöR – den Verwaltungsrat mindestens halbjährlich über die Entwicklung des Vermögens- und Erfolgsplanes schriftlich zu unterrichten. Es wird seit Jahren regelmäßig vierteljährlich berichtet, zuletzt in der Sitzung des Verwaltungsrates am 11.12.2013. Dieser Zwischenbericht 5 / 2013 berücksichtigt nunmehr alle Buchungsvorgänge und -belege die zurzeit bis einschließlich 31.12.2013 durch die Buchhaltung erfasst worden sind. Zum jetzigen Zeitpunkt ist eine belastbare Aussage über den voraussichtlichen Geschäftsverlauf des EUV Stadtbetriebes und seiner Teilbetriebe zum 31.12.2013 möglich. Im Einzelnen stellt sich die Situation beim Gesamtbetrieb des EUV und seinen Teilbetrieben wie folgt dar: Das Ergebnis des Gesamtbetriebes EUV wird in diesem Zwischenbericht mit 632 T€ um 117 T€ größer als im Vergleich zum Zwischenbericht 4/2013 (515 T€) prognostiziert. Im TB III – Abfallentsorgung wird zum jetzigen Zeitpunkt von einem Rechnungsergebnis von -28 T€ ausgegangen. Ein um 72 T€ im Vergleich zum Zwischenbericht 4/2013 verbessertes Ergebnis ist auf die zwischenzeitlich erfolgte Mengenabrechnung seitens der AGR und die daraus resultierende Minderbelastung zurückzuführen. Verbesserungen gerade im Bereich der Altpapierverwertung konnten noch nicht festgestellt werden, so dass ein noch besseres Ergebnis bis dato nicht zu erzielen war. Der TB IV – Duales System und Sonderleistungen wird nach derzeitiger Berechnung mit -77 T€ abschließen. Der Planwert wird damit um lediglich 7 T€ verfehlt. Auch hier ist die geringe Ertragslage bei verschiedenen Wertstoffen der Grund dafür, dass eine darüber hinausgehende Verbesserung ein ausgeglichenes Ergebnis präsentiert hätte. Der TB V – Stadtentwässerung schließt nach dem jetzigen Stand mit einem Ergebnis i. H. v. 770 T€ ab, was dem im vorausgegangenen Zwischenbericht prognostizierten Wert beinahe entspricht. Allerdings ist an dieser Stelle darauf hinzuweisen, dass auf Grund der zum jetzigen Zeitpunkt noch nicht abgeschlossenen Jahresabschlussarbeiten das ermittelte Ergebnis des Teilbetriebes Stadtentwässerung derzeit noch einen Prognosewert darstellt. TB VI – Das Ergebnis im TB Straßenreinigung/Winterdienst hat sich im Zwischenbericht 5/2013 im Vergleich zum Zwischenbericht 4/2013 positiv entwickelt. Das prognostizierte Ergebnis verbessert sich um 82 T€ (gegenüber 4/2013 = -117 T€), und wird voraussichtlich mit einem Ergebnis von – 35 T€ abschließen; gemäß dem Wirtschaftsplan 2013 ist ein Wert in Höhe von -3,9 T€ vorgesehen. Die Gründe für die Steigerung wurden bereits in den vorausgegangenen Zwischenberichten dargestellt und sind ausschließlich bei den Personal- und Fahrzeugaufwendungen der Winterdienstbereitschaft sowie der Streusalzaufwendungen im Laufe des Jahres 2013 zu sehen. Im TB VIII – Energie wird voraussichtlich mit dem Ergebnis in Höhe von 2 T€ abgeschlossen, also etwas geringer als im Wirtschaftsplan 2013 kalkuliert, aber deutlich besser als in beiden letzten Zwischenberichten. Die voraussichtlichen Jahresergebnisse 2013 sowohl aller Teilbetriebe als auch des Gesamtbetriebes EUV entsprechen nach dem derzeitigen Stand der Buchungsdaten annähernd den Vorgaben des Wirtschaftsplanes 2013. Bezüglich der Detailzahlen des EUV und der einzelnen Teilbetriebe wird auf die Anlage verwiesen. Weiterer Sachvortrag bei Bedarf in der Verwaltungsratssitzung.Zwischenbericht 5/20132014/EUV/009%anl%;Anlage zur Vorlage Zwischenbericht 5_2013 ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Zwischenbericht 5/2013",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2014/EUV/009",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

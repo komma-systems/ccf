@@ -1,0 +1,130 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/251710100248",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=251710100248%7C20191017135858-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-10-23",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=251710100248%7C20191017135858-0.pdf%7C",
+        "fileName": "20191017135858-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C251710100248%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/251710100248",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "0793d491e81b01b013c18c520100e65be89c36a8",
+        "size": 944868,
+        "text": "Anlage1_Übersichtsskizze_Geltungsbereich BP61",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=251710100248%7C20191024105018-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-10-24",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=251710100248%7C20191024105018-0.pdf%7C",
+        "fileName": "20191024105018-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C251710100248%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/251710100248",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "b9abe4e1504e4fcf3437b3580fd7e1d4c27422e4",
+        "size": 1040318,
+        "text": "Anlage2_Geltungsbereich BP253",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=251710100248%7C20191024105018-1.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-10-24",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=251710100248%7C20191024105018-1.pdf%7C",
+        "fileName": "20191024105018-1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C251710100248%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/251710100248",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "335b562d07e0a5ddf7d12553ae97317a6a0c6426",
+        "size": 888530,
+        "text": "Anlage3_Geltungsbereich BP173",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=251710100248%7C20191024105019-2.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-10-24",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=251710100248%7C20191024105019-2.pdf%7C",
+        "fileName": "20191024105019-2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C251710100248%7C4",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/251710100248",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 4",
+        "sha1Checksum": "96bcfba56d25a8855d7abeaf5d5e40f7c041b2cb",
+        "size": 897031,
+        "text": "Anlage4_Geltungsbereich VBP30",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=251710100248%7C20191024105019-3.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-10-24",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=251710100248%7C20191024105019-3.pdf%7C",
+        "fileName": "20191024105019-3.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C251710100248%7C5",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/251710100248",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 5",
+        "sha1Checksum": "518ae2f54f8c5fae94f1a8f01488abd3b8018679",
+        "size": 895411,
+        "text": "Anlage5_Geltungsbereich VBP45",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-B3-93%7C251710100248%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8607",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-B3-93",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-10-17",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/251710100248",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=251710100248&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=251710100248&id=69",
+      "fileName": "251710100248",
+      "id": "https://castroprauxel.gremien.info/oparl/file/251710100248",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/239",
+      "size": 152992,
+      "text": " Bereich Stadtplanung und Bauordnung 2019/239 öffentlich  Az: 61-26/061   Datum: 17.10.2019    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 3 (Bauen, Verkehr und Sport) 21.11.2019    Betreff  Bebauungsplan Nr. 61 Planbereich Nördlich der Grutholzallee hier: Beschluss zur Aufhebung des Aufstellungsbeschlusses zum Bebauungsplan Nr. 61, Planbereich Nördlich der Grutholzallee  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Der Betriebsausschuss 3 beschließt, den Aufstellungsbeschluss zum Bebauungsplan Nr. 61, Planbereich  Nördlich der Grutholzallee  aufzuheben und das Verfahren endgültig einzustellen. Der räumliche Geltungsbereich des Bebauungsplans ist in der zum Beschluss gehörenden Anlage1 dargestellt.  \f  \f Lenort\u000bTechnische Beigeordnete\fSachverhalt  Geltungsbereich Der Geltungsbereich des Bebauungsplans Nr. 61 liegt im Ortsteil Rauxel, nördlich der Grutholzallee und östlich der Habinghorster Straße (B 235). Der Geltungsbereich umfasst die Flächen zwischen der B 235 und dem östlich liegenden evangelischen Krankenhaus. Die Grenze des räumlichen Geltungsbereichs bilden Im Süden die nördliche Straßenbegrenzungslinie der Grutholzallee Im Südwesten die Geltungsbereichsgrenze des vorhabenbezogenen Bebauungsplans Nr. 30 Im Westen die östliche Straßenbegrenzungslinie der B 235 Im Norden die südlichen Grenzen der Flurstücke 67, 68, 69 und 116 Im Osten die Geltungsbereichsgrenze des Bebauungsplans Nr. 173. Der Geltungsbereich hat eine Größe von ca. 4,3 ha.  Begründung Der Betriebsausschuss 3 der Stadt Castrop-Rauxel hat in seiner Sitzung vom 26.04.2007 den Aufstellungsbeschluss für den Bebauungsplan Nr. 61, Planbereich Nördlich der Grutholzallee gefasst. Zugleich wurde der Beschluss zur Aufstellung eines Bebauungsplans für den Planbereich vom 08.05.2001 aufgehoben, dessen zugrunde gelegtes Nutzungskonzept nicht weiter umgesetzt werden sollte. Die weitere städtebauliche Entwicklung der Flächen am Stadtmittelpunkt sollte vielmehr gemäß der Rahmenplanung Stadtmittelpunkt erfolgen, die der Rat der Stadt Castrop-Rauxel in seiner Sitzung vom 03.05.2007 als Grundlage der weiteren städtebaulichen Entwicklung in diesem Bereich beschlossen hat. Die städtebauliche Zielsetzung des Bebauungsplans Nr. 61 besteht in der Schaffung der planungsrechtlichen Grundlage für eine geordnete städtebauliche Entwicklung der Flächen nördlich der Grutholzallee gemäß der Rahmenplanung Stadtmittelpunkt. Der Geltungsbereich schließt an den Bebauungsplan Nr. 173 (vgl. Anlage 3) sowie den vorhabenbezogenen Bebauungsplan Nr. 30 an (vgl. Anlage 4). Zudem überlagert der nach Aufstellungsbeschluss rechtskräftig gewordene vorhabenbezogene Bebauungsplan Nr. 45, Planbereich Gastronomie an der Grutholzallee (vgl. Anlage 5) den südöstlichen Teil des Geltungsbereichs des Bebauungsplans Nr. 61. Im Nachgang zum Aufstellungsbeschluss sind keine formellen Verfahrensschritte für den Bebauungsplan durchgeführt worden. Durch den aktuellen Bebauungsplan Nr. 253, Planbereich Gesundheitszentrum Grutholz (Aufstellungsbeschluss vom 22.11.2018, vgl. Anlage 2), wird der Standort des Evangelischen Krankenhauses sowie die Freiflächen zwischen Evangelischem Krankenhaus und B235 derzeit als Gesamtstandort überplant (vgl. Vorlage 2019/238). Die Stadt Castrop-Rauxel verfolgt mit dieser Planung das Ziel, das Plangebiet als Standort für ein Gesundheitszentrum (weiter) zu qualifizieren. Neben der Stärkung des bestehenden Krankenhausstandorts durch Erweiterungsmöglichkeit sollen Flächen für die Gesundheitswirtschaft bereitgestellt und auf diese Weise Nutzungen ermöglicht werden, die u.a. dem Ev. Krankenhaus sowie anderen Krankenhaus- und Pflegestandorten des Verbundes dienen. Mit der Ansiedlung der angestrebten Nutzungen mit gesundheitswirtschaftlichem Bezug an einem Standort sind Synergien zu erwarten. Im Rahmen einer Angebotsplanung soll der planungsrechtliche Rahmen für Nutzungen aus dem Bereich der Gesundheitswirtschaft geschaffen werden. Die Planung verfolgt insgesamt die Zielsetzung der Rahmenplanung Stadtmittelpunkt sowie des kürzlich vom Rat der Stadt beschlossenen Integrierten Städtebaulichen Entwicklungskonzepts Stadtmittelpunkt Castrop-Rauxel. Der Geltungsbereich des Bebauungsplans Nr. 253 überlagert den rechtskräftigen Bebauungsplan Nr. 173 vollständig und den Bebauungsplan Nr. 61 überwiegend. Lediglich der Bereich des vorhabenbezogenen Bebauungsplans Nr. 45, der südöstliche, öffentliche Teil der Grutholzallee sowie einzelne Freifläche im nördlichen Teil werden durch den Bebauungsplan Nr. 253 nicht erfasst.  Aufgrund gleicher städtebaulicher Ziele sowie angesichts des vorangeschrittenen Aufstellungsverfahrens des Bebauungsplans 253 und der Gesamtüberplanung des Stand-ortes besteht kein Planerfordernis, die Aufstellung des Bebauungsplan Nr. 61 zukünftig weiterzuverfolgen. Das Verfahren soll mit der Aufhebung des Aufstellungsbeschlusses endgültig eingestellt werden.  Anlagen Anlage 1: Übersichtsskizze des Geltungsbereichs des Bebauungsplans Nr. 61 Anlage 2:  Übersichtsskizze des Geltungsbereichs des Bebauungsplans Nr. 253 Anlage 3:  Übersichtsskizze des Geltungsbereichs des Bebauungsplans Nr. 173 Anlage 4:  Übersichtsskizze des Geltungsbereichs des vorhabenbezogenen     Bebauungsplans Nr. 30 Anlage 5:  Übersichtsskizze des Geltungsbereichs des vorhabenbezogenen     Bebauungsplans Nr. 45       \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Bebauungsplan Nr. 61\r\nPlanbereich „Nördlich der Grutholzallee“\r\nhier: Beschluss zur Aufhebung des Aufstellungsbeschlusses zum Bebauungsplan\r\nNr. 61, Planbereich „Nördlich der Grutholzallee“",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/239",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ]
+  }
+}

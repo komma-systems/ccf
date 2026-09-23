@@ -1,0 +1,50 @@
+{
+  "council_id": "muenster",
+  "record_type": "paper",
+  "source_id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056653",
+  "modified_at": "2026-09-09T15:41:55+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00589035.pdf",
+        "created": "2026-09-09T15:26:40+02:00",
+        "date": "2026-09-09",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00589035.pdf",
+        "fileName": "00589035.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/589035",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-09T15:41:55+02:00",
+        "name": "Antrag der BV Hiltrup Abfallbehälter",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://oparl.stadt-muenster.de/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/288576",
+        "created": "2026-09-10T09:02:20+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91747",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14505",
+        "modified": "2026-09-22T15:03:09+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/88"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056653",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-09T15:23:35+02:00",
+    "date": "2026-09-09",
+    "id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056653",
+    "modified": "2026-09-09T15:41:55+02:00",
+    "name": "Aufstellung von Abfallbehältern entlang der Kanalpromenade im Bezirk Hiltrup",
+    "paperType": "Antrag an die BV Hiltrup",
+    "reference": "A-H/0030/2026",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "https://oparl.stadt-muenster.de/bodies/0001/organizations/at/100322"
+    ]
+  }
+}

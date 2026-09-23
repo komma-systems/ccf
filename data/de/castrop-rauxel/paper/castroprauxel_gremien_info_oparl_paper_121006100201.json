@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/121006100201",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-B2-43%7C121006100201%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/4695",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B2-43",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B2"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2011-06-10",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/121006100201",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=121006100201&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=121006100201&id=69",
+      "fileName": "121006100201",
+      "id": "https://castroprauxel.gremien.info/oparl/file/121006100201",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2011/184",
+      "size": 172317,
+      "text": "bereich controlling betrieb 2 2011/184 öffentlich az: datum: 10.06.2011 sitzungsvorlage beratungsfolge datum top-nr. betriebsausschuss 2 (ausschuss für jugend, schule und soziales) 07.07.2011 betreff antrag der fwi-fraktion vom 03.05.2011 ergänzende angaben zum schulentwicklungsplan finanzielle auswirkungen keine haushaltsmäßige berührung auswirkungen siehe sachverhalt beschlussvorschlag s. antrag. manfred postel fraktionsvorsitzender%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Antrag der FWI-Fraktion vom 03.05.2011\r\n'Ergänzende Angaben zum Schulentwicklungsplan'",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2011/184",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2"
+    ]
+  }
+}

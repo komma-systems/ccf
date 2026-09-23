@@ -1,0 +1,78 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36271",
+  "modified_at": "2026-09-08T12:20:02+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369249.pdf",
+        "created": "2026-09-02T10:25:15+02:00",
+        "date": "2026-09-02",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369249.pdf",
+        "fileName": "00369249.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369249",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T12:20:03+02:00",
+        "name": "07 Lageplan",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369250.pdf",
+        "created": "2026-09-02T10:25:15+02:00",
+        "date": "2026-09-02",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369250.pdf",
+        "fileName": "00369250.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369250",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T12:20:03+02:00",
+        "name": "Antrag geschwärzt",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369251.pdf",
+        "created": "2026-09-02T10:25:18+02:00",
+        "date": "2026-09-02",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369251.pdf",
+        "fileName": "00369251.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369251",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T12:20:03+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141602",
+        "authoritative": true,
+        "created": "2026-09-02T10:51:51+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68680",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24591",
+        "modified": "2026-09-10T08:34:35+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36271",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-02T07:21:26+02:00",
+    "date": "2026-09-02",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36271",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-08T12:20:02+02:00",
+    "name": "Veranstaltung SpielZimmer im Rahmen der Europäischen Mobilitätswoche in der Zimmerstraße am 20.09.2026",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/1068/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/6"
+    ]
+  }
+}

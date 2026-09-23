@@ -1,0 +1,322 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AGID-1",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AGID-1%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AGID-1",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AGID-1%7C1%7C1",
+          "date": "2024-05-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AGID-1%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AGID-1%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 391194,
+          "text": "  1 Fragestunde für Einwohnerinnen und Einwohner   Herr Krakowiak teilt mit, dass er ein Konzept für Inklusionssport erarbeitet habe. Inhalte des Konzeptes sind unter anderem Fragen der Finanzierung wie auch Anforderungen an Sportstätten sowie die Gewinnung / Ausbildung von Übungsleiterinnen und Übungsleitern.  Frau Kleff führt aus, dass das Konzept an die Sportvereine weitergegeben werden soll.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AGID-1%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AGID-1",
+        "name": "Einwände gegen die Niederschrift der letzten Sitzung",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AGID-1%7Czt_2%7C1",
+          "date": "2024-05-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AGID-1%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AGID-1%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 401008,
+          "text": "  2 Einwände gegen die Niederschrift der letzten Sitzung   Gegen die korrigierte Niederschrift der Sitzung am 21.02.2024 werden keine Einwände erhoben. In der ursprünglich veröffentlichten Niederschrift wurden Teilnehmende als entschuldigt erfasst, obwohl diese an der Sitzung teilgenommen haben.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-AGID-1%7C352202100054%7C1%7C20240503213120-0_352202100054_1.pdf",
+            "date": "2024-05-03",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-AGID-1%7C352202100054%7C1%7C20240503213120-0_352202100054_1.pdf",
+            "fileName": "20240503213120-0_352202100054_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-AGID-1%7C352202100054%7C1%7C20240503213120-0_352202100054_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "A0 Übersichtskarte Fertige Haltestellen 2024",
+            "size": 6389038,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11143",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AGID-1%7C352202100054%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AGID-1",
+        "name": "Bericht zu barrierefrei ausgebauten Haltestellenpunkten in Castrop-Rauxel",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AGID-1%7C352202100054%7C1",
+          "date": "2024-05-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AGID-1%7C352202100054%7C1",
+          "fileName": "be_352202100054_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AGID-1%7C352202100054%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 415250,
+          "text": "  3 Bericht zu barrierefrei ausgebauten Haltestellenpunkten in Castrop-Rauxel (2024/055)   Herr Werner vom EUV Stadtbetrieb berichtet über den barrierefreien Ausbau von Haltestellenpunkten im Stadtgebiet. In den Jahren 2016 bis 2023 wurden 44 Haltestellenpunkte für rund 1.300.000 Euro barrierefrei ausgebaut. Eine Übersicht der Haltestellen im Verantwortungsbereich der Stadt Castrop-Rauxel ist der Niederschrift als Anlage beigefügt.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11166",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AGID-1%7C351303100078%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AGID-1",
+        "name": "Barrierefreier Ausbau von 10 Haltestellenpunkten in Castrop-Rauxel",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AGID-1%7C351303100078%7C1",
+          "date": "2024-05-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AGID-1%7C351303100078%7C1",
+          "fileName": "be_351303100078_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AGID-1%7C351303100078%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 407417,
+          "text": "  4 Barrierefreier Ausbau von 10 Haltestellenpunkten in Castrop-Rauxel (2024/079)   Herr Werner vom EUV Stadtbetrieb berichtet, dass im Stadtgebiet 10 weitere Haltestellenpunkte barrierefrei ausgebaut und hierfür Fördermittel beim VRR beantragt werden.   Das Gremium nimmt den Sachverhalt zur Kenntnis und unterstützt einstimmig den Ausbau der vorgeschlagenen Haltestellenpunkte.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AGID-1%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AGID-1",
+        "name": "Aktuelle Berichte zu den Themen der Arbeitsgruppen sowie weitere Planung der Treffen:\r\n- Arbeitsgruppe 'Generationen'\r\n- Arbeitsgruppe 'Inklusion'\r\n- Arbeitsgruppe 'Diversität und Vielfalt'",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AGID-1%7Czt_3%7C1",
+          "date": "2024-05-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AGID-1%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AGID-1%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 432678,
+          "text": "  5 Aktuelle Berichte zu den Themen der Arbeitsgruppen sowie weitere Planung der Treffen: - Arbeitsgruppe  Generationen  - Arbeitsgruppe  Inklusion  - Arbeitsgruppe  Diversität und Vielfalt    Für die Arbeitsgruppe Generationen berichtet Herr Trzeziak, dass bezüglich des Antrages 10 Bänke für Castrop die ersten Anfragen bei Einrichtungen des sozialen Arbeitsmarktes erfolgten.  Frau Dreifeld berichtet über das letzte Treffen der Kreisarbeitsgemeinschaft der Seniorenbeiräte. Themen waren unter anderem die Aktion Zuhören  Ich habe Zeit sowie die Tätigkeiten der Seniorenvertretungen in den anderen Städten.  Am 10.05.2024 findet auf dem Boulevard am Marktplatz Castrop in der Zeit von 15:00 bis 17:00 Uhr ein Kaffeetrinken mit dem Bürgermeister statt. Interessierte können die Gelegenheit nutzen, sich mit Fragen, Anregungen und Wünschen an den Bürgermeister zu wenden. Das Kaffeetrinken ist eine gemeinschaftliche Aktion der SPD-Senioren mit Bündnis 90 / Die Grünen.  Das nächste Treffen der Arbeitsgruppe Generation wird noch bekanntgegeben.   Für die Arbeitsgruppe Inklusion berichtet Frau Kleff über die Planungen zum Europäischen Protesttag zur Gleichstellung von Menschen mit Behinderung. Am Montag, dem 06.05.2024, fährt das Jo-Mobil des Evangelischen Johanneswerk Stationen in Castrop-Rauxel an, um auf das Motto des Protesttags Viel vor für Inklusion! Selbstbestimmt leben  ohne Barrieren aufmerksam zu machen. In diesem Jahr steht vor Ort das Thema Berufs- und Arbeitswelt inklusiv im Fokus.  Das Jo-Mobil besucht am 06.05.2024 Unternehmen in Castrop-Rauxel, welche sich  aktiv für die Inklusion von Menschen mit Behinderung einsetzen. So werden von 12:00 bis 13:00 die Bauduu, Steinebande gGmbH, von 14:00 bis 15:30 Uhr das Bistro CAPpuccino und von 16:00 bis 17:30 Uhr das Chancenwerk angefahren  An den einzelnen Treffpunkten sind neben dem Evangelischen Johanneswerk die Ergänzende Unabhängige Teilhabeberatung der Lebenshilfe Waltrop e.V. und weitere Akteure vor Ort.  Das nächste Treffen der Arbeitsgruppe Inklusion wird noch bekanntgegeben.   Für die Arbeitsgruppe Diversität / Vielfalt berichtet Herr Schelte über die aktualisierten Planungen sowie Angebote im Rahmen der Woche der Vielfalt 2024 vom 22.05. bis zum 29.05.2024. Im Rahmen eines gemeinsamen Kochevents sollen Vertreterinnen und Vertreter aus der Politik mit interessierten Bürgerinnen und Bürgern zusammengebracht werden, um sich über Diversität auszutauschen.  Ebenso beteiligt sich die WeWoLe Stiftung mit einem Tag der offenen Tür unter dem Motto WeWoLe hautnah erleben an der Woche der Vielfalt.  Das nächste Treffen der Arbeitsgruppe Diversität / Vielfalt wird noch bekanntgegeben.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-AGID-1%7Czt_0%7C1%7C20240503213654-0_zt_0_1.pdf",
+            "date": "2024-05-03",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-AGID-1%7Czt_0%7C1%7C20240503213654-0_zt_0_1.pdf",
+            "fileName": "20240503213654-0_zt_0_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-AGID-1%7Czt_0%7C1%7C20240503213654-0_zt_0_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "TOP 6_Luhmann, J. Seniorenberatung & betreuerische Hilfen Caritas",
+            "size": 1334600,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AGID-1%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AGID-1",
+        "name": "Vorstellung der Seniorenberatung des Caritasverbandes für die Stadt Castrop-Rauxel e.V.\r\nmündlicher Bericht: Frau Luhmann, Seniorenberaterin",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AGID-1%7Czt_0%7C1",
+          "date": "2024-05-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AGID-1%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AGID-1%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 404963,
+          "text": "  6 Vorstellung der Seniorenberatung des Caritasverbandes für die Stadt Castrop-Rauxel e.V. mündlicher Bericht: Frau Luhmann, Seniorenberaterin   Frau Luhmann hat beim Caritasverband für die Stadt Castrop-Rauxel e.V. den Bereich der Seniorenberatung und betreuerischen Hilfen übernommen. Ziel der Seniorenberatung ist es, gemeinsame Lösungsmöglichkeiten zu entwickeln um ein möglichst langes und selbstbestimmtes Leben in den eigenen vier Wänden zu ermöglichen und bei der Bewältigung von persönlichen und familiären Krisensituationen zu unterstützen. Die Betreuerischen Hilfen sollen die Lebensqualität der Seniorinnen und Senioren sowie der (pflegenden) Angehörigen erhalten oder verbessern sowie Entlastung bieten. Der Vortrag ist der Niederschrift als Anlage beigefügt.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-AGID-1%7C6%7C1%7C20240503213758-0_6_1.pdf",
+            "date": "2024-05-03",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-AGID-1%7C6%7C1%7C20240503213758-0_6_1.pdf",
+            "fileName": "20240503213758-0_6_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-AGID-1%7C6%7C1%7C20240503213758-0_6_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "TOP 7_tomorrathon_Castrop Rauxel_2024 Projekte",
+            "size": 2235906,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AGID-1%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AGID-1",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AGID-1%7C6%7C1",
+          "date": "2024-05-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AGID-1%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AGID-1%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 416614,
+          "text": "  7 Anfragen der Ausschussmitglieder   Herr Zygowski stellt den tomorrathon  Castrop-Rauxel Ideenfestival & Stadt-Hackathon vor, welcher vom 06.09 bis 08.09.2024 in Castrop-Rauxel stattfindet. Der tomorrathon ist ein Ideenfestival für ein nachhaltiges und lebenswertes Morgen urbaner Räume. Die Präsentation ist der Niederschrift als Anlage beigefügt. Weitere Informationen finden sich unter www. https://www.tomorrathon.city.  Herr Leidig führt aus, dass nach dem Umzug der städtischen Internetseite mehrere Verlinkungen über Google nicht mehr funktionieren.  Frau Kleff wird diesen Hinweis an die zuständigen Stellen weiterleiten.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AGID-1%7C998%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AGID-1",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AGID-1%7C998%7C1",
+          "date": "2024-05-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AGID-1%7C998%7C1",
+          "fileName": "be_998_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AGID-1%7C998%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 415407,
+          "text": "  8 Mitteilungen der Verwaltung   Frau Kleff berichtet über den Vortrag Von Träumen und Talenten  (berufliche) Wege entstehen beim Gehen welcher am 25.04.2025 im Rahmen des GirlsDay stattfindet. Von 18:00 bis 20:00 Uhr berichten Frauen aus verschiedenen Beschäftigungsfeldern über Ihre Berufswege und beantworten die Fragen der Teilnehmenden. Die Veranstaltung findet im Sitzungsraum 3 im Rathaus statt, die Teilnehmenden können als Begleitung gerne eine erwachsene Vertrauensperson mitbringen.  Herr Trzeziak berichtet über das virtuelle Fahrstuhlgespräch am 24.04.2024 mit den Kandidatinnen und Kandidaten zur Europawahl. Das Format des virtuellen Fahrstuhlgesprächs wurde bereits bei der Bundestagswahl 2021 wie auch bei der Landtagswahl 2022 mit Erfolg durchgeführt. Die Teilnehmenden wenden sich mit Fragen direkt an die Kandidatinnen und Kandidaten. Es können sowohl Fragen aus dem Bereich der Inklusion und Teilhabe, wie auch persönliche Fragen gestellt werden. Eine Teilnahme an dem Austausch ist ohne vorherige Anmeldung möglich, die Einladung mit den Zugangsdaten wurde weiträumig gestreut.  Zur Unterstützung der Palliativ- und Hospizarbeit findet am Sonntag, dem 16.06.2024 in Castrop-Rauxel das zweite Palliativradeln statt. Jeder ist eingeladen, Alleine, zu Zweit oder in der Gruppe für den guten Zweck durch Castrop-Rauxel zu radeln.   Anmeldungen und weitere Informationen erfolgen über Petra Lückel, Pflegerische Leitung der Palliativstation am Evangelischen Krankenhaus Castrop-Rauxel. Frau Lückel ist telefonisch unter 02305-102 2412 oder per Email unter p.lueckel@evk-castrop-rauxel.de zu erreichen.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AGID-1%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AGID-1",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AGID-1%7C997%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AGID-1",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2024-04-17T18:20:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AGID-1",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-AGID-1",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-04-04",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2024-AGID-1",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2024-AGID-1",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "753621637283fb3ead22b7a757de34169be8deb4",
+      "size": 431309,
+      "text": "Einladung zur Sitzung des Ausschusses für Generationen, Inklusion und Diversität (AGID) am Mittwoch, 17.04.2024 um 17:00 Uhr im Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel,   I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner   2. Einwände gegen die Niederschrift der letzten Sitzung   3. Aktuelle Berichte zu den Themen der Arbeitsgruppen sowie weitere Planung der Treffen: - Arbeitsgruppe  Generationen  - Arbeitsgruppe  Inklusion  - Arbeitsgruppe  Diversität und Vielfalt    4. Bericht zu barrierefrei ausgebauten Haltestellenpunkten in Castrop-Rauxel   5. Barrierefreier Ausbau von 10 Haltestellenpunkten in Castrop-Rauxel   6. Vorstellung der Seniorenberatung des Caritasverbandes für die Stadt Castrop-Rauxel e.V. mündlicher Bericht: Frau Luhmann, Seniorenberaterin   7. Anfragen der Ausschussmitglieder   8. Mitteilungen der Verwaltung      II. Nichtöffentliche Sitzung:  1. Anfragen der Ausschussmitglieder   2. Mitteilungen der Verwaltung    R o e h l Vorsitzender \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AGID-1/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschuss für Generationen, Inklusion und Diversität",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/AGID"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/812",
+      "https://castroprauxel.gremien.info/oparl/person/1087",
+      "https://castroprauxel.gremien.info/oparl/person/1063",
+      "https://castroprauxel.gremien.info/oparl/person/318",
+      "https://castroprauxel.gremien.info/oparl/person/1076",
+      "https://castroprauxel.gremien.info/oparl/person/876",
+      "https://castroprauxel.gremien.info/oparl/person/1043",
+      "https://castroprauxel.gremien.info/oparl/person/1215",
+      "https://castroprauxel.gremien.info/oparl/person/895",
+      "https://castroprauxel.gremien.info/oparl/person/780",
+      "https://castroprauxel.gremien.info/oparl/person/1075",
+      "https://castroprauxel.gremien.info/oparl/person/851",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/758",
+      "https://castroprauxel.gremien.info/oparl/person/1225"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-AGID-1",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-05-13",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-AGID-1",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-AGID-1",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 498708,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2024-04-17T17:03:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-AGID-1",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-05-13",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-AGID-1",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-AGID-1",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 498708,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

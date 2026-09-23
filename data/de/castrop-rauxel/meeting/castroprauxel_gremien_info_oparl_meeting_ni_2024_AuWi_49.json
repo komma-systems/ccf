@@ -1,0 +1,447 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-49",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-49%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-49",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7C1%7C1",
+          "date": "2024-02-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-49%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 61481,
+          "text": "1 Fragestunde für Einwohnerinnen und Einwohner   Keine Fragen       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-49%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-49",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7CProtokoll%7C1",
+          "date": "2024-02-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-49%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 63210,
+          "text": "2 Einwände gegen die letzte Niederschrift   Keine Einwände       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-AuWi-49%7Czt_1%7C1%7C20240221095820-0_zt_1_1.pdf",
+            "date": "2024-02-21",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-AuWi-49%7Czt_1%7C1%7C20240221095820-0_zt_1_1.pdf",
+            "fileName": "20240221095820-0_zt_1_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-AuWi-49%7Czt_1%7C1%7C20240221095820-0_zt_1_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "I.3_Zentrenmanagement Innenstadt",
+            "size": 2304996,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-49%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-49",
+        "name": "mdl. Bericht zum Zentrenmanagement Innenstadt",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7Czt_1%7C1",
+          "date": "2024-02-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-49%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 80608,
+          "text": "3 mdl. Bericht zum Zentrenmanagement Innenstadt   Bereichsleiterin Frau Reuter leitet den Tagesordnungspunkt inhaltlich ein und übergibt zur Präsentation an Herrn Krafczyk des Innenstadtmanagements Castrop-Rauxel.  (siehe Anlage)  Der Ausschuss für Wirtschaftsentwicklung und Digitalisierung nimmt den Bericht zur Kenntnis.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11044",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-49%7C353101100024%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-49",
+        "name": "Sofortprogramm Innenstadt - Städtebauliche Neuordnung der nordwestlichen Innenstadt\r\nHier: Einbringung des Endberichtes",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7C353101100024%7C1",
+          "date": "2024-03-12",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7C353101100024%7C1",
+          "fileName": "be_353101100024_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-49%7C353101100024%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 88078,
+          "text": "4 Sofortprogramm Innenstadt - Städtebauliche Neuordnung der nordwestlichen Innenstadt Hier: Einbringung des Endberichtes (2024/025)   Der Ausschuss für Wirtschaftsentwicklung und Digitalisierung nimmt die Einbringung des Endberichts zur städtebaulichen Neuordnung der nordwestlichen Innenstadt, den Bericht zum Hochbunker und die Parkraumerhebung zur Kenntnis.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-49%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-49",
+        "name": "mdl. Bericht von Herrn Hubert Hennemann, Inhaber der Spedition Hennemann GmbH\r\n- aktuelle Situation aufgrund der neue LKW-Mautgebühr\r\n- derzeitige Lage des Arbeitsmarktes in dieser Branche\r\n- Auswirkungen hinsichtlich der Kürzung von Subventionen",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7Czt_0%7C1",
+          "date": "2024-03-12",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-49%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 78303,
+          "text": "5 mdl. Bericht von Herrn Hubert Hennemann, Inhaber der Spedition Hennemann GmbH  Herr Hennemann berichtet über die aktuelle Situation der neuen LKW-Mautgebühr, sowie über die derzeitige Lage des Arbeitsmarktes in der Speditionsbranche und über die Auswirkungen von Subventionskürzungen.   Der Ausschuss für Wirtschaftsentwicklung und Digitalisierung nimmt den Bericht zur Kenntnis.          \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11040",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-49%7C352201100012%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-49",
+        "name": "Neufassung der Sondernutzungssatzung der Stadt Castrop-Rauxel",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7C352201100012%7C1",
+          "date": "2024-03-12",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7C352201100012%7C1",
+          "fileName": "be_352201100012_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-49%7C352201100012%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 94442,
+          "text": "6 Neufassung der Sondernutzungssatzung der Stadt Castrop-Rauxel (2024/013)   Bereichsleiter Ordnung, Herr Thiel, erläutert die Neufassung der Sondernutzungssatzung.   Der Ausschuss für Wirtschaftsentwicklung und Digitalisierung empfiehlt dem Rat der Stadt einstimmig, die als Anlage 1 beigefügte Neufassung der Satzung über die Erlaubnisse und Gebühren für die Sondernutzung an öffentlichen Straßen und Plätzen in der Stadt Castrop-Rauxel  Sondernutzungssatzung zu beschließen.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11043",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-49%7C352201100013%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-49",
+        "name": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen für das Jahr 2024",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7C352201100013%7C1",
+          "date": "2024-03-12",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7C352201100013%7C1",
+          "fileName": "be_352201100013_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-49%7C352201100013%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 97917,
+          "text": "7 Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen für das Jahr 2024 (2024/014)   Bereichsleiter Ordnung, Herr Thiel, erläutert die ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen für das Jahr 2024.   Der Ausschuss für Wirtschaftsentwicklung und Digitalisierung empfiehlt dem Rat der Stadt einstimmig, die als Anlage beigefügte Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen auf dem Gebiet der Stadt Castrop-Rauxel für das Jahr 2024 zu beschließen.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11036",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-49%7C352201100011%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-49",
+        "name": "Anfrage der FDP-Fraktion vom 15.01.2024\r\n- Digitales Händlerportal",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7C352201100011%7C1",
+          "date": "2024-02-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7C352201100011%7C1",
+          "fileName": "be_352201100011_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-49%7C352201100011%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 102528,
+          "text": "8 Anfrage der FDP-Fraktion vom 15.01.2024 - Digitales Händlerportal (2024/012)   Herr Bettinger erläutert den Mitgliedern des Ausschusses die Sitzungsvorlage.   Stabsstellenleiter der Wirtschaftsförderung, Herr Ratte, berichtet über die zum Thema stattgefundenen Veranstaltungen im Rahmen der Veranstaltungsreihe Smarte Wirtschaft am 21.02.2022 und 23.01.2023. Bei beiden Terminen wurde festgestellt, dass das Interesse der Gewerbetreibenden an einem digitalen Händlerportal nicht sonderlich ausgeprägt war, u.a. aufgrund der Einbindung der Warenwirtschaftssysteme. Herr Ratte informierte die Ausschussmitglieder, dass aktuell im Rahmen der Fortschreibung des Zentren- und Einzelhandelskonzeptes eine Händlerbefragung stattfindet. Im Rahmen dieser Befragung wird bei den Unternehmen nochmals sowohl ein allgemeines grundsätzliches potenzielles Interesse an einem lokalen digitalen Marktplatz erfragt, als auch die Bereitschaft zur Kostenbeteiligung. Der Ausschuss wird nach Abschluss der Befragung über die Ergebnisse informiert.  Der Ausschuss für Wirtschaftsentwicklung und Digitalisierung nimmt den Bericht zur Kenntnis.           \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-AuWi-49%7C351701100007%7C1%7C20240312084301-0_351701100007_1.pdf",
+            "date": "2024-03-12",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-AuWi-49%7C351701100007%7C1%7C20240312084301-0_351701100007_1.pdf",
+            "fileName": "20240312084301-0_351701100007_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-AuWi-49%7C351701100007%7C1%7C20240312084301-0_351701100007_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "I.9_Eventübersicht Marktplatz_Altstadt_2024",
+            "size": 238377,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11034",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-49%7C351701100007%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-49",
+        "name": "Anfrage der FDP-Fraktion vom 16.01.2024\r\n- Bericht über die geplanten Marktplatzsperrungen für Veranstaltungen in 2024",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7C351701100007%7C1",
+          "date": "2024-02-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7C351701100007%7C1",
+          "fileName": "be_351701100007_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-49%7C351701100007%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 101595,
+          "text": "9 Anfrage der FDP-Fraktion vom 16.01.2024 - Bericht über die geplanten Marktplatzsperrungen für Veranstaltungen in 2024 (2024/008)  Herr Bettinger stellt die Sitzungsanfrage vor.   Herr Langensiepen, Geschäftsführer der Wirtschaft & Marketing Castrop-Rauxel GmbH, präsentiert eine Übersicht zu den geplanten Marktplatzsperrungen für diesjährige Veranstaltungen.   Herr Bettinger bittet um eine Ergänzung dieser Veranstaltungsübersicht mit grober Angabe, wie viele Marktplatzparkplätze pro Veranstaltung wegfallen.  (Ergänzung siehe Anlage)   Die Mitglieder des Ausschusses für Wirtschaftsentwicklung und Digitalisierung nehmen den Bericht zur Kenntnis.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-AuWi-49%7Czt_4%7C1%7C20240305082450-0_zt_4_1.pdf",
+            "date": "2024-03-05",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-AuWi-49%7Czt_4%7C1%7C20240305082450-0_zt_4_1.pdf",
+            "fileName": "20240305082450-0_zt_4_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-AuWi-49%7Czt_4%7C1%7C20240305082450-0_zt_4_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Bericht H2!Reallabor CR_2024-01-26",
+            "size": 1545310,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-49%7Czt_4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-49",
+        "name": "mdl. Bericht zum Wasserstoffprojekt H2! Reallabor Castrop-Rauxel",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7Czt_4%7C1",
+          "date": "2024-03-05",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7Czt_4%7C1",
+          "fileName": "be_zt_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-49%7Czt_4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 102057,
+          "text": "10 mdl. Bericht zum Wasserstoffprojekt H2! Reallabor Castrop-Rauxel   Herr Langensiepen, Geschäftsführer der Stadtwerke Castrop-Rauxel GmbH, berichtet über den aktuellen Sachstand zum Wasserstoffprojekt H2! Reallabor.  (siehe Anlage)   Herr Bettinger bittet um regelmäßigere Berichterstattung im Ausschuss für Wirtschaftsentwicklung und Digitalisierung zu diesem Projekt.   Herr Langensiepen greift den Presseartikel der Ruhr Nachrichten vom 29. Januar 2024 auf, in dem Herr Bettinger den Vorwurf adressiert, dass das o.g. Projekt nicht im zuständigen Fachausschuss (AWED) kommuniziert wurde und dass Herr Langensiepen die Ideen für das Projekt in weiten Teilen aus dem Antrag der FDP aus März 2019 übernommen hat. Herr Langensiepen legt dar, dass diese Vorwürfe unzutreffend sind.   Herr Bettinger wünscht die Aufnahme in die Niederschrift, dass ihm unwahre Tatsachenbehauptung vorgeworfen wird.   Der Ausschuss für Wirtschaftsentwicklung und Digitalisierung nimmt den Bericht zur Kenntnis.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-AuWi-49%7Czt_2%7C1%7C20240221112007-0_zt_2_1.pdf",
+            "date": "2024-02-21",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-AuWi-49%7Czt_2%7C1%7C20240221112007-0_zt_2_1.pdf",
+            "fileName": "20240221112007-0_zt_2_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-AuWi-49%7Czt_2%7C1%7C20240221112007-0_zt_2_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "I.11_Aktueller Stand Glasfaserausbau",
+            "size": 4331459,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-49%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-49",
+        "name": "Breitbandausbau - aktueller Sachstand\r\n",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7Czt_2%7C1",
+          "date": "2024-02-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-49%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 76963,
+          "text": "11 Breitbandausbau - aktueller Sachstand   Stabsstellenleiter der Wirtschaftsförderung, Herr Ratte, berichtet zum aktuellen Sachstand des Glasfaserausbaus. (siehe Anlage)  Der Ausschuss für Wirtschaftsentwicklung und Digitalisierung nimmt den Bericht zur Kenntnis.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-49%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-49",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7C6%7C1",
+          "date": "2024-02-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-49%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 82354,
+          "text": "12 Anfragen der Ausschussmitglieder   Das Ausschussmitglied, Herr Neuhaus, erfragt den aktuellen Stand zur Ausschreibung und Besetzung der Position Digitalisierungsbeauftragte/ Digitalisierungsbeauftragter der Stadt Castrop-Rauxel.  Da die Frage in der Ausschusssitzung nicht beantwortet werden konnte, wird diese im kommenden Ausschuss für Wirtschaftsentwicklung und Digitalisierung beantwortet.   Die Mitglieder des Ausschusses für Wirtschaftsentwicklung und Digitalisierung nehmen dies zur Kenntnis.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-49%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-49",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "13",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7C4%7C1",
+          "date": "2024-02-21",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-49%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-49%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 13",
+          "size": 90559,
+          "text": "13 Mitteilungen der Verwaltung   Herr Langensiepen, Geschäftsführer der Wirtschaft & Marketing Castrop-Rauxel GmbH, informiert die Mitglieder des Ausschusses über die Einstellung des Förderprogramms zur Transformationsberatung für Unternehmer*innen.   Des Weiteren berichtet Herr Langensiepen, dass am 21. März 2024 das nächste Event aus der Veranstaltungsreihe Nachhaltige Wirtschaft im Unternehmen ZINQ in Castrop-Rauxel stattfinden wird.   Der Ausschuss für Wirtschaftsentwicklung und Digitalisierung nimmt die Mitteilungen zur Kenntnis.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-49%7Czt_3%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-49",
+        "name": "Bericht zu den aktuellen Ansiedlungen",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-49%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-49",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-49%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-49",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2024-02-20T20:00:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-49",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-AuWi-49",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-02-07",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2024-AuWi-49",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2024-AuWi-49",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "05fc6eb7b9e4707de19d450f8f3930f273c29938",
+      "size": 122265,
+      "text": "Tagesordnung zur Sitzung des Ausschusses für Wirtschaftsentwicklung und Digitalisierung am Dienstag, 20.02.2024 um 17:00 Uhr in den Sitzungsraum 3, Europaplatz 1, 44575 Castrop-Rauxel,   I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner  2. Einwände gegen die letzte Niederschrift  3. mdl. Bericht zum Zentrenmanagement Innenstadt  4. Sofortprogramm Innenstadt - Städtebauliche Neuordnung der nordwestlichen Innenstadt Hier: Einbringung des Endberichtes  5. mdl. Bericht von Herrn Hubert Hennemann, Inhaber der Spedition Hennemann GmbH - aktuelle Situation aufgrund der neue LKW-Mautgebühr - derzeitige Lage des Arbeitsmarktes in dieser Branche - Auswirkungen hinsichtlich der Kürzung von Subventionen  6. Neufassung der Sondernutzungssatzung der Stadt Castrop-Rauxel  7. Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen für das Jahr 2024  8. Anfrage der FDP-Fraktion vom 15.01.2024 - Digitales Händlerportal  9. Anfrage der FDP-Fraktion vom 16.01.2024 - Bericht über die geplanten Marktplatzsperrungen für Veranstaltungen in 2024  10. mdl. Bericht zum Wasserstoffprojekt H2! Reallabor Castrop-Rauxel  11. Breitbandausbau - aktueller Sachstand   12. Anfragen der Ausschussmitglieder  13. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  1. Bericht zu den aktuellen Ansiedlungen  2. Anfragen der Ausschussmitglieder  3. Mitteilungen der Verwaltung    Josef Berkel Ausschussvorsitzender  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Sitzungsraum 3, Europaplatz 1,44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-49/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Sitzungsraum 3, Europaplatz 1,44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschusses für Wirtschaftsentwicklung und Digitalisierung",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/1031",
+      "https://castroprauxel.gremien.info/oparl/person/1029",
+      "https://castroprauxel.gremien.info/oparl/person/748",
+      "https://castroprauxel.gremien.info/oparl/person/645",
+      "https://castroprauxel.gremien.info/oparl/person/1052",
+      "https://castroprauxel.gremien.info/oparl/person/1070",
+      "https://castroprauxel.gremien.info/oparl/person/1007",
+      "https://castroprauxel.gremien.info/oparl/person/1199",
+      "https://castroprauxel.gremien.info/oparl/person/420",
+      "https://castroprauxel.gremien.info/oparl/person/1213",
+      "https://castroprauxel.gremien.info/oparl/person/1202",
+      "https://castroprauxel.gremien.info/oparl/person/612",
+      "https://castroprauxel.gremien.info/oparl/person/1069",
+      "https://castroprauxel.gremien.info/oparl/person/267",
+      "https://castroprauxel.gremien.info/oparl/person/1025",
+      "https://castroprauxel.gremien.info/oparl/person/1115"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-AuWi-49",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-04-09",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-AuWi-49",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-AuWi-49",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 169640,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2024-02-20T17:00:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-AuWi-49",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-04-09",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-AuWi-49",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-AuWi-49",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 169640,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

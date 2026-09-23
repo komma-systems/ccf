@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/260603100011",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=260603100011%7C20190307122455.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-03-07",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=260603100011%7C20190307122455.pdf%7C",
+        "fileName": "20190307122455.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C260603100011%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/260603100011",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "43a5fbc6ec8571eb59b1f6acc480699990b363ba",
+        "size": 146984,
+        "text": "K1 Lageplan_20180502",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-EUV-25%7C260603100011%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8339",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-EUV-25",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-03-06",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/260603100011",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=260603100011&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=260603100011&id=69",
+      "fileName": "260603100011",
+      "id": "https://castroprauxel.gremien.info/oparl/file/260603100011",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/EUV/012",
+      "size": 92372,
+      "text": "/  Datum: 06.03.2019    TB I 9686-380      Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 20.03.2019 TOP: I.8 Drucksache-Nr. 2019/EUV/012    X Öffentliche Sitzung   Nichtöffentliche Sitzung   Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 20.03.2019 8    Betreff:  Bebauung an der Vinckestraße / Recklinghauser Straße (Gemarkung Ickern, Flur 12, Flurstück 536)  Abschluss eines Vertrages zur Herstellung der Abwasseranlage     Finanzielle Auswirkungen gem. Wirtschaftsplan   ja Gesamtkosten       X nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat beauftragt den EUV Stadtbetrieb mit dem Abschluss eines Vertrages nach §11 BauGB mit dem Erschließungsträger Herrn Otto Hüsken aus Millstatt / Österreich über die Herstellung der Abwasseranlage und den Anschluss der projektierten Privatstraße an die Vinckestraße.   \f  \f  ________________________ Werner\f Sachverhalt:  Zur Umsetzung der geplanten Wohnbebauung auf dem Grundstück Gemarkung Ickern, Flur12, Flurstücke242, 247 und536 wird die Planung und Herstellung der Abwasseranlage in der projektierten Privatstraße Vinckestraße / Recklinghauser Straße auf den Eigentümer und Erschließungsträger Herrn Otto Hüsken, aus Millstatt / Österreich übertragen. Zur Sicherung der Herstellung ist ein öffentlich-rechtlicher Vertrag zur Übertragung der abwassertechnischen Erschließung und zum Anschluss der Privatstraße an die öffentliche Verkehrsfläche zu schließen.   \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Bebauung an der Vinckestraße / Recklinghauser Straße (Gemarkung Ickern, Flur 12, Flurstück 536) \r\nAbschluss eines Vertrages zur Herstellung der Abwasseranlage",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/EUV/012",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

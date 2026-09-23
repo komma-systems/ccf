@@ -1,0 +1,126 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/270806100162",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270806100162%7C20200608170211-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-08",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270806100162%7C20200608170211-0.pdf%7C",
+        "fileName": "20200608170211-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270806100162%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270806100162",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "eda39a576bce926a8e06de1f077ba2a6f590d2c0",
+        "size": 468058,
+        "text": "Anlage 1 zu Vorlage 2020.146 - Gewinn- und Verlustrechnung des EUV Stadtbetrieb Castrop-Rauxel AöR für das Wirtschaftsjahr 2018",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270806100162%7C20200608170216-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-08",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270806100162%7C20200608170216-0.pdf%7C",
+        "fileName": "20200608170216-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270806100162%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270806100162",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "24ad7b0fdf4e3170820c9716ac0aac36fbe8589f",
+        "size": 499566,
+        "text": "Anlage 2 zu Vorlage 2020.146 - Bilanz des EUV Stadtbetrieb Castrop-Rauxel AöR für das Wirtschaftsjahr 2018",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270806100162%7C20200608170220-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-08",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270806100162%7C20200608170220-0.pdf%7C",
+        "fileName": "20200608170220-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270806100162%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270806100162",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "19277a1b1f89776921e737b64d6978b5026f07ba",
+        "size": 674832,
+        "text": "Anlage 3 zu Vorlage 2020.146 - Ergebnisrechnung der Stadt Castrop-Rauxel für das Haushaltsjahr 2018",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270806100162%7C20200608170224-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-08",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270806100162%7C20200608170224-0.pdf%7C",
+        "fileName": "20200608170224-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270806100162%7C4",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270806100162",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 4",
+        "sha1Checksum": "c7054fff448868e9efd4617ebc8282f602362c27",
+        "size": 1070643,
+        "text": "Anlage 4 zu Vorlage 2020.146 - Bilanz der Stadt Castrop-Rauxel für das Haushaltsjahr 2018",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-HFA-103%7C270806100162%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/9027",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-HFA-103",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-118%7C270806100162%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/9028",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-118",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-06-08",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/270806100162",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270806100162&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270806100162&id=69",
+      "fileName": "270806100162",
+      "id": "https://castroprauxel.gremien.info/oparl/file/270806100162",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/146",
+      "size": 235925,
+      "text": " Bereich Finanzen 2020/146 öffentlich  Az: 20   Datum: 08.06.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Haupt- und Finanzausschuss 25.06.2020 7  Rat der Stadt 25.06.2020 7   Betreff  Inanspruchnahme der  Größenabhängigen Befreiungen  von der Verpflichtung zur Aufstellung eines kommunalen Gesamtabschlusses für das Haushaltsjahr 2019  (§ 116a GO NRW)  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \fBeschlussvorschlag  Der Rat der Stadt Castrop-Rauxel beschließt für das Haushaltsjahr 2019 (Abschlussstichtag 31.12.2019) die Größenabhängigen Befreiungen gemäß § 116a GO NRW in Anspruch zu nehmen und auf die Aufstellung eines kommunalen Gesamtabschlusses und Gesamtlageberichtes im Sinne von § 116 GO NRW zu verzichten.   \f  \f K r a v a n j a       E c k h a r d t Bürgermeister      Erster Beigeordneter/ Stadtkämmerer Sachverhalt:   Gemäß § 116 GO NRW hat die Gemeinde für jedes Haushaltsjahr für den Abschlussstichtag 31. Dezember neben dem Jahresabschluss für die sog. Kernverwaltung einen kommunalen Gesamtabschluss aufzustellen.   Der kommunale Gesamtabschluss besteht aus der Gesamtergebnisrechnung der Gesamtbilanz dem Gesamtanhang der Kapitalflussrechnung und dem Eigenkapitalspiegel.  Darüber hinaus hat die Gemeinde einen Gesamtlagebericht zu erstellen.  Zum Zwecke der Aufstellung des kommunalen Gesamtabschlusses sind die Jahresabschlüsse aller verselbständigten Aufgabenbereiche in öffentlich-rechtlicher oder privatrechtlicher Form mit dem jeweiligen Jahresabschluss der Gemeinde zu konsolidieren, sofern durch Gesetz oder Rechtsverordnung nichts anderes bestimmt ist. Für mittelbare Beteiligungen gelten die Vorschriften des § 290 Abs. 3 Handelsgesetzbuch (HGB). Der kommunale Gesamtabschluss kann somit als besondere Form eines Konzernabschlusses angesehen werden.  Nicht einbezogen werden müssen in die Konsolidierung allerdings solche verselbständigten Aufgabenbereiche, die für die Verpflichtung, ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gemeinde zu vermitteln, von untergeordneter Bedeutung sind. Die Trägerschaft an Sparkassen ist aufgrund entsprechender gesetzlicher Regelungen ebenfalls nicht im Gesamtabschluss zu konsolidieren.  Für die kommunalen Gesamtabschlüsse der Stadt Castrop-Rauxel bedeutete dies in den zurückliegenden Jahren, dass eine Konsolidierung lediglich mit dem EUV Stadtbetrieb Castrop-Rauxel AöR erfolgen musste.  Die Verpflichtung zur Aufstellung kommunaler Gesamtabschlüsse wurde vom Land Nord-rhein-Westfalen im Rahmen des Neuen Kommunalen Finanzmanagements (NKF) eingeführt, dessen Regelungen die Stadt Castrop-Rauxel seit dem 01.01.2009 unterliegt. Der kommunale Gesamtabschluss bzw. dessen Sinnhaftigkeit war  anders als der kommunale Jahresabschluss der (Kern-)Verwaltung  von Anfang an umstritten. Aus dem kommunalen Raum wurde die Verpflichtung zur Aufstellung eines Gesamtabschlusses ganz überwiegend abgelehnt, da die Erstellung mit erheblichen Aufwendungen (Personal in der Kernverwaltung, Personal in den verselbständigten Bereichen, regelmäßig Prüfungen durch externe Wirtschaftsprüfer) verbunden ist, der sich aus den Gesamtabschlüssen ergebende Nutzen aber als gering einzuschätzen ist. Insbesondere als Steuerungsinstrument haben sich kommunale Gesamtabschlüsse landesweit nicht bewährt, auch interessierte Dritte (z. B. Kreditgeber) greifen regelmäßig nicht auf Gesamtabschlüsse sondern auf die Jahresabschlüsse der einzelnen Aufgabenträger (z. B. Kernverwaltung, Anstalten öffentlichen Rechts o. ä.) zurück. Zudem vergeht zwischen dem Ende des Haushaltsjahres und der Aufstellung des Gesamtabschlusses regelmäßig ein längerer Zeitraum, da der Aufstellung des Gesamtabschlusses naturgemäß die Aufstellung der jeweiligen Einzelabschlüsse vorausgehen muss.   Vor diesem Hintergrund hat das Land Nordrhein-Westfalen im Rahmen der Änderungen der kommunalhaushaltsrechtlichen Bestimmungen zum 01.01.2019 die Möglichkeit eröffnet, bei Vorliegen bestimmter Tatbestände von der Verpflichtung zur Erstellung eines kommunalen Gesamtabschlusses und eines Gesamtlageberichtes abzusehen (§ 116a GO NRW). Die nunmehr gesetzlich eingeräumte Option, auf die Erstellung eines kommunalen Gesamtabschlusses zu verzichten, wird voraussichtlich dazu führen, dass der Verzicht auf den Gesamtabschluss der Regelfall werden wird und nur noch eine überschaubare Zahl von Kommunen  insbesondere Großstädte  der genannten Verpflichtung tatsächlich noch nachkommen muss.   Für die Stadt Castrop-Rauxel wurden kommunale Gesamtabschlüsse bislang für die Haushaltsjahre bis einschließlich 2016 erstellt; der geprüfte Gesamtabschluss 2016 lag dem Rat in seiner Sitzung am 28.11.2019 zur Beschlussfassung vor (Vorlage 2019/236.1). Die Gesamtabschlüsse für die Jahre 2017 und 2018 sollen in einem vom Gesetzgeber gesondert vorgesehenen Verfahren abgewickelt werden: Dabei ist lediglich noch der Gesamtabschluss für das Jahr 2018 in dem vom Gesetzgeber regulär vorgesehenen Verfahren zu erstellen. Der vom Bürgermeister aufgestellte Gesamtabschluss für das Haushaltsjahr 2017 ist diesem Gesamtabschluss dann nur noch beizufügen. Die Erstellung und Beschlussfassung über den Gesamtabschluss 2018 (und mit ihm somit auch über den Gesamtabschluss 2017) ist für das Jahr 2021 vorgesehen. Die politischen Gremien wurde über das beabsichtigte Vorgehen entsprechend unterrichtet (Vorlage 2019/072: Rechnungsprüfungsausschuss; Vorlage 2019/086: Haupt- und Finanzausschuss; Vorlage 2019/142: Rat). Die Verwaltung betont dabei nochmals ausdrücklich, dass sich die Stadt Castrop-Rauxel damit innerhalb des ihr gesetzlich zugestandenen Zeitkorridors befindet. Eine frühere Aufstellung der Gesamtabschlüsse 2017 und 2018 ist wegen der Umstellung auf eine neue Finanzsoftware zum 01.01.2020 und auch aufgrund der aktuellen Corona-Pandemie nicht möglich.  Wie bereits oben dargestellt, besteht gemäß § 116a GO NRW die Möglichkeit, dass unter den nachfolgend noch näher benannten Voraussetzungen eine Befreiung von der grundsätzlichen Verpflichtung zur Aufstellung eines Gesamtabschlusses und des Gesamtlageberichtes im Sinne von § 116 GO NRW erfolgt.   Über das Vorliegen der Voraussetzungen für die Befreiung von den o. a. Pflichten entscheidet der Rat der Gemeinde für jedes Haushaltsjahr bis zum 30.09. des auf das Haushaltsjahr folgenden Jahres (für 2019 also bis zum 30.09.2020). Zu berücksichtigen ist dabei, dass das Haushaltsjahr 2019 das erste Wirtschaftsjahr ist, für das dieses Optionsrecht gilt.  Gemäß § 116a Abs. 1 GO NRW müssen mindestens zwei der nachfolgenden Voraussetzungen zum Abschlussstichtag des Gesamtabschlusses (hier: 31.12.2019) und des vorhergehenden Jahresabschlusses (hier: 31.12.2018) vorliegen:  Die der Gemeinde zuzurechnenden Erträge aller vollkonsolidierungspflichtigen verselbständigten Aufgabenbereiche im Sinne von § 116 Absatz 3 machen weniger als 50 % der ordentlichen Erträge der Ergebnisrechnung der Gemeinde aus (§ 116 Abs. 1 Nr. 2 GO NRW):  Vollkonsolidiert werden musste von den verbundenen und assoziierten Unternehmen in den zurückliegenden Gesamtabschlüssen lediglich der EUV Stadtbetrieb AöR. Die Konzernstruktur der Stadt hat sich in der Zwischenzeit nicht in der Weise geändert, dass weitere vollkonsolidierungspflichtige Unternehmen zu berücksichtigen wären, so dass auch im Gesamtabschluss 2019  neben der Stadt Castrop-Rauxel selbst  nur der EUV Stadtbetrieb AöR in die Vollkonsolidierung einzubeziehen wäre.   Zum Abschlussstichtag 31.12.2018 betrugen die ordentlichen Erträge des EUV Stadtbetrieb AöR 36.957.190,96 , die der Stadt 225.367.130,64 . Für das Jahr 2019 liegen die Jahresabschlüsse des EUV und der Stadt Castrop-Rauxel noch nicht vor. Auf Grundlage des derzeitigen Standes der Jahresabschlussarbeiten 2019 bei der Stadt Castrop-Rauxel und nach Rücksprache mit dem EUV Stadtbetrieb AöR ist aber definitiv davon auszugehen, dass sich an diesem Verhältnis zum Abschlussstichtag 31.12.2019 keine wesentlichen Veränderungen ergeben werden.   Der Anteil der Erträge des EUV liegt damit weit unterhalb der Marke von 50% der ordentlichen Erträge der Stadt Castrop-Rauxel. Die Tatbestandsvoraussetzungen des § 116a Absatz 1 Nr. 2 GO NRW für die Befreiung von der Verpflichtung zur Aufstellung eines Gesamtabschlusses und Gesamtlageberichtes liegen damit vor.   Die der Gemeinde zuzurechnenden Bilanzsummen aller vollkonsolidierungspflichtigen verselbständigten Aufgabenbereiche im Sinne von § 116 Abs. 3 GO machen insgesamt weniger als 50 % der Bilanzsumme der Gemeinde aus (§ 116a Abs. 1 Nr. 3 GO NRW):  Die Bilanzsumme des EUV Stadtbetrieb Castrop-Rauxel AöR betrug zum 31.12.2018 149.063.123,84 , die Bilanzsumme der Stadt 532.734.298,19 .   Wie bereits unter vorstehender Ziffer 1 dargestellt, liegen für das Jahr 2019 die Jahresabschlüsse des EUV und der Stadt Castrop-Rauxel noch nicht vor. Auf Grundlage des derzeitigen Standes der Jahresabschlussarbeiten 2019 bei der Stadt Castrop-Rauxel und nach Rücksprache mit dem EUV Stadtbetrieb AöR ist auch hier definitiv davon auszugehen, dass sich an diesem Verhältnis zum Abschlussstichtag 31.12.2019 keine wesentlichen Veränderungen ergeben werden.   Die Bilanzsumme des EUV liegt damit sowohl in 2018 als auch in 2019 (gefestigte Prognose) weit unterhalb der Marke von 50% der Bilanzsumme der Stadt Castrop-Rauxel. Die Tatbestandsvoraussetzungen des § 116a Absatz 1 Nr. 3 GO NRW für die Befreiung von der Verpflichtung zur Aufstellung eines Gesamtabschlusses und Gesamtlageberichtes werden also auch hier erfüllt.   Die Bilanzsummen in den Bilanzen der Gemeinde und der einzubeziehenden verselbständigten Aufgabenbereiche im Sinne von § 116 Abs. 3 GO NRW übersteigen insgesamt nicht mehr als 1.500.000.000  (§ 116a Abs. 1 Nr. 1 GO NRW):  Die Prüfung dieser dritten Alternative (in der Norm als Nr. 1 geführt) wird zunächst für redundant erachtet, da wie bereits o. a. schon die Tatbestandsmerkmale von § 116a Abs. 1 Nr. 2 und Nr. 3 GO NRW erfüllt werden. Von einer Ermittlung der Gesamtbilanzsummen in 2018 und 2019 kann daher nach Auffassung der Verwaltung grundsätzlich abgesehen werden.   Gleichwohl lässt sich die Sachlage hierzu wie folgt darstellen: Die Bilanzsumme der Stadt Castrop-Rauxel betrug in 2018 532.734.298,19 , die des EUV 149.063.123,84 . Die Bilanzsummen von Stadt und EUV belaufen sich in der Addition für 2018 somit auf 681.797.422,03 . Da zu unterstellen ist, dass der Gesetzgeber auch im Falle von § 116a Abs. 1 Nr. 1 GO NRW die vollkonsolidierungspflichtigen Aufgabenbereiche anspricht, wird der Schwellenwert von 1,5 Mrd.  um rd. 818.200.000 Mio.  unterschritten. Sollten weitere Aufgabenbereich als einzubeziehen im Sinne von § 116a Abs. 1 Nr. 1 GO NRW angesehen werden müssen, so müssten deren Bilanzwerte noch gesondert ermittelt werden. Hierauf wurde  wie bereits oben dargestellt  vorliegend aber verzichtet, da bereits die Tatbestandsvoraussetzungen von § 116a Abs. 1 Nr. 2 und 3 GO NRW erfüllt werden, der Verzicht auf die Aufstellung des Gesamtabschlusses 2019 also auch dann erklärt werden könnte, wenn die Voraussetzungen des § 116a Abs. 1 Nr. 1 GO NRW nicht vorliegen würden.    Wie bereits o. a. liegen die (Einzel-)Jahresabschlüsse des EUV Stadtbetriebs AöR und der Stadt Castrop-Rauxel für das Jahr 2019 bislang nicht vor. Die Beschlussfassung über die Wahrnehmung der Option des § 116a GO NRW für das Haushaltsjahr 2019 muss allerdings  so sie denn in Anspruch genommen werden soll  zwingend bis zum 30.09.2020 erfolgen.   Die nächste Ratssitzung findet statt am 25.06.2020. Aufgrund der dann folgenden Sommerpause und der sich daran anschließenden Kommunalwahltermine (13.09.2020, Stichwahltermin 27.09.2020) findet die nächste planmäßige Ratssitzung erst wieder am 01.10.2020, also nach Fristablauf statt.   Zur Vermeidung einer Sondersitzung des Rates nur für die Entscheidung über das Optionsrecht gemäß § 116a GO NRW, muss der Rat die entsprechende Beschlussfassung in seiner Sitzung am 25.06.2020 vornehmen.   Das Vorliegen der Voraussetzungen im Sinne von § 116a Absatz1 GO NRW ist gegenüber dem Rat anhand geeigneter Unterlagen nachzuweisen (§ 116a Abs. 2 GO NRW). Dies wären grundsätzlich die einzubeziehenden Jahresabschlüsse (hier für die Haushaltsjahre 2018 und 2019).   Wie bereits oben dargelegt liegen die Jahresabschlüsse des EUV Stadtbetrieb AöR und der Stadt Castrop-Rauxel für das Jahr 2019 aber bislang nicht vor. Hinzuweisen ist in diesem Zusammenhang auch nochmals auf die besonderen Belastungen aufgrund der noch immer andauernden Corona-Pandemie sowie mit Blick auf die Kernverwaltung auf den Umstand, dass diese zum 01.01.2020 ihre Finanzwirtschaft komplett auf eine neue Finanzsoftware umstellen musste.   Als geeignete Unterlagen im Sinne von § 116a Abs. 2 GO NRW legt die Verwaltung daher die Jahresabschlussunterlagen für das (geprüfte) Jahr 2018 sowie die hiermit ausgesprochene ausdrückliche Erklärung vor, dass wesentliche Änderungen der Relationen der Merkmale im Sinne von § 116a Abs. 1 Nr. 2 und 3 GO NRW aufgrund gefestigter Prognosen für 2019 nicht zu erwarten sind.   Die Entscheidung des Rates ist der Aufsichtsbehörde jährlich mit der Anzeige des durch den Rat festgestellten Jahresabschlusses der Gemeinde vorzulegen (§ 116a Abs. 2 Satz 3 GO NRW). Aufgrund der vorbeschriebenen Umstände (Jahresabschlüsse 2019 liegen noch nicht vor), hat die Verwaltung bereits im Vorfeld der Ratssitzung am 25.06.2020 Kontakt zur Kommunalaufsichtsbehörde aufgenommen. Von Seiten der Kommunalaufsicht wurden keine grundsätzlichen Bedenken gegen das beabsichtigte Vorgehen geltend gemacht. Es wurde vereinbart, dass die Kommunalaufsichtsbehörde frühzeitig über die (voraussichtlichen) Ergebnisse der Jahresabschlüsse der Stadt und des EUV für 2019 informiert wird. Sollte sich entgegen aller Erwartungen herausstellen, dass die Voraussetzungen des § 116a GO NRW bezogen auf das Jahr 2019 nicht vorliegen sollten, könnte der dann obligatorische kommunale Gesamtabschluss immer noch erstellt werden. Der Rat würde hierüber im Rahmen des Prüfungs- und Beschlussverfahrens zum Jahresabschluss 2019 selbstverständlich informiert.   Mit Ausübung des Optionsrechts im Sinne von § 116 a GO NRW entsteht für die Stadt Castrop-Rauxel gemäß § 117 GO NRW die Verpflichtung zur Aufstellung eines Beteiligungsberichts. Der Rat erhält somit über diesen gesonderten Bericht die für ihn wesentlichen Informationen zu den Beteiligungen der Stadt Castrop-Rauxel.      Anlagen:  Anlage 1:  Gewinn- und Verlustrechnung des EUV Stadtbetrieb Castrop-Rauxel AöR für das Wirtschaftsjahr 2018  Anlage 2:  Bilanz des EUV Stadtbetrieb Castrop-Rauxel AöR für das Wirtschaftsjahr 2018  Anlage 3: Ergebnisrechnung der Stadt Castrop-Rauxel für das Haushaltsjahr 2018  Anlage 4:  Bilanz der Stadt Castrop-Rauxel für das Haushaltsjahr 2018\f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Inanspruchnahme der 'Größenabhängigen Befreiungen' von der Verpflichtung zur Aufstellung eines kommunalen Gesamtabschlusses für das Haushaltsjahr 2019 \r\n(§ 116a GO NRW)",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/146",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

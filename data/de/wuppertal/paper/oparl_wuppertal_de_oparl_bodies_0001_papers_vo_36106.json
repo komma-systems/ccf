@@ -1,0 +1,104 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36106",
+  "modified_at": "2026-09-08T10:14:56+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367860.pdf",
+        "created": "2026-07-29T11:50:14+02:00",
+        "date": "2026-07-29",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367860.pdf",
+        "fileName": "00367860.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367860",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T10:14:56+02:00",
+        "name": "01_Antrag BV Uellendahl-Katernberg",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367861.pdf",
+        "created": "2026-07-29T11:50:29+02:00",
+        "date": "2026-07-29",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367861.pdf",
+        "fileName": "00367861.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367861",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T10:14:56+02:00",
+        "name": "02_Beschluss Ausschuss für Verkehr",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367963.pdf",
+        "created": "2026-07-30T14:39:36+02:00",
+        "date": "2026-08-07",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367963.pdf",
+        "fileName": "00367963.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367963",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T10:14:56+02:00",
+        "name": "Bericht",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369595.pdf",
+        "created": "2026-09-07T12:14:38+02:00",
+        "date": "2026-09-07",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369595.pdf",
+        "fileName": "00369595.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369595",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T10:14:56+02:00",
+        "name": "Beschlussauszug Uellendahl Katernberg 03.09.2026",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141143",
+        "authoritative": true,
+        "created": "2026-07-29T12:23:32+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68381",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24660",
+        "modified": "2026-09-04T06:45:52+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/41"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36106",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141285",
+        "authoritative": true,
+        "created": "2026-08-17T10:01:03+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68382",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24630",
+        "modified": "2026-09-21T11:48:18+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/274"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36106",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-29T10:35:22+02:00",
+    "date": "2026-07-29",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36106",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-08T10:14:56+02:00",
+    "name": "Einrichtung von Tempo 30 sowie eines Fußgängerüberwegs am Westfalenweg",
+    "paperType": "Bericht",
+    "reference": "VO/0913/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/6"
+    ]
+  }
+}

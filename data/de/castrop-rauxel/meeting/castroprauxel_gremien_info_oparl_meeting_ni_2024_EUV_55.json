@@ -1,0 +1,267 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-EUV-55",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-EUV-55%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-EUV-55",
+        "name": "Genehmigung des Protokolls der Sitzung vom 06.12.2023\r\n-öffentlicher Teil-",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-EUV-55%7Czt_0%7C1",
+          "date": "2024-02-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-EUV-55%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-EUV-55%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 45923,
+          "text": "Verwaltungsratsvorsitzender Herr Bürgermeister Kravanja begrüßt die Mitglieder des Verwaltungsrates, die anwesende Öffentlichkeit, die Pressevertreter und den Personalratsvorsitzenden des EUV Stadtbetriebs. Er verweist auf einen Dringlichkeitsantrag der CDU, der als Tagesordnungspunkt I.3 (neu) im öffentlichen Teil der Sitzung behandelt wird. Da keine Einwände zur Tagesordnung erhoben werden, wird nach dieser verfahren.  1 Genehmigung des Protokolls der Sitzung vom 06.12.2023\u000b-öffentlicher Teil-  Die Niederschrift zur Verwaltungsratssitzung vom 06.12.2023 wird im Tagesordnungspunkt I.9 Erlass einer 14. Änderungsentgeltordnung zur Entgeltordnung für Sonderleistungen des EUV (2023/EUV/057) so geändert, dass der Name des Verwaltungsratsmitgliedes ergänzt wird. Der zweite Satz lautet nun: \u000bVerwaltungsratsmitglied Herr Piehl bittet, zukünftig zum Vergleich die Vorjahrespreise mit anzugeben. Wortmeldungen zum Protokoll gibt es nicht.  Der Verwaltungsrat stimmt dem Protokoll der Sitzung des Verwaltungsrates vom 06.12.2023 für den öffentlichen Teil einstimmig zu.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-EUV-55%7C360102100001%7C1%7C20240220093211-0_360102100001_1.pdf",
+            "date": "2024-02-20",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-EUV-55%7C360102100001%7C1%7C20240220093211-0_360102100001_1.pdf",
+            "fileName": "20240220093211-0_360102100001_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-EUV-55%7C360102100001%7C1%7C20240220093211-0_360102100001_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Präsentation aus der Sitzung",
+            "size": 150769,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11033",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-EUV-55%7C360102100001%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-EUV-55",
+        "name": "Antrag auf Rücknahme der rechtswidrigen Verwaltungsakte nach § 130 Abgabenordnung (AO) für die Abwassergebühren der Jahre 2021 und 2022;\r\nGemeinsamer Antrag der Fraktionen CDU, FDP und FWI vom 24.01.2024",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-EUV-55%7C360102100001%7C1",
+          "date": "2024-03-12",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-EUV-55%7C360102100001%7C1",
+          "fileName": "be_360102100001_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-EUV-55%7C360102100001%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 68102,
+          "text": "2 Antrag auf Rücknahme der rechtswidrigen Verwaltungsakte nach §130 Abgabenordnung (AO) für die Abwassergebühren der Jahre 2021 und 2022;\u000bGemeinsamer Antrag der Fraktionen CDU, FDP und FWI vom 24.01.2024\u000b(2024/EUV/002)  Verwaltungsratsmitglied Herr Papp erläutert den gemeinsamen Antrag der Fraktionen CDU, FDP und FWI und ergänzt, dass mit dem Antrag kein Vorwurf gegenüber dem EUV erhoben werde, die Gebühren falsch kalkuliert zu haben. Der Antrag erfolge aufgrund der im Jahre 2022 vom OVG Münster vertretenden Rechtsauffassung und soll den Sondersituationen (z.B. Inflation, Kostensteigerungen pp.) Rechnung tragen. Aus Gründen der Gerechtigkeit sollten nicht nur die Widerspruchsführer, sondern alle Abwassergebührenzahler eine Erstattung erhalten und damit die Gerechtigkeit für die Antragsteller über die Bestandskraft des abgeschlossenen Verwaltungsaktes gestellt werden.  Vorstand Herr Werner erläutert anhand der dem Protokoll beigefügten Präsentation die Entwicklung der Rechtslage seit 2020 durch die Klage gegen die Stadt Oer-Erkenschwick, er erklärt zudem die Position des Vorstandes und verweist auf die verschiedenen Diskussionen zu diesem Thema in der Sache im Verwaltungsrat. Insbesondere ist der Sachverhalt nicht mit der Entscheidung der Stadt Castrop-Rauxel aus dem Jahre 1994 vergleichbar, welche eine generelle Gebührenerstattung der Abwassergebühren zur Folge hatte, da dieser Beschluss aufgrund eines rechtskräftigen Urteils des OVG Münster gegen die Stadt Castrop-Rauxel erfolgte. Er führt aus, dass durch das fehlende Urteil im Klageverfahren bzw. dessen Aufhebung, in 2022 keine neue Rechtsvorgabe entstanden ist, die entsprechende Fachliteratur die Auffassung des OVG teilweise aber bereits vertritt.  Der stellvertretende Vorstand Herr Brigadski führt ergänzend die möglichen Auswirkungen des Klageverfahrens im Hinblick auf Änderungen in der Kalkulation bei der Stadt Castrop-Rauxel aus.  In der abschließenden rechtlichen Einordnung bewertet der Vorstand Herr Werner das rechtliche Schutzgut der Bestandskraft eines Bescheides höher als das Individualrecht und verweist auf die Rechtsprechung des OVG Münster. Er verweist hierzu auf die im Jahre 2015 von der Landesregierung wiedereingeführte Möglichkeit des Widerspruchs- und Klageverfahrens für abgabenregelnde Bescheide. Der stellvertretende Vorstand Herr Brigadski zeigt die wirtschaftlichen Auswirkungen einer möglichen Korrektur sämtlicher Gebührenbescheide der Jahre 2021 und 2022 auf. Die Auszahlung einer Rückerstattung müsste über Kredite mit einer Verzinsung von 3,5% bis 4 % nebst Tilgung erfolgen und hätte eine Verschlechterung der Eigenkapitalquote und somit eine Gebührensteigung in den kommenden Jahren zur Folge. Abschließend verweist er darauf, dass es unter den dann gegebenen Umständen zu Schwierigkeiten mit der Wirtschaftsprüfung in dem zu erteilenden Prüftestat kommen kann.  Herr Bürgermeister Kravanja ergänzt, dass er als Bürgermeister, einen möglichen Beschluss beanstanden muss, wenn der Stadt durch den Beschluss ein Schaden droht. Diese Einschätzung folgt Herr Kravanja. Daher hat er sich im Vorfeld der Sitzung telefonisch mit dem Landrat in Verbindung gesetzt. In seiner Funktion als Aufsichtsbehörde würde der Landrat, der die Argumente nachvollziehen kann, sich in Kürze schriftlich äußern. Somit sehe sich der Bürgermeister derzeit in der Verpflichtung, einen entsprechenden Beschluss zu beanstanden. Daher bittet er den Verwaltungsrat, auf eine Abstimmung zu dem Antrag zunächst zu verzichten und die Entscheidung der Kommunalaufsicht abzuwarten. Das Verwaltungsratsmitglied Herr Piehl führt ergänzend zu Herrn Papp aus, dass die Rechtmäßigkeit des Vorgehens des EUV nicht in Frage gestellt wird, die Entscheidung jedoch nicht als gerecht angesehen wird, wodurch das Vertrauen in die Politik gestört wird. Herr Piehl hält das Vertrauen für ein höheres Gut als das was mit Geld beglichen werden kann. Er weist darauf hin, dass er in seiner Person weder den Gebühren für 2021 noch den Gebühren für 2022 zugestimmt hat. Auf Anfrage vom Verwaltungsratsmitglied Herrn Pelzing, wie andere Städte verfahren, teilt der Vorstand Herr Werner mit, dass dem Vorstand keine Gemeinde bekannt sei, in der, wie nun für Castrop-Rauxel vorgeschlagen, alle Bescheide zurückgenommen werden sollen. In größeren Städten wie Dortmund, Bielefeld und Duisburg wird die Hauptveranlagung zum 15.02. nicht gewährleistet. Aufgrund des teilrollierenden Verfahrens konnten die Gebühren unterjährig angepasst und durch Rückstellungen die Erstattung gesichert werden.  Das Verwaltungsratsmitglied Frau Mintrop-Werkle ergänzt, dass laut T-Online die Stadt Dortmund eine Rückstellung in Höhe von 11,5Mio. gebildet hat, aber auch nur den Widerspruchsführern die Gebühren erstattet hat. Das Verwaltungsratsmitglied Herr Pelzing fragt zudem an, wie gesichert werden kann, dass die Gebührenerstattung an die Mieter weitergegeben wird und nicht bei den vermietenden Hauseigentümern verbleibt. Der Vorstand Herr Werner entgegnet, es läge nicht in der Hand des EUV, der die Erstattungen an den Eigentümer auszahlen müsse. Hier wären die entsprechenden Vereine und Verbände (Haus und Grund oder Mieterverein) gefordert, Aufklärung zu betreiben. Das Verwaltungsratsmitglied Herr Dr. Jankovics fasst zusammen, dass im Verwaltungsrat Einigkeit bestehe, dass die Gebührenkalkulation des EUV-Stadtbetriebes rechtlich korrekt gewesen war und die Beschlüsse des Verwaltungsrates nicht zu beanstanden seien. Um die zu führende Abwägung zwischen der Gerechtigkeit und der Wirtschaftlichkeit im Vorfeld besser vorzubereiten, fehle ihm ein vorheriger Austausch der Argumente, der bislang regelmäßig in diesem Gremium praktiziert wurde. \u000bEr stellt den Sachverhalt unter der Betrachtung der Eigenkapitalquote des Betriebes und der Unterstützung des Stadt Castrop-Rauxel durch verschiedene Auskehrungen fest und sieht ein politisches Risiko, dass bei einer freiwilligen Erstattung der Leistung ohne Rechtsgrund die Gebührenerhöhungen der nächsten Jahre gefährdet werden könnten.  Ein Geschenk zu Lasten der Bonität könnte eine Erwartungshaltung schaffen. Um mögliche Finanzschäden für den Betrieb zu verhindern, muss der Vorstand einen entsprechenden Beschluss beanstanden. Die gleiche Verpflichtung sieht Verwaltungsratsmitglied Herr Dr. Jankovics auch für den Verwaltungsrat im Bezug auf den EUV Stadtbetrieb. Das Verwaltungsratsmitglied Herr Zygowski erläutert die Ebenen Gerechtigkeit, Recht und Verantwortung. Aus seiner Sicht würden hier auf der Seite der Bürger Erwartungen zu Lasten mittel- und langfristiger Aufgaben wie der Daseinsvorsorge geweckt, um kurzfristige Aufmerksamkeit zu erhalten. Da er und seine Fraktion dies für keine gute Politik halten, lehne er den Antrag ab. Verwaltungsratsmitglied Herr Papp bittet um Auskunft, wie hoch die zu erstattende Gesamtsumme der Gebühren sei. Vorstand Herr Werner erwidert, dass sich aus den Jahresabschlüssen 2021 und 2022 eine Summe von 2,6Mio. ergäbe. Nach weiterer intensiver Diskussion, in der auch die rechtliche Bedeutung des § 130 Abgabenordnung hervorgehoben wurde, bittet das Verwaltungsratsmitglied Herr Papp um namentliche Abstimmung. Anschließend lässt Herr Bürgermeister Kravanja zum Antrag 2024/EUV/002 namentlich abstimmen, mit folgendem Ergebnis:  Nachstehende 7 Mitglieder des Verwaltungsrates stimmen mit Ja zum Antrag: Kai Herbert Faber Matthias Hart Carsten Papp Michael Andreas Schneider Frank Steinbach Harald Piehl Frank Hillebrand \u000bFolgende 11 Mitglieder des Verwaltungsrates stimmten mit Nein zum Antrag: Bürgermeister Rajko Kravanja Rüdiger Melzner Hans-Jürgen Noll Sylvia Dammann Waltraut Stroewer Dr. Ronald Jankovics Marcus Pelzing Ursula Mitrop-Werkle Ulrich Werkle Karsten Zygowski Dr. Ulrich Häpke \u000bDer Verwaltungsrat beschließt mehrheitlich bei sieben JA-Stimmen und 11-Nein-Stimmen, den gemeinsamen Antrag der Fraktionen CDU, FDP und FWI (Drucksache 2024/EUV/002) auf Rücknahme der rechtswidrigen Verwaltungsakte nach §130Abgabenordnung (AO) für die Abwassergebühren der Jahre 2021 und 2022 abzulehnen.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "mehrheitlich abgelehnt",
+        "result": "mehrheitlich abgelehnt",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11124",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-EUV-55%7C361502100003%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-EUV-55",
+        "name": "Dringlichkeitsantrag zum Verzicht auf das Sitzungsgeld zur Sondersitzung des EUV der CDU-Fraktion vom 13. Februar 2024",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-EUV-55%7C361502100003%7C1",
+          "date": "2024-03-11",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-EUV-55%7C361502100003%7C1",
+          "fileName": "be_361502100003_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-EUV-55%7C361502100003%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 41995,
+          "text": "3 Dringlichkeitsantrag zum Verzicht auf das Sitzungsgeld zur Sondersitzung des EUV der CDU-Fraktion vom 13. Februar 2024\u000b(2024/EUV/003)  Verwaltungsratsmitglied Herr Papp erläutert und begründet den Antrag seiner Fraktion. Herr Bürgermeister Kravanja entgegnet dem Antrag aus politischer Sicht und hält aus demokratischen Gründen eine Zahlung der Sitzungsgelder für mehr als gerechtfertigt, insbesondere, weil die Vorbereitung auf diese Sitzung vermutlich mindestens ebenso aufwändig war, wie zu einer gewöhnlichen Sitzung. Herr Werner ergänzt die rechtliche Einschätzung. Demnach ist gemäß §45 Absatz4 der Gemeindeordnung ein Verzicht auf die Aufwandsentschädigung nicht möglich. Aufgrund der rechtlichen Einschätzung zieht der Antragsteller Herr Papp den Antrag zurück und stellt jedem Verwaltungsratsmitglied anheim, seine Aufwandsentschädigung zu spenden. Herr Bürgermeister Kravanja spricht sich gegen einen generellen Aufruf, die Gelder zu spenden, aus. Der Dringlichkeitsantrag wurde vom Antragsteller zurückgenommen.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-EUV-55%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-EUV-55",
+        "name": "Anfragen der Verwaltungsratsmitglieder ",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-EUV-55%7Czt_1%7C1",
+          "date": "2024-03-12",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-EUV-55%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-EUV-55%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 43788,
+          "text": "4 Anfragen der Verwaltungsratsmitglieder   Auf Anfrage des Verwaltungsratsmitglieds Herr Faber, warum die Ortslage Borghagen aufgrund zweier gleichzeitig betriebener Baustellen verkehrstechnisch abgeschnitten ist, erklärt Herr Bürgermeister Kravanja, dass der Stadt Castrop-Rauxel die parallelen Baustellen im Vorfeld nicht bekannt gewesen seien. Durch organisatorische Maßnahmen wurde aber nun kurzfristig in Zusammenarbeit mit dem Ordnungsbereich und dem EUV Stadtbetrieb eine behelfsweise Verkehrsführung eingerichtet. Auf Anfrage von Herrn Dr. Jankovics erklärt Herr Werner, dass die Ausschreibung für das Beratungsangebot der Haushalte im Rahmen der Starkregenereignisse in 2023 abgeschlossen ist. Die Bürger werden Ende des Monats entsprechend informiert. Herr Bürgermeister Kravanja ergänzt, dass derzeit der angekündigte Bürgerdialog vorbereitet wird. Dieser wird voraussichtlich aber in zwei aufeinander aufgebaute Teile abgehalten, um die unterschiedlichen Themenkomplexe Grundwassersituation und Objektschutz voneinander zu trennen. Auf Nachfrage von Herrn Dr. Jankovics, die von dem Verwaltungsratsmitglied Herr Hart unterstützt wird, zu den noch ausstehenden Markierungsarbeiten an den Radwegen Ickerner Straße, Klöcknerstraße und Oststraße durch Straßen.NRW führt Herr Werner aus, dass aufgrund der dauernden Regenfälle derzeit keine Markierungsarbeiten vorgenommen werden können, wodurch die Arbeiten wenigstens drei Monate in Verzug sind. Bei Wetterbesserung wurde die Markierung der Oststraße ab der Grutholzstraße seitens des Landesbetriebes bereits zugesichert.\u000bBezüglich des Radweges auf der Recklinghauser Straße gibt es eine Verfahrensänderung, die dem EUV bislang nicht bekannt war. Zur Markierung muss nun offiziell ein förmlicher Antrag gestellt werden, was auch noch einmal mit dem Straßenbetrieb thematisiert werden soll.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-EUV-55%7Czt_3%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-EUV-55",
+        "name": "Genehmigung des Protokolls der Sitzung vom 06.12.2023\r\n-nicht öffentlicher Teil-",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-EUV-55%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-EUV-55",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-EUV-55%7Czt_2%7C1",
+          "date": "2024-02-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-EUV-55%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-EUV-55%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 31401,
+          "text": "5 Mitteilungen des Vorstandes  Keine Mitteilungen  Ende des öffentlichen Teils um 18:50 h \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-EUV-55%7Czt_4%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-EUV-55",
+        "name": "Anfragen der Verwaltungsratsmitglieder",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-EUV-55%7Czt_5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-EUV-55",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2024-EUV-55%7C20240312085705-0_ni_2024-EUV-55_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2024-03-12",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2024-EUV-55%7C20240312085705-0_ni_2024-EUV-55_1.pdf",
+        "fileName": "20240312085705-0_ni_2024-EUV-55_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2024-EUV-55%7C1",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "2024-02-14_Präsentation_Kalkulation Abwassergebühren OVG Münster",
+        "size": 332407,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2024-02-14T18:55:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-EUV-55",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-EUV-55",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-02-02",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2024-EUV-55",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2024-EUV-55",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "c97c6724986f3b23e32b8a12029576451cf53393",
+      "size": 109173,
+      "text": "Tagesordnung zur Sitzung des Verwaltungsrates EUV am Mittwoch, 14.02.2024 um 17:00 Uhr DIEZE Sitzungsraum, Erinstraße 6, 44575 Castrop-Rauxel,   I. Öffentliche Sitzung:  1. Genehmigung des Protokolls der Sitzung vom 06.12.2023 -öffentlicher Teil-  2. Antrag auf Rücknahme der rechtswidrigen Verwaltungsakte nach § 130 Abgabenordnung (AO) für die Abwassergebühren der Jahre 2021 und 2022; Gemeinsamer Antrag der Fraktionen CDU, FDP und FWI vom 24.01.2024  3. Anfragen der Verwaltungsratsmitglieder   4. Mitteilungen des Vorstandes     II. Nichtöffentliche Sitzung:  1. Genehmigung des Protokolls der Sitzung vom 06.12.2023 -nicht öffentlicher Teil-  2. Anfragen der Verwaltungsratsmitglieder  3. Mitteilungen des Vorstandes      Rajko   K r a v a n j a  Bürgermeister \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "DIEZE Sitzungsraum, Erinstraße 6, Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-EUV-55/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "DIEZE Sitzungsraum, Erinstraße 6, Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sondersitzung des Verwaltungsrates EUV",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/176",
+      "https://castroprauxel.gremien.info/oparl/person/596",
+      "https://castroprauxel.gremien.info/oparl/person/370",
+      "https://castroprauxel.gremien.info/oparl/person/318",
+      "https://castroprauxel.gremien.info/oparl/person/133",
+      "https://castroprauxel.gremien.info/oparl/person/241",
+      "https://castroprauxel.gremien.info/oparl/person/1064",
+      "https://castroprauxel.gremien.info/oparl/person/112",
+      "https://castroprauxel.gremien.info/oparl/person/240",
+      "https://castroprauxel.gremien.info/oparl/person/1045",
+      "https://castroprauxel.gremien.info/oparl/person/817",
+      "https://castroprauxel.gremien.info/oparl/person/416",
+      "https://castroprauxel.gremien.info/oparl/person/1069",
+      "https://castroprauxel.gremien.info/oparl/person/841",
+      "https://castroprauxel.gremien.info/oparl/person/344",
+      "https://castroprauxel.gremien.info/oparl/person/1173",
+      "https://castroprauxel.gremien.info/oparl/person/1011",
+      "https://castroprauxel.gremien.info/oparl/person/790"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-EUV-55",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-03-15",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-EUV-55",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-EUV-55",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 199548,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2024-02-14T17:00:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-EUV-55",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-03-15",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-EUV-55",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-EUV-55",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 199548,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

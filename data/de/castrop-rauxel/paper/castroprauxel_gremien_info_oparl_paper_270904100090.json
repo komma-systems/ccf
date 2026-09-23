@@ -1,0 +1,92 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/270904100090",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270904100090%7C20200409093308-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-04-09",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270904100090%7C20200409093308-0.pdf%7C",
+        "fileName": "20200409093308-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270904100090%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270904100090",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "e3457b08943e6e823df7b7407d89404b40ff90d2",
+        "size": 95245,
+        "text": "2020 WahlO Integrationsrat",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270904100090%7C20200409093319-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-04-09",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270904100090%7C20200409093319-0.pdf%7C",
+        "fileName": "20200409093319-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270904100090%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270904100090",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "bb4e41c086f2806654cbfbf0b532809ad201ed50",
+        "size": 95532,
+        "text": "Synopse WahlO IRat",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-HFA-102%7C270904100090%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8887",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-HFA-102",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-117%7C270904100090%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8888",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-117",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-04-09",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/270904100090",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270904100090&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270904100090&id=69",
+      "fileName": "270904100090",
+      "id": "https://castroprauxel.gremien.info/oparl/file/270904100090",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/080",
+      "size": 41047,
+      "text": " Bereich Stabsstelle Ratsangelegenheiten 2020/080 öffentlich  Az:     Datum: 09.04.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Haupt- und Finanzausschuss 30.04.2020 2  Rat der Stadt 30.04.2020    Betreff  Änderung der Wahlordnung für die Wahl des Integrationsrat der Stadt Castrop-Rauxel  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Der Rat der Stadt Castrop-Rauxel beschließt die anliegende Änderung der Wahlordnung zur Wahl des Integrationsrates der Stadt Castrop-Rauxel.  \f  \f  Kravanja      Eckhardt Bürgermeister     1. Beigeordneter als Wahlleiter \f Sachverhalt  Mit den seit der letzten Wahl zum Integrationsrat eingetretenen Änderungen der Gemeindeordnung NRW, des Kommunalwahlgesetzes und der Kommunalwahlordnung ist es erforderlich, die städtische Wahlordnung für den Integrationsrat an die geänderten gesetzlichen Regelungen anzupassen. Außerdem wurden Formulierungsvorschläge aus der Musterwahlordnung des Landesintegrationsrates übernommen  Die nun vorgeschlagenen Änderungen der Wahlordnung enthalten neben zahlreichen redaktionellen Anpassungen Regelungen zum Wählerverzeichnis, Ausschluss vom aktiven Wahlrecht, zur Wählbarkeit, zu Unterstützungsunterschriften, dem Wahlvorschlagsverfahren sowie Fristenangleichungen an das Kommunalwahlgesetz.   \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Änderung der Wahlordnung für die Wahl des Integrationsrat der Stadt Castrop-Rauxel",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/080",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

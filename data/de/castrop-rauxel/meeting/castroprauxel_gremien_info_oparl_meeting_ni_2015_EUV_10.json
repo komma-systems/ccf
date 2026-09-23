@@ -1,0 +1,530 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Genehmigung des Protokolls der Sitzung vom 26.08.2015",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7Czt_0%7C1",
+          "date": "2015-12-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2015-EUV-10%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 53916,
+          "text": "1 Genehmigung des Protokolls der Sitzung vom 26.08.2015 Vorstand Herr Werner gibt Auskunft zu den offenen Anfragen aus der letzten Verwaltungsratssitzung. Auf Anfrage des Vorstands wird festgelegt, dass der Wirtschaftsplanentwurf im kommenden Jahr nicht mehr als Papierausdruck an jedes Verwaltungsratsmitglied ausgegeben wird. Die Fraktionen erhalten jeweils einen kompletten und gebundenen Ausdruck. Ansonsten stehen der Wirtschaftsplanentwurf als Datei im Ratsinformationssystem bereit. Der Verwaltungsrat beschließt einstimmig das Protokoll der Sitzung vom 26.08.2015. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6784",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C181111100041%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Zwischenbericht 4 / 2015",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C181111100041%7C1",
+          "date": "2015-12-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C181111100041%7C1",
+          "fileName": "be_181111100041_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2015-EUV-10%7C181111100041%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 55161,
+          "text": "2 Zwischenbericht 4 / 2015 (2015/EUV/042) Vorstand Herr Werner erläutert die Vorlage. Die prognostizierte Verschlechterung ist hauptsächlich in Rückstellungen für das Personal begründet. Der Krankenstand ist im Vergleich zum Vorjahr leicht zurückgegangen. Ratsmitglied Dr. Wagener bittet, dem Verwaltungsrat einen Benchmark im Vergleich zu gleichgroßen Kommunalunternehmen vorzulegen. Vorstand Herr Werner erklärt, dass der EUV hierzu im Vergleich durchschnittlich einen geringen Gesamtkrankenstand aufweist. Der Verwaltungsrat nimmt den Zwischenbericht 4/2015 zur Kenntnis. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6795",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C181111100044%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Gebührenbedarfsberechnung 2016 Klärschlammentsorgung",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C181111100044%7C1",
+          "date": "2015-11-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C181111100044%7C1",
+          "fileName": "be_181111100044_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2015-EUV-10%7C181111100044%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 90708,
+          "text": "3 Gebührenbedarfsberechnung 2016 Klärschlammentsorgung (2015/EUV/045) Vorstand Herr Werner erläutert die Vorlage und schlägt vor, die Klärschlammgebühr nicht zu ändern. Der Verwaltungsrat nimmt die Gebührenbedarfsberechnung 2016 Klärschlammentsorgung zur Kenntnis. Er beschließt einstimmig, die Klärschlammgebühren nicht zu ändern. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6775",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C180911100038%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Erlass einer Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel (Kreislaufwirtschafts- und Abfallsatzung)",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C180911100038%7C1",
+          "date": "2015-11-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C180911100038%7C1",
+          "fileName": "be_180911100038_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2015-EUV-10%7C180911100038%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 53098,
+          "text": "4 Erlass einer Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel (Kreislaufwirtschafts- und Abfallsatzung) (2015/EUV/039) Vorstand Herr Werner erläutert die Vorlage und schlägt die vorliegende Satzung vor. Der Verwaltungsrat beschließt einstimmig, die Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel (Kreislaufwirtschafts- und Abfallsatzung). %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6791",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C180511100034%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Gebührenbedarfsberechnung 2016 - Abfallentsorgung",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C180511100034%7C1",
+          "date": "2015-12-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C180511100034%7C1",
+          "fileName": "be_180511100034_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2015-EUV-10%7C180511100034%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 109459,
+          "text": "5 Gebührenbedarfsberechnung 2016 – Abfallentsorgung (2015/EUV/035) Vorstand Herr Werner erläutert die Vorlage und schlägt vor, die Abfallgebühr nicht zu ändern. Ratsmitglied Herr Postel erläutert die Bedenken der FWI-Fraktion. Er verweist insbesondere auf die Erhöhung der Mietaufwendungen innerhalb des EUV’s und den nicht realisierten gesplitteten Gebührenmaßstab in Grund- und Leistungsgebühr. Vorstand Herr Werner gibt Auskunft und beantwortet weitere Anfragen der Verwaltungsratsmitglieder. Für die nächste Sitzung wird die Kalkulation der Mietumlagen 2016 für alle Teilbetriebe näher erläutert und dargestellt. Der Verwaltungsrat nimmt die Gebührenbedarfsberechnung 2016 Abfallentsorgung zur Kenntnis. Er beschließt mehrheitlich, bei einer Gegenstimme, die Abfallgebühren nicht zu ändern. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "mehrheitlich angenommen",
+        "result": "mehrheitlich angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6772",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C180611100037%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Gebührenbedarfsberechnung 2016 - Straßenreinigung und Erlass einer Straßenreinigungs- und Gebührensatzung",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C180611100037%7C1",
+          "date": "2015-12-16",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C180611100037%7C1",
+          "fileName": "be_180611100037_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2015-EUV-10%7C180611100037%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 57299,
+          "text": "6 Gebührenbedarfsberechnung 2016 - Straßenreinigung und Erlass einer Straßenreinigungs- und Gebührensatzung (2015/EUV/038) Vorstand Herr Werner erläutert die Vorlage und schlägt die vorliegende Satzung vor. Auf Anfrage mehrerer Verwaltungsratsmitglieder erklärt Vorstand Herr Werner, dass die Kalkulation für den Winterdienst grundsätzlich einen durchschnittlichen Winterverlauf zu Grunde legt. Die Hinweise der Ratsmitglieder Herr Dr. Wagener und Herr Boxhammer zur vergleichsweise schlechten Fahrzeugausstattung im Bereich 67 werden vom Bürgermeister Herr Kravanja und Vorstand Herr Werner beantwortet. Auf Anfrage von Ratsmitglied Herr Papp sagt der Vorstand Herr Werner zu, dem Verwaltungsrat Kennzahlen für den Fahrzeugeinsatz über die Gesamtdauer der zu erbringenden Leistungen im Hinblick auf gestiegene Reparaturkosten (Wirtschaftsplanansatz 2016) vorzulegen. Der Verwaltungsrat nimmt die Gebührenbedarfsberechnung 2016 Straßenreinigung zur Kenntnis. Er beschließt mehrheitlich, bei zwei Gegenstimmen, die als Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Castrop-Rauxel (Straßenreinigungs- und Gebührensatzung). %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "mehrheitlich angenommen",
+        "result": "mehrheitlich angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6792",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C180511100033%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Gebührenbedarfsberechnung 2016 Stadtentwässerung",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C180511100033%7C1",
+          "date": "2015-12-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C180511100033%7C1",
+          "fileName": "be_180511100033_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2015-EUV-10%7C180511100033%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 56104,
+          "text": "7 Gebührenbedarfsberechnung 2016 Stadtentwässerung (2015/EUV/034) Vorstand Herr Werner erläutert die Vorlage und schlägt vor, die Entwässerungsgebühren, trotz ausgewiesener Kostenerhöhungen (z.B. Emschergenossenschaftsbeitrag), nicht zu ändern. Vorstand Herr Werner beantwortet die Anfragen der Verwaltungsratsmitglieder. Die außerordentlichen Aufwendungen i. H. v. 30.000 Euro ergeben sich aus der Anpassung gem. BilMoG (Bilanzrechtsmodernierungsgesetz). Bei diesen Anpassungen handelt es sich um Wertanpassungen aufgrund von Preis- u. Kostensteigerungen für Rückstellungen. Der Verwaltungsrat nimmt die Gebührenbedarfsberechnung 2016 Stadtentwässerung zur Kenntnis. Er beschließt mehrheitlich bei zwei Gegenstimmen, die Entwässerungsgebühren nicht zu ändern. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "mehrheitlich angenommen",
+        "result": "mehrheitlich angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6771",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C180511100036%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Erlass einer 8. Änderungsentgeltordnung zur Entgeltordnung für Sonderleistungen des EUV Stadtbetriebes Castrop-Rauxel",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C180511100036%7C1",
+          "date": "2015-11-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C180511100036%7C1",
+          "fileName": "be_180511100036_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2015-EUV-10%7C180511100036%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 51075,
+          "text": "8 Erlass einer 8. Änderungsentgeltordnung zur Entgeltordnung für Sonderleistungen des EUV Stadtbetriebes Castrop-Rauxel (2015/EUV/037) Vorstand Herr Werner erläutert die Vorlage und schlägt die vorliegende Änderung der Entgeltordnung vor. Der Verwaltungsrat beschließt einstimmig, die 8. Änderungsentgeltordnung zur Entgeltordnung für Sonderleistungen des EUV Stadtbetriebes. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6793",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C180511100035%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Gebührenbedarfsberechnung 2016 - Wochenmärkte",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C180511100035%7C1",
+          "date": "2015-11-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C180511100035%7C1",
+          "fileName": "be_180511100035_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2015-EUV-10%7C180511100035%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 102780,
+          "text": "9 Gebührenbedarfsberechnung 2016 – Wochenmärkte (2015/EUV/036) Vorstand Herr Werner erläutert die Vorlage und schlägt vor die Gebührensätze nicht zu ändern. Der Verwaltungsrat nimmt die Gebührenbedarfsberechnung 2016 Wochenmärkte zur Kenntnis. Er beschließt einstimmig, die bestehenden Gebührensätze beizubehalten. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6783",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C180311100032%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Erlass einer Satzung für die Wochenmärkte in der Stadt Castrop-Rauxel - Wochenmarktsatzung -",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C180311100032%7C1",
+          "date": "2015-11-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C180311100032%7C1",
+          "fileName": "be_180311100032_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2015-EUV-10%7C180311100032%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 52207,
+          "text": "10 Erlass einer Satzung für die Wochenmärkte in der Stadt Castrop-Rauxel - Wochenmarktsatzung - (2015/EUV/033) Vorstand Herr Werner erläutert die Vorlage und schlägt die vorliegende Satzung vor. Der Verwaltungsrat beschließt einstimmig, die Satzung für die Wochenmärkte in der Stadt Castrop-Rauxel -Wochenmarktsatzung- %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6789",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C181111100047%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Wirtschaftsplan 2016 des EUV Stadtbetriebes Castrop-Rauxel, AöR",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C181111100047%7C1",
+          "date": "2015-12-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C181111100047%7C1",
+          "fileName": "be_181111100047_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2015-EUV-10%7C181111100047%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 76723,
+          "text": "11 Wirtschaftsplan 2016 des EUV Stadtbetriebes Castrop-Rauxel, AöR (2015/EUV/048) Vorstand Herr Werner erläutert die Vorlage und schlägt vor, den vorliegenden Wirtschaftsplan 2016 zu beschließen. Die Anfragen der Verwaltungsratsmitglieder, insbesondere zum kalkulatorischen Zinssatz, werden durch den Vorstand Herr Werner beantwortet. Die aktuelle Höhe der Gebührenrückstellungen geht aus dem Jahresabschluss 2014 in Höhe von 1,323 Mio. € (Erläuterungen zur Bilanz unter D. Rückstellungen bzw. dem Anhang) für die einzelnen Teilbetriebe III – Abfallentsorgung, TB V – Stadtentwässerung und TB XI – Wochenmärkte hervor. Verwaltungsratsmitglied Herr Dr. Jankovics stellt die Konstanz der Gebührensätze in den einzelnen Teilbetrieben positiv hervor. Der Verwaltungsrat beschließt mehrheitlich bei einer Gegenstimme: Der Wirtschaftsplan 2016 in der vorliegenden Entwurfsfassung wird gem. § 5 Abs. 2 Satz 8 der Satzung für das Kommunalunternehmen der Stadt Castrop-Rauxel „EUV, Stadtbetrieb Castrop-Rauxel“ – Anstalt des öffentlichen Rechts – festgestellt. Der Höchstbetrag der Verpflichtungsermächtigungen wird auf 2,5 Mio. Euro festgelegt. Der Höchstbetrag der Kredite wird auf 4,9 Mio. Euro festgelegt. Der Höchstbetrag der Kassenkredite wird auf 10 Mio. Euro festgelegt. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "mehrheitlich angenommen",
+        "result": "mehrheitlich angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6777",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C180911100039%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Ergebnisauskehrung an die Stadt Castrop-Rauxel Konsolidierungsmaßnahme\r\nE 27",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C180911100039%7C1",
+          "date": "2015-12-16",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C180911100039%7C1",
+          "fileName": "be_180911100039_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2015-EUV-10%7C180911100039%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 97566,
+          "text": "12 Ergebnisauskehrung an die Stadt Castrop-Rauxel Konsolidierungsmaßnahme E 27 Vorstand Herr Werner erläutert die Vorlage. Der Verwaltungsrat nimmt den Sachvortrag des Vorstandes zur Kenntnis. Der Vorstand wird mehrheitlich bei einer Gegenstimme beauftragt, eine Auszahlung auf das Ergebnis in Höhe von 590.000 € im Rahmen des voraussichtlichen Abschlusses 2015 gem. Ratsbeschluss vom 21.06.2012 in 2015 zu leisten. Die Zahlung für die Abführung an die Stadt Castrop-Rauxel ist im Rahmen der Erstellung des Jahresabschlusses 2015 zu bestätigen. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "mehrheitlich angenommen",
+        "result": "mehrheitlich angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6778",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C180911100040%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Benennung von Vertretern für die Gesellschafterversammlung der W & S GmbH (vormals Nowak GmbH)",
+        "number": "13",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C180911100040%7C1",
+          "date": "2015-12-16",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7C180911100040%7C1",
+          "fileName": "be_180911100040_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2015-EUV-10%7C180911100040%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 13",
+          "size": 53944,
+          "text": "13 Benennung von Vertretern für die Gesellschafterversammlung der W & S GmbH (vormals Nowak GmbH) (2015/EUV/041) Vorstand Herr Werner verweist auf die Vorlage und das Erfordernis nach Beendigung der Wahlzeit des bisherigen Bürgermeisters Herrn Johannes Beisenherz den Nachfolger Bürgermeister Rajko Kravanja als Gesellschaftervertreter zu benennen.. Der Verwaltungsrat beschließt einstimmig, den Vorsitzenden des Verwaltungsrates, Herrn Bürgermeister Rajko Kravanja und den Vorstand des EUV Stadtbetriebes, Herrn Michael Werner, als Gesellschaftervertreter in die Gesellschafterversammlung zu entsenden. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Sachstand Deponie Brandheide\r\nmündlicher Bericht ",
+        "number": "14",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7Czt_1%7C1",
+          "date": "2015-11-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2015-EUV-10%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 14",
+          "size": 51439,
+          "text": "14 Sachstand Deponie Brandheide mündlicher Bericht Vorstand Herr Werner erläutert den aktuellen Sachstand zur Deponie Brandheide. Die Anfragen der Verwaltungsratsmitglieder werden von Vorstand Herr Werner und vom stellvertretenden Vorstand Herr Werth-von Kampen beantwortet. Der Verwaltungsrat nimmt dem mündlichen Sachstandsbericht zur Deponie Brandheide zur Kenntnis. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Anfragen der Verwaltungsratsmitglieder",
+        "number": "15",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7Czt_2%7C1",
+          "date": "2015-12-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2015-EUV-10%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 15",
+          "size": 56429,
+          "text": "15 Anfragen der Verwaltungsratsmitglieder Auf Anfrage von Ratsmitglied Herr Dr. Wagener erläutert Vorstand Herr Werner die Überlegungen zur Durchführung der Kirmessen während der Baumaßnahme am Marktplatz in der Altstadt, die auch schon in den vorangegangenen Sitzungen der Betriebsausschüsse 1 und 3 vorgestellt wurden. Der Hinweis von Ratsmitglied Herr Papp zur Erstellung eines Markt- und Kirmeskonzeptes zur Attraktivierung des Veranstaltungsformates in der Altstadt entsprechend der Absprachen im Betriebsausschuss 1 wird aufgegriffen. Auf Anfrage von Verwaltungsratsmitglied Herr Dr. Jankovics erläutert Vorstand Herr Werner, dass die Pumpwerksentflechtung und die damit verbundene Klage der RAG (siehe Berichterstattung in der Verwaltungsratssitzung vom 26.08.2015) nach Gespräch mit der Emschergenossenschaft im Jahr 2016 kein Risiko darstellt. Ratsmitglied Herr Postel weist darauf hin, dass die Sinkkästen im Stadtteil Ickern durch Laub verstopft sind. Vorstand Herr Werner erläutert, dass eine regelmäßige Reinigung stattfindet. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Mitteilungen des Vorstandes\r\n",
+        "number": "16",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7Czt_3%7C1",
+          "date": "2015-12-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2015-EUV-10%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2015-EUV-10%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 16",
+          "size": 49830,
+          "text": "16 Mitteilungen des Vorstandes Vorstand Herr Werner teilt mit, dass die neuen Abfallkalender 2016 ab der 50. Kalenderwoche zur Ausgabe bereitliegen. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7Czt_4%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Personalangelegenheiten\r\nmündlicher Bericht",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6794",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C181211100048%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Beförderung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6786",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C181111100043%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Höhergruppierung",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6785",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C181111100042%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Höhergruppierung",
+        "number": "4",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7Czt_5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Rechtsangelegenheiten\r\nmündlicher Bericht",
+        "number": "5",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6787",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C181111100045%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Beschaffung einer Kleinkehrmaschine",
+        "number": "6",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6788",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C181111100046%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Beschaffung eines Kompaktmüllfahrzeuges für die Altpapiersammlung",
+        "number": "7",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7Czt_6%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Stand der Neubaumaßnahme Sozialgebäude\r\nmündlicher Bericht",
+        "number": "8",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7Czt_7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Anfragen der Verwaltungsratsmitglieder",
+        "number": "9",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7Czt_8%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "10",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2015-11-25T19:15:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10",
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Sitzungsraum 1 EUV,  Westring 215, Castrop-Rauxel, Westring 215, 44575 Castrop-Rauxel",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2015-EUV-10/location",
+      "locality": "Castrop-Rauxel",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "postalCode": "44575",
+      "room": "Sitzungsraum 1 EUV,  Westring 215, Castrop-Rauxel",
+      "streetAddress": "Westring 215",
+      "subLocality": "Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Verwaltungsrates EUV",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/176",
+      "https://castroprauxel.gremien.info/oparl/person/133",
+      "https://castroprauxel.gremien.info/oparl/person/748",
+      "https://castroprauxel.gremien.info/oparl/person/241",
+      "https://castroprauxel.gremien.info/oparl/person/626",
+      "https://castroprauxel.gremien.info/oparl/person/318",
+      "https://castroprauxel.gremien.info/oparl/person/240",
+      "https://castroprauxel.gremien.info/oparl/person/817",
+      "https://castroprauxel.gremien.info/oparl/person/420",
+      "https://castroprauxel.gremien.info/oparl/person/344",
+      "https://castroprauxel.gremien.info/oparl/person/790"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2015-EUV-10",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2015-12-16",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2015-EUV-10",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2015-EUV-10",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 220255,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2015-11-25T17:30:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2015-EUV-10",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2015-12-16",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2015-EUV-10",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2015-EUV-10",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 220255,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

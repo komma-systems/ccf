@@ -1,0 +1,60 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36354",
+  "modified_at": "2026-09-21T11:06:26+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370334.pdf",
+        "created": "2026-09-21T09:25:27+02:00",
+        "date": "2026-09-21",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370334.pdf",
+        "fileName": "00370334.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370334",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-21T11:06:26+02:00",
+        "name": "Große Anfrage SPD",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141915",
+        "created": "2026-09-21T11:07:05+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68857",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24654",
+        "modified": "2026-09-21T12:13:08+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36354",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141916",
+        "created": "2026-09-21T11:07:24+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68856",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24543",
+        "modified": "2026-09-21T11:07:24+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36354",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-21T09:21:27+02:00",
+    "date": "2026-09-21",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36354",
+    "modified": "2026-09-21T11:06:26+02:00",
+    "name": "Digitalisierungsstrategie der Stadt Wuppertal – Sachstand und Fortschreibung; Große Anfrage der SPD-Ratsfraktion vom 21.09.2026",
+    "paperType": "Große Anfrage SPD",
+    "reference": "VO/1141/26",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

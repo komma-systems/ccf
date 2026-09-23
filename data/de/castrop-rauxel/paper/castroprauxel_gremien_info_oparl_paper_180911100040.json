@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/180911100040",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C180911100040%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6778",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2015-EUV-10",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2015-11-09",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/180911100040",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=180911100040&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=180911100040&id=69",
+      "fileName": "180911100040",
+      "id": "https://castroprauxel.gremien.info/oparl/file/180911100040",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2015/EUV/041",
+      "size": 90330,
+      "text": "Datum: 09.11.2015 TB I 9686-500 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 25.11.2015 TOP: I.13 Drucksache-Nr. 2015/EUV/041 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 25.11.2015 13 Betreff: Benennung von Vertretern für die Gesellschafterversammlung der W & S GmbH (vormals Nowak GmbH) Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat beschließt, den Vorsitzenden des Verwaltungsrates, Herrn Bürgermeister Rajko Kravanja und den Vorstand des EUV Stadtbetriebes, Herrn Michael Werner, als Gesellschaftervertreter in die Gesellschafterversammlung zu entsenden. In Vertretung ____________________ Linke Sachverhalt: Aufgrund der Umsetzung des Verwaltungsratsbeschlusses im Hinblick auf den Erwerb der Geschäftsanteile der Firma Nowak GmbH ist der EUV seit dem 01.01.2005 zu 100 % alleiniger Gesellschafter der v.g. GmbH, die am Standort Westring 225 c ortsansässig ist. Nach dem GmbH Gesetz ist das Aufsichts- und Kontrollorgan dieser GmbH die Gesellschafterversammlung, die aus einer oder mehreren Personen bestehen kann. Aufgrund der Größe und der Finanzkraft dieses relativ kleinen Dienstleistungsunternehmens wird vorgeschlagen, dass Aufsichts- und Kontrollorgan aus dem Vorsitzenden des Verwaltungsrates und dem Vorstand zusammen zu stellen. Mit Beendigung des Mandats durch Ablauf der Wahlperiode von Herrn Johannes Beisenherz ist Herr Bürgermeister Rajko Kravanja in die Gesellschafterversammlung zu berufen. Weiterer Sachvortrag erfolgt in der Sitzung.Benennung von Vertretern für die Gesellschafterversammlung der W & S GmbH (vormals Nowak GmbH)2015/EUV/041%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Benennung von Vertretern für die Gesellschafterversammlung der W & S GmbH (vormals Nowak GmbH)",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2015/EUV/041",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

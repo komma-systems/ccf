@@ -1,0 +1,422 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-UMWA-115",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-UMWA-115%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-UMWA-115",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7CProtokoll%7C1",
+          "date": "2024-02-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-UMWA-115%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 63036,
+          "text": "I.1 Einwände gegen die letzte Niederschrift   Keine Einwände.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-UMWA-115%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-UMWA-115",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7C1%7C1",
+          "date": "2024-02-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-UMWA-115%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 63257,
+          "text": "I.2 Fragestunde für Einwohnerinnen und Einwohner   Keine Anfragen.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-UMWA-115%7Czt_4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-UMWA-115",
+        "name": "Ausbauzahlen erneuerbare Energien in Castrop-Rauxel",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7Czt_4%7C1",
+          "date": "2024-02-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7Czt_4%7C1",
+          "fileName": "be_zt_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-UMWA-115%7Czt_4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 129133,
+          "text": "I.3 Ausbauzahlen erneuerbare Energien in Castrop-Rauxel   Herrn Langensiepen berichtet ausführlich in Wort und Bild und beantwortet die Anfragen der Ausschussmitglieder zum Stand Ausbau der erneuerbaren Energien in Castrop-Rauxel. Zusammenfassend wird Biogas unverändert genutzt und die Grubengasnutzung rückläufig sein. Zusätzlich sind mindestens drei Windenergieanlagen und vier PV-Freiflächenanlagen geplant. Das bis 2030 gesteckte Ziel, den Anteil der erneuerbaren Energien auf 80% auszubauen, muss zusätzlich durch Photovoltaikdachanlagen gedeckt werden.  Der Ausschuss für Klima- und Umweltschutz nimmt den Sachstandsbericht zur Kenntnis.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-UMWA-115%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-UMWA-115",
+        "name": "Forstarbeiten in Castrop-Rauxel",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7Czt_3%7C1",
+          "date": "2024-02-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-UMWA-115%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 140193,
+          "text": "I.4 Forstarbeiten in Castrop-Rauxel   Herr Bootz, Förster vom Landesbetrieb Wald und Holz NRW, stellt sich kurz vor, berichtet zu den folgenden Forstarbeiten und beantwortet die Anfragen der Ausschussmitglieder: Goldschmieding: Circa 70 Bäume, von denen eine Gefahr für die Verkehrssicherheit ausgeht, wurden im Vorfeld der Sitzung markiert. Die Forstarbeiten sind am 19.02.2024 gestartet.  Die Markierungsarbeiten im Forst an der Gaswerkstraße wurden in der dritten Kalenderwoche durchgeführt.  Vereinzelte Bäume im Bereich des Wildgeheges wurden bereits durch den Förster markiert und werden noch im Februar entnommen. Anschließend soll ab Herbst eine inselweise Nachpflanzung im oberen Teil erfolgen. Herr Bootz betont ausdrücklich, dass das Betreten des Waldes verboten ist, es sei denn die Fläche laden zum Verweilen ein, wie eben das Wildgehege/ Wildgatter (ist auch als Wald im Sinne des Gesetzes zu verstehen). Demnach beschränkt sich die Verkehrssicherungspflicht auch ausschließlich auf die Wegeflächen und o. g. Flächen die zum Verweilen einladen. Die vorgesehenen Ersatzpflanzungen werden an den Klimawandel angepasste Baumarten sein.  Der Ausschuss für Klima- und Umweltschutz nimmt den Sachstandsbericht zur Kenntnis.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-UMWA-115%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-UMWA-115",
+        "name": "Bericht über städtische Baumfällmaßnahmen",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7Czt_0%7C1",
+          "date": "2024-02-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-UMWA-115%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 144088,
+          "text": "I.5 Bericht über städtische Baumfällmaßnahmen   Herr Werth-von Kampen berichtet zu den städtischen Baumfällmaßnahmen und beantwortet die Anfragen der Ausschussmitglieder. Im Bereich des Friedhofes Merklinde wurden 16 Bäume und am Sportplatz Henrichenburg drei Bäume im Rahmen der externen Baumkontrolle gefällt. Die Sickermulde in der Westheide weist nach den vergangenen Jahren einen entsprechenden Bewuchs auf. Hier soll eine Bearbeitung mit Hilfe des Försters im Sommer stattfinden. Zudem sind folgende 41 Fällanträge eingegangen: 20 Fällgenehmigungen ohne Ersatzpflanzungen Elf Fällgenehmigungen mit Ersatzpflanzungen Fünf Fällanträge wurden abgelehnt Fünf Fällanträge befinden sich in Bearbeitung Die Baumfällmaßnahmen für das Baugebiet Knepper (Bebauungsplan-Nr. 246 Gewerbegebiet Alte Brüninghauser Straße) sehen wie folgt aus: Für die Realisierung des neuen Knotenpunktes an der Oststraße/ Nierhausstraße/ Im Dahl müssen sechs Bäume gefällt werden. Als Ausgleichsmaßnahme ist die Pflanzung von elf Bäumen 1. Ordnung (Platanen) zur Ergänzung und Verlängerung der Allee an der Oststraße geplant, sowie die Umpflanzung zweier Jungbäume auf neue Baumstandorte. Der Ausschuss für Klima- und Umweltschutz nimmt den Sachstandsbericht zur Kenntnis.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-UMWA-115%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-UMWA-115",
+        "name": "Bericht über städtische Baumpflanzmaßnahmen",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7Czt_1%7C1",
+          "date": "2024-02-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-UMWA-115%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 135171,
+          "text": "I.6 Bericht über städtische Baumpflanzmaßnahmen   Herr Werth-von Kampen berichtet ausführlich in Wort und Bild und beantwortet die Anfragen der Ausschussmitglieder. Herr Werth-von Kampen teilt mit, dass bis Ende März im gesamten Stadtgebiet 155 Bäume und drei Sträucher gepflanzt werden sollen. Er berichtet außerdem von dem neu beschafften Baumkataster. Durch Baumplaketten sollen die Vorortung und Kontrolle effektiver gestaltet werden. In der nächsten AKU-Sitzung soll ein Einblick in das Baumkataster gegeben werden. Bei einer gesonderten Pflanzaktion der Firma Thimm werden am 09.03.2024 zusätzlich circa 125 Bäume auf den Grundstücken der Stadt Castrop-Rauxel und des EUV Stadtbetriebes angepflanzt. Der Ausschuss für Klima- und Umweltschutz nimmt den Sachstandsbericht zur Kenntnis.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11051",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-UMWA-115%7C352401100016%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-UMWA-115",
+        "name": "13. Änderung des Flächennutzungsplans\r\n'Wohngebiet Dingen'\r\nhier: a) Entscheidung über die Stellungnahmen nach § 2 Abs. 3 BauGB\r\nb) Feststellungsbeschluss des Plans und Billigung der Begründung mit Umweltbericht\r\nc) Vorlage zur Genehmigung bei der höheren Verwaltungsbehörde",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7C352401100016%7C1",
+          "date": "2024-02-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7C352401100016%7C1",
+          "fileName": "be_352401100016_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-UMWA-115%7C352401100016%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 167643,
+          "text": "I.7 13. Änderung des Flächennutzungsplans  Wohngebiet Dingen                    (2024/017) hier: a) Entscheidung über die Stellungnahmen nach § 2 Abs. 3 BauGB           b) Feststellungsbeschluss des Plans und Billigung der Begründung mit                 Umweltbericht           c) Vorlage zur Genehmigung bei der höheren Verwaltungsbehörde   Herr Eismann leitet in die Vorlage ein und Frau Lenort beantwortet die Anfragen der Ausschussmitglieder.  Der Ausschuss für Klima- und Umweltschutz hat die vorgebrachten Stellungnahmen im Einzelnen geprüft und abgewogen und empfiehlt dem Rat der Stadt Castrop-Rauxel einstimmig bei einer Enthaltung, die abgegebenen Stellungnahmen insoweit zu berücksichtigen, wie es im beiliegenden Abwägungsvorschlag angegeben ist. Dem Rat der Stadt Castrop-Rauxel wird außerdem empfohlen, sich der Stellungnahme der Verwaltung anzuschließen und diese zum Beschluss zu erheben. Der Ausschuss für Klima- und Umweltschutz empfiehlt dem Rat der Stadt Castrop-Rauxel ferner, die Feststellung der 13. Änderung des Flächennutzungsplanes in der vorgelegten Fassung und billigt die zugehörige Begründung mit Umweltbericht. die Verwaltung zu beauftragen, die 13. Änderung des Flächennutzungsplanes der Stadt Castrop-Rauxel einschließlich Begründung und Umweltbericht der Bezirksregierung Münster zur Genehmigung vorzulegen.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11054",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-UMWA-115%7C352501100017%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-UMWA-115",
+        "name": "4. Änderung des Flächennutzungsplans der Stadt Castrop-Rauxel \r\n'Änderung der Konzentrationsflächen für Windkraftanlagen' \r\nhier: a) Entscheidung über die Stellungnahmen (Abwägung) \r\nb) Entscheidung über die redaktionellen Änderungen und Ergänzungen \r\nc) Feststellungsbeschluss des Planes und Billigung der Begründung mit Umweltbericht \r\nd) Vorlage zur Genehmigung bei der höheren Verwaltungsbehörde",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7C352501100017%7C1",
+          "date": "2024-02-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7C352501100017%7C1",
+          "fileName": "be_352501100017_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-UMWA-115%7C352501100017%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 164492,
+          "text": "I.8 4. Änderung des Flächennutzungsplans der Stadt Castrop-Rauxel                (2024/018)  Änderung der Konzentrationsflächen für Windkraftanlagen   hier: a) Entscheidung über die Stellungnahmen (Abwägung)           b) Entscheidung über die redaktionellen Änderungen und Ergänzungen           c) Feststellungsbeschluss des Planes und Billigung der Begründung mit               Umweltbericht           d) Vorlage zur Genehmigung bei der höheren Verwaltungsbehörde   Herr Eismann leitet in die Vorlage, Anfragen werden nicht gestellt. Der Ausschuss für Klima- und Umweltschutz hat die vorgebrachten Stellungnahmen im Einzelnen geprüft und abgewogen und empfiehlt dem Rat der Stadt Castrop-Rauxel einstimmig,  die abgegebenen Stellungnahmen insoweit zu berücksichtigen, wie es im beiliegenden Abwägungsvorschlag angegeben ist. die redaktionellen Änderungen zu berücksichtigen, indem die Flächennutzungsplanänderung sowie die Begründung mit Umweltbericht wie im Sachverhalt geändert werden. Dem Rat der Stadt Castrop-Rauxel wird außerdem empfohlen sich der Stellungnahme der Verwaltung anzuschließen und diese zum Beschluss zu erheben. Der Ausschuss für Klima- und Umweltschutz empfiehlt dem Rat der Stadt Castrop-Rauxel ferner, die Feststellung der 4. Änderung des Flächennutzungsplanes in der vorgelegten Fassung und die zugehörige Begründung mit Umweltbericht zu billigen. die Verwaltung zu beauftragen, die 4. Änderung des Flächennutzungsplanes der Stadt Castrop-Rauxel einschließlich Begründung und Umweltbericht der Bezirksregierung Münster zur Genehmigung vorzulegen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11048",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-UMWA-115%7C351201100001%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-UMWA-115",
+        "name": "Lärmaktionsplanung der 4. Stufe\r\nHier: Entwurf Lärmaktionsplan 4. Stufe",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7C351201100001%7C1",
+          "date": "2024-02-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7C351201100001%7C1",
+          "fileName": "be_351201100001_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-UMWA-115%7C351201100001%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 152872,
+          "text": "I.9 Lärmaktionsplanung der 4. Stufe                                                                           (2024/002) Hier: Entwurf Lärmaktionsplan 4. Stufe   Herr Eismann leitet in die Vorlage ein und Frau Brannhoff beantwortet die Anfragen der Ausschussmitglieder. Der Ausschuss für Klima- und Umweltschutz empfiehlt dem Rat der Stadt Castrop-Rauxel einstimmig den Sachstandsbericht zur Kenntnis zu nehmen und mit dem vorgelegten Entwurf des Lärmaktionsplanes der 4. Stufe für die Stadt Castrop-Rauxel, die Verwaltung zu beauftragen, die Träger- und Öffentlichkeitsbeteiligung einzuleiten.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11045",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-UMWA-115%7C353101100024%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-UMWA-115",
+        "name": "Sofortprogramm Innenstadt - Städtebauliche Neuordnung der nordwestlichen Innenstadt\r\nHier: Einbringung des Endberichtes",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7C353101100024%7C1",
+          "date": "2024-02-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7C353101100024%7C1",
+          "fileName": "be_353101100024_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-UMWA-115%7C353101100024%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 127916,
+          "text": "I.10 Sofortprogramm Innenstadt - Städtebauliche Neuordnung der nordwestlichen Innenstadt, hier: Einbringung des Endberichtes                                                    (2024/025)   Frau Reuter erläutert die Vorlage ausführlich und beantwortet die Anfragen der Ausschussmitglieder.  Der Ausschuss für Klima- und Umweltschutz nimmt den Endbericht zur städtebaulichen Neuordnung der nordwestlichen Innenstadt, den Bericht zum Hochbunker und die Parkraumerhebung zur Kenntnis.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-UMWA-115%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-UMWA-115",
+        "name": "Bericht zu den städtischen Klimaschutz- und Klimaanpassungsmaßnahmen",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7Czt_2%7C1",
+          "date": "2024-03-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-UMWA-115%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 128199,
+          "text": "I.11 Bericht zu den städtischen Klimaschutz- und Klimaanpassungsmaßnahmen   Frau Reuter berichtet ausführlich zu den städtischen Klimaschutz- und Klimaanpassungsmaßnahmen: Die Präsentation zum CAS-Klimapakt ist der Niederschrift beigefügt. Frau Wilke-Pawlowski bittet darum, die Beteiligungsform im Internet niederschwelliger zu gestalten. Die Planungsvergabe zur Umgestaltung der Kreisverkehre, welches ein Teilprojekt der AGFS-Bewerbung ist, wurde umgesetzt. Hier soll auf Basis einer Grundlagenermittlung und Vorentwurfsplanung eine Zielstellung entwickelt werden, um mit konkreten Vorstellungen an die Straßenbaulastträger heranzutreten. Ein weiterer Planungsauftrag (derzeit findet die Grundlagenermittlung statt) konnte für einen Teil des Nahmobilitätskonzept - die Schillerstraße als Fahrradstraße auszubauen - vergeben werden. Aufgrund des Vergabeverfahrens ist es angedacht die Christinenstraße im Anschluss ebenfalls zu beauftragen. Die Vergabe IGA-Allee an ein externes Gutachterbüro ist ebenfalls erfolgt. Das Zukunftsnetz Mobilität NRW stellt den Kommunen sogenannte Parklets kostenfrei temporär zur Verfügung. Das Stadtmobiliar besteht aus Stellplatzgroßen Plattformen mit z.B. Sitzgelegenheiten oder Grünelementen, die eine temporäre Nutzung zur Steigerung der Aufenthaltsqualität im Stadtraum ermöglicht. Die Stadt Castrop-Rauxel hat die Gelegenheit im Zusammenhang/ Anschluss an die Beachdays die Parklets z.B. eine Woche auf dem Markplatz und ergänzend dazu drei Wochen straßenraumbegleitend in der Wittener Straße und dem Biesenkamp verteilt auf einzelnen Stellplätzen für die temporäre Nutzung auszuleihen.   Die Ausschussmitglieder nehmen den Bericht zur Kenntnis.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-UMWA-115%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-UMWA-115",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "12",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-UMWA-115%7C998%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-UMWA-115",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "13",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7C998%7C1",
+          "date": "2024-03-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-UMWA-115%7C998%7C1",
+          "fileName": "be_998_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-UMWA-115%7C998%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 13",
+          "size": 97077,
+          "text": "I.13 Mitteilungen der Verwaltung   I.13.1 Herr Röhnert berichtet davon, dass Amprion die Leistungserhöhung der 380kV-Höchstspannungsleitung vom Bebauungsplanbereich Nr. 246 Alte Brüninghauser Straße nach Pöppinghausen Mitte Dezember angezeigt hat. Die Stadtverwaltung wurde seitens der Bezirksregierung Ende Januar kurzfristig um Stellungnahme gebeten und hat den Bezug zum laufenden Planfeststellungsverfahren der Leitungserhöhung beschrieben sowie eine weitere Belastung der Anwohner*innen abgelehnt. I.13.2 Herr Röhnert berichtet, dass das Verfahren nach Bundesimmissionsschutzgesetz zum Umspannwerk Pöppinghausen nunmehr abgeschlossen und der Umbau genehmigt ist. I.13.3 Frau Lenort teilt mit, dass die Deutsche Bahn davon ausgeht, den Bahnübergang Süd bis 2028 niveaufrei zu gestalten. Zusätzlich ist bei der Stadtverwaltung ein Anruf eines Planungsbüros eingegangen, welches im Auftrag der Deutschen Bahn nach der TöB-Liste für Castrop-Rauxel erfragt hat. In dem Gespräch wurde auf Nachfrage mitgeteilt, dass auch die Bahnübergänge am Westring und der Dortmunder Straße niveaufrei bis 2028 hergestellt werden sollen. Hinsichtlich der Deutschen Bahn liegt noch keine Rückmeldung vor.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-UMWA-115%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-UMWA-115",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-UMWA-115%7C997%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-UMWA-115",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2024-UMWA-115%7C20240307094720-0_ni_2024-UMWA-115_3.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2024-03-07",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2024-UMWA-115%7C20240307094720-0_ni_2024-UMWA-115_3.pdf",
+        "fileName": "20240307094720-0_ni_2024-UMWA-115_3.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2024-UMWA-115%7C2",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Anlage zu TOP I.5 und TOP I.6 Baumfällungen und Baumpflanzungen",
+        "size": 1076042,
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2024-UMWA-115%7C20240228071445-0_ni_2024-UMWA-115_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2024-02-28",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2024-UMWA-115%7C20240228071445-0_ni_2024-UMWA-115_1.pdf",
+        "fileName": "20240228071445-0_ni_2024-UMWA-115_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2024-UMWA-115%7C3",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Anlage zu TOP I.11_CAS Klimapakt_Sachstand",
+        "size": 10965131,
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2024-UMWA-115%7C20240228071458-0_ni_2024-UMWA-115_2.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2024-02-28",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2024-UMWA-115%7C20240228071458-0_ni_2024-UMWA-115_2.pdf",
+        "fileName": "20240228071458-0_ni_2024-UMWA-115_2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2024-UMWA-115%7C4",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Anlage zu TOP I.12.1_Grüne Spots - Übersichtskarte",
+        "size": 7789100,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2024-02-20T18:40:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-UMWA-115",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-UMWA-115",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-02-07",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2024-UMWA-115",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2024-UMWA-115",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "eb1b246880577a7b2d5014343bdccf6e9c6bce60",
+      "size": 119790,
+      "text": "Tagesordnung zur Sitzung des Ausschusses für Klima- und Umweltschutz am Dienstag, 20.02.2024 um 17:00 Uhr im Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel,   I. Öffentliche Sitzung:  1. Einwände gegen die letzte Niederschrift  2. Fragestunde für Einwohnerinnen und Einwohner  3. Ausbauzahlen erneuerbare Energien in Castrop-Rauxel  4. Forstarbeiten in Castrop-Rauxel  5. Bericht über städtische Baumfällmaßnahmen  6. Bericht über städtische Baumpflanzmaßnahmen  7. Sofortprogramm Innenstadt - Städtebauliche Neuordnung der nordwestlichen Innenstadt Hier: Beschluss Endbericht  8. 13. Änderung des Flächennutzungsplans  Wohngebiet Dingen  hier: a) Entscheidung über die Stellungnahmen nach § 2 Abs. 3 BauGB b) Feststellungsbeschluss des Plans und Billigung der Begründung mit Umweltbericht c) Vorlage zur Genehmigung bei der höheren Verwaltungsbehörde  9. 4. Änderung des Flächennutzungsplans der Stadt Castrop-Rauxel   Änderung der Konzentrationsflächen für Windkraftanlagen   hier: a) Entscheidung über die Stellungnahmen (Abwägung)  b) Entscheidung über die redaktionellen Änderungen und Ergänzungen  c) Feststellungsbeschluss des Planes und Billigung der Begründung mit Umweltbericht  d) Vorlage zur Genehmigung bei der höheren Verwaltungsbehörde  10. Lärmaktionsplanung der 4. Stufe Hier: Entwurf Lärmaktionsplan 4. Stufe  11. Sofortprogramm Innenstadt - Städtebauliche Neuordnung der nordwestlichen Innenstadt Hier: Beschluss Endbericht  12. Anfragen der Ausschussmitglieder  13. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  1. Anfragen der Ausschussmitglieder  2. Mitteilungen der Verwaltung    gez. T i m o   E i s m a n n Vorsitzender Ausschuss für Klima- und Umweltschutz \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-UMWA-115/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschusses für Klima- und Umweltschutz",
+    "organization": [],
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/977",
+      "https://castroprauxel.gremien.info/oparl/person/370",
+      "https://castroprauxel.gremien.info/oparl/person/642",
+      "https://castroprauxel.gremien.info/oparl/person/224",
+      "https://castroprauxel.gremien.info/oparl/person/400",
+      "https://castroprauxel.gremien.info/oparl/person/1090",
+      "https://castroprauxel.gremien.info/oparl/person/635",
+      "https://castroprauxel.gremien.info/oparl/person/963",
+      "https://castroprauxel.gremien.info/oparl/person/112",
+      "https://castroprauxel.gremien.info/oparl/person/858",
+      "https://castroprauxel.gremien.info/oparl/person/1083",
+      "https://castroprauxel.gremien.info/oparl/person/1155",
+      "https://castroprauxel.gremien.info/oparl/person/416",
+      "https://castroprauxel.gremien.info/oparl/person/335",
+      "https://castroprauxel.gremien.info/oparl/person/654",
+      "https://castroprauxel.gremien.info/oparl/person/841",
+      "https://castroprauxel.gremien.info/oparl/person/1127",
+      "https://castroprauxel.gremien.info/oparl/person/837",
+      "https://castroprauxel.gremien.info/oparl/person/1133",
+      "https://castroprauxel.gremien.info/oparl/person/838",
+      "https://castroprauxel.gremien.info/oparl/person/802",
+      "https://castroprauxel.gremien.info/oparl/person/1025",
+      "https://castroprauxel.gremien.info/oparl/person/1011"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-UMWA-115",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-03-13",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-UMWA-115",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-UMWA-115",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 288109,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2024-02-20T17:00:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-UMWA-115",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-03-13",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-UMWA-115",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-UMWA-115",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 288109,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

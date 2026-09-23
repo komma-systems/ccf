@@ -1,0 +1,110 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/273101100040",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=273101100040%7C20200210172140-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-02-10",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=273101100040%7C20200210172140-0.pdf%7C",
+        "fileName": "20200210172140-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C273101100040%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/273101100040",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "7eafbb7a4e57b6458740bdd8f3f309317a66b5e0",
+        "size": 740624,
+        "text": "Anlage 2 - Übertragung von Ermächtigungen für investive Auszahlungen (aus Vorjahren) in das Haushaltsjahr 2020",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=273101100040%7C20200210172146-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-02-10",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=273101100040%7C20200210172146-0.pdf%7C",
+        "fileName": "20200210172146-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C273101100040%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/273101100040",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "e76c3ca0f955899a320f33779fc40ceb76f10866",
+        "size": 952616,
+        "text": "Anlage 3 - Investive Ermächtigungsübertragungen aus 2019 nach 2020",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=273101100040%7C20200210172149-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-02-10",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=273101100040%7C20200210172149-0.pdf%7C",
+        "fileName": "20200210172149-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C273101100040%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/273101100040",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "a6360ab378de102c473b19f9235723fa93b6117f",
+        "size": 639362,
+        "text": "Anlage 4 - Konsumtive Ermächtigungsübertragungen aus Vorjahren und 2019 in das Haushaltsjahr 2020",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-HFA-101%7C273101100040%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8838",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-HFA-101",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-116%7C273101100040%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8839",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-116",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-01-31",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/273101100040",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=273101100040&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=273101100040&id=69",
+      "fileName": "273101100040",
+      "id": "https://castroprauxel.gremien.info/oparl/file/273101100040",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/035",
+      "size": 744976,
+      "text": " Bereich Finanzen 2020/035 öffentlich  Az: 20   Datum: 31.01.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Haupt- und Finanzausschuss 25.02.2020 3  Rat der Stadt 27.02.2020 3   Betreff  Beschluss über die Übertragung von Haushaltsermächtigungen in das Haushaltsjahr 2020  \f     Finanzielle Auswirkungen      keine haushaltsmäßige Berührung     X Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  Der Rat beschließt die weitere Übertragung der in Anlage 1 genannten Ermächtigungsübertragungen aus Vorjahren für investive Maßnahmen in Höhe von                                              1.901.238,58   Der Rat beschließt die Übertragung von Ermächtigungen für investive Auszahlungen des Haushaltsjahres 2019 in das Haushaltsjahr 2020 gemäß Anlage 2 in Höhe                             5.765.033,44   Der Rat beschließt die Übertragung der zur Abwicklung von Zukäufen zu Festwerten (investive Auszahlungen gemäß Anlage 1 + 2) buchungssystematisch erforderlichen Ermächti- gungen für konsumtive Aufwendungen in Höhe von                      229.308,99   Der Rat beschließt die Übertragung von Ermächtigungen aus Vorjahren sowie aus dem Haushaltsjahr 2019 nach 2020 gemäß Anlage 3 für  - konsumtive Aufwendungen in Höhe von                                       1.094.750,26  - konsumtive Auszahlungen in Höhe von                                        1.094.750,26       \f\f   K r a v a n j a         E c k h a r d t Bürgermeister        Erster Beigeordneter/           Stadtkämmerer  \f Sachverhalt  Zusammenfassung Gemäß § 22 Abs. 4 Kommunalhaushaltsverordnung NRW (KomHVO NRW) in Verbindung mit Ziffer 5 der Nebenbestimmung des Bescheides der Bezirksregierung Münster vom 29.03.2019 (Genehmigung Fortschreibung Haushaltssanierungsplan für das Jahr 2019) sowie den Grundsätzen über Art, Umfang und Dauer von Ermächtigungsübertragungen bei der Stadt Castrop-Rauxel (Vorlage 2012/310) werden dem Rat die Haushaltsermächtigungen, die aus dem Jahr 2019 oder aus den Vorjahren in das Jahr 2020 übertragen werden sollen, zur Beschlussfassung vorgelegt.   Sachverhalt Im Rahmen der NKF- Haushaltsführung ist die Bildung von Haushaltsresten grundsätzlich möglich. Der Gesetzgeber spricht allerdings von Ermächtigungsübertragungen (§ 22 KomHVO NRW). Für die Stadt Castrop-Rauxel als pflichtig teilnehmende Kommune am Stärkungspakt Stadtfinanzen nach den Vorschriften des Stärkungspaktgesetzes NRW ist die Übertragung von Ermächtigungen zur Leistung von Aufwendungen (Ergebnisplan) und Auszahlungen (Finanzplan) nur unter Beachtung der gesetzlichen Vorgaben möglich. Diesbezüglich ist insbesondere auf den Bescheid der Bezirksregierung Münster vom 29.03.2019 (Genehmigung Haushalt und Fortschreibung Haushaltssanierungsplan 2019) und auf die in diesem Bescheid enthaltenen Nebenbestimmungen und Hinweise zu verweisen. Die Mitglieder des Rates haben eine Kopie des Genehmigungsbescheides der Bezirksregierung Münster mit Schreiben vom 03.04.2019 zur Kenntnis erhalten.  An die Übertragung von Ermächtigungen ist bei Kommunen, denen die Überschuldung droht oder die  wie die Stadt Castrop-Rauxel  bereits überschuldet sind, ein besonders strenger Maßstab anzulegen. Die Stadt Castrop-Rauxel ist vor dem Hintergrund ihrer dramatischen Finanzsituation gehalten, beabsichtigte und bereits anfinanzierte Projekte, für die Ermächtigungsübertragungen vorgesehen sind, erneut auf den Prüfstand zu stellen. Gegebenenfalls ist auf eine weitere Realisierung der Projekte zu verzichten oder es ist die Bildung selbständiger kleinerer Abschnitte vorzusehen und andere Abschnitte des Projektes sind zeitlich aufzuschieben. Noch nicht begonnene Maßnahmen sind zurückzustellen, es sei denn, dass ihre Durchführung auf einer Rechtspflicht beruht.  Die Liste der übertragenen Haushaltsermächtigungen ist dem Rat zur Beschlussfassung vorzulegen (§22 Abs. 4 Satz 1 KomHVO NRW i.V.m. dem bereits o.a. Bescheid der Bezirksregierung Münster vom 29.03.2019). Der Ratsbeschluss ist der Bezirksregierung Münster bis spätestens 31.03.2020 zuzuleiten.  Hinzuweisen ist abschließend darauf, dass Ermächtigungen für Aufwendungen und Auszahlungen gemäß § 22 Abs. 1 KomHVO NRW übertragen werden können; die Grundsätze über Art, Umfang und Dauer der Ermächtigungsübertragungen werden vom Bürgermeister mit Zustimmung des Rates festgelegt (§ 22 Abs. 1 Satz 2 KomHVO NRW). Einer solchen Regelung hat der Rat in seiner Sitzung am 06.12.2012 zugestimmt (Grundsätze über Art, Umfang, und Dauer von Ermächtigungsübertragungen / Vorlage 2012/310). Die in dieser Regelung vorgesehenen Festlegungen wurden bei der Bildung der in den Anlagen 1 - 3 gelisteten Ermächtigungsübertragungen ebenfalls berücksichtigt.  Entsprechend den vorstehenden Ausführungen wurden bei der Übertragung von Haushaltsermächtigungen im investiven Bereich die bereits im Jahr 2019 erteilten aber noch nicht erledigten bzw. abgerechneten Aufträge sowie die aus sachlichen und/oder rechtlichen Gründen noch zwingend erforderlichen Auftragserteilungen zur Abwicklung der Maßnahmen berücksichtigt (vgl. Anlage 2). Bei den noch zu erteilenden Aufträgen wurde dabei  auch im Hinblick auf die Vorgaben des § 82 Gemeindeordnung NRW (GO NRW)  ein besonders strenger Maßstab angelegt. Entsprechend wurde auch bei der Übertragung von Ermächtigungen aus Vorjahren verfahren (vgl. Anlage 1). Bei den betroffenen Maßnahmen handelt es sich vielfach um Fortsetzungsmaßnahmen oder solche, in denen zweckgebundene Einzahlungen vereinnahmt wurden bzw. werden. Bei Maßnahmen, die im Rahmen des Förderprogrammes Gute Schule 2020 durchgeführt wurden bzw. werden, befindet sich in der Bemerkungsspalte ein gesonderter Hinweis auf das Förderprogramm (GS). In Einzelfällen wurden die Bereiche noch einmal auf das restriktive Verfahren bei der Prüfung von Ermächtigungsübertragungen hingewiesen.   Bei einzelnen Ermächtigungsübertragungen wird in den Fällen, in denen die in der Vergangenheit übertragene Ermächtigungen nicht mehr in der ursprünglichen Höhe benötigt werden, die Absetzung der entsprechenden Teilbeträge vorgeschlagen (vgl. jeweils Spalte freiwerdende Mittel). Haushaltsermächtigungen des Jahres 2019, die nicht in den Anlagen 1  3 genannt sind, gelten ebenfalls als abgesetzt und stehen somit in 2020 nicht mehr zur Verfügung.  Einer ausführlichen Begründung für die Übertragung von Haushaltsermächtigungen des Jahres 2019 in das Haushaltsjahr 2020 bedürfen zudem die Beschlussvorschläge unter Ziffer 3 und 4:   a) Beschlussvorschlag unter Ziffer 3 (Zukauf zu Festwerten)  Aufgrund ihrer prekären Haushaltssituation ist der Stadt Castrop-Rauxel eine Übertragung von konsumtiven Haushaltsermächtigungen (Aufwendungen) grundsätzlich versagt.  Allerdings ist die Stadt aus rechtlichen und/oder unabweisbaren sachlichen Gründen gezwungen, Ermächtigungen für investive Auszahlungen für Zukäufe zu verschiedenen sogenannten Festwerten (vgl. Anlage 1 und 2) in das Jahr 2020 zu übertragen. Die Besonderheit der Zukäufe zu Festwerten liegt u.a. darin, dass es sich zwar um Investitionen und daraus folgend investive Auszahlungen handelt (vgl. hierzu auch § 34 Abs. 1 KomHVO NRW), gleichwohl in Höhe der Anschaffungs- bzw. Herstellungskosten auch ein Aufwand zu buchen ist. Die Wirkung der Zukäufe zu Festwerten ist daher mit der Beschaffung der sogenannten Geringwertigen Wirtschaftsgüter (GWG) vergleichbar, die ebenfalls im Jahr ihrer Anschaffung bzw. Herstellung komplett abgeschrieben werden und somit zu einer Belastung des Ergebnisplans (Aufwand) in Höhe der jeweiligen Anschaffungs- respektive Herstellungskosten führen (vgl.§§ 34 Abs. 2 - 4, 36 Abs. 4 KomHVO NRW). Die Übertragbarkeit von Haushaltsermächtigungen für die Beschaffung von GWG ist grundsätzlich unstreitig. Da bei Zukäufen zu Festwerten der investive Charakter der jeweiligen Maßnahme führend ist, der systembedingt zu buchende Aufwand (Ergebnisplan) somit faktisch eine Annexregelung darstellt, die Bedeutung für den Gesamthaushalt von untergeordneter Bedeutung ist und die Beschaffungen  wie bereits dargestellt  aus rechtlichen und/oder sachlichen Gründen unabweisbar sind, wird ein erforderlicher Gesamtbetrag an Ermächtigungsübertragungen für konsumtive Aufwendungen aus Festwertzukäufen in Höhe von 229.308,99  vorgeschlagen (vgl. hierzu auch Anlage 1 und 2).    b) Beschlussvorschlag unter Ziffer 4 (konsumtive Aufwendungen und Auszahlungen):  Wie bereits o.a. ist es der Stadt Castrop-Rauxel aufgrund ihrer prekären finanziellen Lage grundsätzlich verwehrt, Übertragungen von konsumtiven Haushaltsermächtigungen in Ergebnis- und/oder Finanzhaushalt vorzunehmen. Dies ist so auch in den bereits genannten Grundsätzen über Art, Umfang und Dauer von Ermächtigungsübertragungen festgelegt. Unter Ziffer 1.1 heißt es dort: Die Übertragung von Haushaltsermächtigungen eines abgeschlossenen Haushaltsjahres in ein Folgejahr ist grundsätzlich nur bei investiven Maßnahmen bzw. Buchungsstellen möglich.  Von diesem Grundsatz kann nur in ganz besonders begründeten Ausnahmefällen abgewichen werden. Um solche Ausnahmefälle handelt es sich bei den in Anlage 3 aufgeführten Positionen.  Den dort genannten Aufwandsposition gemein ist, dass die entsprechenden Erträge bereits Vollumfänglich und in Höhe der zur Übertragung anstehenden Aufwendungs- bzw. Auszahlungsansätze realisiert werden konnten oder gesichert in 2020 erfolgen werden.  Die unter Ziffer 4 ausgewiesenen Ermächtigungsübertragungen für konsumtive Aufwendungen und Auszahlungen resultieren aus zweckgebundenen Spendenmitteln für die Kinder- und Jugendarbeit sowie für das Demenz-Caf. Weiterhin erfolgt die Übertragung von konsumtiven Aufwendungen und Auszahlungen in den Fällen, in denen sich aus der Herkunft der Mittel die Verpflichtung ergibt, diese Mittel zweckentsprechend zu verwenden. Hier seien beispielhaft die Mittel für sonstige Geschäftsaufwendungen aus dem Belastungsausgleich  Inklusion - oder die Mittel aus dem Programm Gute Schule 2020 genannt, die im Jahr 2019 nicht vollumfänglich für die originären Zwecke aufgewendet werden konnten.     Die zur Übertragung in das Haushaltsjahr 2020 vorgesehenen Ermächtigungen gemäß der Anlagen 1  3 zu dieser Vorlage sollen nur für die konkret bezeichneten Maßnahmen zur Verfügung stehen. Die Inanspruchnahme für andere Projekte kann nur in besonderen Ausnahmefällen und nur unter entsprechender Beteiligung der Kommunalaufsichtsbehörden erfolgen.  Die durch Übertragung zusätzlich bereitgestellten Haushaltsermächtigungen sind in der Haushaltssatzung für das Haushaltsjahr 2020/2021 bzw. im Haushaltsplan 2020/2021 nicht abgebildet. Es erfolgt eine zusätzliche Mittelbereitstellung der Mittel außerhalb des Haushaltsplans. Gleichwohl belasten die Ermächtigungsübertragungen, soweit sie realisiert werden, die Haushaltswirtschaft 2020; bei Inanspruchnahme der übertragenen Haushaltsermächtigungen sind die sich hieraus ergebenden entsprechenden Zahlungen im Rahmen der Finanzrechnung zu berücksichtigen und wirken sich somit auf die liquiden Mittel aus.  Es wird ausdrücklich darauf hingewiesen, dass die Finanzierung der zu übertragenen Haushaltsermächtigungen für die jeweiligen Haushaltsjahre dargestellt wurde; hier wird insbesondere auf die Freigabe der sogenannten Investitions-Dringlichkeitsliste in den Jahren bis einschließlich 2012 durch den Landrat des Kreises Recklinghausen in seiner Funktion als Kommunalaufsichtsbehörde sowie auf die Darstellung der investiven Ein- und Auszahlungen in den Haushaltsplänen 2013 bis 2019 verwiesen. In einer Vielzahl von Fällen wurden Zuwendungen bereits in der Vergangenheit vereinnahmt. In weiteren Fällen (insbesondere bei den Gute Schule 2020  Maßnahmen und den Maßnahmen nach dem 1. und 2. Kapitel des Kommunalinvestitionsförderungsgesetztes - KInvFöG) können entsprechende Zuwendungen aber auch noch abgerufen werden.  Ermächtigungsübertragungen, die ganz oder teilweise aus zweckgebundenen Zuwendungen Dritter refinanziert werden (z.B. Zuwendungen des Landes Nordrhein-Westfalen) dürfen nur dann in Anspruch genommen werden, wenn sichergestellt ist, dass die entsprechenden Einzahlungen auch spätestens in dem Haushaltsjahr realisiert werden können, in dem auch von hier entsprechende Auszahlungen zu leisten sind. Die Verantwortung hierfür liegt bei den jeweiligen Fachbereichen (vgl. hierzu Ziffer 3.4 der bereits o.a. Grundsätze über Art, Umfang und Dauer von Ermächtigungsübertragungen).  Ermächtigungsübertragungen für Erträge und Einzahlungen sind entsprechend der Vorgaben des § 22 KomHVO NRW nicht auszuweisen.               Anlagen:   Anlage 1 Finanzielle Auswirkungen  Anlage 2 Übertragung von Ermächtigungen für investive Auszahlungen des Haushaltsjahres 2019 (aus Vorjahren) in das Haushaltsjahr 2020  Anlage 3 Übertragung von Ermächtigungen für investive Auszahlungen des Haushaltsjahres 2019 in das Haushaltsjahr 2020  Anlage 4  Übertragung von Ermächtigungen für konsumtive Aufwendungen und Auszahlungen aus Vorjahren und des Haushaltsjahres 2019 in das Haushaltsjahr 2020      \f  \fAnlage 1  - Finanzielle Auswirkungen     \fAuf die vorstehende Sachdarstellung wird verwiesen, auf weitere Ausführungen wird daher ausnahmsweise verzichtet.     I. Mittelbedarf: davon                                        Ergebnisplan              Aufwendungen:    - Erträge von Dritten:    = Städtischer Eigenanteil:                   davon       Finanzplan Auszahlungen:   - Einzahlungen von Dritten:   = Städtischer Finanzierungsanteil:          Die benötigten Haushaltsmittel stehen zur Verfügung:                \f JA  Buchungsstelle:   NEIN  Siehe Erläuterungen / Angabe von Deckungsvorschlägen \f Erläuterungen / Angabe von Deckungsvorschlägen:    \f Bei Maßnahmen des Finanzplanes:  Die Maßnahme ist in der vom Rat beschlossenen Dringlichkeitsliste enthalten.  Die Maßnahme ist in die vom Rat beschlossene Dringlichkeitsliste zusätzlich aufzunehmen bzw. eine     Erweiterung der Maßnahme ist vorzunehmen.  Die Maßnahme ist in die vom Rat zu beschließende Dringlichkeitsliste aufzunehmen. \f II. Auswirkungen auf die mittelfristige Haushaltsplanung: Ergebnisplan 2019 2020 2021 2022 insgesamt  Personalaufwendungen          Sachaufwendungen          Zinsaufwendungen       Aufwendungen für Abschreib.       Zusätzliche Erträge          Mindererträge          Summe           Die Finanzierung ist innerhalb der mittelfristigen Haushaltsplanung für die Produktgruppe  \f   gesichert    nicht gesichert \f III. Es wurde geprüft, dass es sich um eine Maßnahme handelt, die unter Berücksichtigung der Vorgaben des § 82 GO NRW notwendig und unabweisbar ist.\f   \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Beschluss über die Übertragung von Haushaltsermächtigungen in das Haushaltsjahr 2020",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/035",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

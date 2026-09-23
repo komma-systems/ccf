@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/162204100018",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=162204100018%7C20140422120803.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=162204100018%7C20140422120803.pdf%7C",
+        "fileName": "20140422120803.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C162204100018%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/162204100018",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "16ffa073b64674c0e82923517a99495fd32f23ec",
+        "size": 164533,
+        "text": "Anlage zu TOP I 2",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-1%7C162204100018%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5976",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2014-EUV-1",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2014-04-22",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/162204100018",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=162204100018&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=162204100018&id=69",
+      "fileName": "162204100018",
+      "id": "https://castroprauxel.gremien.info/oparl/file/162204100018",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2014/EUV/017",
+      "size": 157328,
+      "text": "Datum: 22.04.2014 TB I 9686-700 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: TOP: I.2 Drucksache-Nr. 2014/EUV/017 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 07.05.2014 Betreff: Zwischenbericht 2 / 2014 Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt den Zwischenbericht 2 / 2014 zur Kenntnis. ________________________ Werner Sachverhalt: Gem. § 8 Abs. 5 der Satzung des EUV Stadtbetrieb Castrop-Rauxel – AöR –hat der Vorstand den Verwaltungsrat halbjährlich über die Entwicklung des Vermögens- und Erfolgsplanes schriftlich zu unterrichten. Der erste Zwischenbericht für das Wirtschaftsjahr 2014 wurde dem Verwaltungsrat in der Sitzung am 19.02.2014 vorgestellt. Da jeweils zum Anfang eines Jahres der Bewertungszeitraum regelmäßig sehr kurz bemessen ist, hatte dieser Bericht lediglich zum Ziel, dem Verwaltungsrat eine 1. Tendenz aufzuzeigen, inwieweit die Planzahlen des Wirtschaftsplanes 2014 - bezogen auf den erst sehr kurzen Buchungszeitraum - im Wesentlichen eingehalten werden, oder ob bei den einzelnen Teilbetrieben nach dem damaligen Stand ggf. bereits größere Abweichungen gegenüber dem Wirtschaftsplan 2014 erkennbar werden. Der Zwischenbericht 2 / 2014 berücksichtigt alle Buchungsvorgänge und –belege, die bis Stichtag 31.03.2014 durch den EUV erfasst worden sind und lässt somit eine klarere Prognose bezüglich des möglichen Ergebnisses zum Jahresende 2014 zu. Gleichwohl sind erst die Buchungsdaten des 1. Quartals in das Ergebnis eingearbeitet und verschiedene Kostensplittungen noch nicht berücksichtigt, die z. B. im Personalbereich noch Anpassungen einiger Aufwandpositionen ergeben können. Bei Betrachtung dieses Zahlenwerkes wird deutlich, dass das voraussichtliche Jahresergebnis des Gesamtbetriebes zum Jahresende 2014 derzeit vorwiegend noch im Teilbetrieb III – Abfallentsorgung sowie im Teilbetrieb IV - Duales System und Sonderleistungen, deutlich von den Planzahlen des Wirtschaftsplanes abweichen. Das Ergebnis des TB III würde sich danach um insgesamt 177 T€ und das Ergebnis des TB IV um 58 T€ verschlechtern. Im Teilbetrieb VI – Straßenreinigung wird aufgrund des geringen Winterdienstaufwandes zu Beginn des Jahres mit einer Verbesserung von insgesamt 15 T€ gerechnet. Bei einem Ertragsvolumen des Gesamtbetriebes EUV in Höhe von 36.400 T€ beträgt die derzeit hochgerechnete Ergebnisabweichung (Verschlechterung) insgesamt 289 T€. Grundsätzlich waren in der Vergangenheit die bis zum 31.03. eines Jahres erfassten und hochgerechneten Werte aller Teilbetriebe des EUV Stadtbetriebes regelmäßig bereits geeignet, annähernd exakt das Planergebnis zum Jahresende des lfd. Wirtschaftsjahres aufzuzeigen. Aufgrund der noch vorzunehmenden Aufteilung der Personalkosten der verschiedenen Teilbetriebe sowie zum Jahresende vorzunehmender Konsolidierungsbuchungen können sich noch Ergebnisveränderungen ergeben. Die Ergebnisveränderungen bei den Teilbetrieben III und IV sind zum Teil darauf zurückzuführen, dass für die Verwertung des Altpapiers und der Kartonagen derzeit noch nicht alle Verträge der 9 Systembetreiber für 2014 vorliegen, so dass eine positive Veränderung bis zum Jahresende noch bewirkt werden kann. Erfreulich zeigt sich zum gegenwärtigen Zeitpunkt im laufenden Jahr 2014, dass für den umsatzstärksten, größten Teilbetrieb V - Stadtentwässerung ein annähernd plangenaues Ergebnis prognostiziert werden kann. Hier konnte lediglich eine Differenz zum Wirtschaftsplanansatz i. H. v. 78 T€ ermittelt werden. Für weitere Detailbetrachtungen zu anderen Teilbetrieben wird auf die anliegende Übersicht verwiesen. Weiterer Sachvortrag in der Sitzung.Zwischenbericht 2 / 20142014/EUV/017%anl%;Anlage zu TOP I 2 ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Zwischenbericht 2 / 2014",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2014/EUV/017",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

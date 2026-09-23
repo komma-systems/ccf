@@ -1,0 +1,51 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36226",
+  "modified_at": "2026-09-02T09:09:05+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368987.pdf",
+        "created": "2026-08-26T12:42:12+02:00",
+        "date": "2026-08-26",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368987.pdf",
+        "fileName": "00368987.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368987",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-02T09:09:06+02:00",
+        "name": "Antwort auf Anfragen",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141496",
+        "authoritative": true,
+        "created": "2026-08-27T11:04:57+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68611",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24591",
+        "modified": "2026-09-10T08:50:44+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36226",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-26T12:18:24+02:00",
+    "date": "2026-08-27",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36226",
+    "modified": "2026-09-02T09:09:05+02:00",
+    "name": "Große Anfrage Bündnis 90 Die Grünen",
+    "paperType": "Antwort auf Anfragen",
+    "reference": "VO/0785/26/1-A",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/82"
+    ]
+  }
+}

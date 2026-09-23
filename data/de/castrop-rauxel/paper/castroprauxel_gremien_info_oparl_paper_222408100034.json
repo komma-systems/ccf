@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/222408100034",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2017-EUV-18%7C222408100034%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7598",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2017-EUV-18",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2017-08-24",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/222408100034",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=222408100034&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=222408100034&id=69",
+      "fileName": "222408100034",
+      "id": "https://castroprauxel.gremien.info/oparl/file/222408100034",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2017/EUV/035",
+      "size": 154884,
+      "text": "Datum: 24.08.2017 TB I 9686-700 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 13.09.2017 TOP: Drucksache-Nr. 2017/EUV/035 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 13.09.2017 4 Betreff: Risikomanagementbericht 2016 Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Risikomanagementbericht 2016 wird zur Kenntnis genommen. ________________________ Werner Sachverhalt: Für 2016 wurden Risiken, die den Bestand des Unternehmens tatsächlich gefährden, nicht festgestellt. Dennoch wurden einige Risiken wegen ihrer möglichen finanziellen Bedeutung und damit in ihrer Auswirkung der Risikoklasse bestandsgefährdendes Risiko zugeordnet. Hauptsächlich sind hier die Risiken in der Gebührenstabilität für die Bereiche Abfallentsorgung, Stadtentwässerung und Straßenreinigung/Winterdienst zu nennen. Zudem steht die AöR im Wettbewerb mit privaten Dienstleistern, insbesondere im abfallwirtschaftlichen Bereich. Der EUV agiert innerhalb der gesetzlichen Rahmenbedingungen, die für 2016 insbesondere die Auseinandersetzung und Umsetzung des EU-Rechts (insbes. die Einführung des § 2 b Umsatzsteuergesetz, Änderungen zu Vergaberichtlinien für öffentliche Auftraggeber, EU-Abfallrahmenrichtlinien) bedeuten. Weiterhin ist auch der Beitrag des EUV bei der Haushaltskonsolidierung der Stadt Castrop-Rauxel zu berücksichtigen. Hier sind insbesondere die Einhaltung der Verkehrssicherungspflicht sowie die Schadensregulierung bei Straßen- und Gehwegoberflächen gegenüber den Versicherungsträger GVV zu nennen. Das Verfahren AGR ./. Stadt Castrop-Rauxel vor dem Verwaltungsgericht Gelsenkirchen zur Nachsorge der Altdeponie Pöppinghausen und deren Prozessrisiken für die Stadt Castrop-Rauxel sind - wie auch in den Vorjahren - weiter offen und werden durch den Vorstand in Abstimmung mit der Stadt Castrop-Rauxel begleitet. Weiterhin kam seit 2015 das Risiko aus einem gerichtlichen Verfahren der Emschergenossenschaft mit der RAG AG zum Tragen, in dem es um die Heranziehung von Kosten bzgl. der Pumpwerksentflechtung geht. Die Verwendung von Finanzierungsinstrumenten, deren Methoden zur Absicherung der wichtigsten Transaktionen und deren Risikobewertung werden auch zukünftig ein wichtiger Baustein im Risikobericht sein. Das Inventarblatt „Finanzierungsrisiko“ ist dabei hinsichtlich etwaiger Vorgaben der Kreditgeber (Stichwort „Basel III/IV“) überarbeitet und neu bewertet worden. Für die Bewältigung der komplexen Aufgaben, die dem EUV bei der Wahrnehmung in der Daseinsvorsorge sowie den Ingenieurbau- und Servicebereichen obliegen, muss die Stabilität in den organisatorischen Abläufen und in der Datenadministration gewährleistet werden. Dahingehend prüft der EUV regelmäßig seine Prozesse auf Nachhaltigkeit und entwickelt diese fortlaufend weiter. Ergebnis: Risiken, die den Bestand des Unternehmens tatsächlich gefährden, wurden nicht festgestellt. Weiterer Bericht in der Sitzung.%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Risikomanagementbericht 2016",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2017/EUV/035",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "council_id": "koeln",
+  "record_type": "meeting",
+  "source_id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/35774",
+  "modified_at": "2026-09-22T14:59:39+02:00",
+  "deleted_at": null,
+  "data": {
+    "created": "2026-09-22T14:59:39+02:00",
+    "end": "2027-09-30T00:00:00+02:00",
+    "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/35774",
+    "location": {
+      "created": "2017-08-03T00:27:27+02:00",
+      "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/locations/rm/25",
+      "locality": "",
+      "modified": "2026-08-20T09:03:07+02:00",
+      "postalCode": "",
+      "room": "Theodor-Heuss-Saal (A 119)",
+      "streetAddress": "",
+      "subLocality": "",
+      "type": "https://schema.oparl.org/1.1/Location"
+    },
+    "modified": "2026-09-22T14:59:39+02:00",
+    "name": "Sitzung des Betriebsausschusses Wallraf-Richartz-Museum & Fondation Corboud",
+    "organization": [
+      "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/62"
+    ],
+    "start": "2027-09-30T15:30:00+02:00",
+    "type": "https://schema.oparl.org/1.1/Meeting"
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-78",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AUSLB-78%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-78",
+        "name": "Fragestunde der Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AUSLB-78%7Czt_0%7C1",
+          "date": "2023-06-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AUSLB-78%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AUSLB-78%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 384492,
+          "text": "Die Vorsitzende Frau Cetin eröffnet die Sitzung und begrüßt die Gäste Herrn Schürhaus und Herrn Trzeziak, die Beiratsmitglieder und die Vertreterinnen der Verwaltung.  1 Fragestunde der Einwohnerinnen und Einwohner  Es sind keine Einwohnerinnen und Einwohner anwesend.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AUSLB-78%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-78",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AUSLB-78%7Czt_1%7C1",
+          "date": "2023-06-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AUSLB-78%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AUSLB-78%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 386179,
+          "text": "2 Einwände gegen die letzte Niederschrift  Die letzte Niederschrift konnte wegen Krankheit noch nicht unterzeichnet werden. Sie wird nach dieser Sitzung an den Bereich für Ratsangelegenheiten zur Verarbeitung gesendet.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2023-AUSLB-78%7Czt_2%7C1%7C20230612111747-0_zt_2_1.pdf",
+            "date": "2023-06-12",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2023-AUSLB-78%7Czt_2%7C1%7C20230612111747-0_zt_2_1.pdf",
+            "fileName": "20230612111747-0_zt_2_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2023-AUSLB-78%7Czt_2%7C1%7C20230612111747-0_zt_2_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Vortrag_Integrationsrat_Rainer_Schürhaus_Abgabe",
+            "size": 787416,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AUSLB-78%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-78",
+        "name": "Vorstellung des Kriminalitätsberichts 2022",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AUSLB-78%7Czt_2%7C1",
+          "date": "2023-06-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AUSLB-78%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AUSLB-78%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 421783,
+          "text": "3 Vorstellung des Kriminalitätsberichts 2022  Der Polizeirat Herr Schürhaus berichtet über die Kriminalitätsentwicklung im Kreis Recklinghausen.  Er erläutert, dass die Fallzahlen grundsätzlich über dem Niveau der letzten Jahre liegen. Im Jahr 2022 gab es insgesamt 54.411 Fälle. Das entspricht einem Zuwachs von 7.278 Fällen oder 15,44 %. Die Aufklärungsquote (AQ) lag bei 52%.  Auch im Vergleich zu 2019 sind die Fallzahlen gestiegen. Im Jahr 2019 gab es 47.969 Fälle. Die Fallzahlen liegen ungefähr auf dem Niveau von 2015.  Insgesamt betrachtet, ist die Kriminalhäufigkeitszahl (KHZ) im Vergleich zum Vorjahr nur in einer Kommune gesunken (Datteln) und in allen anderen Kommunen gestiegen. Dabei liegt die KHZ über dem Mittelwert der letzten 10 Jahre (7.452 für das Polizeipräsidium Recklinghausen in 2022, der Durchschnitt liegt bei 7.210): Castrop-Rauxel (7.614) und Recklinghausen (10.995) liegen über Durchschnittswert PP Recklinghausen (7.452) Den höchsten Wert hatte Recklinghausen (10.995) und den niedrigsten Wert hatte Haltern am See (4.959).  In Castrop-Rauxel war die Gesamtkriminalität nahezu unverändert: 5564 Fälle. Es gab mehr Raubdelikte (30, AQ 73,33 %), wobei der Wert unter dem Niveau vor Corona lag. Zudem waren drei Tötungsdelikte, alle geklärt, zu melden. Schließlich sind die Sexualdelikte (121, AQ 82,62 %) gesunken. Die Aufklärungsquote lag insgesamt bei über 51 %.  Die Beiratsmitglieder nehmen den Vortrag zur Kenntnis und stellen Fragen.  In Bezug auf eine Differenzierung der Kriminalität in den Stadtteilen und nach Herkunft, entgegnet Herr Schürhaus, dass es keine Differenzierung der Kriminalitätsrate nach Stadtteilen oder Herkunft gibt. Gleichwohl gibt es Kontaktpersonen in den Stadtteilen und eine quartiersbezogene Vernetzung.  Die Vorsitzende Frau Cetin bedankt sich stellvertretend für den ausführlichen Vortrag.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2023-AUSLB-78%7Czt_5%7C1%7C20230606121458-0_zt_5_1.pdf",
+            "date": "2023-06-06",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2023-AUSLB-78%7Czt_5%7C1%7C20230606121458-0_zt_5_1.pdf",
+            "fileName": "20230606121458-0_zt_5_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2023-AUSLB-78%7Czt_5%7C1%7C20230606121458-0_zt_5_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "2023.05.31_Kultursensible Pflege",
+            "size": 1155883,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AUSLB-78%7Czt_5%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-78",
+        "name": "Sachstandsbericht kultursensible Pflege",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AUSLB-78%7Czt_5%7C1",
+          "date": "2023-06-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AUSLB-78%7Czt_5%7C1",
+          "fileName": "be_zt_5_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AUSLB-78%7Czt_5%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 401580,
+          "text": "4 Sachstandsbericht kultursensible Pflege  Herr Trzeziak berichtet über die kultursensible Pflege in Castrop-Rauxel. Er erläutert, dass es bei den vielen unterschiedlichen kulturellen Hintergründen der Menschen mit Migrationsgeschichte kultursensibler Pflegeberatungen, passender Unterstützungsangebote im Alltag, Vernetzung der relevanten Akteure vor Ort bedarf.  Zurzeit gibt es das Modellprojekt Guter Lebensabend NRW mit 22 Modellkommunen. Im Kreis Recklinghausen ist die Stadt Herten Modellkommune, so dass der Kreis dazu eine differenzierte Auskunft dazu geben könnte. In Castrop-Rauxel gibt es das Netzwerk Migration und Pflegeberatung. Zudem wird ein Leitfaden Migration und Pflege vom Kommunalen Integrationsmanagement erstellt.  Die Power Point des Vortrags findet sich im Anhang.  Frau Cetin bedankt sich für den Vortrag.  Die Beiratsmitglieder nehmen den Vortrag zur Kenntnis und stellen Fragen. Den Leitfaden Migration und Pflege möchten die Beiratsmitglieder gerne zur Verfügung gestellt bekommen.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2023-AUSLB-78%7Czt_3%7C1%7C20230613112218-0_zt_3_1.pdf",
+            "date": "2023-06-13",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2023-AUSLB-78%7Czt_3%7C1%7C20230613112218-0_zt_3_1.pdf",
+            "fileName": "20230613112218-0_zt_3_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2023-AUSLB-78%7Czt_3%7C1%7C20230613112218-0_zt_3_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Patenschaft_20212762",
+            "size": 475891,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AUSLB-78%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-78",
+        "name": "Umsetzung und mögliche weitere Forderungen für Sichere Häfen",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AUSLB-78%7Czt_3%7C1",
+          "date": "2023-06-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AUSLB-78%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AUSLB-78%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 416010,
+          "text": "5 Umsetzung und mögliche weitere Forderungen für Sichere Häfen  Die Vorsitzende Frau Cetin berichtet, dass Herr Selonke, der Einladung des Integrationsrates zur heutigen Sitzung wegen der Kürze der Zeit nicht folgen konnte, um über die Forderung 2 Aktive Unterstützung der Seenotrettung zu berichten.  Gleichwohl hat Frau Molsich Kontakt zu den Grünen im Rat der Stadt Bochum aufgenommen. Frau Molsich berichtet, dass die Stadt Bochum nach Antrag der Fraktionen SPD und DIE Grünen seit dem Jahr 2019 Mitglied im Bündnis der sicheren Häfen ist. Zuerst hatte Bochum die Forderungen 1 Öffentliche Solidaritätserklärung und 8 Transparenz erfüllt hat. Am 27.08.2021 fassten die Fraktionen den Beschluss, die Forderung 2, eine Patenschaft und eine Finanzielle Unterstützung für ein ziviles Seenotrettungsschiff, zu übernehmen. Diese Forderung koppelte die Stadt Bochum mit verschiedenen Wegen, insbesondere der medialen Werbung um Spenden in der Bevölkerung. Gleichzeitig beschloss Bochum für jeden gespendeten Euro einen Euro dazu zu geben, bis zu einer Höchstgrenze von 30.000 . Dieser Betrag, so sagte die Ratsfrau der Grünen, sei kein Muss und variiere je nach Stadtgröße und finanzieller Möglichkeit.  Die Beiratsmitglieder nehmen den Bericht zur Kenntnis. Sie beschließen für die Stadt Castrop-Rauxel ebenso die Forderung 2 aktive Unterstützung der Seenotrettung zu beantragen. Dazu soll rasch ein Antrag geschrieben und in die erforderlichen Gremien gebracht werden.  Der Antrag der Fraktionen SPD und DIE Grünen findet sich als pdf im Anhang.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AUSLB-78%7Czt_4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-78",
+        "name": "Bericht über die Zusammenarbeit mit mobim",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AUSLB-78%7Czt_4%7C1",
+          "date": "2023-06-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AUSLB-78%7Czt_4%7C1",
+          "fileName": "be_zt_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AUSLB-78%7Czt_4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 390347,
+          "text": "6 Bericht über die Zusammenarbeit mit mobim  Die Vorsitzende Frau Cetin berichtet darüber, dass es ein Gespräch mit den Fraktionen, Vereinen und Verbänden gegeben hat. Es wurde diskutiert, wie der Themenkomplex in die Bevölkerung getragen werden könnte.  Die Beiratsmitglieder nehmen den Bericht zur Kenntnis und diskutieren darüber. Sie einigen sich darauf, dass der Integrationsrat zu einer Podiumsdiskussion zu Rassismus einladen wird. Zusätzlich wurde der Vorschlag eingebracht, ob es möglich wäre, an den Ortseingangsschildern darauf hinzuweisen, dass Castrop-Rauxel keinen Rassismus duldet.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AUSLB-78%7Czt_6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-78",
+        "name": "Bericht über den interreligiösen Dialog mit den Religionsgemeinschaften",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AUSLB-78%7Czt_6%7C1",
+          "date": "2023-06-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AUSLB-78%7Czt_6%7C1",
+          "fileName": "be_zt_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AUSLB-78%7Czt_6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 389553,
+          "text": "7 Bericht über den interreligiösen Dialog mit den Religionsgemeinschaften  Die Vorsitzende Frau Cetin informiert darüber, dass ein interkultureller Dialog stattgefunden hat. Die Gespräche waren sehr informativ und freundschaftlich. Der Dialog sollte fortgeführt werden und weitere Vertreter*innen von Religionen sollten eingeladen werden.  Die Beiratsmitglieder nehmen den Bericht zur Kenntnis und diskutieren darüber.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AUSLB-78%7C13%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-78",
+        "name": "Anfragen der Rats- bzw. Beiratsmitglieder",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AUSLB-78%7C13%7C1",
+          "date": "2023-06-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AUSLB-78%7C13%7C1",
+          "fileName": "be_13_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AUSLB-78%7C13%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 381925,
+          "text": "8 Anfragen der Rats- bzw. Beiratsmitglieder  Es gibt keine Anfragen der Rats- bzw. Integrationsratsmitglieder.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AUSLB-78%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-78",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-AUSLB-78%7C4%7C1",
+          "date": "2023-06-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-AUSLB-78%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-AUSLB-78%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 397384,
+          "text": "9 Mitteilungen der Verwaltung  Die Erste Beigeordnete Frau Kleff informiert über das Host Town Programm der Special Olympics World Games Berlin 2023 der Städte Herne und Castrop-Rauxel vom 12.06. und 13.06.2023. Im Rahmen des Programms wird die irakische Delegation am 12.06.2023 durch die Stadtspitze in Herne empfangen. Am 13.06.2023 wird diese im Rahmen einer Veranstaltung im AGORA Kulturzentrum durch den Bürgermeister in Castrop-Rauxel empfangen.  Die Erste Beigeordnete lädt die Mitglieder des Integrationsausschusses ein, an der Veranstaltung in der AGORA teilzunehmen.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AUSLB-78%7C14%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-78",
+        "name": "Anfragen der Rats- bzw. Beiratsmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-AUSLB-78%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-78",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2023-AUSLB-78%7C20230508092823-0_2023-AUSLB-78_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2023-05-08",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2023-AUSLB-78%7C20230508092823-0_2023-AUSLB-78_1.pdf",
+        "fileName": "20230508092823-0_2023-AUSLB-78_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2023-AUSLB-78%7C1",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Kriminalitätsbericht Polizeipräsidium Recklinghausen 2022",
+        "size": 7555891,
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2023-AUSLB-78%7C20230601094623-0_ni_2023-AUSLB-78_2.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2023-06-01",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2023-AUSLB-78%7C20230601094623-0_ni_2023-AUSLB-78_2.pdf",
+        "fileName": "20230601094623-0_ni_2023-AUSLB-78_2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2023-AUSLB-78%7C2",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "2023.05.31_Kultursensible Pflege",
+        "size": 1155883,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2023-05-31T19:45:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-78",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2023-AUSLB-78",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-05-16",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2023-AUSLB-78",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2023-AUSLB-78",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "881ce109a2160d7fd1aab2c4a6dcca66e2a1deb4",
+      "size": 424146,
+      "text": "Tagesordnung zur Sitzung des Integrationsrates am Mittwoch, 31.05.2023 um 18:00 Uhr im Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel,   I. Öffentliche Sitzung:  1. Fragestunde der Einwohnerinnen und Einwohner  2. Einwände gegen die letzte Niederschrift  3. Vorstellung des Kriminalitätsberichts 2022  4. Sachstandsbericht kultursensible Pflege  5. Umsetzung und mögliche weitere Forderungen für Sichere Häfen  6. Bericht über die Zusammenarbeit mit mobim  7. Bericht über den interreligiösen Dialog mit den Religionsgemeinschaften  8. Anfragen der Rats- bzw. Beiratsmitglieder  9. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  1. Anfragen der Rats- bzw. Beiratsmitglieder  2. Mitteilungen der Verwaltung    Aysel C e t i n Ausschussvorsitzende \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-AUSLB-78/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Integrationsrates",
+    "organization": [],
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/684",
+      "https://castroprauxel.gremien.info/oparl/person/1053",
+      "https://castroprauxel.gremien.info/oparl/person/1051",
+      "https://castroprauxel.gremien.info/oparl/person/873",
+      "https://castroprauxel.gremien.info/oparl/person/1048",
+      "https://castroprauxel.gremien.info/oparl/person/1052",
+      "https://castroprauxel.gremien.info/oparl/person/820",
+      "https://castroprauxel.gremien.info/oparl/person/642",
+      "https://castroprauxel.gremien.info/oparl/person/1032",
+      "https://castroprauxel.gremien.info/oparl/person/1029",
+      "https://castroprauxel.gremien.info/oparl/person/240",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/1186",
+      "https://castroprauxel.gremien.info/oparl/person/758"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-AUSLB-78",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-08-21",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-AUSLB-78",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-AUSLB-78",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 475334,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2023-05-31T18:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-AUSLB-78",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-08-21",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-AUSLB-78",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-AUSLB-78",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 475334,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

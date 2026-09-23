@@ -1,0 +1,30 @@
+{
+  "council_id": "muenster",
+  "record_type": "meeting",
+  "source_id": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14631",
+  "modified_at": "2026-07-28T12:07:49+02:00",
+  "deleted_at": null,
+  "data": {
+    "created": "2026-07-02T14:36:29+02:00",
+    "end": "2027-07-07T00:00:00+02:00",
+    "id": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14631",
+    "location": {
+      "created": "2020-10-06T14:20:58+02:00",
+      "id": "https://oparl.stadt-muenster.de/bodies/0001/locations/rm/108862",
+      "locality": "",
+      "modified": "2021-09-21T15:29:47+02:00",
+      "postalCode": "",
+      "room": "Festsaal, 1. Etage",
+      "streetAddress": "",
+      "subLocality": "",
+      "type": "https://schema.oparl.org/1.1/Location"
+    },
+    "modified": "2026-07-28T12:07:49+02:00",
+    "name": "Sitzung",
+    "organization": [
+      "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258"
+    ],
+    "start": "2027-07-07T16:15:00+02:00",
+    "type": "https://schema.oparl.org/1.1/Meeting"
+  }
+}

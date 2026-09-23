@@ -1,0 +1,119 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/271702100060",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271702100060%7C20200220162001-2.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-02-20",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271702100060%7C20200220162001-2.pdf%7C",
+        "fileName": "20200220162001-2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271702100060%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271702100060",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "e1532e014e1acfb34f576ea911bdd0123429ea5e",
+        "size": 3746433,
+        "text": "Hallenbad_LuBi",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271702100060%7C20200220170221-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-02-20",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271702100060%7C20200220170221-0.pdf%7C",
+        "fileName": "20200220170221-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271702100060%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271702100060",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "924eeb89aa5c14643288bad28de245905018e129",
+        "size": 169785,
+        "text": "Anlage 1 Beschluss 2010_182",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271702100060%7C20200220170222-1.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-02-20",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271702100060%7C20200220170222-1.pdf%7C",
+        "fileName": "20200220170222-1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271702100060%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271702100060",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "739e5430c6eda418bff5d4c4bf7ff5d79755c5da",
+        "size": 1280897,
+        "text": "Anlage 1 Vorlage 2010_182",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-JHA-80%7C271702100060%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8851",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-JHA-80",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/JHA"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-BuergA-23%7C271702100060%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8849",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-BuergA-23",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-117%7C271702100060%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8852",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-117",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-02-17",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/271702100060",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271702100060&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271702100060&id=69",
+      "fileName": "271702100060",
+      "id": "https://castroprauxel.gremien.info/oparl/file/271702100060",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/057",
+      "size": 156775,
+      "text": " Bereich Kinderförderung 2020/057  öffentlich  Az:     Datum: 17.02.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Jugendhilfeausschuss 05.03.2020 9  Ausschuss für Bürgerbeteiligung und Stadtteilentwicklung 12.03.2020   Betriebsausschuss 3 (Bauen, Verkehr und Sport) 23.04.2020   Rat der Stadt 30.04.2020    Betreff  Absichtserklärung zur Neugestaltung der Grün- und Spielfläche am Hallenbad zu einer Spiel-Sport-und Erholungsanlage mit Mehrgenerationencharakter unter Verwendung von 350.000  sowie Mitteleinsatz von 100.000  zur Ergänzug weiterer Spielflächen im Stadtgebiet  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f  Beschlussvorschlag  Der Rat der Stadt beschließt, die in den Haushaltsjahren 2020 und 2021 unter Priorität2 der Investitions-Dringlichkeitsliste 2020/2021 eingeplante Summe in Höhe von insgesamt 450.000  Optimierung/Einrichtung einer/mehrerer Großspielfläche/n als herausragender Spielplatz in zentraler Lage zum Anteil von 350.0000  für die Neugestaltung der Grün- und Spielfläche am Hallenbad zu einer Spiel-Sport-und Erholungsanlage   mit Mehrgenerationencharakter sowie zu einem Anteil von 100.000  für die Ergänzung vorhandener Spielflächen im Stadtgebiet zu verwenden.    \f  \f   _________________  __________________  _________________ Rajko Kravanja   Regina Kleff    Bettina Lenort     Bürgermeister   Beigeordnete für Soziales  Stadtbaurätin                                         Sachverhalt   Bereits 2010 wurde im Rahmen der Sitzungsvorlage zum Spielflächen- und Spielplatzplan 2010 bis 2015 mit integrierter Spielleitplanung (Vorlage Nummer 2010/182) durch den Rat beschlossen, dass vordergründig größere multifunktionale Spiel- und Erholungsflächen an zentralen Orten im Stadtgebiet anzustreben bzw. qualitativ aufzuwerten sind, die auch langfristig ein größeres Einzugsgebiet und mehrere Zielgruppen (Kinder, Jugendliche, Familien, Senioren) gleichzeitig bedienen können. Hierzu wurde ebenfalls eine Priorisierung der Spielplätze vorgelegt.  In Anbetracht der fehlenden investiven Mittel für derartige Maßnahmen, konnten in Vergangenheit lediglich kleinere Erweiterungen an Bestandsspielplätzen vorgenommen werden.   Im Frühjahr 2019 bildete sich eine Spielplatzkommission bestehend aus Vertretern/innen aller politischen Parteien, dem KiJuPa sowie Verwaltungsmitarbeiter/innen. In einem ersten Schritt wurden einige Spielanlagen in der Nachbarstadt Herne besichtigt und im Nachgang Flächen in Castrop-Rauxel unter die Lupe genommen, um sich einen aktuellen Überblick zur bestmöglichen Umsetzung der o.g. Kriterien zu verschaffen.  Da durch die Maßnahme Sprung über die Emscher im Norden derzeit eine große Naherholungsanlage mit Spielräumen umgesetzt wird, wurden durch die Spielplatzkommission in erster Linie Flächen im Süden und der Stadtmitte inspiziert.   Mit einstimmigen Ergebnis fiel schließlich die Entscheidung für die Grün- und Spielfläche am Hallenbad, welche zentral gelegen, verkehrstechnisch gut angebunden und von der Flächengröße mit 12.500 qm geradezu prädestiniert ist, zu einer multifunktionalen Spiel-Sport-und Erholungsanlage mit Mehrgenerationencharakter gestaltet zu werden (siehe Anlage 2: Auszug aus dem Geodatenbestand).   Daneben steht die Erweiterung bzw. Ertüchtigung weiterer Spielflächen im Stadtgebiet im Raum.   Für die Haushaltsjahre 2020 und 2021 wurden insgesamt 450.000  (in 2020: 150.000 ; 2021: 300.000 ) für Spielplätze unter dem Hinweis Optimierung/Einrichtung einer/mehrerer Großspielfläche/n als herausragender Spielplatz in zentraler Lage in den Haushalt eingestellt.   Die Spielplatzkommission hat sich nach Abwägen des Für und Wieder eine Teilsumme der Mittel in mehrere Spielanlagen zu investieren einstimmig dafür ausgesprochen, möglichst die gesamte Summe von 450.000  in die Ertüchtigung und Neugestaltung der Grün- und Spielfläche am Hallenbad fließen zu lassen, mit dem Ziel an dieser zentral gelegenen Fläche die gut von Nord und Süd erreichbar ist, eine Spiel- Sport- und Erholungsanlage zu schaffen, die für alle Altersgruppen etwas bietet und zum Verweilen einlädt.  Da jedoch weitere Anlagen bzw. Spielflächen in den Stadtteilen ergänzende Ausstattung bedürfen, empfiehlt die Verwaltung, zunächst einen Anteil von 350.000  für die Neugestaltung der Grün- und Spielfläche am Hallenbad sowie einem Anteil von 100.000  für die Ergänzung vorhandener Spielflächen im Stadtgebiet zu verwenden.   Zur weiteren Planung ist eine Absichtserklärung zur Verteilung der Mittel erforderlich.     Anlagen:  Anlage 1  Vorlage Nummer 2010/182 und Beschluss  Anlage 2  Auszug aus dem Geodatenbestand\f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Absichtserklärung zur Neugestaltung der Grün- und Spielfläche am Hallenbad zu einer Spiel-Sport-und Erholungsanlage mit Mehrgenerationencharakter unter Verwendung von 350.000 € sowie Mitteleinsatz von 100.000 € zur Ergänzung weiterer Spielflächen im Stadtgebiet",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/057",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3",
+      "https://castroprauxel.gremien.info/oparl/organization/JHA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

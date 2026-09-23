@@ -1,0 +1,117 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36302",
+  "modified_at": "2026-09-10T10:26:57+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369613.pdf",
+        "created": "2026-09-07T18:40:43+02:00",
+        "date": "2026-09-07",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369613.pdf",
+        "fileName": "00369613.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369613",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-10T08:36:12+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369615.pdf",
+        "created": "2026-09-07T18:43:41+02:00",
+        "date": "2026-09-07",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369615.pdf",
+        "fileName": "00369615.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369615",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-10T08:36:12+02:00",
+        "name": "250204_SNS_10412_Vergleichstabelle",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369637.pdf",
+        "created": "2026-09-08T11:36:31+02:00",
+        "date": "2026-09-08",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369637.pdf",
+        "fileName": "00369637.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369637",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-10T08:36:12+02:00",
+        "name": "260907_104_1_SNSentwurf",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141671",
+        "authoritative": true,
+        "created": "2026-09-08T09:10:08+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68756",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24630",
+        "modified": "2026-09-21T11:48:09+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/274"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36302",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141685",
+        "created": "2026-09-08T13:07:53+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68757",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24698",
+        "modified": "2026-09-22T17:37:51+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/270"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36302",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141737",
+        "created": "2026-09-09T10:44:32+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68758",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24654",
+        "modified": "2026-09-21T12:13:02+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36302",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141857",
+        "created": "2026-09-16T08:46:02+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68759",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24543",
+        "modified": "2026-09-23T10:41:34+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36302",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-07T18:21:21+02:00",
+    "date": "2026-09-08",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36302",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-10T10:26:57+02:00",
+    "name": "Sondernutzungssatzung gem. Straßen und Wegegesetz NRW - Neufassung",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/1097/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/6"
+    ]
+  }
+}

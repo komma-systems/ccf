@@ -1,0 +1,178 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/131402100047",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=131402100047%7C20120224093815.doc%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=131402100047%7C20120224093815.doc%7C",
+        "fileName": "20120224093815.doc",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C131402100047%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/131402100047",
+        "mimeType": "application/msword",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "0875dd6b9299e83d6c8a59de4004fed6fa90306e",
+        "size": 19968,
+        "text": "Deckblatt Investitions-Dringlichkeitsliste 2012 - Endfassung",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=131402100047%7C20120224093828.xls%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=131402100047%7C20120224093828.xls%7C",
+        "fileName": "20120224093828.xls",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C131402100047%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/131402100047",
+        "mimeType": "application/vnd.ms-excel",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "263a1ca999b0bcd6ce7739cda29bcad2a5cbefd0",
+        "size": 95232,
+        "text": "Investitionsliste Stand 15.02.2012 - Endfassung",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=131402100047%7C20120224093848.doc%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=131402100047%7C20120224093848.doc%7C",
+        "fileName": "20120224093848.doc",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C131402100047%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/131402100047",
+        "mimeType": "application/msword",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "bf4b8e02ff133c398870dead18800104a47598c6",
+        "size": 20480,
+        "text": "Sperrvermerk G - Seite 16 der Liste 2",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=131402100047%7C20120224093857.xls%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=131402100047%7C20120224093857.xls%7C",
+        "fileName": "20120224093857.xls",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C131402100047%7C4",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/131402100047",
+        "mimeType": "application/vnd.ms-excel",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 4",
+        "sha1Checksum": "d226537434eb1e609947f06ea1fb564046bdb02d",
+        "size": 35328,
+        "text": "Liste 5 zur IDL 2012 - Investive Einzahlungen Stand 15.02.2012 - Endfassung",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=131402100047%7C20120224093904.doc%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=131402100047%7C20120224093904.doc%7C",
+        "fileName": "20120224093904.doc",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C131402100047%7C5",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/131402100047",
+        "mimeType": "application/msword",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 5",
+        "sha1Checksum": "aa5cbaeb493c7bd5527d08f5ca4138ff2cb9861a",
+        "size": 23040,
+        "text": "Hinweise zu den vorgesehenen Kreditaufnahmen - Seite 5 der Liste 5",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-B1-48%7C131402100047%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5015",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B1-48",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B1"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-B2-49%7C131402100047%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5016",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B2-49",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B2"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-B3-49%7C131402100047%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5017",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B3-49",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-HFA-51%7C131402100047%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5018",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-HFA-51",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-RAT-61%7C131402100047%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5019",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-RAT-61",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2012-02-14",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/131402100047",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=131402100047&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=131402100047&id=69",
+      "fileName": "131402100047",
+      "id": "https://castroprauxel.gremien.info/oparl/file/131402100047",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2012/047",
+      "size": 181487,
+      "text": "bereich finanzen 2012/047 öffentlich az: 21-11-21 datum: 14.02.2012 sitzungsvorlage beratungsfolge datum top-nr. betriebsausschuss 1 (ausschuss für öffentliche ordnung, sport und kultur) 07.03.2012 2 betriebsausschuss 2 (ausschuss für jugend, schule und soziales) 08.03.2012 betriebsausschuss 3 (ausschuss für stadtentwicklung, bau und verkehr) 08.03.2012 haupt- und finanzausschuss 13.03.2012 rat der stadt 15.03.2012 betreff investitions-dringlichkeitsliste 2012 der stadt castrop-rauxel finanzielle auswirkungen x keine haushaltsmäßige berührung auswirkungen siehe sachverhalt beschlussvorschlag der rat beschließt die dieser vorlage als anlagen beigefügten listen 1 bis 5 als investitions-dringlichkeitsliste der stadt castrop-rauxel für das jahr 2012. beisenherz glöß eckhardt dobrindt bürgermeister erste beigeordnete beigeordneter techn. beigeordneter sachverhalt die überschuldung der stadt castrop-rauxel im sinne von § 75 abs. 7 s. 2 go nrw ist im haushaltsjahr 2010 eingetreten. außer den bestimmungen der gemeindeordnung nrw und der gemeindehaushaltsverordnung nrw sind daher auch weiterhin im besonderen maße die bestimmungen des erlasses „maßnahmen und verfahren zur haushaltssicherung“ des innenministeriums nrw vom 06.03.2009 sowie die zwischenzeitlich ergangenen verfügungen des landrates des kreises recklinghausen als unterer staatlicher kommunalaufsichtsbehörde zu beachten. zusammen mit dem entwurf der haushaltssatzung und des haushaltsplans für das jahr 2012 wurde den mitgliedern des rates zur ratssitzung am 02.02.2012 ein entwurf der investitions-dringlichkeitsliste 2012 mit dem seinerzeit aktuellen bearbeitungsstand zur kenntnisnahme vorgelegt (vgl. s. 209 – 238 des haushaltsplanentwurfs 2012). der vorgelegte entwurf wurde nunmehr noch durch einzelne maßnahmen ergänzt bzw. modifiziert. die abweichungen sind im anschluss an die sachverhaltsdarstellung dargestellt. die nunmehr zur beschlussfassung vorliegende investitions-dringlichkeitsliste 2012 umfasst – wie bereits in den vorjahren – entsprechend den vorgaben des innenministeriums nrw eine liste „teil- und unrentierliche maßnahmen“ (liste 2) und eine liste „rentierliche maßnahmen“ (liste 3). bei den „rentierlichen maßnahmen“ können die notwendigen investitionen insbesondere durch berücksichtigung der entsprechenden abschreibungen bei zukünftigen gebührenkalkulationen refinanziert werden. die investitions-dringlichkeitsliste 2012 weist für teil- und unrentierliche maßnahmen einen investiven auszahlungsbedarf in höhe von insgesamt 8.990.369 € und für rentierliche maßnahmen einen investiven auszahlungsbedarf in höhe von insgesamt 588.618 € aus. bei den „rentierlichen maßnahmen“ entfallen 79.100 € auf die produktgruppe 12.17 (rettungsdienst) und 361.018 € auf die produktgruppe 55.06 (friedhofs- und bestattungswesen). bei der produktgruppe 11.14 (technisches immobilienmanagement) sind 148.500 € veranschlagt; hierbei handelt es sich um den rentierlichen anteil am neubau des feuerwehrgerätehauses henrichenburg, der letztlich wiederum auf den rettungsdienst (produktgruppe 12.17) entfällt. der gesamtbetrag der investiven auszahlungen aus den listen 2 und 3 beläuft sich auf 9.578.987 €. nicht erfasst sind in den listen 2 und 3 die notwendigen investiven auszahlungen aus finanzierungstätigkeit. diese sind in liste 4 abgebildet. hierbei handelt es sich – lässt man die notwendigen auszahlungen für eine vorgesehene umschuldung in höhe von 5.072.000 €, auf die noch gesondert eingegangen wird, außer betracht – im wesentlichen um laufende tilgungsleistungen aus bestehenden kreditverpflichtungen, die im jahr 2012 mit investiven auszahlungen in höhe von 2.012.760 € zu berücksichtigen sind. die summe aller geplanten investiven auszahlungen für das haushaltsjahr 2012 beträgt ohne die vorgesehene umschuldung somit 11.591.747 €, inklusive umschuldung 16.663.747 € der gesamtbetrag der zu erwartenden und geplanten investiven einzahlungen beläuft sich auf 16.663.747 €. in diesem betrag sind einzahlungen in höhe von insgesamt 24.000 € enthalten, die bereits im november bzw. dezember 2011 bei der stadtkasse eingegangen sind. es handelt sich bei den einzelnen beträgen ausnahmslos um zweckgebundene zuweisungen dritter; nähere einzelheiten können der weiteren sachverhaltsdarstellung entnommen werden. da eine zweckentsprechende mittelverwendung in 2011 nicht mehr möglich war, wurde vorab kontakt mit der kommunalaufsichtsbehörde beim landrat recklinghausen aufgenommen. von dort wurde in aussicht gestellt, die genannten zweckgebundenen investiven einzahlungen im rahmen der genehmigung der investitions-dringlichkeitsliste 2012 als „deckungsmittel“ anzuerkennen, auch wenn die einzahlung tatsächlich bereits in 2011 erfolgt ist. dieses verfahren würde im übrigen dem des vorjahres entsprechen: zur finanzierung der investitions-dringlichkeitsliste 2011 konnten mit ausdrücklicher zustimmung des landrates investive einzahlungen herangezogen werden, die aufgrund der späten verabschiedung des nachtragshaushaltes des landes nordrhein-westfalen für das jahr 2010 zwar noch im dezember 2010 vereinnahmt, jedoch nicht mehr für zusätzliche investive zwecke eingesetzt werden konnten. nach berücksichtigung der notwendigen auszahlungen aus finanzierungstätigkeit ergibt sich ein zur finanzierung der in den listen 2 und 3 enthaltenen maßnahmen zur verfügung stehender betrag an investiven einzahlungen ohne aufnahme weiterer investitionskredite in höhe von 8.297.525 € der gesamtbetrag der zur durchführung der in den listen 2 und 3 enthaltenen notwendigen investiven auszahlungen beträgt hingegen 9.578.987 €. dies bedeutet, dass zur finanzierung der geplanten investitionsmaßnahmen des jahres 2012 die aufnahme eines weiteren kredites zu investitionszwecken in höhe von 1.281.462 € erforderlich ist; hiervon entfallen 574.100 € auf rentierliche, 707.362 € hingegen auf teil- und unrentierliche maßnahmen. inwieweit die kommunalaufsichtsbehörde der geplanten kreditaufnahme für teil- und unrentierliche maßnahmen zustimmen kann, hängt entscheidend von dem noch aufzustellenden haushaltssanierungsplan im sinne des stärkungspaktgesetzes ab, der der bezirksregierung münster bis spätestens 30.06.2012 vorzulegen ist. die in den listen 4 und 5 vorgesehenen ansätze für ein- und auszahlungen in höhe von 5.072.000 € für notwendige umschuldungen sind im hinblick auf die finanzierung der investiven maßnahmen der listen 2 und 3 unbeachtlich, da sie sich in ein- und auszahlung ausgleichen. im übrigen wird auf die darstellungen auf seite 5 der liste 5 verwiesen. die zur beschlussfassung vorgeschlagene priorisierung der investitions-dringlichkeits-liste ist ergebnis eines intensiven verwaltungsinternen abstimmungsprozesses. besonders zu erläutern sind dabei die unter prioritäten-ziffern 32 und 33 geführten maßnahmen. bei den unter ziffer 32 genannten maßnahmen handelt es sich um „auszahlungen für die beschaffung von anlagevermögen“ wie büroinventar und ähnlicher vermögensgegenstände, die hinsichtlich ihrer anschaffungskosten und/oder ihrer bedeutung von untergeordneter rolle sind. die ermittlung einer „rangfolge“ ist hier mit vertretbarem aufwand nicht möglich. gleiches gilt für die unter ziffer 33 geführten „zukäufe zum festwert edv-hardware“. ebenfalls mit der gleichen priorisierung versehen wurden maßnahmen, zwischen denen ein unmittelbarer sachzusammenhang besteht. die unter den ziffern 17 sowie 19 - 41 genannten maßnahmen werden mit einem „sperrvermerk g“ versehen (vgl. seite 16 der liste 2). die dort genannten ansätze dürfen in der ausgewiesenen höhe nur dann bereitgestellt werden, wenn bzw. soweit die unter buchungsstelle 61.01/0172.687100 geführten einzahlungen aus der veräußerung von grundstücken auch tatsächlich vollumfänglich realisiert werden können. hintergrund ist hier, dass nach einschätzung der verwaltung die realisierung eines teilbetrages der veranschlagten einzahlungen risikobehaftet ist (rd. 200.000 € vom gesamtansatz in höhe von 1.000.000 €). aus diesem grund werden bei den betroffenen buchungsstellen zunächst lediglich 80 % des vorgesehenen ansatzes zur bewirtschaftung freigegeben. darüber hinaus können weitere mittel nur freigegeben werden, wenn bzw. soweit die einzahlungen bei der genannten position einen betrag von 800.000 € überschreiten. soweit zur finanzierung einzelner maßnahmen besondere zuwendungen (z. b. investitionszuweisungen des landes nrw) oder mittel der schul- und bildungspauschale oder der sportpauschale herangezogen werden können, ist dies in der spalte „zuwendungen“ unter angabe des jeweils in anspruch genommenen betrages gesondert ausgewiesen. die stadt castrop-rauxel ist nach den bestimmungen des erlasses des innenministeriums nrw über „maßnahmen und verfahren zur haushaltssicherung“ vom 06.03.2009 gehalten, erlöse aus der veräußerung von vermögen in erster linie zur rückführung vorhandener verbindlichkeiten zu verwenden. dieser verpflichtung kommt die stadt nach. die verwaltung geht davon aus, dass im haushaltsjahr 2012 einzahlungen aus grundstückserlösen in höhe von 2.000.000 € erzielt werden können. dem gegenüber stehen ordentliche tilgungsleistungen in höhe von 2.012.760 €; die tilgungsleistungen übersteigen mithin die erwarteten einzahlungen aus grundstückserlösen. änderungen gegenüber dem zur ratssitzung am 02.02.2012 vorgelegten entwurf der investitions-dringlichkeitsliste 2012 (vgl. entwurf haushaltsplan 2012, s. 209 – 238): soziale stadt deininghausen - erstellung einer skulpturalen figur am ortseingang deininghausen (d-pylon) aufnahme in die liste 2 (teil- und unrentierliche maßnahmen) unter prioritätsziffer 54 mit einem investiven auszahlungsansatz in höhe von 30.000 € (buchungsstelle 51.06/0183.789100) aufnahme in die liste 5 (investive einzahlungen) mit einem investiven einzahlungsansatz in höhe von ebenfalls 30.000 €, davon bst. 51.06/0183.681200 (investitionszuwendung land nrw) mit 24.000 € bst. 51.06/0183.681900 (investitionszuwendung durch private dritte) mit 6.000 € investive maßnahmen im rahmen des bildungs- und teilhabepakets (but) aufnahme in die liste 2 (teil- und unrentierliche maßnahmen) unter prioritätsziffer 55 mit folgenden investiven auszahlungsansätzen: bst. 31.05.528060 (zukauf festwert edv-hardware – but-team) mit 6.000 € bst. 31.05/0444.783100 (auszahlungen für den erwerb beweglicher sachen des anlagevermögens) mit 5.000 € bst. 31.05/0444.783200 (auszahlungen für den erwerb beweglicher sachen des anlagevermögens / gwg) mit 8.000 € aufnahme in die liste 5 (investive einzahlungen) mit folgenden ansätzen: bst. 31.05.442331 (zuweisung kreis recklinghausen für zukauf festwert edv-hardware – but-team) mit 6.000 € bst. 31.05/0444.681300 (investitionszuwendungen kreis recklinghausen im rahmen des bildungs- und teilhabepakets) mit 13.000 € beide maßnahmen gleichen sich letztlich in einzahlung und auszahlung aus, führen also in der gesamtbetrachtung weder zu einer belastung noch zu einer entlastung der investitions-dringlichkeitsliste. bei der unter nr. 2 genannten maßnahme ist allerdings zu berücksichtigen, dass die investive einzahlung bereits in 2011 realisiert werden konnte, entsprechende auszahlungen aber erst in 2012 erfolgen werden. insoweit wird auf die darstellungen auf seite 2, letzter absatz, dieser vorlage verwiesen. ähnliches gilt für die bereits im entwurf der investitions-dringlichkeitsliste unter prioritätsziffer 22 der liste 3 vorgesehene maßnahme „muslimischer waschungsraum friedhof merklinde“. die maßnahme sollte ursprünglich noch im haushaltsjahr 2011 umgesetzt werden. die finanzierung ist vollumfänglich aus zuwendungen dritter vorgesehen (vgl. hierzu auch ratsbeschluss 2011/339 vom 08.12.2011). die realisierung konnte allerdings nicht mehr erfolgen, da die hierzu notwendigen zuwendungen dritter in 2011 nicht vollumfänglich eingegangen sind. hier war „lediglich“ der eingang eines teilbetrages von 5.000 € festzustellen. insoweit wird auch hier auf die darstellungen auf seite 2, letzter absatz, dieser vorlage verwiesen. die zahlung des noch erforderlichen restbetrages in höhe von 9.518 € ist vom zuwendungsgeber für 2012 zugesagt und zum teil bereits erfolgt.investitions-dringlichkeitsliste 2012 der stadt castrop-rauxel2012/047%anl%;deckblatt investitions-dringlichkeitsliste 2012 - endfassunginvestitionsliste stand 15.02.2012 - endfassungsperrvermerk g - seite 16 der liste 2liste 5 zur idl 2012 - investive einzahlungen stand 15.02.2012 - endfassunghinweise zu den vorgesehenen kreditaufnahmen - seite 5 der liste 5 ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Investitions-Dringlichkeitsliste 2012 der Stadt Castrop-Rauxel",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2012/047",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B1",
+      "https://castroprauxel.gremien.info/oparl/organization/B2",
+      "https://castroprauxel.gremien.info/oparl/organization/B3",
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

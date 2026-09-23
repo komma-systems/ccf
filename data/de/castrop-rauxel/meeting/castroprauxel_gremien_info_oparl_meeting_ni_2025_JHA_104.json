@@ -1,0 +1,316 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-104",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-104%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-104",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-104%7C1%7C1",
+          "date": "2025-09-23",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-104%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-104%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 62771,
+          "text": "  1 Fragestunde für Einwohnerinnen und Einwohner   Keine Fragen.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-104%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-104",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-104%7CProtokoll%7C1",
+          "date": "2025-09-23",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-104%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-104%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 64470,
+          "text": "  2 Einwände gegen die letzte Niederschrift   Keine Einwände.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-104%7C11%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-104",
+        "name": "Mündlicher Bericht aus dem Kinder- und Jugendparlament",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-104%7C11%7C1",
+          "date": "2025-09-23",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-104%7C11%7C1",
+          "fileName": "be_11_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-104%7C11%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 87536,
+          "text": "  3 Mündlicher Bericht aus dem Kinder- und Jugendparlament   Cleo Isbruch und Maro Schüler berichten von den letzten Aktivitäten des Kinder- und Jugendparlamentes und weisen auf die nächste große Sitzung am 01.10.2025 sowie darauf hin, dass in diesem Jahr keine Neuwahlen des Kinder- und Jugendparlamentes stattfinden.   Der Jugendhilfeausschuss nimmt den Bericht zur Kenntnis.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-104%7C39%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-104",
+        "name": "Mündlicher Bericht aus der AG 1,  AG 2 und AG 3",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-104%7C39%7C1",
+          "date": "2025-09-23",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-104%7C39%7C1",
+          "fileName": "be_39_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-104%7C39%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 100343,
+          "text": "  4 Mündlicher Bericht aus der AG 1, AG 2 und AG 3   AG 1  Frau Idczak berichtet von der Sitzung der AG 1 am 04.09.2025.   In Verbindung mit den Beratungen zum neuen Kinder- und Jugendförderplan wurden ein Resümee zum aktuellen Kinder- und Jugendförderplan gezogen sowie personelle und finanzielle Unklarheiten bei den freien Trägern thematisiert. Anfang des Jahres 2026 ist eine Zukunftswerkstatt zu den Themen geplant.   Darüber hinaus wurde über den Umgang mit Anfragen zur Nutzung der städtischen Jugendzentren insbesondere durch politische Parteien beraten. Hierzu will man sich auf eine einheitliche Regelung auch mit den freien Trägern verständigen.   Der Jugendhilfeausschuss nimmt den Bericht zur Kenntnis.   Die AG 2 und AG 3 haben in der Zwischenzeit nicht getagt.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/14209",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-104%7C380409100157%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-104",
+        "name": "Weiterentwicklung der Angebotsstruktur von Kindertageseinrichtungen in Castrop-Rauxel, hier: Errichtung einer Waldkita als Dependance",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-104%7C380409100157%7C1",
+          "date": "2025-09-23",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-104%7C380409100157%7C1",
+          "fileName": "be_380409100157_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-104%7C380409100157%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 95156,
+          "text": "  5 Weiterentwicklung der Angebotsstruktur von Kindertageseinrichtungen in Castrop-Rauxel, hier: Errichtung einer Waldkita als Dependance (2025/153)   Frau Kleff erläutert die Sitzungsvorlage und das geplante Konzept des Trägers für die angestrebte Dependance der Kita am Wald, welches in einer kommenden Sitzung im Detail vorgestellt werden soll. Der Jugendhilfeausschuss begrüßt die Planungen zu der Waldkita an dem Standort ausdrücklich.   Der Jugendhilfeausschuss nimmt die Ausführungen der Verwaltung zur Kenntnis und beauftragt die Verwaltung einstimmig, die Errichtung einer Waldkitagruppe als Dependance der Kita am Wald in der dargestellten Form umzusetzen.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2025-JHA-104%7Czt_0%7C1%7C20250923123300-0_zt_0_1.pdf",
+            "date": "2025-09-23",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2025-JHA-104%7Czt_0%7C1%7C20250923123300-0_zt_0_1.pdf",
+            "fileName": "20250923123300-0_zt_0_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2025-JHA-104%7Czt_0%7C1%7C20250923123300-0_zt_0_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Präsentation Casterix Ferienprogramm",
+            "size": 10180460,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-104%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-104",
+        "name": "Rückblick Casterix Sommerferienprogramm - mündlicher Bericht Frau Idczak",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-104%7Czt_0%7C1",
+          "date": "2025-09-23",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-104%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-104%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 99804,
+          "text": "  6 Rückblick Casterix Sommerferienprogramm - mündlicher Bericht Frau Idczak   Frau Idczak berichtet von den Casterix-Angeboten in den Sommerferien. Neben dem Casterix-Großprojekt unter dem Motto Ca(r)sterix, haben eine sehr gut besuchte Schools out-Party, verschiedene sonstige Angebote, Freizeiten und Ausflüge und Spätschichten für Jugendliche stattgefunden und auch das Castrix-Mobil war eine Woche am Spiel- und Sportpark  Castroper Holz  im Einsatz.   Die Präsentation zu dem Bericht hängt dem Protokoll an. Ein Film zum Casterix-Sommerferienprogramm findet man unter  https://www.youtube.com/watch?v=pr1vJVzUPos .   Der Jugendhilfeausschuss nimmt den Bericht zur Kenntnis.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2025-JHA-104%7Czt_1%7C1%7C20250923142319-0_zt_1_1.pdf",
+            "date": "2025-09-23",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2025-JHA-104%7Czt_1%7C1%7C20250923142319-0_zt_1_1.pdf",
+            "fileName": "20250923142319-0_zt_1_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2025-JHA-104%7Czt_1%7C1%7C20250923142319-0_zt_1_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Informationsflyer Emscher_Falken",
+            "size": 2627651,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-104%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-104",
+        "name": "Offene Kinder- und Jugendarbeit auf dem Hof Emscher-Auen - mündlicher Bericht der \"Emscher-Falken\"",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-104%7Czt_1%7C1",
+          "date": "2025-09-23",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-104%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-104%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 103328,
+          "text": "  7 Offene Kinder- und Jugendarbeit auf dem Hof Emscher-Auen - mündlicher Bericht der  Emscher-Falken    Frau Mandy Schneider, Projektkoordinatorin, und Herr Robert Austmann,  Teil der Geschäftsführung des Falken Bildungs- und Freizeitwerks Dortmund e.V. (FBF Dortmund), berichten von der Arbeit der Emscher-Falken in der Einrichtung Hof Emscherauen am Hochwasserrückhaltebecken zwischen Dortmund-Mengede und Castrop-Rauxel-Ickern. Der ehemalige Pferdestall wurde im Jahr 2017 durch die Emschergenossenschaft zur Verfügung gestellt und durch den Ortsverband Nette / Mengede renoviert und mit Küche, Werkstatt und Materiallager ausgestattet. Eine hauptamtliche und zehn ehrenamtliche Kräfte bieten eine breite Auswahl an Aktivitäten der Offenen Kinder- und Jugendarbeit am Wochenende hauptsächlich im Freien an. Daneben beteiligen sich die Emscher-Falken an Festen, Terminen und Ferienangeboten. Einige Informationsflyer, die einen Eindruck von der Arbeit vermitteln, hängen dem Protokoll an.   Das Projekt wurde bisher durch die Förderung nordwärts der Stadt Dortmund finanziert, welche nunmehr aber ausgeschöpft ist. Aktuell wurde ein Förderantrag bei der Aktion Mensch gestellt. Von einer Förderung ist die weitere Beschäftigung der hauptamtlichen Kraft vor Ort abhängig.    Herr Ronge regt eine engere Zusammenarbeit der Emscher-Falken mit dem Stadtjugendring und dem Team der Offenen Kinder- und Jugendarbeit sowie eine Aufnahme der Angebote in das Ferienprogramm der Stadt Castrop-Rauxel an.   Der Jugendhilfeausschuss nimmt den Bericht zur Kenntnis.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-104%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-104",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-104%7C6%7C1",
+          "date": "2025-09-23",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-104%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-104%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 91355,
+          "text": "  8 Anfragen der Ausschussmitglieder   Auf Rückfrage von Herrn Kaese erklärt Frau Wimber, dass Probleme mit der Antragstellung KiTa-Helfer in Castrop-Rauxel nicht bekannt seien.   Herr Ronge erinnert an die Gedenkveranstaltung zur Pogromnacht, die in diesem Jahr am 10.11.2025 um 17:00 Uhr stattfindet, und lädt alle Fraktionen hierzu ein.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-104%7C998%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-104",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-JHA-104%7C998%7C1",
+          "date": "2025-09-23",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-JHA-104%7C998%7C1",
+          "fileName": "be_998_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-JHA-104%7C998%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 59708,
+          "text": "  9 Mitteilungen der Verwaltung   Keine Mitteilungen.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2025-09-18T18:00:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-104",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2025-JHA-104",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-09-04",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2025-JHA-104",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2025-JHA-104",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "b17678b68729be2f3b295f771c202469d4245092",
+      "size": 428094,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-JHA-104/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Jugendhilfeausschusses",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/JHA"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/73",
+      "https://castroprauxel.gremien.info/oparl/person/138",
+      "https://castroprauxel.gremien.info/oparl/person/667",
+      "https://castroprauxel.gremien.info/oparl/person/1043",
+      "https://castroprauxel.gremien.info/oparl/person/873",
+      "https://castroprauxel.gremien.info/oparl/person/1198",
+      "https://castroprauxel.gremien.info/oparl/person/752",
+      "https://castroprauxel.gremien.info/oparl/person/1187",
+      "https://castroprauxel.gremien.info/oparl/person/1061",
+      "https://castroprauxel.gremien.info/oparl/person/1027",
+      "https://castroprauxel.gremien.info/oparl/person/1097",
+      "https://castroprauxel.gremien.info/oparl/person/851",
+      "https://castroprauxel.gremien.info/oparl/person/854",
+      "https://castroprauxel.gremien.info/oparl/person/906",
+      "https://castroprauxel.gremien.info/oparl/person/1236",
+      "https://castroprauxel.gremien.info/oparl/person/1288",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/926",
+      "https://castroprauxel.gremien.info/oparl/person/951",
+      "https://castroprauxel.gremien.info/oparl/person/572"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2025-JHA-104",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-09-23",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=7&meeting_id=ni_2025-JHA-104",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2025-JHA-104",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Gesamtprotokoll",
+      "size": 176051,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2025-09-18T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2025-JHA-104",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-09-23",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=7&meeting_id=ni_2025-JHA-104",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2025-JHA-104",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Gesamtprotokoll",
+      "size": 176051,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

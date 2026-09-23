@@ -1,0 +1,354 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ABES-10",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ABES-10%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ABES-10",
+        "name": "Ernennung der Schriftführung und der stellvertretenden Schriftführung für den Ausschuss für Bürgeranliegen, Ehrenamt und Sport (ABES) der Stadt Castrop-Rauxel",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7Czt_0%7C1",
+          "date": "2026-06-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ABES-10%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 182250,
+          "text": "1 Ernennung der Schriftführung und der stellvertretenden Schriftführung für den Ausschuss für Bürgeranliegen, Ehrenamt und Sport (ABES) der Stadt Castrop-Rauxel   Gemäß §§ 52 und 58 der Gemeindeordnung NRW in Verbindung mit § 17 der Geschäftsordnung des Rates der Stadt Castrop-Rauxel wird als Schriftführerin für den Ausschuss für Bürgeranliegen, Ehrenamt und Sport Frau Julia Strach einstimmig benannt.   Eine stellvertretende Schriftführung wird vorerst nicht benannt.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ABES-10%7C54%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ABES-10",
+        "name": "Einführung und Verpflichtung von Sachkundigen Bürger*innen und Sachkundigen Einwohner*innen",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7C54%7C1",
+          "date": "2026-06-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7C54%7C1",
+          "fileName": "be_54_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ABES-10%7C54%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 170624,
+          "text": "2 Einführung und Verpflichtung von Sachkundigen Bürger*innen und Sachkundigen Einwohner*innen   Ausschussvorsitzender Herr Hermes verpflichtet die anwesenden Sachkundigen Bürger*innen und Sachkundigen Einwohner*innen, Frau Tara Ivkovic und Herrn Christoph Kokoska.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ABES-10%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ABES-10",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7C1%7C1",
+          "date": "2026-06-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ABES-10%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 150391,
+          "text": "3 Fragestunde für Einwohnerinnen und Einwohner   Keine Fragen.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ABES-10%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ABES-10",
+        "name": "Vorstellung des Vereins SpVgg Blau-Gelb Schwerin e.V. - mündlicher Bericht ",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7Czt_1%7C1",
+          "date": "2026-06-11",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ABES-10%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 224369,
+          "text": "4 Vorstellung des Vereins SpVgg Blau-Gelb Schwerin e.V. - mündlicher Bericht     Herr Michael Trockel, Vorstandsmitglied der SpVgg Blau-Gelb Schwerin e.V. stellt den Verein und seine neuesten Entwicklungen vor. Er erläutert die Hintergründe für den bevorstehenden Fusionsprozess mit dem Verein FC Castrop- Rauxel e.V. Eine endgültige Finalisierung wird zeitnah erfolgen, infolgedessen wird der neue Vereinsname: FC Blau-Gelb Castrop-Rauxel e.V. lauten.  Darüber hinaus benennt Herr Trockel noch die folgenden Herausforderungen, die der Verein aktuell zu bewältigen hat und hofft auf Unterstützung durch die Verantwortlichen der Stadt und Politik.  Grenzen im Ehrenamt  der Grünschnitt der Bäume und Sträucher auf dem Sportplatzgelände, insbesondere hinter den Ballfangzäunen ist aufgrund des starken Bewuchses und der fehlenden Gerätschaften für den Verein und die Mitglieder nicht eigenständig zu bewältigen.  Die Stabsstelle schlägt vor einen gemeinsamen Termin mit dem EUV Stadtbetrieb (Sportplatztruppe) zu vereinbaren. Grundsätzlich liegt die Sportplatzpflege jedoch bei den Vereinen, die dafür eine Pauschale erhalten. Eine regelmäßige Pflege durch den EUV ist aus Kosten- und Personalgründen nicht realisierbar, da es sich um eine freiwillige Leistung handelt.   Finanzen  der Verein fragt an, ob die Möglichkeit besteht den Sportplatznamen, wie aus anderen Städten bekannt, zu vermarkten, um so Sponsoreneinnahmen zu generieren. \u000bBürgermeister Kravanja erläutert die gemeinschaftliche Beschlussvorlage mit dem Stadtsportverband, dass keine städtischen Plätze vermarktet werden. Die Thematik wird nochmal in den Arbeitskreis Sport mit aufgenommen.   Kinderschutzkonzept- der Verein weist daraufhin, dass die Implementierung eines Kinderschutzkonzepts sowie die verpflichtende Vorlage erweiterter Führungszeugnisse von Trainerinnen und Trainern derzeit in vielen Vereinen noch nicht zum Standard gehören. Herr Trockel regt an, die entsprechenden Anforderungen für alle Vereine verbindlich vorzuschreiben. Andernfalls sei zu prüfen, ob die Vergabe bzw. der Umfang der städtischen Platznutzungszeiten an die Erfüllung dieser Voraussetzungen geknüpft oder entsprechend begrenzt werden sollte.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16478",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ABES-10%7C402004100120%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ABES-10",
+        "name": "Anliegenstatistik",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7C402004100120%7C1",
+          "date": "2026-06-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7C402004100120%7C1",
+          "fileName": "be_402004100120_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ABES-10%7C402004100120%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 163594,
+          "text": "  5 Anliegenstatistik (2026/117)   Frau Markan erläutert die Vorlage der Verwaltung zur Anliegenstatistik.  Der Ausschuss nimmt die Vorlage zur Kenntnis.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16481",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ABES-10%7C402004100122%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ABES-10",
+        "name": "Anpassung der Richtlinie zur Verleihung der Sport- und Jugendsportplakette",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7C402004100122%7C1",
+          "date": "2026-06-09",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7C402004100122%7C1",
+          "fileName": "be_402004100122_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ABES-10%7C402004100122%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 177078,
+          "text": "6 Anpassung der Richtlinie zur Verleihung der Sport- und Jugendsportplakette (2026/119)   Der Ausschuss für Bürgeranliegen, Ehrenamt und Sport empfiehlt dem Rat der Stadt einstimmig, wie folgt zu beschließen:   Der Rat beschließt die Änderung der Richtlinie zur Verleihung der Sport- und Jugendsportplakette der Stadt Castrop-Rauxel gemäß den dargestellten Anpassungen.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ABES-10%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ABES-10",
+        "name": "Sportstättenentwicklungskonzept - mündlicher Bericht ",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7Czt_2%7C1",
+          "date": "2026-06-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ABES-10%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 179962,
+          "text": "  7 Sportstättenentwicklungskonzept - mündlicher Bericht    Frau Markan berichtet mündlich über den Sachstand des Sportstättenentwicklungskonzepts.  Für die Umsetzung wurde Anfang des Jahres im Rahmen einer Ausschreibung das Institut für kommunale Sportentwicklungsplanung (INSPO) aus Potsdam ausgewählt.   Nach einer umfangreichen Datenlieferung aus dem Bereich Sport wird derzeit eine Bevölkerungsbefragung auf Grundlage einer Stichprobenziehung zum Sportverhalten der Bevölkerung durchgeführt. In einem weiteren Schritt ist vorgesehen, die Sportvereine sowie die Schulen in eine weitere Befragung miteinzubeziehen. Ab August erfolgt dann die Bestandsaufnahme der Sportstätten in Castrop-Rauxel in Zusammenarbeit mit dem Institut.  Der zeitliche Ablauf sieht vor, dass das Konzept im Frühjahr 2027 fertiggestellt und das Ergebnis anschließend im Ausschuss für Bürgeranliegen, Ehrenamt und Sport präsentiert werden soll.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16489",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ABES-10%7C400903100093%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ABES-10",
+        "name": "Antrag CDU-Ratsfraktion vom 03.03.2026 zur Einführung des Demokratie-Wegweisers in Castrop-Rauxel",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7C400903100093%7C1",
+          "date": "2026-06-09",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7C400903100093%7C1",
+          "fileName": "be_400903100093_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ABES-10%7C400903100093%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 189765,
+          "text": "  8 Antrag CDU-Ratsfraktion vom 03.03.2026 zur Einführung des Demokratie-Wegweisers in Castrop-Rauxel (2026/092)   Der Ausschuss für Bürgeranliegen, Ehrenamt und Sport empfiehlt dem Rat der Stadt einstimmig, wie folgt zu beschließen:  Die Verwaltung wird beauftragt zu prüfen, inwiefern die Stadt Castrop-Rauxel eine digitale politische Verantwortungsträgerkarte in die städtische Internetseite einbinden kann. Hierzu wird die Verwaltung beauftragt, die dafür notwendigen Schritte und eine Kostenermittlung mit der Demokratie-Wegweiser gUG abzustimmen und zu prüfen, ob auch das Self-Service-Modul für Ratsmitglieder eingerichtet werden kann. Anschließend sind dem Ausschuss für Bürgerbeteiligung, Sport und Ehrenamt, dem Betriebsausschuss 2 sowie dem Rat eine entsprechende Beschlussvorlage zur Beratung und Beschlussfassung mit dem Prüfungsergebnis und einer Beschlussempfehlung vorzulegen.          \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16494",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ABES-10%7C402304100131%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ABES-10",
+        "name": "Antrag SPD-Ratsfraktion vom 03.02.2026 zur Entwicklung einer Ehrenamtsstrategie für die Stadt Castrop-Rauxel",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7C402304100131%7C1",
+          "date": "2026-06-09",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7C402304100131%7C1",
+          "fileName": "be_402304100131_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ABES-10%7C402304100131%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 189951,
+          "text": "9 Antrag SPD-Ratsfraktion vom 03.02.2026 zur Entwicklung einer Ehrenamtsstrategie für die Stadt Castrop-Rauxel (2026/128)   Der Ausschuss für Bürgeranliegen, Ehrenamt und Sport empfiehlt dem Rat einstimmig, wie folgt zu beschließen:  Die SPD-Ratsfraktion beantragt, der Ausschuss für Bürgeranliegen, Ehrenamt und Sport sowie der Rat möge beschließen: 1. Die Verwaltung wird beauftragt, eine Ehrenamtsstrategie zu entwickeln und dem Ausschuss für Bürgeranliegen, Ehrenamt und Sport sowie dem Rat zur Beschlussfassung vorzulegen. 2. Über den Stand der Entwicklung und die Umsetzung der Ehrenamtsstrategie ist dem Ausschuss für Bürgeranliegen, Ehrenamt und Sport regelmäßig sowie anlassbezogen zu berichten.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ABES-10%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ABES-10",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7C6%7C1",
+          "date": "2026-06-11",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ABES-10%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 179277,
+          "text": "10 Anfragen der Ausschussmitglieder   Frau Vogt erläutert die Anfrage der CDU-Ratsfraktion: Möglichkeit der Einführung eines halbjährlichen Netzwerktreffens für Vereine sowie Aufbau einer digitalen Vernetzungsplattform Wir schaffen Rahmenbedingungen für eine Zusammenarbeit unserer Vereine.  Die Anfrage wird schriftlich von der Verwaltung beantwortet.   Frau Starke erkundigt sich, ob das Jugendbudget im laufenden Jahr wieder zur Verfügung steht oder gegebenenfalls erst im Jahr 2027 wieder aufgelegt wird.  Bürgermeister Kravanja erläutert, dass das Jugendbudget nicht an das Bürgerbudget gekoppelt ist. Die weitere Umsetzung beziehungsweise Bereitstellung des Jugendbudgets befinde sich derzeit noch in Abstimmung mit der Kommunalaufsicht.  Frau Markan ergänzt, dass das Bürgerbudget aufgrund der aktuellen Haushaltslage in diesem Jahr nicht realisiert werden kann.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ABES-10%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ABES-10",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7C4%7C1",
+          "date": "2026-06-11",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-ABES-10%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-ABES-10%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 162285,
+          "text": "11 Mitteilungen der Verwaltung   Frau Markan erläutert, dass eine wesentliche Änderung bei der Beantragung der Ehrenamtskarte in der Reduzierung der erforderlichen jährlichen oder wöchentlichen Stundenzahl erfolgt ist. Zudem sei die Beantragung der Jubiläumskarte nun auch in digitaler Form möglich.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ABES-10%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ABES-10",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-ABES-10%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ABES-10",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-05-07T18:40:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ABES-10",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2026-ABES-10",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-04-28",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2026-ABES-10",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2026-ABES-10",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "57e1c5d294757656b8415c7241fe3373ab40e396",
+      "size": 213291,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Vereinsheim SpVgg Blau-Gelb Schwerin, Grafweg 1, Grafweg 1, 44577 Castrop-Rauxel",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-ABES-10/location",
+      "locality": "Castrop-Rauxel",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "postalCode": "44577",
+      "room": "Vereinsheim SpVgg Blau-Gelb Schwerin, Grafweg 1",
+      "streetAddress": "Grafweg 1",
+      "subLocality": "Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschuss für Bürgeranliegen, Ehrenamt und Sport",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/ABES"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/1003",
+      "https://castroprauxel.gremien.info/oparl/person/1076",
+      "https://castroprauxel.gremien.info/oparl/person/1029",
+      "https://castroprauxel.gremien.info/oparl/person/1349",
+      "https://castroprauxel.gremien.info/oparl/person/984",
+      "https://castroprauxel.gremien.info/oparl/person/1305",
+      "https://castroprauxel.gremien.info/oparl/person/1007",
+      "https://castroprauxel.gremien.info/oparl/person/1337",
+      "https://castroprauxel.gremien.info/oparl/person/309",
+      "https://castroprauxel.gremien.info/oparl/person/1303",
+      "https://castroprauxel.gremien.info/oparl/person/1317",
+      "https://castroprauxel.gremien.info/oparl/person/873",
+      "https://castroprauxel.gremien.info/oparl/person/1137",
+      "https://castroprauxel.gremien.info/oparl/person/640",
+      "https://castroprauxel.gremien.info/oparl/person/1389",
+      "https://castroprauxel.gremien.info/oparl/person/1207",
+      "https://castroprauxel.gremien.info/oparl/person/1251",
+      "https://castroprauxel.gremien.info/oparl/person/1287",
+      "https://castroprauxel.gremien.info/oparl/person/1236",
+      "https://castroprauxel.gremien.info/oparl/person/1184",
+      "https://castroprauxel.gremien.info/oparl/person/176"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-ABES-10",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-06-15",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-ABES-10",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-ABES-10",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 300975,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2026-05-07T17:30:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-ABES-10",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-06-15",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-ABES-10",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-ABES-10",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 300975,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

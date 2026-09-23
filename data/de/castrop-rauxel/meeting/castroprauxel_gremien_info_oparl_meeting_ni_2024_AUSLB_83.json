@@ -1,0 +1,233 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AUSLB-83",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AUSLB-83%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AUSLB-83",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AUSLB-83%7C1%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AUSLB-83%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AUSLB-83%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 382575,
+          "text": "Da die Vorsitzende Frau Cetin verhindert ist, leitet ihre Stellvertreterin Frau Omidi die Sitzung. Frau Omidi begrüßt die Ausschussmitglieder und die Gäste.  1 Fragestunde für Einwohnerinnen und Einwohner  Es gibt keine Fragen.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AUSLB-83%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AUSLB-83",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AUSLB-83%7CProtokoll%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AUSLB-83%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AUSLB-83%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 375283,
+          "text": " 2 Einwände gegen die letzte Niederschrift  Es gibt keine Einwände.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AUSLB-83%7C9958%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AUSLB-83",
+        "name": "Vorstellung des neuen Leiters des Bereichs 41 Kultur, Weiterbildung und Qualifizierung, Dr. Chokri Guellali",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AUSLB-83%7C9958%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AUSLB-83%7C9958%7C1",
+          "fileName": "be_9958_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AUSLB-83%7C9958%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 405132,
+          "text": " 3 Vorstellung des neuen Leiters des Bereichs 41 Kultur, Weiterbildung und Qualifizierung, Dr. Chokri Guellali  Dr. Guellali stellt die strategische Planung des Bereichs 41 dem Gremium vor. Neben der Erweiterung der Angebote auch für neue Zielgruppen der VHS sollen auch die Angebote des EBZ erweitert werden.  Der komplette Bereich soll an Sichtbarkeit gewinnen und die Öffentlichkeitsarbeit soll ausgebaut werden. Z.T. werden die Öffnungszeiten erweitert. Schließlich sollen Prozesse optimiert werden.  Frau Omidi bedankt sich im Namen des Gremiums für die Ausführungen und eröffnet die Diskussion.  Die Mitglieder des Integrationsrates bieten eine Zusammenarbeit an. Auf die Frage nach vorhandenen Integrationskurset erwidert Dr. Guellali, dass die VHS im Rahmen ihrer Möglichkeiten entsprechende Kurse anbieten würde.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12976",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AUSLB-83%7C352805100131%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AUSLB-83",
+        "name": "Gemeinsamer Antrag der SPD Fraktion und BÜNDNIS 90 / DIE GRÜNEN vom 27.05.2024_\r\nTeilhabekonferenzen für Castrop-Rauxel",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AUSLB-83%7C352805100131%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AUSLB-83%7C352805100131%7C1",
+          "fileName": "be_352805100131_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AUSLB-83%7C352805100131%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 407281,
+          "text": " 4 Gemeinsamer Antrag der SPD Fraktion und BÜNDNIS 90 / DIE GRÜNEN vom 27.05.2024_ Teilhabekonferenzen für Castrop-Rauxel (2024/128)  Herr Werkle stellt den gemeinsamen Antrag der SPD Fraktion und BÜNDNIS 90 / DIE GRÜNEN dem Gremium vor. Der Antrag wird einstimmig angenommen.  siehe Anlage.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AUSLB-83%7C9945%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AUSLB-83",
+        "name": "Anfragen der Rats- bzw. Integrationsratsmitglieder",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AUSLB-83%7C9945%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AUSLB-83%7C9945%7C1",
+          "fileName": "be_9945_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AUSLB-83%7C9945%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 399755,
+          "text": " 5 Anfragen der Rats- bzw. Integrationsratsmitglieder  Frau Omidi stellt die Frage, wie sich die Fraktionen eine Zusammenarbeit mit dem Integrationsrat vorstellt und bitte um interne Klärungen und Berichte.  Herr Matentzoglou erkundigt sich, ob geplant ist, einen Beitrag zur Interkulturellen Woche zu leisten. Frau Kleff und Frau Molsich sagen zu, dies zu prüfen.  Frau Omidi berichtet, dass die Ausländerbehörde, die offenen Sprechstunde wieder einstellen wird.  Frau Omidi berichtet über die Begehung der Notunterkunft an der B 235. Die Mitarbeiter*innen der Unterkunft und der Bezirksregierung haben einen Überblick über die Unterkunft vorgestellt sowie die neuen Container mit den Beschäftigungsangeboten gezeigt. Aufgrund der neuen Angebote gäbe es kaum Polizeieinsätze mehr.  Die Verwaltung wird gefragt, wie lange die Notunterkunft in dieser Form noch Bestand hätte. Die erste Beigeordnete Frau Kleff erwidert, dass der Mietvertrag bis Mitte nächsten Jahres laufen würde. Danach müsse eine Alternative gefunden werden.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AUSLB-83%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AUSLB-83",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AUSLB-83%7C4%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AUSLB-83%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AUSLB-83%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 387213,
+          "text": " 6 Mitteilungen der Verwaltung  Es gibt keine Mitteilungen.  Die stellvertretende Vorsitzende beschließt die Sitzung um 18:32 Uhr. Es gibt keinen nichtöffentlichen Teil.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AUSLB-83%7C14%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AUSLB-83",
+        "name": "Anfragen der Rats- bzw. Integrationsratsmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AUSLB-83%7C997%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AUSLB-83",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2024-06-19T18:32:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AUSLB-83",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-AUSLB-83",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-06-05",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2024-AUSLB-83",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2024-AUSLB-83",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "f26fd7bc24fbadb9c82bb27703e82af39504084e",
+      "size": 427576,
+      "text": "Tagesordnung zur Sitzung des Integrationsrates am Mittwoch, 19.06.2024 um 18:00 Uhr im Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel  I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner  2. Einwände gegen die letzte Niederschrift  3. Vorstellung des neuen Leiters des Bereichs 41 Kultur, Weiterbildung und Qualifizierung, Dr. Chokri Guellali  4. Gemeinsamer Antrag der SPD Fraktion und BÜNDNIS 90 / DIE GRÜNEN vom 27.05.2024_ Teilhabekonferenzen für Castrop-Rauxel  5. Anfragen der Rats- bzw. Integrationsratsmitglieder  6. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  1. Anfragen der Rats- bzw. Integrationsratsmitglieder  2. Mitteilungen der Verwaltung     Aysel C E T I N Ausschussvorsitzende \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AUSLB-83/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Integrationsrates",
+    "organization": [],
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/1053",
+      "https://castroprauxel.gremien.info/oparl/person/1048",
+      "https://castroprauxel.gremien.info/oparl/person/1052",
+      "https://castroprauxel.gremien.info/oparl/person/820",
+      "https://castroprauxel.gremien.info/oparl/person/1029",
+      "https://castroprauxel.gremien.info/oparl/person/240",
+      "https://castroprauxel.gremien.info/oparl/person/1186",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/873"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-AUSLB-83",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-08-21",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-AUSLB-83",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-AUSLB-83",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 460564,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2024-06-19T18:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-AUSLB-83",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-08-21",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-AUSLB-83",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-AUSLB-83",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 460564,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

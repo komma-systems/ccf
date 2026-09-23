@@ -1,0 +1,82 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/162011100041",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=162011100041%7C20141120121805.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=162011100041%7C20141120121805.pdf%7C",
+        "fileName": "20141120121805.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C162011100041%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/162011100041",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "63659644839b0e9fd4e3ae83ccbbec0891c43cf2",
+        "size": 349151,
+        "text": "Anlage 1 - Gebührenbedarfsberechnung 2015 (Stadtentwässerung)",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=162011100041%7C20141120121832.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=162011100041%7C20141120121832.pdf%7C",
+        "fileName": "20141120121832.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C162011100041%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/162011100041",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "4cc7cb2784f5bbe1f015f84f05490fb2bf3a9c8b",
+        "size": 318284,
+        "text": "Anlage 2 - Gebührensatzung zur Entwässerungssatzung 2015",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-6%7C162011100041%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6296",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2014-EUV-6",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2014-11-20",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/162011100041",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=162011100041&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=162011100041&id=69",
+      "fileName": "162011100041",
+      "id": "https://castroprauxel.gremien.info/oparl/file/162011100041",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2014/EUV/039",
+      "size": 155379,
+      "text": "Datum: 20.11.2014 TB VII/GBA 9686-340 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 10.12.2014 TOP: Drucksache-Nr. 2014/EUV/039 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 10.12.2014 Rat der Stadt 11.12.2014 Betreff: Gebührenbedarfsberechnung 2015 Stadtentwässerung und Erlass einer Gebührensatzung zur Entwässerungssatzung Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt die Gebührenbedarfsberechnung 2015 Stadtentwässerung (Anlage 1) zur Kenntnis und beschließt die beigefügte Gebührensatzung zur Entwässerungssatzung (Anlage 2). ________________________ Werner Sachverhalt: Gemäß beiliegender Gebührenbedarfsberechnung ist erkennbar, dass zum einem die Beiträge zur Emschergenossenschaft um 5,9 % angehoben worden ist. Ebenso sind erhöhte Personalkosten u.a. durch tarifliche Lohnerhöhungen und Mehrkosten aufgrund von Rufbereitschaften angefallen. Nachdem die Abwassergebühren zuletzt im Jahr 2013 erhöht wurden hält der Vorstand es für erforderlich, die Gebühren ab dem 01.01.2015 wie folgt anzuheben: 2015 2013/2014 % Schmutzwassergebühr 2,39 € pro cbm 2,33 € pro cbm + 2,5 Niederschlagswassergebühr 1,12 € pro qm 1,06 € pro qm + 5,6 Gemäß § 5 Abs. 2 Ziff. 1 der Satzung für das Kommunalunternehmen der Stadt Castrop-Rauxel, EUV, Stadtbetrieb Castrop-Rauxel – AöR – ist der Verwaltungsrat für den Erlass von Satzungen im Rahmen des übertragenen Aufgabenbereiches zuständig. Bezüglich des Erlasses von Satzungen hat der Rat der Stadt Castrop-Rauxel gem. § 9 Abs. 1 der o.g. Satzung ein Weisungsrecht. Vor der öffentlichen Bekanntmachung der Satzung ist somit die vom Verwaltungsrat beschlossene Satzung vom Rat der Stadt Castrop-Rauxel zu billigen. Weiterer Bericht in der Sitzung.Gebührenbedarfsberechnung 2015 Stadtentwässerung und Erlass einer Gebührensatzung zur Entwässerungssatzung2014/EUV/039%anl%;Anlage 1 - Gebührenbedarfsberechnung 2015 (Stadtentwässerung)Anlage 2 - Gebührensatzung zur Entwässerungssatzung 2015 ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Gebührenbedarfsberechnung 2015 Stadtentwässerung und Erlass einer Gebührensatzung zur Entwässerungssatzung",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2014/EUV/039",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

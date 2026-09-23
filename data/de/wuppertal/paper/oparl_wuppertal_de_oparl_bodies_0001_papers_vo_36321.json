@@ -1,0 +1,47 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36321",
+  "modified_at": "2026-09-10T12:31:41+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369764.pdf",
+        "created": "2026-09-09T15:12:23+02:00",
+        "date": "2026-09-09",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369764.pdf",
+        "fileName": "00369764.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369764",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-10T12:31:41+02:00",
+        "name": "Große Anfrage die Linke",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141777",
+        "created": "2026-09-10T11:59:51+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68793",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24738",
+        "modified": "2026-09-21T11:38:39+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/279"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36321",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-09T15:09:22+02:00",
+    "date": "2026-09-10",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36321",
+    "modified": "2026-09-10T12:31:41+02:00",
+    "name": "Einsatz kommunaler Betriebsprüfer zur Sicherung der Gewerbesteuereinnahmen",
+    "paperType": "Große Anfrage die Linke",
+    "reference": "VO/1113/26",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

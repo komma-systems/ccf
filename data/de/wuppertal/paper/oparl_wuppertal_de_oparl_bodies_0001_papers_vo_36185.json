@@ -1,0 +1,63 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36185",
+  "modified_at": "2026-09-08T10:12:53+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368747.pdf",
+        "created": "2026-08-19T16:16:10+02:00",
+        "date": "2026-08-24",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368747.pdf",
+        "fileName": "00368747.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368747",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T10:12:53+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368748.pdf",
+        "created": "2026-08-19T16:19:28+02:00",
+        "date": "2026-08-19",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368748.pdf",
+        "fileName": "00368748.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368748",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T10:12:53+02:00",
+        "name": "Anlage 01 - Beschlussauszug",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141434",
+        "authoritative": true,
+        "created": "2026-08-26T09:21:18+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68527",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24630",
+        "modified": "2026-09-21T11:47:43+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/274"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36185",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-19T16:10:49+02:00",
+    "date": "2026-08-20",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36185",
+    "modified": "2026-09-08T10:12:53+02:00",
+    "name": "Radwege entlang der L419",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/0986/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/6"
+    ]
+  }
+}

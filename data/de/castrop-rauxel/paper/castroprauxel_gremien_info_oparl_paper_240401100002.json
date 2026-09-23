@@ -1,0 +1,49 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/240401100002",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-21%7C240401100002%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7762",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2018-EUV-21",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2018-01-04",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/240401100002",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=240401100002&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=240401100002&id=69",
+      "fileName": "240401100002",
+      "id": "https://castroprauxel.gremien.info/oparl/file/240401100002",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2018/EUV/001",
+      "size": 160313,
+      "text": "/  Datum:  04.01.2018   TB I 96 86 380     Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 07.03.2018 TOP: I.5 Drucksache-Nr. 2018/EUV/001     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 07.03.2018 5  Rat der Stadt 26.04.2018     Betreff:  Delegierter der Stadt Castrop-Rauxel zur Genossenschaftsversammlung der Emschergenossenschaft Nachrücker für Herrn Udo Behrenspöhler     Finanzielle Auswirkungen gem. Wirtschaftsplan   ja Gesamtkosten       x nein Förderung   \f       \f Beschlussvorschlag: Der Verwaltungsrat empfiehlt dem Rat der Stadt Castrop-Rauxel folgenden Beschluss zu fassen: Der Rat der Stadt Castrop-Rauxel wählt als Delegierte/r für die Genossenschaftsversammlung der Emschergenossenschaft bis 2020 Frau/Herrn ___________________________________ als Nachrücker/in für das ehemalige Ratsmitglied Herrn Udo Behrenspöhler.    \f  \f ______________________ Werner Sachverhalt: Mit Beschluss des Rates vom 18.06.2015 wurden die Ratsmitglieder Herr Wolfgang Helsper und Herr Udo Behrenspöhler sowie der Vorstand Herr Werner als Delegierte der Stadt Castrop-Rauxel zur Genossenschaftsversammlung der Emschergenossenschaft für die Wahlperiode von 2015 bis 2020 benannt. Herr Behrenspöhler schied zum 01.01.2018 aus dem Rat der Stadt Castrop-Rauxel aus. Somit nimmt er auch seine Funktion als Delegierter der Stadt Castrop-Rauxel zur Genossenschaftsversammlung der Emschergenossenschaft nicht mehr wahr. Ein neuer Delegierter ist vom Verwaltungsrat vorzuschlagen und vom Rat zu bestätigen. Bei der Benennung der Delegierten sind nach § 12 Abs. 1 bis 4 Emschergenossenschafts-gesetz folgende Bedingungen zu beachten: Delegierter kann nur sein, wer selbst Mitglied der Emschergenossenschaft ist, wer bei dem Mitglied beruflich tätig ist, wer vertretungsberechtigt ist oder den Organen des Mitgliedes angehört. Ein Mitglied darf nicht durch eine Delegierte oder einen Delegierten vertreten werden, die oder der in einem Dienstverhältnis zu einem anderen Mitglied steht. Das gilt nicht für Stimmgruppendelegierte. Wiederwahl oder Wiederberufung von Delegierten ist zulässig. Von einer Gebietskörperschaft dürfen nicht mehr Vertreterinnen oder Vertreter der Verwaltung als Mitglieder der Vertretung der Gebietskörperschaft entsandt werden. Mindestens die Hälfte aller Delegierten der Städte, Gemeinden und Kreise muss einer Vertretung der Gebietskörperschaft angehören. Nach Auffassung der Aufsichtsbehörde sind die hauptamtlichen Bürgermeister und Landräte als Vertreter der Verwaltung anzusehen.  Für alle Delegierte gilt, dass das persönliche Stimmrecht nicht übertragbar ist. Sachkundige Bürger und Bezirksvertreter gelten im Sinne von § 12 Emschergenossenschaftsgesetz als nicht vertretungsberechtigt und können somit nicht entsandt werden.  \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Delegierter der Stadt Castrop-Rauxel zur Genossenschaftsversammlung der Emschergenossenschaft\r\nNachrücker für Herrn Udo Behrenspöhler",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2018/EUV/001",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

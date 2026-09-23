@@ -1,0 +1,395 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-134",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-134%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-134",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-134%7C1%7C1",
+          "date": "2026-05-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-134%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-134%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 156244,
+          "text": "1 Fragestunde für Einwohnerinnen und Einwohner   Es werden keine Fragen an das Gremium gerichtet.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-134%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-134",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-134%7Czt_0%7C1",
+          "date": "2026-05-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-134%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-134%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 174566,
+          "text": "2 Einwände gegen die letzte Niederschrift   Gegen die Niederschrift der Ausschusssitzung vom 19.03.2026 werden keine Einwände erhoben.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-134%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-134",
+        "name": "Bericht der Schulleiterin der Martin-Luther-King Schule",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-134%7Czt_2%7C1",
+          "date": "2026-05-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-134%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-134%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 164425,
+          "text": "3 Bericht der Schulleiterin der Martin-Luther-King Schule   Die Schulleiterin sowie die stellvertretende Schulleiterin berichten über die aktuelle Entwicklung der Martin-Luther-King Förderschule. Da es sich um eine Verbundschule handelt, sollen künftig an allen Teilstandorten sämtliche Förderschwerpunkte angeboten werden.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-134%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-134",
+        "name": "Medienentwicklungsplan für die Schulen in Castrop-Rauxel",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-134%7Czt_1%7C1",
+          "date": "2026-05-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-134%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-134%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 166566,
+          "text": "4 Medienentwicklungsplan für die Schulen in Castrop-Rauxel   Herr Richter berichtet zum aktuellen Stand der digitalen Ausstattung der Schulen. Er betont das bereits hohe Niveau an den Schulen in Castrop-Rauxel.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16132",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-134%7C400805100144%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-134",
+        "name": "Namensänderung Neue Grundschule Castrop",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-134%7C400805100144%7C1",
+          "date": "2026-05-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-134%7C400805100144%7C1",
+          "fileName": "be_400805100144_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-134%7C400805100144%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 182462,
+          "text": "5 Namensänderung Neue Grundschule Castrop (2026/140)   Nach einem ausführlichen Namensfindungsprozess an der Schule, soll die Neue Grundschule Castrop-Rauxel zukünftig den Namen Sonnenscheingrundschule tragen. Der Antrag wird einstimmig beschlossen. Die Einführung soll zum kommenden Schuljahr erfolgen.    Abstimmungsergebnis:   Ja-Stimmen: 17  Nein-Stimmen: -  Enthaltungen: -       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16506",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-134%7C402104100126%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-134",
+        "name": "Antrag CDU-Ratsfraktion vom 20.04.2026 Mitteleinsatz Sanierung Schultoiletten",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-134%7C402104100126%7C1",
+          "date": "2026-05-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-134%7C402104100126%7C1",
+          "fileName": "be_402104100126_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-134%7C402104100126%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 182782,
+          "text": "6 Antrag CDU-Ratsfraktion vom 20.04.2026 Mitteleinsatz Sanierung Schultoiletten (2026/123)   Der Antragsteller begründet den Antrag. Frau Kleff verweist außerdem auf frühere Anträge des Kinder- und Jugendparlaments zum Thema Schultoiletten. Der Antrag wird einstimmig beschlossen.    Abstimmungsergebnis:   Ja-Stimmen: 17  Nein-Stimmen: -  Enthaltungen: -       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-134%7Czt_5%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-134",
+        "name": "Bericht zum Anmeldeverfahren an den weiterführenden Schulen",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-134%7Czt_5%7C1",
+          "date": "2026-05-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-134%7Czt_5%7C1",
+          "fileName": "be_zt_5_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-134%7Czt_5%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 171859,
+          "text": "7 Bericht zum Anmeldeverfahren an den weiterführenden Schulen   Frau Kruck berichtet, dass es keine Veränderungen gegenüber der Ausschusssitzung vom 19.03.2026 gibt. Die Gesamtschulen sind vollständig ausgelastet. Unangemeldete Kinder sind nicht mehr bekannt.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-134%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-134",
+        "name": "Bericht des Jobcenters",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-134%7Czt_3%7C1",
+          "date": "2026-05-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-134%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-134%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 174062,
+          "text": "8 Bericht des Jobcenters   Herr Soegtrop berichtet über das 13. Änderungsgesetz zum SGB II, das zum 01.07.2026 in Kraft tritt. Schulungen der Mitarbeitenden sowie Anpassungen von Richtlinien und Formularen laufen bereits. Außerdem wird über die Vermittlungsoffensive des Jobcenters berichtet. Die Präsentation ist der Niederschrift angehängt.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16374",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-134%7C402104100125%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-134",
+        "name": "Antrag Bündnis 90/Die Grünen-Ratsfraktion vom 20.04.2026 Prüfauftrag zur Fortführung und inhaltlichen Erweiterung des Beteiligungsprojekts \"Nah dran. Für Teilhabe und gegen Armut\"",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-134%7C402104100125%7C1",
+          "date": "2026-05-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-134%7C402104100125%7C1",
+          "fileName": "be_402104100125_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-134%7C402104100125%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 195679,
+          "text": "9 Antrag Bündnis 90/Die Grünen-Ratsfraktion vom 20.04.2026 Prüfauftrag zur Fortführung und inhaltlichen Erweiterung des Beteiligungsprojekts  Nah dran. Für Teilhabe und gegen Armut  (2026/122)    Die Antragstellerin begründet den Antrag und verweist dabei auf den positiven Abschlussbericht der Caritas aus der Ausschusssitzung vom 19.03.2026. Der Antrag wird einstimmig beschlossen.    Abstimmungsergebnis:   Ja-Stimmen: 17  Nein-Stimmen: -  Enthaltungen: -       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-134%7Czt_4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-134",
+        "name": "Anträge aus dem KiJuPa",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-134%7Czt_4%7C1",
+          "date": "2026-05-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-134%7Czt_4%7C1",
+          "fileName": "be_zt_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-134%7Czt_4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 169389,
+          "text": "10 Anträge aus dem KiJuPa   Das Kinder- und Jugendparlament schlägt die Umbenennung der Neun Gesamtschule Ickern in Margot Friedländer Gesamtschule vor. Der Vorschlag wird positiv aufgefasst. Die Verwaltung stößt einen entsprechenden Namensgebungsprozess bei der Schule an. Außerdem berichtet Frau Kleff über die kreative Neugestaltung einer Elternhaltestelle.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-134%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-134",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-134%7C6%7C1",
+          "date": "2026-05-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-134%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-134%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 167243,
+          "text": "11 Anfragen der Ausschussmitglieder   Herr Korkutan erinnert an den Prüfauftrag zu mittel- und obdachlosen Menschen in Castrop-Rauxel.  Frau Priester fragt nach der ungefähren Dauer der Bauermaßnahmen an der Cottenburgschule. Die Verwaltung sagt eine Nachreichung der Information zu.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-134%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-134",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-B2-134%7C4%7C1",
+          "date": "2026-05-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-B2-134%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-B2-134%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 161720,
+          "text": "12 Mitteilungen der Verwaltung   Frau Kleff berichtet über die Planungen zum Neubau der Cottenburgschule. Dabei wird der Schulhof möglichst erhalten und der Baumbestand weitgehend geschont.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-134%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-134",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-B2-134%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-134",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2026-B2-134%7C20260522112551-0_ni_2026-B2-134_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2026-05-22",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2026-B2-134%7C20260522112551-0_ni_2026-B2-134_1.pdf",
+        "fileName": "20260522112551-0_ni_2026-B2-134_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2026-B2-134%7C1",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Präsentation 13. Änderungsgesetz SGB II",
+        "size": 398315,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-05-19T18:45:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-134",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2026-B2-134",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-05-11",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2026-B2-134",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2026-B2-134",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "29f6347ad80f63351e7749945895e73ccb76c07b",
+      "size": 208497,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-B2-134/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Betriebsausschusses 2 (Familie, Jugend, Soziales und Bildung)",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/597",
+      "https://castroprauxel.gremien.info/oparl/person/1301",
+      "https://castroprauxel.gremien.info/oparl/person/1076",
+      "https://castroprauxel.gremien.info/oparl/person/389",
+      "https://castroprauxel.gremien.info/oparl/person/1053",
+      "https://castroprauxel.gremien.info/oparl/person/1244",
+      "https://castroprauxel.gremien.info/oparl/person/963",
+      "https://castroprauxel.gremien.info/oparl/person/1064",
+      "https://castroprauxel.gremien.info/oparl/person/817",
+      "https://castroprauxel.gremien.info/oparl/person/1344",
+      "https://castroprauxel.gremien.info/oparl/person/309",
+      "https://castroprauxel.gremien.info/oparl/person/1311",
+      "https://castroprauxel.gremien.info/oparl/person/1317",
+      "https://castroprauxel.gremien.info/oparl/person/1340",
+      "https://castroprauxel.gremien.info/oparl/person/1198",
+      "https://castroprauxel.gremien.info/oparl/person/1345",
+      "https://castroprauxel.gremien.info/oparl/person/1372",
+      "https://castroprauxel.gremien.info/oparl/person/1389",
+      "https://castroprauxel.gremien.info/oparl/person/1380",
+      "https://castroprauxel.gremien.info/oparl/person/1381",
+      "https://castroprauxel.gremien.info/oparl/person/29",
+      "https://castroprauxel.gremien.info/oparl/person/1294",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/949",
+      "https://castroprauxel.gremien.info/oparl/person/1289"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-B2-134",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-05-22",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-B2-134",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-B2-134",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 261687,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2026-05-19T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-B2-134",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-05-22",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-B2-134",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-B2-134",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 261687,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

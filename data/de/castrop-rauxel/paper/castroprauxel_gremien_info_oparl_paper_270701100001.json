@@ -1,0 +1,118 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/270701100001",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270701100001%7C20200114091020.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-14",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270701100001%7C20200114091020.pdf%7C",
+        "fileName": "20200114091020.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270701100001%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270701100001",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "603e452ad9775839412aa3b0319b607a6e56683a",
+        "size": 132439,
+        "text": "1. Verlängerungsvertrag RE IKZ Stand 13.01.2020",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270701100001%7C20200114091053.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-14",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270701100001%7C20200114091053.pdf%7C",
+        "fileName": "20200114091053.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270701100001%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270701100001",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "675d5ceae53dd0702d282894dd5c742b2eb89985",
+        "size": 252129,
+        "text": "2. Strukturdaten IKZ 2020 (Anlage zum Vertragsentwurf)",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-AuWi-30%7C270701100001%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8831",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-AuWi-30",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B1-100%7C270701100001%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8828",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B1-100",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B1"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-HFA-101%7C270701100001%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8829",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-HFA-101",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-116%7C270701100001%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8830",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-116",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-01-14",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/270701100001",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270701100001&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270701100001&id=69",
+      "fileName": "270701100001",
+      "id": "https://castroprauxel.gremien.info/oparl/file/270701100001",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/002",
+      "size": 267873,
+      "text": " Bereich Ordnungswesen und Bürgerservice 2020/002 öffentlich  Az: 32-1   Datum: 14.01.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Ausschuss für Wirtschaftsentwicklung 18.02.2020 4  Betriebsausschuss 1 (Kultur, Ordnung, Ausländerwesen und Feuerwehr) 19.02.2020 6  Haupt- und Finanzausschuss 24.02.2020   Rat der Stadt 27.02.2020 7   Betreff  Interkommunale Zusammenarbeit Schwarzarbeit (IKZ Schwarzarbeit); hier: a) Verlängerung der öffentlich-rechtlichen Vereinbarung bis zum 31.01.2024 b) Aufnahme weiterer Tatbestände nach dem Schwarzarbeitsgesetz und der Handwerksordnung ab dem 01.02.2021  \f     Finanzielle Auswirkungen      keine haushaltsmäßige Berührung     X Auswirkungen siehe Sachverhalt    \f      \fBeschlussvorschlag  Der Rat der Stadt ermächtigt die Verwaltung, die in der Anlage beigefügte geänderte und um Aufgaben nach der Handwerksordnung ergänzte öffentlich-rechtliche Vereinbarung zur Übertragung der Aufgaben zur Bekämpfung der Schwarzarbeit von der Stadt Castrop-Rauxel auf die Stadt Recklinghausen mit Wirkung ab dem 01.02.2021 abzuschließen und somit die Zusammenarbeit zur Bekämpfung der Schwarzarbeit fortzuführen.  \f\fK r a v a n j a  (Bürgermeister)   E c k h a r d t (Erster Beigeordneter) \fSachverhalt  Aufgrund der sozialschädlichen Auswirkungen von Schwarzarbeit (Verluste bei Steuern und Sozialabgaben) und der Bedrohung von örtlich ansässigen legal wirtschaftenden Betrieben, stellt die Bekämpfung der Schwarzarbeit eine bedeutende Aufgabe dar, die als Teil einer aktiven Wirtschaftsförderung verstanden werden muss.  Durch Schwarzarbeit illegal erworbene Wettbewerbsvorteile verursachen Wettbewerbsverzerrungen und gefährden sowohl sozialversicherungspflichtige Arbeitsplätze der Betriebe in der Region als auch deren Existenz. Um wirksam und mit der notwendigen Fachkompetenz den vorgenannten Umständen begegnen zu können, wurden im Rahmen zweier öffentlich-rechtlicher Vereinbarungen die notwendigen Ressourcen gebündelt. Die Stadt Recklinghausen übernahm von den kreisangehörigen Städten Castrop-Rauxel, Datteln, Haltern am See, Oer-Erkenschwick und Waltrop (Ostvest) die Aufgabenerledigung im Bereich der Schwarzarbeitsbekämpfung. Die Zuständigkeit der Städte Dorsten, Marl und Gladbeck (Westvest) ist auf die Stadt Herten übertragen worden. Die öffentlich-rechtlichen Vereinbarungen wurden zunächst für die Dauer von drei Jahren bis zum 31.01.2021 abgeschlossen. Es ist vereinbart worden, nach zwei Jahren (01.02.2020) über die Fortsetzung der interkommunalen Zusammenarbeit zu entscheiden.  Der Rat der Stadt Castrop-Rauxel hat in seiner Sitzung am 17.03.2016 die Verwaltung ermächtigt, eine öffentlich-rechtliche Vereinbarung mit der Stadt Recklinghausen über die Übertragung der Aufgaben der Bekämpfung der Schwarzarbeit abzuschließen (Drucksachen-Nr. 2016/058).  Wegen der Einzelheiten wird auf die Sitzungsvorlage verwiesen.  Sowohl der Stadt Recklinghausen als auch der Stadt Herten stehen jeweils 1,5 Stellen zur Aufgabenerledigung zur Verfügung. Seit dem 01.02.2018 haben Team 1 (Recklinghausen) und Team 2 (Herten) offiziell ihre Tätigkeit aufgenommen. Aufgrund notwendig gewordener Bemühungen bei der Personalgewinnung erlangten beide Teams erst ab Mitte 2018 die geplante Personalstärke von 1,5 Stellen. Für die insgesamt benötigten 3 Stellen wurden Personal- und Arbeitsplatzkosten nach KGSt-Vorgaben in Höhe von 266.700  pro Jahr ermittelt, die den Städten Herten und Recklinghausen jährlich durch die Aufgabenwahrnehmung gemeinsam entstehen. Dieser Aufwand ist jährlich auf Grundlage eines allen kreisangehörigen Städten bekannten Verteilerschlüssels von den übrigen Städten zu erstatten. Vorgenannter Aufwand wird durch die kassenwirksamen Bußgelder des jeweiligen Haushaltsjahres vermindert. Ziel war und ist es auch zukünftig, die Aufwände und Erträge der Ermittlungsgruppe Schwarzarbeit (EGS) ausgeglichen, d. h. kostendeckend darzustellen.  Aufgrund der Länge und Komplexität der durchzuführenden Bußgeldverfahren, der oftmals durch die zuständige Gerichtsbarkeit verlangten einzuräumenden Zahlungserleichterungen für die Betroffenen sowie mangelnder Zahlungsfähigkeit bzw. Zahlungsunwilligkeit der betroffenen juristischen und natürlichen Personen, konnte in den vergangenen knapp zwei Jahren noch keine Kostendeckung erreicht werden.  Dennoch ist ein positiver Trend hinsichtlich Anzahl und Höhe der bestandskräftigen Bußgeldbescheide seit Arbeitsaufnahme zu verzeichnen, der ebenfalls eine positive fiskalische Entwicklung nach sich zieht. Im Berichtsjahr 2018 wurden rechtskräftige Bußgelder in Höhe von insgesamt 120.306,59 Euro verhängt. Der hierbei von den Teams 1 und 2 aufgedeckte wirtschaftliche Schaden lag noch einmal wesentlich höher und belief sich auf 2.454.313,20 Mio. Euro.   Die Kassenwirksamkeit der Bußgelder betrug im Jahr 2018 jedoch lediglich knapp 10 %. Gründe hierfür wurden bereits oben benannt. Der saldierte zu zahlende Anteil der Stadt Castrop-Rauxel betrug für 2018 24.593,70 Euro.  Im Berichtsjahr 2019 wurden bis zum Stichtag 30.09.2019 rechtskräftige Bußgelder in Höhe von insgesamt 188.510,00 Euro verhängt. Der hierbei von den Teams aufgedeckte wirtschaftliche Schaden beträgt mit Stand 30.09.2019 bisher 2.782.711,22 Euro.   Die durch die Tätigkeit aufgedeckten wirtschaftlichen Schäden beliefen sich für die Jahre 2018 und 2019 für den Kreis Recklinghausen daher auf rund 5,23 Mio. Euro.   Die Kassenwirksamkeit zum Stichtag 30.09.2019 betrug ca. 22 %, so dass im Vergleich zum Jahr 2018 eine deutliche Steigerung der rechtskräftigen Bußgelder und des aufgedeckten wirtschaftlichen Schadens zu verzeichnen ist. Trotz dieser deutlichen Steigerung bei den rechtskräftigen Bußgeldern sowie dem aufgedeckten wirtschaftlichen Schaden kann nicht ausgeschlossen werden, dass auch zukünftig keine vollumfängliche Kostendeckung erreicht werden kann.  Die von den Städten Recklinghausen und Herten in der Vergangenheit geleistete Arbeit, wurde sowohl vom zuständigen Ministerium für Wirtschaft, Innovation, Digitalisierung und Energie (MWIDE) des Landes NRW als auch der zuständigen Handwerkskammer äußerst positiv bewertet und gewürdigt.   Die bisherige interkommunale Zusammenarbeit sollte daher fortgeführt sowie auch erweitert werden. Aufgrund von gewonnenen Erfahrungswerten bei der praktischen Bekämpfung von Schwarzarbeit kommen die Städte Recklinghausen und Herten zu der Überzeugung, dass die öffentlich-rechtlichen Vereinbarungen hinsichtlich der Aufgabenübertragung erweitert werden müssen, um effizient und umfassend aus einer Hand Schwarzarbeitsbekämpfung zu betreiben. So sollen weitere Tatbestände nach dem Schwarzarbeitsgesetz und der Handwerksordnung in den Tätigkeitsbereich übernommen werden. Durch die Übertragung weiterer Zuständigkeiten ist mit erhöhten Bußgelderträgen zu rechnen, die sich positiv auf den Kostendeckungsgrad auswirken würden. Zudem steht zu erwarten, dass sich die aufgedeckten wirtschaftlichen Schäden, die seit 2018 berichtspflichtig an das MWIDE zu melden sind, ebenfalls erhöhen werden.  Personalmehrbedarfe und die damit verbundenen Aufwände ergäben sich aus einer Aufgabenerweiterung nicht. Die Großen kreisangehörigen Städte und der Kreis Recklinghausen würden zudem um vorgenannte Aufgaben entlastet. Entsprechende Personalbedarfe müssten nicht aufgebaut bzw. könnten anderweitig genutzt werden.  Vertreter der örtlichen Ordnungsbehörden und der Kreisordnungsbehörde haben die Themen in einer Besprechung am 10.10.2019 erörtert. Die Fachebene befürwortet geschlossen die geschilderte Vorgehensweise.  Darüber hinaus wurde die Thematik in der HVB-Konferenz am 07.11.2019 besprochen.  Die Hauptverwaltungsbeamten haben sich ebenfalls für eine Fortsetzung der Zusammenarbeit über den 31.01.2021 hinaus ausgesprochen.   Zu beschließende Änderungen:  Die öffentlich-rechtliche Vereinbarung soll für weitere drei Jahre abgeschlossen werden und sich automatisch jeweils wieder um weitere drei Jahre verlängern, wenn nicht eine der Vertragsparteien unter Einhaltung einer Frist von einem Jahr die Vereinbarung kündigt.  Des Weiteren sollen die bestehenden öffentlich-rechtlichen Vereinbarungen zum 01.02.2021 um weitere Tatbestände nach dem Schwarzarbeitsgesetz und der Handwerksordnung ergänzt werden. Diese weiteren Tatbestände ergeben sich aus dem beigefügten Anlage:  § 1 Abs. 1 a), Übersicht Ordnungswidrigkeiten Ziff. 2  4  § 1 Abs. 1 b), Übersicht Ordnungswidrigkeiten    Weiterer Bericht in der Sitzung.    32 20           \f  \fAnlage 1  - Finanzielle Auswirkungen     \f  I. Mittelbedarf: davon                                        Ergebnisplan              Aufwendungen: 0,00   - Erträge von Dritten: 0,00   = Städtischer Eigenanteil: 0,00                  davon       Finanzplan Auszahlungen: 0,00   - Einzahlungen von Dritten: 0,00   = Städtischer Finanzierungsanteil:  0,00           (Daten zur Investitionsmaßnahme          siehe Anlage 2)  Die benötigten Haushaltsmittel stehen zur Verfügung:                \f JA  Buchungsstelle:   NEIN  Siehe Erläuterungen / Angabe von Deckungsvorschlägen \f Erläuterungen / Angabe von Deckungsvorschlägen:  Die Finanzierung in der mittelfristigen Haushaltsplanung sind zum jetzigen Zeitpunkt nicht gesichert. Es wird davon ausgegangen, dass die Erträge die Aufwendungen künftig (ab 2021) decken werden. Die Mittel sind zukünftig in den Haushalt einzustellen.  \f Bei Maßnahmen des Finanzplanes:  Die Maßnahme ist in der vom Rat beschlossenen Dringlichkeitsliste enthalten.  Die Maßnahme ist in die vom Rat beschlossene Dringlichkeitsliste zusätzlich aufzunehmen bzw. eine     Erweiterung der Maßnahme ist vorzunehmen.  Die Maßnahme ist in die vom Rat zu beschließende Dringlichkeitsliste aufzunehmen. \f II. Auswirkungen auf die mittelfristige Haushaltsplanung: Ergebnisplan 2021 2022 2023 2024 insgesamt  Personalaufwendungen          Sachaufwendungen 32.500  32.500  32.500  2.700  100.200   Zinsaufwendungen       Aufwendungen für Abschreib.       Zusätzliche Erträge 32.500  32.500  32.500  2.700  100.200   Mindererträge          Summe 0  0  0  0  0    Die Finanzierung ist innerhalb der mittelfristigen Haushaltsplanung für die Produktgruppe  \f   gesichert    nicht gesichert \f III. Es wurde geprüft, dass es sich um eine Maßnahme handelt, die unter Berücksichtigung der Vorgaben des § 82 GO NRW notwendig und unabweisbar ist.                                                                                                                        \f   \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Interkommunale Zusammenarbeit Schwarzarbeit (IKZ Schwarzarbeit); hier:\r\na) Verlängerung der öffentlich-rechtlichen Vereinbarung bis zum 31.01.2024\r\nb) Aufnahme weiterer Tatbestände nach dem Schwarzarbeitsgesetz und der Handwerksordnung ab dem 01.02.2021",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/002",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B1",
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT",
+      "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/270406100153",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270406100153%7C20200604090821-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-04",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270406100153%7C20200604090821-0.pdf%7C",
+        "fileName": "20200604090821-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270406100153%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270406100153",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "07432ee41473a8ee27a56cc1c1dfe709ea7afad7",
+        "size": 550031,
+        "text": "Antrag B2 Integrationskräfte 03062020",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B2-101%7C270406100153%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8995",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B2-101",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B2"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-06-04",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/270406100153",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270406100153&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270406100153&id=69",
+      "fileName": "270406100153",
+      "id": "https://castroprauxel.gremien.info/oparl/file/270406100153",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/136",
+      "size": 11294,
+      "text": " Bereich Schule 2020/136 öffentlich  Az:     Datum: 04.06.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 2 (Familie, Jugend, Soziales und Bildung) 18.06.2020 10   Betreff  Antrag Bündnis 90/Die Grünen vom 03.06.2020 Integrationskräfte während COVID19  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  s. Anlage  \f\f gez. Bert Wagener  Fraktionsvorsitzender   \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Antrag Bündnis 90/Die Grünen vom 03.06.2020\r\nIntegrationskräfte während COVID19",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/136",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2"
+    ]
+  }
+}

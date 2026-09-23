@@ -1,0 +1,62 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36255",
+  "modified_at": "2026-09-01T06:45:09+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369141.pdf",
+        "created": "2026-09-01T06:41:26+02:00",
+        "date": "2026-09-01",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369141.pdf",
+        "fileName": "00369141.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369141",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-01T06:45:09+02:00",
+        "name": "Antrag B90/Grüne",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369142.pdf",
+        "created": "2026-09-01T06:43:50+02:00",
+        "date": "2026-09-01",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369142.pdf",
+        "fileName": "00369142.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369142",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-01T06:45:09+02:00",
+        "name": "Antrag Fraktion B90/Grüne",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141561",
+        "created": "2026-09-01T06:54:41+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68656",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24666",
+        "modified": "2026-09-09T22:21:29+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/43"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36255",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-01T06:40:52+02:00",
+    "date": "2026-09-01",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36255",
+    "modified": "2026-09-01T06:45:09+02:00",
+    "name": "Aufstellung der Beschilderung \"Kein Winterdienst\" auf  Straßen und Straßenabschnitten in Cronenberg - Antrag der Fraktion Bündnis 90/Die Grünen",
+    "paperType": "Antrag B90/Grüne BV",
+    "reference": "VO/1053/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

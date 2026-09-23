@@ -1,0 +1,138 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/272805100148",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272805100148%7C20200604100700-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-04",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272805100148%7C20200604100700-0.pdf%7C",
+        "fileName": "20200604100700-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272805100148%7C4",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272805100148",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 4",
+        "sha1Checksum": "398848043237d6e15d28e8c618780b82057e4a7d",
+        "size": 3246656,
+        "text": "Stellungnahme Sekundarschule vom 28.05.20",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272805100148%7C20200605091400-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-05",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272805100148%7C20200605091400-0.pdf%7C",
+        "fileName": "20200605091400-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272805100148%7C5",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272805100148",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 5",
+        "sha1Checksum": "81ee2fb08663decdc2cf839da2641e0455528c07",
+        "size": 1626387,
+        "text": "Stellungnahme WBG",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272805100148%7C20200622115126-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-22",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272805100148%7C20200622115126-0.pdf%7C",
+        "fileName": "20200622115126-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272805100148%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272805100148",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "eed2b778b0b7e2ab3a8707e653c5cb928a9af47a",
+        "size": 240602,
+        "text": "Anlage 1 - Finanzielle Auswirkungen",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272805100148%7C20200622115126-1.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-22",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272805100148%7C20200622115126-1.pdf%7C",
+        "fileName": "20200622115126-1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272805100148%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272805100148",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "31d298c971e6f67a76f03457807b18bcbc2e6fdd",
+        "size": 248159,
+        "text": "Anlage 2 - Daten zur Investitionsmaßnahme 20_21 xlsx",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B2-101%7C272805100148%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/9004",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B2-101",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B2"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-HFA-103%7C272805100148%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/9003",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-HFA-103",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-118%7C272805100148%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/9002",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-118",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-05-28",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/272805100148",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272805100148&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272805100148&id=69",
+      "fileName": "272805100148",
+      "id": "https://castroprauxel.gremien.info/oparl/file/272805100148",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/132",
+      "size": 316880,
+      "text": " Bereich Schule 2020/132 öffentlich  Az:     Datum: 28.05.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 2 (Familie, Jugend, Soziales und Bildung) 18.06.2020 5  Haupt- und Finanzausschuss 25.06.2020 7  Rat der Stadt 25.06.2020 9   Betreff  Fortschreibung der Schulentwicklungsplanung  \f     Finanzielle Auswirkungen      keine haushaltsmäßige Berührung     X Auswirkungen siehe Sachverhalt (Anlage 1 und 2 werden nachgereicht)    \f      \f Beschlussvorschlag  Der Rat der Stadt Castrop-Rauxel beschließt die nachfolgenden Maßnahmen:  Neuerrichtung einer vierzügigen Gesamtschule am Standort Waldenburger Straße 130, 44581 Castrop-Rauxel zum Schuljahresbeginn 2021/2022 in Trägerschaft der Stadt Castrop-Rauxel, vorläufiger Name: Gesamtschule Ickern Sukzessive Auflösung der Sekundarschule Süd ab dem Schuljahresbeginn 2021/2022 beginnend mit der Jahrgangsstufe 5. Die jeweils noch verbleibenden Jahrgangsstufen/-klassen werden so lange fortgeführt, wie hierbei ein ordnungsgemäßer Unterrichtsbetrieb an der Schule gewährleistet werden kann.  Begrenzung der Zügigkeit der Fridtjof-Nansen-Realschule auf 4 Züge zum Schuljahresbeginn 2021/2022. Ab diesem Schuljahresbeginn werden nur noch 4 Eingangsklassen gebildet. Begrenzung der Zügigkeit der Willy-Brandt-Gesamtschule auf 4 Züge zum Schuljahresbeginn 2021/2022. Ab diesem Schuljahresbeginn werden nur noch 4 Eingangsklassen gebildet. Die Verwaltung wird beauftragt, für die Maßnahmen 1 bis 4 bei der Bezirksregierung Münster die Genehmigung zu beantragen (§ 81 Abs. 2 SchulG NRW).   \f\f    ________________ ________________  __________________ Kravanja   Eckhardt    Kleff Bürgermeister  Erster Beigeordneter  Beigeordnete für Soziales und Stadtkämmerer    \f  Sachverhalt  In der Ratssitzung vom 30.04.2020 beschloss der Rat einstimmig, die Verwaltung damit zu beauftragen, die im o. g. Beschlussvorschlag genannten schulrechtlichen Maßnahmen umzusetzen und alle dazu erforderlichen Schritte einzuleiten.  Nach erfolgtem Ratsbeschluss am 25.06.2020 ist zu allen genannten Punkten die Genehmigung der Bezirksregierung einzuholen. (§ 81 Abs. 2 SchulG NRW)  Begründung:  Gemäß §79 Schulgesetz NRW ist der Schulträger verpflichtet, die für den ordnungsgemäßen Unterricht erforderlichen Schulanlagen etc. bereitzustellen. Korrespondierend mit dem § 80 Schulgesetz NRW bedeutet dies, dass aufgrund steigender Schülerzahlen eine Neuordnung respektive Erweiterung des Schulangebotes im Sinne der Schulentwicklungsplanung erfolgen muss. Nach den aktuellen Schülerprognosezahlen sind ab den Schuljahren 2020/21 sowie in den folgenden Jahren mit Jahrgangstärken von ca. 630 Schülerinnen und Schülern zu rechnen. Hierzu bedarf es einer gut ausgebauten Schullandschaft.  Dem Ratsbeschluss vom 28.11.2019 folgend, wurde erneut eine Elternbefragung der zweiten und dritten Jahrgänge an den Grundschulen in Castrop-Rauxel durchgeführt. Diese hat bei einer Rücklaufquote von 71 % ergeben, dass zum Schuljahr 2021/2022 165 Eltern bestimmt oder eher ja ein Gesamtschulangebot an der Waldenburger Straße 130 für ihre Kinder wählen würden. Für das Folgejahr 2022/2023 ergibt sich hier eine Zustimmung von 171 Eltern. Insgesamt für beide Jahrgänge ergibt sich eine Zahl von 336. Lt. Hochrechnung der Zahlen unter Einbeziehung der Eltern, die sich noch nicht für eine weiterführende Schule entscheiden möchten, sowie derer, die ohne neues Schulangebot Schulen in Nachbarkommunen wählen würden, ergibt sich für beide befragten Jahrgänge insgesamt sogar eine Zustimmung von 503 Eltern, die sich für die neu zu gründende Gesamtschule bestimmt oder eher ja entscheiden würden.  Für die Gründung einer neuen Gesamtschule ist eine Zahl von 100 Anmeldungen für eine 4-Zügigkeit erforderlich. Diese Zahl zu erreichen erscheint aussichtsreich und entspricht dem Elternwunsch.  Nach intensiven Abstimmungsgesprächen und Beratungen schlägt die Verwaltung nunmehr vor, eine eigenständige Gesamtschule in eigener Trägerschaft an der Waldenburger Straße 130 in Castrop-Rauxel zum Schuljahresbeginn 2021/22 zu errichten. Die Schule soll vierzügig geführt werden. Für eine Neuerrichtung ist hier mindestens eine 4-Zügigkeit schulgesetzliche Voraussetzung. Die Schulkonferenz der Willy-Brandt-Gesamtschule wurde bereits 2019 nach der ersten Elternbefragung gehört und hat die Bildung eines Teilstandortes für sich ausgeschlossen und dies in einer Stellungnahme dokumentiert.  Die besonders betroffene Gesamtschule Waltrop ist durch die Neugründung nicht in ihrem Bestand gefährdet, da regelmäßig die bestehende 4-Zügigkeit voll ausgeschöpft wird und gleichzeitig noch Kinder aus Nachbarkommunen, z. T. auch aus Castrop-Rauxel, abgewiesen werden müssen. (2020 = 47 Abweisungen)   Die Willy-Brandt-Gesamtschule sowie die Fridtjof-Nansen-Realschule in Castrop-Rauxel werden ebenfalls zum Schuljahr 2021/22 auf jeweils 4 Züge begrenzt.  Die Sekundarschule Süd wird seit 2019 nur noch zweizügig geführt, obwohl das Schulgesetz für eine Fortführung der Schule mindestens eine 3-Zügigkeit vorschreibt. Im aktuellen Jahrgang 5 befinden sich nur 43 Schülerinnen und Schüler (SuS).   Die Anmeldezahl für das kommende Schuljahr betrug bis zum 25.05.20 nur 58 SuS, so dass auch hier erneut von einer Zweizügigkeit ausgegangen werden musste. Bis zum 26.05.20 sind jedoch noch zwei bislang unangemeldete SuS nachgerückt, so dass bei 60 SuS nun doch drei Eingangsklassen gebildet werden können.  Aus Castrop-Rauxel wurden aber nur 49 SuS angemeldet, davon 17, die von der WBG abgewiesen werden mussten. Die Anmeldungen beinhalten 11 SuS aus Nachbarkommunen. In der Anmeldewoche entscheiden sich i.d.R. nur sehr wenige Eltern für die Sekundarschule (2020 = 14 SuS). Erst später kommen einige SuS hinzu, deren Eltern sich erst verspätet überhaupt um eine Anmeldung kümmern, was sich in den aktuellen Anmeldezahlen und im Verlauf der getätigten Anmeldungen deutlich widerspiegelt.  In beiden Elternbefragungen sprachen sich nur äußerst wenige Eltern für die Sekundarschule aus. (zweite Befragung 2020: Jg.2 = 9 SuS, Jg. 3 = 6 SuS würden die Sekundarschule gerne anwählen).  Da für den Fortbestand der Schule durchgehend eine 3-Zügigkeit erforderlich ist, die bereits 2019 nicht mehr gewährleistet werden konnte und die Elternbefragung für die Zukunft eine sehr schlechte Prognose stellt, würde die Bezirksregierung ohne Entscheidung des Schulträgers diesen ohnehin dazu auffordern, sinnvolle Maßnahmen zu ergreifen.   Die Schule soll daher beginnend mit dem Schuljahr 2021/2022 jahrgangsweise aufgelöst werden. Die Auflösungsmaßnahme wird so lange fortgeführt, wie ein ordnungsgemäßer Unterrichtsbetrieb an der Schule gewährleistet werden kann.   Die bestehenden Zügigkeiten der Gymnasien bleiben unverändert. Die Zügigkeiten der Willy-Brandt-Gesamtschule (WBG) sowie der Fridtjof-Nansen-Realschule (FNR) werden um je einen Zug verringert. Die Sekundarschule wird seit 2019 nur noch zweizügig geführt, so dass bei Auflösung der Schule im nächsten Anmeldeverfahren ebenfalls zwei Züge entfallen. Insgesamt entfallen somit ab 2021 vier Züge im Anmeldeverfahren der Sekundarstufe I. Gleichzeitig werden in der Gesamtschule Ickern vier neue Züge zur Anmeldung angeboten.  Durch die Verringerung der Zügigkeiten von FNR und WBG ergibt sich eine Verbesserung der räumlichen Kapazitäten der Schulen. Dadurch besteht die Möglichkeit, an einer oder mehreren Schulen, auch an der Gesamtschule Ickern, eine Mehrklasse bei der Bezirksregierung zu beantragen, falls es dort zu Anmeldeüberhängen kommt. Dies würde ermöglichen, in den nächsten Jahren den Elternwillen zur Anmeldung an den Schulstandorten weiterhin zu erfassen und darauf, falls erforderlich, mit einer Erhöhung der Zügigkeiten in Absprache mit der Bezirksregierung zu reagieren. In den nächsten Jahren steht zusätzlich auch noch die Sekundarschule Süd für Quereinsteiger in den bestehenden Jahrgangsstufen zur Verfügung.    Sieben Schulträger von Nachbarkommunen aus dem regionalen Schulumfeld wurden beteiligt, um einen regionalen Konsens herzustellen. Es wurde am 13.05.20 um Rückmeldung bis zum 27.05.20 gebeten. Die Stadt Bochum hat nach ausführlichem Austausch mit der Schulverwaltung Castrop-Rauxel die Unbedenklichkeit schriftlich bestätigt. Die Stadt Datteln hat ebenfalls schriftlich erklärt, dass keine Bedenken bestehen. Auch die Stadt Waltrop hat schriftlich angegeben, keine Einwände zu erheben. Außerdem wurde ausdrücklich benannt, dass die Gesamtschule Waltrop nicht in ihrem Bestand gefährdet wird. Die Stadt Herne hat ebenfalls nach einem Austausch mit der Schulverwaltung Castrop-Rauxel die Unbedenklichkeit schriftlich bestätigt. Weitere Anfragen oder Stellungnahmen sind nicht eingegangen.  Die betroffenen Schulen in Castrop-Rauxel selbst wurden gem. § 76 SchulG beteiligt und um Stellungnahme zu den geplanten Maßnahmen gebeten. Die Schulleitung der Fridtjof-Nansen-Realschule hatte bereits mit Schreiben vom 16.12.2019 die 4-Zügigkeit selbst beantragt. Die Stellungnahmen der WBG sowie der Sekundarschule Süd sind beim Schulträger eingegangen und sind als Anlagen beigefügt. Eine Stellungnahme der FNR steht noch aus.  Ein konkretes Raumkonzept für die zu errichtende Gesamtschule an der Waldenburger Str. 130 wird noch erstellt. Da es sich bei der ehemaligen Janusz-Korczak-Gesamtschule um eine 4-zügige Gesamtschule handelte, ergibt sich, dass das Raumangebot auch für eine erneut 4-zügig geplante Gesamtschule ausreichen wird. Seit der Schließung der Schule 2018 wurden keinerlei Umbaumaßnahmen durchgeführt, um das Gebäude z. B. einer außerschulischen Nutzung zuzuführen. Das Raumkonzept muss je nach Fortschreiten der im Aufbau befindlichen Schule regelmäßig fortgeschrieben werden, wenn Änderungen dies erforderlich machen. Planungen zur Ertüchtigung des Gebäudes haben bereits begonnen.   Es wird bezüglich der Gesamtschule Ickern noch gearbeitet an: Schulentwicklungskonzept Sek I und II: In einem Beteiligungsprozess werden methodisch-didaktische Belange berücksichtigt. Kooperationsgespräche Oberstufen Willy-Brandt-Gesamtschule und Gesamtschule Waltrop  Raumkonzept Mensakonzept: Die Mensa kann im vorhandenen Maße genutzt werden. Zunächst ist eine Warm-Anlieferung vorgesehen. Konzept zur besseren Anbindung an den ÖPNV: Derzeit erfolgt eine hausinterne Klärung. Konzept zur Finanzierbarkeit der Schule Konzept zur Nachnutzung der Schulstandorte der derzeitigen Sekundarschule Süd für schulische Zwecke     \f  \fAnlage 1  - Finanzielle Auswirkungen     \f  I. Mittelbedarf: davon                                        Ergebnisplan              Aufwendungen:    - Erträge von Dritten:    = Städtischer Eigenanteil:                   davon       Finanzplan Auszahlungen:   - Einzahlungen von Dritten:   = Städtischer Finanzierungsanteil:           (Daten zur Investitionsmaßnahme          siehe Anlage 2)  Die benötigten Haushaltsmittel stehen zur Verfügung:                \f JA  Buchungsstelle:   NEIN  Siehe Erläuterungen / Angabe von Deckungsvorschlägen \f Erläuterungen / Angabe von Deckungsvorschlägen:    \f Bei Maßnahmen des Finanzplanes:  Die Maßnahme ist in der vom Rat beschlossenen Dringlichkeitsliste enthalten.  Die Maßnahme ist in die vom Rat beschlossene Dringlichkeitsliste zusätzlich aufzunehmen bzw. eine     Erweiterung der Maßnahme ist vorzunehmen.  Die Maßnahme ist in die vom Rat zu beschließende Dringlichkeitsliste aufzunehmen. \f II. Auswirkungen auf die mittelfristige Haushaltsplanung: Ergebnisplan 2019 2020 2021 2022 insgesamt  Personalaufwendungen          Sachaufwendungen          Zinsaufwendungen       Aufwendungen für Abschreib.       Zusätzliche Erträge          Mindererträge          Summe           Die Finanzierung ist innerhalb der mittelfristigen Haushaltsplanung für die Produktgruppe  \f   gesichert    nicht gesichert \f III. Es wurde geprüft, dass es sich um eine Maßnahme handelt, die unter Berücksichtigung der Vorgaben des § 82 GO NRW notwendig und unabweisbar ist.                                                                                                                       \f Daten zur Investitionsmaßnahme:   (Anlage 2)          1. Gesamtwerte        Maßnahme/Gegenstand Anschaffungs- und Herstellungskosten Zuwendungen  Buchungs-stelle Gegenstand Investive Auszahlung Akt. Eigen-leistung Summe Zuwendungs-geber 1 Zuwendungs-geber 2 Summe                             Summe:         Maßnahme/Gegenstand    Buchungs-stelle Gegenstand Eigenanteil Nutzungs-dauer (Jahre) Aktivierung (Zeitpunkt der Inbetr./Herst.) Kostenstelle                                 2. Darstellung der Folgeaufwendungen und /-erträge     Maßnahme/Gegenstand Abschreibungen     Grundwerte Abschreibungsbeträge   Nutzungs-beginn Nutzungsende Abschr. / Jahr Abschr. / Monat Abschr. im 1. Jahr Abschr. in Folgejahren Abschr. im letzten Jahr                              Maßnahme/Gegenstand Erträge aus der Auflösung von Sonderposten     Grundwerte Ertragswerte   Nutzungs-beginn Nutzungsende Ertrag / Jahr Ertrag / Monat Ertrag im 1. Jahr Ertrag in Folgejahren Ertrag im letzten Jahr                                         3. Finanzielle Auswirkungen der Investitionsmaßnahme      Zeitraum Finanzplanung   Auszahlung Einzahlung Saldo                                                    Summe:      Zeitraum Ergebnisplanung   Aufwand Ertrag Saldo                                                    Summe:      \f   \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Fortschreibung der Schulentwicklungsplanung",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/132",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/RAT",
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/B2"
+    ]
+  }
+}

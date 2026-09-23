@@ -1,0 +1,59 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/153110100356",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=153110100356%7C20141031110753.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=153110100356%7C20141031110753.pdf%7C",
+        "fileName": "20141031110753.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C153110100356%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/153110100356",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "73f840cc3798e970926c82c0b6910f20dbcbd291",
+        "size": 87438,
+        "text": "GO des Beirates 2014",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2014-BEHB-29%7C153110100356%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6236",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2014-BEHB-29",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2014-10-31",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/153110100356",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=153110100356&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=153110100356&id=69",
+      "fileName": "153110100356",
+      "id": "https://castroprauxel.gremien.info/oparl/file/153110100356",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2014/342",
+      "size": 39021,
+      "text": "Bereich Soziales 2014/342 öffentlich Az: Datum: 31.10.2014 Sitzungsvorlage Beratungsfolge Datum TOP-Nr. Beirat für Menschen mit Behinderung 25.11.2014 2 Betreff Beirat für Menschen mit Behinderung; hier: Verabschiedung der Geschäftsordnung Finanzielle Auswirkungen keine haushaltsmäßige Berührung X Auswirkungen siehe Sachverhalt Beschlussvorschlag Der Beirat für Menschen mit Behinderung der Stadt Castrop-Rauxel beschließt die in der Anlage 1 beigefügte Geschäftsordnung. Die Geschäftsordnung tritt mit der Beschlussfassung in Kraft. _________________________ E c k h a r d t BeigeordneterBeirat für Menschen mit Behinderung; hier: Verabschiedung der Geschäftsordnung2014/342%anl%;GO des Beirates 2014 Geschäftsordnung Beirat für Menschen mit Behinderung ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Beirat für Menschen mit Behinderung;\r\nhier: Verabschiedung der Geschäftsordnung",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2014/342",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

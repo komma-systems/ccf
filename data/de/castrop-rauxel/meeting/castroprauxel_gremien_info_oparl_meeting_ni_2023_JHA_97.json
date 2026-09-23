@@ -1,0 +1,421 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-JHA-97",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-JHA-97%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-JHA-97",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7C1%7C1",
+          "date": "2023-10-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-JHA-97%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 369599,
+          "text": "  1 Fragestunde für Einwohnerinnen und Einwohner   Keine Fragen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-JHA-97%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-JHA-97",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7CProtokoll%7C1",
+          "date": "2023-10-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-JHA-97%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 371660,
+          "text": "  2 Einwände gegen die letzte Niederschrift   Keine Einwände.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-JHA-97%7C39%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-JHA-97",
+        "name": "Mündlicher Bericht aus der AG 1,  AG 2 und AG 3",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7C39%7C1",
+          "date": "2023-10-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7C39%7C1",
+          "fileName": "be_39_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-JHA-97%7C39%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 405785,
+          "text": "  3 Mündlicher Bericht aus der AG 1,  AG 2 und AG 3   AG 1  Herr Libuschewski wurde zum neuen Vorsitzenden der AG 1 gewählt. Neben den Vorberatungen zu TOP 9 der Tagesordnung wurden insbesondere die künftigen Themenschwerpunkte und der Prozess zur Aufstellung des neuen Kinder- und Jugendförderplans der Stadt Castrop-Rauxel ab 2027 beraten.    AG 2  Frau Wimber berichtet von dem fachlichen Austausch zur Gewinnung von Fachkräften, zu der Weiterentwicklung der Familienzentren und der Verwendung der Förderung von Kita-Plus Einrichtungen.    AG 3  Herr Herber berichtet, dass die Vereinbarungen zum Kinderschutz zwischen Jugendamt und Trägern nach den Richtlinien des neue Kinder- und Jugendstärkungsgesetzes überarbeitet werden sollen. Weiteres Thema waren die Engpässe bei geeigneten Plätzen für Inobhutnahmen insbesondere für ältere Kinder.    Der Jugendhilfeausschuss nimmt die Berichte zur Kenntnis.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-JHA-97%7C11%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-JHA-97",
+        "name": "Mündlicher Bericht aus dem Kinder- und Jugendparlament",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7C11%7C1",
+          "date": "2023-10-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7C11%7C1",
+          "fileName": "be_11_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-JHA-97%7C11%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 390328,
+          "text": "  4 Mündlicher Bericht aus dem Kinder- und Jugendparlament   Frau Chouiqa berichtet von den aktuellen Themen des Kinder- und Jugendparlaments, insbesondere die Vorbereitungen der Neuwahlen und des Weltkindertages. Zudem werden Projekttage zu demokratischer Bildung und mentaler Gesundheit geplant.   Der Jugendhilfeausschuss nimmt den Bericht zur Kenntnis.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-JHA-97%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-JHA-97",
+        "name": "Durchführung von Fachtagungen mit dem Thema 'Kindeswohlgefährdung erkennen und verstehen\r\n- Verantwortung im Netzwerk gestalten' mit Schule und KITA\r\n - mündlicher Bericht - ",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7Czt_2%7C1",
+          "date": "2023-10-19",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-JHA-97%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 411825,
+          "text": "  5 Durchführung von Fachtagungen mit dem Thema  Kindeswohlgefährdung erkennen und verstehen - Verantwortung im Netzwerk gestalten  mit Schule und KITA  - mündlicher Bericht -    Herr Zemsky und Frau Wimber berichten von den erfolgreich durchgeführten Fachtagen mit dem Thema Kindeswohlgefährdung erkennen und verstehen - Verantwortung im Netzwerk gestalten für Kindertageseinrichtungen und Schulen in Castrop-Rauxel.   Im Rahmen der Fachtage wurden Fragen rund um Kinderschutz und Kindeswohlgefährdung, wie z.B. Risikofaktoren, Erkennen und Umgang mit Anhaltspunkten für Kindeswohlgefährdung, in Form von theoretischem Input durch Referenten sowie Gruppenarbeit und Austauschrunden thematisiert. Die Fachtage wurden auch genutzt, um die bestehenden Kooperationsvereinbarungen mit den Einrichtungen zu überarbeiten und anzupassen. Allen Teilnehmenden  und nunmehr im Rahmen der Jugendhilfeausschusssitzung auch dem Ausschussvorsitzenden und der Ersten Beigeordneten  wurde ein Kinderschutzordner mit den gesammelten Informationen überreicht.  Auf Rückfrage erklären sie, dass jede Einrichtung in der Eigenverantwortung stehe, diese wichtigen Informationen in ihrer Organisation bereitzustellen. Zudem sei durch jeden Träger einer Kindertageseirichtung die Kooperationsvereinbarung mit dem örtlichen Jugendamt zur Beachtung des Kinderschutzkonzeptes zu unterzeichnen bzw. sei die Beachtung laut § 42 Schulgesetzt NRW für die Schulen verpflichtend.   Der Jugendhilfeausschuss nimmt den Bericht zur Kenntnis       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-JHA-97%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-JHA-97",
+        "name": "Vorstellung der neuen Fachberatung Frau Liebetanz für den Bereich Kindertageseinrichtungen und Kindertagespflege ",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7Czt_1%7C1",
+          "date": "2023-10-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-JHA-97%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 396554,
+          "text": "  6 Vorstellung der neuen Fachberatung Frau Liebetanz für den Bereich Kindertageseinrichtungen und Kindertagespflege    Frau Libetanz stellt sich dem Ausschuss als neue Fachberatung für Kindertageseinrichtungen und Großtagespflege in Castrop-Rauxel vor. Aktuell liegt der Schwerpunkt ihrer Tätigkeit bei der Unterstützung zur Erstellung von Schutzkonzepten und Fragen der Inklusion.   Der Jugendhilfeausschuss nimmt den Bericht zur Kenntnis.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-JHA-97%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-JHA-97",
+        "name": "'Casterix'-Sommerferienprogramm - mündlicher Bericht",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7Czt_0%7C1",
+          "date": "2023-10-19",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-JHA-97%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 394071,
+          "text": "  7  Casterix -Sommerferienprogramm - mündlicher Bericht   Frau Idczak berichtet von dem durch das Team Jugendarbeit durchgeführten Casterix-Sommerferienprogramm und führt einen Kurzfilm mit Eindrücken vor. Die vortragsbegleitende Präsentation hängt dem Protokoll an. Natürlich sei auch das Ferienprogramm von der allgemeinen Kostensteigerung betroffen, dennoch soll die Qualität der Ferienprogramme sowie die allgemeine Zugänglichkeit ohne Kostensteigerung für die teilnehmenden Kinder erhalten bleiben.   Der Jugendhilfeausschuss nimmt den Bericht zur Kenntnis.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-JHA-97%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-JHA-97",
+        "name": "Bundesprogramm 'Das Zukunftspaket für Bewegung, Kultur und Gesundheit'  - Bericht des Marcel-Callo-Hauses über den Stand der Umsetzung",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7Czt_3%7C1",
+          "date": "2023-10-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-JHA-97%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 402925,
+          "text": "  8 Bundesprogramm  Das Zukunftspaket für Bewegung, Kultur und Gesundheit   - Bericht des Marcel-Callo-Hauses über den Stand der Umsetzung   Herr Thissen, für das Projekt hauptamtlich Beschäftigter des Marcel-Callo-Hauses, berichtet von der Umsetzung des Bundesprogramms  Das Zukunftspaket für Bewegung, Kultur und Gesundheit .   Es wurden bzw. werden laufend eine Reihe von Angeboten zu des Schwerpunkten Demokratiebildung, Diversität, Sport in Kooperation mit verschiedenen Sportvereinen sowie Streetart und Street Culture umgesetzt. Daneben werden laufend Angebote der Erlebnispädagogik für und in Kooperation mit Schulen durchgeführt. Geplant seien zudem Ausflüge und Projektangebote vor Ort in den Schulen. Aufgrund der Befristung des Bundesprogramms zum Jahresende, sei eine Fortführung jedoch ungewiss.   Der Jugendhilfeausschuss nimmt den Bericht zur Kenntnis.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10836",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-JHA-97%7C332208100220%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-JHA-97",
+        "name": "Finanzierung der Einrichtung Meeting Point für das Jahr 2024",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7C332208100220%7C1",
+          "date": "2023-10-19",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7C332208100220%7C1",
+          "fileName": "be_332208100220_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-JHA-97%7C332208100220%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 406829,
+          "text": "  9 Finanzierung der Einrichtung Meeting Point für das Jahr 2024 (2023/212)    Herr Libuschewski nimmt an den Beratungen nicht teil.  Frau Kleff erläutert die Sitzungsvorlage.   Der Jugendhilfeausschuss beschließt die Finanzierung der Einrichtung Meeting Point für das Jahr 2024.    Abstimmungsergebnis:   Ja-Stimmen: 12  Nein-Stimmen: -  Enthaltungen: -       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10816",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-JHA-97%7C330108100207%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-JHA-97",
+        "name": "Gemeinsamer Antrag der Fraktionen von SPD und Bündnis90 / Die GRÜNEN vom 31.07.2023_\r\nAufstellen von Kommunikationstafeln an Spielplätzen",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7C330108100207%7C1",
+          "date": "2023-10-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7C330108100207%7C1",
+          "fileName": "be_330108100207_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-JHA-97%7C330108100207%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 394747,
+          "text": "  10     Gemeinsamer Antrag der Fraktionen von SPD und Bündnis90 / Die GRÜNEN vom 31.07.2023_Aufstellen von Kommunikationstafeln an Spielplätzen (2023/199)  Beratung und Beschluss siehe TOP 10.1   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10920",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-JHA-97%7C330609100228%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-JHA-97",
+        "name": "Änderungsantrag der CDU Fraktion vom 28.08.2023_Aufstellen von Kommunikationstafeln an Spielplätzen",
+        "number": "10.1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7C330609100228%7C1",
+          "date": "2023-10-19",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7C330609100228%7C1",
+          "fileName": "be_330609100228_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-JHA-97%7C330609100228%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10.1",
+          "size": 431839,
+          "text": "  10      10.1 Gemeinsamer Antrag der Fraktionen von SPD und Bündnis90 / Die GRÜNEN vom 31.07.2023_Aufstellen von Kommunikationstafeln an Spielplätzen (2023/199)  sowie  Änderungsantrag der CDU Fraktion vom 28.08.2023_Aufstellen von Kommunikationstafeln an Spielplätzen  (2023/219)    Herr Breitenstein erläutert den gemeinsamen Antrag der Fraktionen von SPD und Bündnis 90 Die GRÜNEN vom 31.07.2023 und betont die unterstützende Wirkung der Kommunikationstafeln für Kinder mit sprachlichen Einschränkungen. Da die Tafeln selbsterklärend seien, können sie sowohl unter Anleitung pädagogischen Personals (z.B. bei Besuch von Spielplätzen durch TEK-Gruppen oder Schulklassen) als auch ohne weitere Unterstützung durch Kinder genutzt werden. Herr Fercke ergänzt, dass laut Antrag geeignete Aufstellorte durch die AG Inklusion und Spielplatzkommission identifiziert werden sollen. Die Tafeln seien dann je Spielplatz anzupassen und Entscheidungen über die Art der Schilder (Größe, Antigraffiti-Schutzfilm etc.) zu treffen.   Herr Ehm begründet den Änderungsantrag der CDU Fraktion vom 28.08.2023. Vor einem Einsatz möglicherweise hoher finanzieller Mittel, solle zunächst in einem Pilotprojekt festgestellt werden, beispielsweise ob die Tafeln die gewünschte Wirkung haben, wie hoch die Kosten sind oder ob es zu Vandalismus kommt.  Herr Rohlfing schließt sich im Namen der FDP-Fraktion der Auffassung an, zunächst eine Bedarfsanalyse und Kostenschätzung vorzunehmen.   Herr John formuliert abschließend einen geänderten Beschlussvorschlag, der beiden Anträgen gerecht wird.   Der Jugendhilfeausschuss beschließt einstimmig folgenden geänderten Beschlussvorschlag:   Die Verwaltung wird beauftragt als Pilotprojekt auf geeigneten Spielplätzen im Stadtgebiet sogenannte Kommunikationstafeln zu installieren.  Die Identifikation geeigneter Aufstellungsorte sollte in einer gemeinsamen Sitzung von AG Inklusion und Spielplatzkommission erfolgen. Dazu ist auch eine Kosteneinschätzung notwendig und es sollen die Erfahrungen anderer Kommunen eingebracht werden. Nach einer ersten Umsetzungsphase soll eine mögliche Ausweitung auf andere Standorte geprüft werden und dem AGID und dem JHA zum Beschluss vorgelegt werden.   Abstimmungsergebnis:   Ja-Stimmen: 12  Nein-Stimmen: -  Enthaltungen: -       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2023-JHA-97%7C6%7C1%7C20231027141131-0_6_1.pdf",
+            "date": "2023-10-27",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2023-JHA-97%7C6%7C1%7C20231027141131-0_6_1.pdf",
+            "fileName": "20231027141131-0_6_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2023-JHA-97%7C6%7C1%7C20231027141131-0_6_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Anlage_Park- und Verkehssituation an Schulen und Kitas",
+            "size": 684983,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-JHA-97%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-JHA-97",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7C6%7C1",
+          "date": "2023-10-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-JHA-97%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 400853,
+          "text": "  11 Anfragen der Ausschussmitglieder   Herr Ehm erfragt den Sachstand zum Beschluss zu Vorlage Nummer 2022/249 vom 22.09.2022 zur Konzeptentwicklung von Halteverboten vor Kitas und Schulen. Eine entsprechende Übersicht der Verwaltung ist dem Protokoll als Anlage beigefügt.  Herr Leidig fragt nach, ob durch das Jugendamt bereits der Einsatz eines Verfahrenslotsen gemäß § 10b SGB VIII (tritt am 01.01.2024 in Kraft) geplant sei. Herr Zemsky bestätigt, dass die Stelle für den neuen Stellenplan eingeplant wurde.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-JHA-97%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-JHA-97",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7C4%7C1",
+          "date": "2023-10-13",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-JHA-97%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-JHA-97%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 367988,
+          "text": "  12 Mitteilungen der Verwaltung   Keine Mitteilugen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-JHA-97%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-JHA-97",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "13",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-JHA-97%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-JHA-97",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "14",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2023-JHA-97%7C20230906110037-0_2023-JHA-97_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2023-09-06",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2023-JHA-97%7C20230906110037-0_2023-JHA-97_1.pdf",
+        "fileName": "20230906110037-0_2023-JHA-97_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2023-JHA-97%7C1",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "A¨nderungsantrag der CDU Fraktion_Aufstellen von Kommunikationstafeln an Spielpla¨tzen",
+        "size": 197379,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2023-09-07T18:35:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-JHA-97",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2023-JHA-97",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-08-24",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2023-JHA-97",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2023-JHA-97",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "ef7d309287a8d4d4a68cec2756a91ea4858cabba",
+      "size": 431909,
+      "text": "Tagesordnung zur Sitzung des Jugendhilfeausschusses am Donnerstag, 07.09.2023 um 17:00 Uhr im Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel  I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner  2. Einwände gegen die letzte Niederschrift  3. Mündlicher Bericht aus der AG 1,  AG 2 und AG 3  4. Mündlicher Bericht aus dem Kinder- und Jugendparlament  5. Durchführung von Fachtagungen mit dem Thema  Kindeswohlgefährdung erkennen und verstehen - Verantwortung im Netzwerk gestalten  mit Schule und KITA  - mündlicher Bericht -   6. Vorstellung der neuen Fachberatung Frau Liebetanz für den Bereich Kindertageseinrichtungen und Kindertagespflege   7.  Casterix -Sommerferienprogramm - mündlicher Bericht  8. Bundesprogramm  Das Zukunftspaket für Bewegung, Kultur und Gesundheit   - Bericht des Marcel-Callo-Hauses über den Stand der Umsetzung  9. Finanzierung der Einrichtung Meeting Point für das Jahr 2024  10. Gemeinsamer Antrag der Fraktionen von SPD und Bündnis90 / Die GRÜNEN vom 31.07.2023_Aufstellen von Kommunikationstafeln an Spielplätzen  11. Anfragen der Ausschussmitglieder  12. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  13. Anfragen der Ausschussmitglieder  14. Mitteilungen der Verwaltung    Sebastian J o h n   Ausschussvorsitzender \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-JHA-97/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Jugendhilfeausschusses",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/JHA"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/138",
+      "https://castroprauxel.gremien.info/oparl/person/73",
+      "https://castroprauxel.gremien.info/oparl/person/963",
+      "https://castroprauxel.gremien.info/oparl/person/858",
+      "https://castroprauxel.gremien.info/oparl/person/1182",
+      "https://castroprauxel.gremien.info/oparl/person/873",
+      "https://castroprauxel.gremien.info/oparl/person/752",
+      "https://castroprauxel.gremien.info/oparl/person/1187",
+      "https://castroprauxel.gremien.info/oparl/person/1027",
+      "https://castroprauxel.gremien.info/oparl/person/902",
+      "https://castroprauxel.gremien.info/oparl/person/1097",
+      "https://castroprauxel.gremien.info/oparl/person/851",
+      "https://castroprauxel.gremien.info/oparl/person/854",
+      "https://castroprauxel.gremien.info/oparl/person/906",
+      "https://castroprauxel.gremien.info/oparl/person/529",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/926",
+      "https://castroprauxel.gremien.info/oparl/person/572",
+      "https://castroprauxel.gremien.info/oparl/person/951"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-JHA-97",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-11-10",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-JHA-97",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-JHA-97",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 497769,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2023-09-07T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-JHA-97",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-11-10",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-JHA-97",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-JHA-97",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 497769,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

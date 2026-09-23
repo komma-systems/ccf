@@ -1,0 +1,32 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/2002177",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2002-06-13",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/2002177",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002177&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002177&id=69",
+      "fileName": "2002177",
+      "id": "https://castroprauxel.gremien.info/oparl/file/2002177",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2002/177",
+      "size": 12830,
+      "text": "eigenbetrieb;euv;sitzungsvorlage;werksausschuss;optimierungsansätze;kostensenkungspotenziale;entsorgungslogistik;infa;haushaltsstelle;berührung;gesamtkosten;werkleitung;optimierungsmöglichkeiten;wirtschaftsplan;bürgerinnen;bürgern;werner;mönch;betriebsvereinbarung;regelungen;leistungskenndaten;abfallwirtschaft;neuregelung;leistungen;ahlen;bestandsaufnahme;diskussionsgrundlage;mitarbeitern;personalrat;optimierung;vorhandene;zeitpotenziale;zusammenlegen;gruppen;revieren;rüstzeit;festlegung;leistungsvorgaben;rahmen;kennzahlenvergleichen;verbandes;städtereiniger;einsatz;tourenplanung;arbeitszeitmodells;modell;umsetzung;optimierungsempfehlungen;größenordnung;diskussions;bearbeitungsstand;optimierungsansätze;und;kostensenkungspotenziale;der;entsorgungslogistik;des;euv;durch;infa;2002177;,2002/177;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Optimierungsansätze und Kostensenkungspotenziale der Entsorgungslogistik des EUV durch INFA",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2002/177",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

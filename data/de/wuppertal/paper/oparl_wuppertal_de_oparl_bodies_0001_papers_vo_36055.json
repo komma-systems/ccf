@@ -1,0 +1,54 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36055",
+  "modified_at": "2026-07-06T17:22:48+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00366991.pdf",
+        "created": "2026-07-06T09:12:38+02:00",
+        "date": "2026-07-06",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00366991.pdf",
+        "fileName": "00366991.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/366991",
+        "mimeType": "application/pdf",
+        "modified": "2026-07-06T17:22:48+02:00",
+        "name": "Antwort auf Anfragen",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141067",
+        "authoritative": true,
+        "created": "2026-07-06T15:37:33+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68291",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24671",
+        "modified": "2026-07-08T19:08:47+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/267"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36055",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-06T09:08:25+02:00",
+    "date": "2026-07-06",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36055",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-07-06T17:22:48+02:00",
+    "name": "Antwort auf die Große Anfrage der Fraktion Die Linke v. 29.04.2026",
+    "paperType": "Antwort auf Anfragen",
+    "reference": "VO/0537/26/A",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/12"
+    ]
+  }
+}

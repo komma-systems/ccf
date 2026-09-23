@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/103003100085",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-SCHULA-19%7C103003100085%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/3625",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-SCHULA-19",
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2009-03-30",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/103003100085",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=103003100085&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=103003100085&id=69",
+      "fileName": "103003100085",
+      "id": "https://castroprauxel.gremien.info/oparl/file/103003100085",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2009/087",
+      "size": 176837,
+      "text": "€;10;160.000;2008/2009;2009/087;210.000;22.04.2009;30.03.2009;40;absolvieren;abständen;als;alter;an;auch;aus;ausführungen;az;beachten;becklem;befördert;beförderung;bekannt;berührung;bestimmungen;besuchen;betragen;betrieb;betriebs;busgröße;busse;bussen;busunternehmen;castrop-rauxel;das;datteln;datum;deininghausen;dem;den;der;des;die;diese;diesen;dingen;drei;drei-monats-abständen;dritten;durch;durchführen;durchgeführt;eingesetzt;eingesetzten;einsatz;erfolgt;erich-kästner-schule;erstzulassung;fahren;fahrenden;fahrten;fahrzeuge;fahrzeugen;fällig;garten;gefahren;gegen;geltenden;geworden;große;größere;grundschule;haben;hallenbad;halten;haltevorrichtungen;hans-christian-andersen-schule;hauptuntersuchung;hauptuntersuchungen;haushaltsmäßige;im;in;innerhalb;jährlich;jährlichen;jeweils;keine;kenntnis;kontrolliert;kraftfahrunternehmen;laufende;lehrschwimmbecken;linien;mit;nach;nicht;nimmt;oer-erkenschwick;öffentlich;personenbeförderungsgesetzes;personenverkehr;polizei;pöppinghausen;rahmen;regelmäßigen;regelungen;richtet;rund;schulausschuss;schule;schüler;schülerspezialverkehr;schülerspezialverkehrs;schülertransport;schülerzahl;schuljahr;schuljahres;sich;sicherheitsprüfungen;siehe;sind;sitzplätze;sitzungsvorlage;sowohl;sporthallen;städten;stadtgebietes;straßenverkehrs-zulassungsordnung;top-nr;über;uferstraße;und;unternehmer;verfügen;verkehrssicherem;verordnung;verpflichtet;verstärkt;verstöße;vertraglich;vg;von;vorzuführen;waltrop;werden;wird;zu;zum;zur;zusätzliche;zwischen;einsatz;von;bussen;im;rahmen;des;schülerspezialverkehrs;der;stadt;castrop-rauxel;2009/087;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Einsatz von Bussen im Rahmen des Schülerspezialverkehrs der Stadt Castrop-Rauxel",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2009/087",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

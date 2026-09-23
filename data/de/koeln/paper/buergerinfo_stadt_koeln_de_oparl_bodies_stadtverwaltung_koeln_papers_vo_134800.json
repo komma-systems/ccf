@@ -1,0 +1,48 @@
+{
+  "council_id": "koeln",
+  "record_type": "paper",
+  "source_id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134800",
+  "modified_at": "2026-09-23T10:38:14+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01112550.pdf",
+        "created": "2026-09-21T14:30:53+02:00",
+        "date": "2026-09-21",
+        "downloadUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/01112550.pdf",
+        "fileName": "01112550.pdf",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/files/1112550",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-21T15:19:46+02:00",
+        "name": "FDP/KSG Änderungsantrag nach § 13",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln",
+    "consultation": [
+      {
+        "agendaItem": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/450652",
+        "authoritative": true,
+        "created": "2026-09-21T15:37:59+02:00",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/206759",
+        "meeting": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34400",
+        "modified": "2026-09-22T17:45:30+02:00",
+        "organization": [
+          "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/201"
+        ],
+        "paper": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134800",
+        "role": "Antrag / Anfrage",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-21T14:29:17+02:00",
+    "date": "2026-09-21",
+    "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134800",
+    "modified": "2026-09-23T10:38:14+02:00",
+    "name": "Bedarfsfeststellungsbeschluss zur Durchführung einer detail- und variantenreichen Verkehrsuntersuchung auf der Luxemburger Straße, der \"Mikrosimulation",
+    "paperType": "FDP/KSG Änderungsantrag nach § 13",
+    "reference": "AN/1518/2026",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

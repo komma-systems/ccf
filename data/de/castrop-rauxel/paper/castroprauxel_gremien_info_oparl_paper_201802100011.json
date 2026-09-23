@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/201802100011",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7C201802100011%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6914",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2016-EUV-12",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2016-02-18",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/201802100011",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=201802100011&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=201802100011&id=69",
+      "fileName": "201802100011",
+      "id": "https://castroprauxel.gremien.info/oparl/file/201802100011",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2016/EUV/012",
+      "size": 153548,
+      "text": "Datum: 18.02.2016 TB I 9686-590 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 02.03.2016 TOP: I.3 Drucksache-Nr. 2016/EUV/012 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 02.03.2016 I.3 Betreff: Zwischenbericht 1 / 2016 Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt den Zwischenbericht 1 / 2016 zur Kenntnis. ____________________ Werner Sachverhalt: Der Vorstand des EUV Stadtbetrieb Castrop-Rauxel – AöR – hat gem. § 8 Abs. 5 der Satzung für das gleichnamige Kommunalunternehmen der Stadt Castrop-Rauxel den Verwaltungsrat mindestens halbjährlich über die Entwicklung des Vermögens- und Erfolgsplanes schriftlich zu unterrichten. Die nun folgenden Sachverhalte im Zusammenhang mit dem angestrebten Zwischenbericht des EUV Stadtbetriebs Castrop-Rauxel zum 28.02.2016 : Die wirtschaftliche Entwicklung des EUV im Januar und Februar 2016: Die Verbuchung der Erträge und Aufwendungen für die ersten zwei Monate ist noch nicht komplett abgeschlossen. Daher können lediglich Tendenzen für 2016 sowie Änderungen, die sich nach dem Planungsstichtag ergeben haben, dargestellt werden. Die wirtschaftliche Lage der gebührenpflichtigen Teilbetriebe sehen nach einer ersten Einschätzung folgendermaßen aus: Teilbetrieb III – Abfallentsorgung Die veranlagten Abfallentsorgungsgebühren belaufen sich auf 7.945.996 € und liegen leicht über dem Planwert in Höhe von 7.915.716 € bzw. + 0,4 %. Teilbetrieb V – Stadtentwässerung Die im Teilbetrieb Stadtentwässerung veranlagten Gebühren belaufen sich auf 16.401.038 €, der Planwert liegt bei 16.451.925 € bzw. -0,3 %. Teilbetrieb VI – Straßenreinigung/Winterdienst Die veranlagten Gebühren betragen 1.705.131 € und entsprechen in etwa dem Planwert. Da das tatsächliche Ergebnis des Teilbetriebes vom Winterhalbjahr 2015/2016 und 2016/2017 abhängt, ist zurzeit noch keine fixierte Aussage über das erzielte Ergebnis möglich. Andere Teilbetriebe entwickeln sich im Rahmen des Wirtschaftsplanes 2016. Weiterer Sachvortrag in der Sitzung.Zwischenbericht1 / 20162016/EUV/012%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Zwischenbericht  1 / 2016",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2016/EUV/012",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

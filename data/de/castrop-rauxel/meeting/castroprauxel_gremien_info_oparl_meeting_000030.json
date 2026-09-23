@@ -1,0 +1,97 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/000030",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/000030%7C20%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000030",
+        "name": "Genehmigung des Protokolls",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/000030%7C2002177%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000030",
+        "name": "Optimierungsansätze und Kostensenkungspotenziale der Entsorgungslogistik des EUV durch INFA",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/000030%7C2002207%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000030",
+        "name": "Vorlage des vorläufigen Jahresabschlusses 2001",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/000030%7C2002178%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000030",
+        "name": "Benennung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2002 des Eigenbetriebes EUV",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/000030%7C2002208%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000030",
+        "name": "Aufnahme eines Kommunaldarlehens in Höhe von 5.400.000,-- Euro",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/000030%7C2002197%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000030",
+        "name": "Kooperation mit Dritten, Zielsetzung des Haushaltssicherungskonzeptes;\r\nStrategische Neuausrichtung des bestehenden Eigenbetriebes",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/000030%7C22%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000030",
+        "name": "Anfragen der Werksausschussmitglieder",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/000030%7C9954%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000030",
+        "name": "Mitteilungen der Werkleitung",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2002-06-26T00:00:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/000030",
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "außerhalb des Rathauses, Info siehe Bekanntmachung, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/000030/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "außerhalb des Rathauses, Info siehe Bekanntmachung",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "terminiert",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "3. Sitzung des Werksausschusses  2002",
+    "organization": [],
+    "start": "2002-06-26T16:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting"
+  }
+}

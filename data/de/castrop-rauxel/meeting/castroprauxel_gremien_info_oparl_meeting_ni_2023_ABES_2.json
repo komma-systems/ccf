@@ -1,0 +1,346 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-2",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-2%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-2",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-2%7C1%7C1",
+          "date": "2024-03-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-2%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-2%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 373921,
+          "text": "  1 Fragestunde für Einwohnerinnen und Einwohner    Keine Fragen.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-2%7C55%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-2",
+        "name": "Bericht zum Bürger*innenbudget",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-2%7C55%7C1",
+          "date": "2024-03-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-2%7C55%7C1",
+          "fileName": "be_55_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-2%7C55%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 407720,
+          "text": "  2 Bericht zum Bürger*innenbudget    Frau Stannek von der Verwaltung berichtet über den aktuellen Sachstand beim Bürgerbudget.  Sie teilt mit, dass seit der Einführung des Bürger*innenbudgets bereits 153.000  vergeben wurden.  Sie erläutert, dass es aufgrund der komplizierten Haushaltslage im Jahr 2024 noch unklar sei, in welcher Höhe Zahlungen aus dem Bürger*innenbudget geleistet werden können.  Auf Nachfrage von Herrn Strauß teilt Frau Stannek mit, dass alle geförderten Projekte im Rat der Stadt Castrop-Rauxel beschlossen wurden.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-2%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-2",
+        "name": "Bericht / Vorstellung des CastroperCunstVereines (CCV) ",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-2%7Czt_1%7C1",
+          "date": "2024-03-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-2%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-2%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 397623,
+          "text": "  3 Bericht / Vorstellung des CastroperCunstVereines (CCV)     Herr Marcel Schröder vom CastroperCunstVerein (CCV) stellt den Verein und die zahlreichen Projekte und Workshops dem Ausschuss vor. Er berichtet von den vergangenen und geplanten Veranstaltungen, die oftmals im Atelier arto mondo stattfinden. Er erläutert den Aufbau des Vereins, die auch auf Kinder und Jugendliche ausgerichteten Projekte sowie das ehrenamtliche Engagement des Vereins.  Im Austausch mit den Ausschussmitgliedern werden einige Möglichkeiten zur Zusammenarbeit des Vereins mit anderen Stellen im Stadtgebiet (u.a. Bogis, Schulen etc.) diskutiert.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-2%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-2",
+        "name": "Bericht des Bereiches 41 - Kultur, Weiterbildung, Qualifizierung",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-2%7Czt_0%7C1",
+          "date": "2024-03-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-2%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-2%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 447776,
+          "text": "  4 Bericht des Bereiches 41 - Kultur, Weiterbildung, Qualifizierung    Frau Heine vom Bereich Kultur, Weiterbildung und Qualifizierung stellt den Bereich und seinen Aufbau kurz vor und gibt folgenden Bericht an die Ausschussmitglieder weiter.  Sachstandsbericht Kultur Der Bereich 41 setzt sich zusammen aus den Teilbereichen Volkshochschule (mit Berufsbildungszentrum) Stadtbibliothek Stadtarchiv Kulturbüro Hier soll es schwerpunktmäßig um den Bereich Kultur gehen.  Zahlreiche kulturelle Veranstaltungen in Castrop-Rauxel werden von Bereich41 organisiert und koordiniert. Der Bereich 41 führt in jedem Jahr Kulturveranstaltungen für alle Altersgruppen durch. Die Veranstaltungen finden sich sowohl im VHS Programm als auch im Programm der Bibliothek.\u000b Da das Kulturbüro faktisch auf eine Person reduziert wurde, die auch noch die VHS Leitung und die Bereichsleitung innehat, gibt das Kulturbüro kein eigenes Programm heraus, sondern koordiniert die Angebote.  Hierfür ist ein starkes und großes Netzwerk unabdingbar. Nur wenn das Angebot auf mehrere Schultern verteilt wird, kann es auch umgesetzt werden.  Angebote nach Zielgruppen:  0-6 Jahre Für Kinder ab 3 Jahren finden regelmäßig Kindertheater Veranstaltungen in der Stadtbibliothek statt. Pro Halbjahr sind es mindestens 3 Veranstaltungen. In Kooperation mit der Kulturgemeinde e.V. und den Frühen Hilfen, finden darüber hinaus weitere Theaterstücke im Bürgerhaus, Familien  und Bildungsbüro oder der ASG Aula statt.  6-10 Jahre Für Kinder in den Grundschulen finden unregelmäßig Veranstaltungen statt, wenn dafür Fördermittel generiert werden konnten.  Das Projekt JEKITS wird von der Musikschule Rhein Ruhr, nach wie vor in unserem Auftrag durchgeführt. Grundschulkinder nehmen an der Geschichtsralley teil, die federführend vom Stadtarchiv organsiert und über die Sparkassenstiftung finanziert wird. In verschiedenen Grundschulen werden Vorleseangebote vorgehalten und mehrmals im Jahr finden Vorleseangebote Samstags kostenlos in der Bibliothek statt. Aktuell findet ein kostenloses Projekt mit der Band Electric Callboys und der Musikschule Altes Rathaus statt. Die Lesepaten von Mentor treffen sich zur Fort- und Weiterbildung bei der VHS. So ist auch in dem Bereich eine enge Kooperation entstanden.  10-14 Jahre Für die Zielgruppe der 10 bis 14jährigen wird das Projekt Kulturrucksack NRW durchgeführt. In Zusammenarbeit mit 5 Castroper Jugendeinrichtungen gibt es zahlreiche kulturelle Angebote. Diese reichen von jugendkulturellen Programmen wie Graffiti, Streetart, Parkour über Museumsbesuche, Acrylmalkursen, Töpferwerkstätten bis hin zu Chorprojekten und werden jährlich neu von der Kulturrucksackbeauftragten (Leitung Kulturbüro) geplant. Aus der Projektlinie Kultur macht stark- Bündnisse für Bildung werden von der VHS mit den Kooperationspartnern Kulturgemeinde e.V., Casterix e.V. und dem Bereich Jugendförderung Ferienprojekte mit dem Namen talentCAMPus durchgeführt. Durch die Finanzierung über den Deutschen Volkshochschulverband e.V. sind diese Projekte für die teilnehmenden Kinder und Jugendlichen komplett kostenlos und beinhalten neben der Betreuung durch Fachkräfte ein tägliches Frühstück und Mittagessen.  14-21 Jahre Für die Zielgruppe der 14 bis 21jährigen gibt es leider nur unregelmäßige Angebote, die immer von der jeweiligen Förderkulisse abhängen. Mehrfach konnten interdisziplinäre Projekte über die Förderlinie Kultur und Weiterbildung durchgeführt werden und enthielten Musik-, Tanz-, Theater- und Fotoworkshops.  Einmal jährlich haben die Kunstklassen des EBG die Möglichkeit ihre Werke in der Bürgerhausgalerie auszustellen. Eine Literaturgruppe/ Schreibwerkstatt für Jugendliche findet seit mehreren Jahren statt. Klassenführungen in der Bibliothek finden für alle KiTa und (Grund)Schulen statt. Die Kinderkulturkarawane ist seit 2013 regelmäßiger Gast des Kulturbüros. Künstler aus dem globalen Süden besuchen dabei unsere Stadt und präsentieren Kunst und Kultur aus ihren Heimatländer. So kommt es zu einem interkulturellen Austausch. In Kooperation mit dem Verein CASKultur finden Theaterprojekte und Proben in der Aula statt. In Zusammenarbeit mit den Jugendzentren wird die Nacht der Jugendkultur jedes Jahr im September durchgeführt. Hier treten Bands auf, wird getanzt, Grafitti und Airbrush angeboten und gemeinsam gefeiert.  21+ Jahre Für Erwachsene bietet die VHS in ihrem Programm zahlreiche Angebote der kulturellen Bildung. Es finden Kunstvorträge statt und es werden Museumsfahrten durchgeführt. Zahlreiche Konzerte unterschiedlicher Stilrichtungen werden organisiert. Die Stadtbibliothek bietet Lesungen verschiedener Autoren. Punktuell werden verschiedene (kreativ) Workshops durchgeführt. Mindestens 4mal jährlich werden DIAPORAMEN angeboten. Mindestens 6mal jährlich finden Ausstellungen verschiedener Künstler in der Bürgerhaus Galerie statt. Der Besuch der Galerie ist kostenlos. Künstler können die Galerie kostenlos für ihre Ausstellungen nutzen. In Kooperation mit der Musikschule Dur und Moll finden regelmäßig Theaterfahrten statt. 2 mal jährlich finden Jazz Konzerte statt. Neu im Programm ist ein Jazz Brunch.  Mit der Kulturgemeinde veranstalten das Kulturbüro Konzerte in der Lambertuskirche. Das Kulturbüro Grupo Sal ist regelmäßig mit Multivisionen zu Gast.  Das geringe Budget welches im Kulturbereich vorhanden ist, dient außerdem der Unterstützung lokaler Chöre und Künstlergruppen. Das Kulturbüro beteiligt sich manchmal finanziell, manchmal in dem die Drucksachen und Werbung übernommen werden und manchmal durch kostenlose Bereitstellung von Räumlichkeiten. Dies alles erfolgt auf Antrag und steht jedem Antragsteller offen. Der Bereich 41 bemüht sich regelmäßig um Drittmittel und Fördergelder um das Programm so sozialverträglich wie möglich zu gestalten. Die Kulturrucksackveranstaltungen werden durch die Förderung des Ministeriums alle kostenlos angeboten. Kurse und Workshops werden so geplant und kalkuliert, dass sie kostendeckend durchgeführt werden können. Die Gebühr beträgt dafür maximal 3,50/ 4 pro Unterrichtsstunde. Lesungen und Vorträge sind je nach Künstler kostspieliger, wobei wir versuchen eine maximale Gebühr von 12 nicht zu überschreiten. Musikveranstaltungen kosten je nach Künstler zwischen 15 und 25. Ermäßigungen sind teilweise gegen Vorlage des Cas-Pass und auf Antrag möglich. Exkursionen sind schon durch die Eintrittsgelder erheblich teurer, worauf wir aber keinen Einfluss haben. Wir können diese Exkursionen nicht subventionieren.  Für die Erstellung eines kommunalen Gesamtkonzepts für kulturelle Bildung wurde das Kulturbüro im Jahr 2021 ausgezeichnet.  Es gilt die Angebote gemeinsam mit den Netzwerkpartnern und Akteuren in Castrop-Rauxel zu verstetigen!  Ein Flyer der VHS ist dem Protokoll als Anhang beigefügt.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10910",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-2%7C332610100265%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-2",
+        "name": "Umgang mit Mikroplastik in Kunstrasenplätzen",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-2%7C332610100265%7C1",
+          "date": "2024-03-11",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-2%7C332610100265%7C1",
+          "fileName": "be_332610100265_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-2%7C332610100265%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 407663,
+          "text": "  5 Umgang mit Mikroplastik in Kunstrasenplätzen (2023/261)    Frau Stannek erläutert die Vorlage und zeigt mögliche Alternativen für die Zukunft in Form von natürlichen Füllstoffen für die Sportplätze auf.  Der Ausschuss empfiehlt dem Rat folgenden Beschluss:  Der Rat der Stadt beschließt ab sofort den Verzicht von Gummigranulat für alle geplanten Sanierungen und Neubauten von Kunstrasenplätzen im Stadtgebiet.    Abstimmungsergebnis: Einstimmig beschlossen  Ja-Stimmen: 15  Nein-Stimmen: -  Enthaltungen: -       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11011",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-2%7C332710100267%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-2",
+        "name": "Beitritt der Stadt Castrop-Rauxel zum Kommunen-Netzwerk 'engagiert in NRW'",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-2%7C332710100267%7C1",
+          "date": "2024-03-11",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-2%7C332710100267%7C1",
+          "fileName": "be_332710100267_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-2%7C332710100267%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 488306,
+          "text": "  6 Beitritt der Stadt Castrop-Rauxel zum Kommunen-Netzwerk  engagiert in NRW  (2023/282)    Der Ausschuss empfiehlt dem Rat folgenden Beschluss:  Der Rat der Stadt beauftragt die Verwaltung mit der Staatskanzlei NRW die Vereinbarung zum Beitritt des Kommunen-Netzwerks engagiert in NRW zu unterzeichnen.     Abstimmungsergebnis: Einstimmig beschlossen  Ja-Stimmen: 15  Nein-Stimmen: -  Enthaltungen: -       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-2%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-2",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-2%7C6%7C1",
+          "date": "2024-03-11",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-2%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-2%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 375021,
+          "text": "  7 Anfragen der Ausschussmitglieder    Keine Anfragen.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-2%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-2",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-2%7C4%7C1",
+          "date": "2024-03-11",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-2%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-2%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 371259,
+          "text": "  8 Mitteilungen der Verwaltung   Keine Mitteilungen.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-2%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-2",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-2%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-2",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2023-ABES-2%7C20231120163609-0_2023-ABES-2_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2023-11-20",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2023-ABES-2%7C20231120163609-0_2023-ABES-2_1.pdf",
+        "fileName": "20231120163609-0_2023-ABES-2_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2023-ABES-2%7C1",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Vorlage 2023_282_Beitritt der Stadt Castrop-Rauxel zum Kommunen-Netzwerk 'engagiert in NRW'",
+        "size": 1045929,
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2023-ABES-2%7C20231120163616-0_2023-ABES-2_2.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2023-11-20",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2023-ABES-2%7C20231120163616-0_2023-ABES-2_2.pdf",
+        "fileName": "20231120163616-0_2023-ABES-2_2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2023-ABES-2%7C2",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "2023_282 Anlage 1",
+        "size": 350119,
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2023-ABES-2%7C20231120163617-1_2023-ABES-2_3.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2023-11-20",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2023-ABES-2%7C20231120163617-1_2023-ABES-2_3.pdf",
+        "fileName": "20231120163617-1_2023-ABES-2_3.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2023-ABES-2%7C3",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "2023_282 Anlage 2",
+        "size": 1277658,
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2023-ABES-2%7C20240308100800-0_ni_2023-ABES-2_4.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2024-03-08",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2023-ABES-2%7C20240308100800-0_ni_2023-ABES-2_4.pdf",
+        "fileName": "20240308100800-0_ni_2023-ABES-2_4.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2023-ABES-2%7C4",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Flyer VHS Image",
+        "size": 435424,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2023-11-21T18:25:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-2",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2023-ABES-2",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-11-07",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2023-ABES-2",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2023-ABES-2",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "b062fdc92f7d479eeef3ed421f1b18a68c9d1102",
+      "size": 430497,
+      "text": "Amtliche Bekanntmachung der Tagesordnung zur Sitzung des Ausschusses für Bürgeranliegen, Ehrenamt und Sport am Dienstag, 21.11.2023 um 17:30 Uhr im Baukompetenzzentrum-Ruhr, Architekturbüro J. Leder, Am Förderturm 1 in 44575 Castrop-Rauxel   I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner  2. Bericht zum Bürger*innenbudget  3. Bericht / Vorstellung des CastroperCunstVereines (CCV)   4. Bericht des Bereiches 41 - Kultur, Weiterbildung, Qualifizierung  5. Umgang mit Mikroplastik in Kunstrasenplätzen  6. Anfragen der Ausschussmitglieder  7. Mitteilungen der Verwaltung      II. Nichtöffentliche Sitzung:  1. Anfragen der Ausschussmitglieder  2. Mitteilungen der Verwaltung       Rajko   K r a v a n j a  Bürgermeister \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Baukompetenzzentrum-Ruhr, Architekturbüro J. Leder, Am Förderturm 1, 44575 Castrop-Rauxel",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-2/location",
+      "locality": "Castrop-Rauxel",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "postalCode": "44575",
+      "room": "Baukompetenzzentrum-Ruhr, Architekturbüro J. Leder",
+      "streetAddress": "Am Förderturm 1",
+      "subLocality": "Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung Ausschuss für Bürgeranliegen, Ehrenamt und Sport",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/ABES"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/389",
+      "https://castroprauxel.gremien.info/oparl/person/133",
+      "https://castroprauxel.gremien.info/oparl/person/812",
+      "https://castroprauxel.gremien.info/oparl/person/292",
+      "https://castroprauxel.gremien.info/oparl/person/906",
+      "https://castroprauxel.gremien.info/oparl/person/309",
+      "https://castroprauxel.gremien.info/oparl/person/1072",
+      "https://castroprauxel.gremien.info/oparl/person/1043",
+      "https://castroprauxel.gremien.info/oparl/person/874",
+      "https://castroprauxel.gremien.info/oparl/person/1073",
+      "https://castroprauxel.gremien.info/oparl/person/39",
+      "https://castroprauxel.gremien.info/oparl/person/1208",
+      "https://castroprauxel.gremien.info/oparl/person/1052",
+      "https://castroprauxel.gremien.info/oparl/person/269",
+      "https://castroprauxel.gremien.info/oparl/person/1194",
+      "https://castroprauxel.gremien.info/oparl/person/984"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-ABES-2",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-03-20",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-ABES-2",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-ABES-2",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 586877,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2023-11-21T17:30:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-ABES-2",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-03-20",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-ABES-2",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-ABES-2",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 586877,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

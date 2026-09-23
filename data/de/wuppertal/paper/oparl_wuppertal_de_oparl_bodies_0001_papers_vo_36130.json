@@ -1,0 +1,62 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36130",
+  "modified_at": "2026-08-10T09:45:12+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368441.pdf",
+        "created": "2026-08-10T09:38:35+02:00",
+        "date": "2026-08-10",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368441.pdf",
+        "fileName": "00368441.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368441",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-10T09:45:12+02:00",
+        "name": "Antrag B90/Grüne",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368443.pdf",
+        "created": "2026-08-10T09:41:54+02:00",
+        "date": "2026-08-10",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368443.pdf",
+        "fileName": "00368443.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368443",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-10T09:45:12+02:00",
+        "name": "Antrag B90/Grüne Fraktion",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141208",
+        "created": "2026-08-10T09:45:58+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68424",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24666",
+        "modified": "2026-09-09T22:21:29+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/43"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36130",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-10T09:28:35+02:00",
+    "date": "2026-08-10",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36130",
+    "modified": "2026-08-10T09:45:12+02:00",
+    "name": "Einrichtung einer Einbahnstraße aus Richtung Odenwaldweg in die Straße Sollingweg - Antrag der Fraktion Bündnis 90 / Die Grünen",
+    "paperType": "Antrag B90/Grüne BV",
+    "reference": "VO/0936/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

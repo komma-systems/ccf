@@ -1,0 +1,330 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-5",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-5%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-5",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-ABES-5%7C1%7C1",
+          "date": "2025-03-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-ABES-5%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-ABES-5%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 369437,
+          "text": "  1 Fragestunde für Einwohnerinnen und Einwohner   Keine Fragen.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-5%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-5",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-ABES-5%7CProtokoll%7C1",
+          "date": "2025-03-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-ABES-5%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-ABES-5%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 371497,
+          "text": "  2 Einwände gegen die letzte Niederschrift   Keine Einwände.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-5%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-5",
+        "name": "Bericht des Bezirksvebandes Castrop-Rauxel/Waltrop der Kleingärtner e.V. (mündlicher Bericht)",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-ABES-5%7Czt_0%7C1",
+          "date": "2025-03-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-ABES-5%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-ABES-5%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 398235,
+          "text": "  3 Bericht des Bezirksverbandes Castrop-Rauxel/Waltrop der Kleingärtner e.V.  (mündlicher Bericht)   Herr Mörchen vom Bezirksverband gibt den Ausschussmitgliedern einen Einblick in die vielen Veranstaltungen.  Er geht insbesondere auch auf die sozialen Projekte des Vereins ein, wie beispielsweise die Mitarbeit bei Casterix-Projekten (im Emscherland) oder die Spendenaktionen für Frauen und Kinder im Frauenhaus ein. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-5%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-5",
+        "name": "Spielflächenplanung der Kleingartenvereine (mündlicher Bericht)",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-ABES-5%7Czt_1%7C1",
+          "date": "2025-03-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-ABES-5%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-ABES-5%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 393855,
+          "text": "  4 Spielflächenplanung der Kleingartenvereine (mündlicher Bericht)   Frau Lork vom Bereich Jugendhilfeplanung der Stadtverwaltung gibt einen ausführlichen Bericht zur Spielflächenplanung und aktuellen Spielflächensituation in Castrop-Rauxel ab.  Die Ausschussmitglieder diskutieren kurz, insbesondere über die Themen Sicherheit und Vandalismus auf Spielplätzen.  Frau Lork teilt mit, dass eine Kontrolle aller Spielplätze im öffentlichen Raum äußerst kompliziert ist.  Sie versichert aber, dass die Verwaltung bemüht ist, die Spielplätze bestmöglich gegen Vandalismus zu schützen.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12833",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-5%7C350811100246%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-5",
+        "name": "Änderung der Kleingartenordnung",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-ABES-5%7C350811100246%7C1",
+          "date": "2025-03-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-ABES-5%7C350811100246%7C1",
+          "fileName": "be_350811100246_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-ABES-5%7C350811100246%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 386988,
+          "text": "  5 Änderung der Kleingartenordnung (2024/237)   Frau Stannek erläutert kurz die Vorlage.  Der Ausschuss stimmt der Änderung der Kleingartenordnung bei einer Enthaltung einstimmig zu.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12845",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-5%7C351410100219%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-5",
+        "name": "Anliegenstatistik",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-ABES-5%7C351410100219%7C1",
+          "date": "2025-03-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-ABES-5%7C351410100219%7C1",
+          "fileName": "be_351410100219_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-ABES-5%7C351410100219%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 384953,
+          "text": "  6 Anliegenstatistik (2024/211)   Nach eingehender Diskussion der Ausschussmitglieder über Verbesserungsmöglichkeiten bei der CAS App nimmt der Ausschuss die Vorlage zur Kenntnis.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/13193",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-5%7C350811100247%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-5",
+        "name": "3. Änderung zur Entgeltordnung für die Nutzung der Sportplätze, Sporthallen, Turnhallen und Bäder durch Vereine und sonstige Nutzergruppen vom 01.01.2013",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-ABES-5%7C350811100247%7C1",
+          "date": "2025-03-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-ABES-5%7C350811100247%7C1",
+          "fileName": "be_350811100247_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-ABES-5%7C350811100247%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 412296,
+          "text": "  7 3. Änderung zur Entgeltordnung für die Nutzung der Sportplätze, Sporthallen, Turnhallen und Bäder durch Vereine und sonstige Nutzergruppen vom 01.01.2013 (2024/238)   Frau Stannek erläutert kurz die Vorlage.  Der Ausschuss empfiehlt dem Rat der Stadt einstimmig folgenden Beschlussvorschlag: Der Rat der Stadt Castrop-Rauxel beschließt die 3. Änderung zur Entgeltordnung für die Nutzung der Sportplätze, Sporthallen, Turnhallen und Bäder durch die Vereine und sonstige Nutzergruppen vom 01.01.2013        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12844",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-5%7C351111100249%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-5",
+        "name": "Bericht über die Nutzung der Ehrenamtskarte NRW",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-ABES-5%7C351111100249%7C1",
+          "date": "2025-03-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-ABES-5%7C351111100249%7C1",
+          "fileName": "be_351111100249_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-ABES-5%7C351111100249%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 389926,
+          "text": "  8 Bericht über die Nutzung der Ehrenamtskarte NRW (2024/240)   Frau Stannek erläutert kurz die Vorlage der Verwaltung.  Der Ausschuss nimmt die Vorlage nach kurzer Diskussion über Verbesserungsmöglichkeiten zur Kenntnis.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-5%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-5",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-ABES-5%7C6%7C1",
+          "date": "2025-03-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-ABES-5%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-ABES-5%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 371223,
+          "text": "  9 Anfragen der Ausschussmitglieder   Keine Anfragen. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-5%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-5",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-ABES-5%7C4%7C1",
+          "date": "2025-03-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-ABES-5%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-ABES-5%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 386883,
+          "text": "  10 Mitteilungen der Verwaltung   Frau Stannek teilt mit, dass ein Umstieg vom bisherigen Portal für Öffentlichkeitsbeteiligung namens Consul auf das Beteiligungsportal Beteiligung NRW erfolgt.   Nähere Informationen hierzu sollen noch erfolgen. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-5%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-5",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-ABES-5%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-5",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2024-11-26T18:23:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-5",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-ABES-5",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-11-12",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2024-ABES-5",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2024-ABES-5",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "a6db3f6a68f18f01be5197ee6770c28b2b47f6ba",
+      "size": 434674,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "KGV Am Schellenberg e.V., Heinrichstraße 2, 44575 Castrop-Rauxel",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-ABES-5/location",
+      "locality": "Castrop-Rauxel",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "postalCode": "44575",
+      "room": "KGV Am Schellenberg e.V.",
+      "streetAddress": "Heinrichstraße 2",
+      "subLocality": "Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschuss für Bürgeranliegen, Ehrenamt und Sport",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/ABES"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/1003",
+      "https://castroprauxel.gremien.info/oparl/person/812",
+      "https://castroprauxel.gremien.info/oparl/person/73",
+      "https://castroprauxel.gremien.info/oparl/person/906",
+      "https://castroprauxel.gremien.info/oparl/person/961",
+      "https://castroprauxel.gremien.info/oparl/person/1072",
+      "https://castroprauxel.gremien.info/oparl/person/1043",
+      "https://castroprauxel.gremien.info/oparl/person/874",
+      "https://castroprauxel.gremien.info/oparl/person/1073",
+      "https://castroprauxel.gremien.info/oparl/person/39",
+      "https://castroprauxel.gremien.info/oparl/person/1208",
+      "https://castroprauxel.gremien.info/oparl/person/1052",
+      "https://castroprauxel.gremien.info/oparl/person/269",
+      "https://castroprauxel.gremien.info/oparl/person/1137",
+      "https://castroprauxel.gremien.info/oparl/person/1194",
+      "https://castroprauxel.gremien.info/oparl/person/1236",
+      "https://castroprauxel.gremien.info/oparl/person/984"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-ABES-5",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-04-01",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-ABES-5",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-ABES-5",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 472774,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2024-11-26T17:30:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-ABES-5",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-04-01",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-ABES-5",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-ABES-5",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 472774,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

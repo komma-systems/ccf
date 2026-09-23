@@ -1,0 +1,90 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/272101100016",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272101100016%7C20191024145510.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272101100016%7C20191024145510.pdf%7C",
+        "fileName": "20191024145510.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272101100016%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272101100016",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "91dd419715ad33e02f805f44a3cca171cccd85e1",
+        "size": 321451,
+        "text": "Textfassung öffentlich-rechtliche Vereinbarung",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B1-100%7C272101100016%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8788",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B1-100",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B1"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-HFA-101%7C272101100016%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8789",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-HFA-101",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-116%7C272101100016%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8790",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-116",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-01-21",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/272101100016",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272101100016&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272101100016&id=69",
+      "fileName": "272101100016",
+      "id": "https://castroprauxel.gremien.info/oparl/file/272101100016",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/013",
+      "size": 259295,
+      "text": " Bereich Ordnungswesen und Bürgerservice 2020/013 öffentlich  Az: 32   Datum: 21.01.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 1 (Kultur, Ordnung, Ausländerwesen und Feuerwehr) 19.02.2020 8  Haupt- und Finanzausschuss 25.02.2020   Rat der Stadt 27.02.2020    Betreff  Abschluss einer öffentlich-rechtlichen Vereinbarung zwischen den Städten Bochum und Castrop-Rauxel zur Übernahme von Telefondienstleistungen der Stadt Castrop-Rauxel durch das von der Stadt Bochum betriebene ServiceCenter  \f    Finanzielle Auswirkungen      keine haushaltsmäßige Berührung     X Auswirkungen siehe Sachverhalt    \f      \fBeschlussvorschlag 1. Der Rat der Stadt beauftragt die Verwaltung, die als Anlage beigefügte Öffentlich-rechtliche Vereinbarung zwischen der Stadt Bochum und der Stadt Castrop-Rauxel zur Durchführung von Telefondienstleistungen der Stadt Castrop-Rauxel durch das von der Stadt Bochum betriebene ServiceCenter mit der Stadt Bochum abzuschließen.  2. Über den Abschluss der in § 7 II der Vereinbarung vorgesehene gesonderten Vereinbarung über die Kostendetails ist der Rat der Stadt in geeigneter Form zu unterrichten.     \f\fK r a v a n j a  (Bürgermeister)   E c k h a r d t (Erster Beigeordneter) \fSachverhalt  Die Dienstleistungen des Bürgerbüros werden grundsätzlich nach vorheriger Terminvereinbarung, zu bestimmten Zeiten aber auch für Spontankunden, angeboten. Für den telefonischen Kontakt zum Bürgerbüro steht derzeit eine Mitarbeiterin als Ansprechpartnerin unter der Bürgerbüro-Hotline 106-2333 zur Verfügung. Zur Verbesserung der Erreichbarkeit des Bürgerbüros bei gleichzeitiger Entlastung der Mitarbeiterinnen und Mitarbeiter soll die Bürgerbüro-Hotline durch das ServiceCenter der Stadt Bochum übernommen werden. Die eingehenden Anfragen werden zu einem hohen Prozentsatz direkt durch das ServiceCenter beantwortet. Darüber hinaus soll von dort auch die telefonische Terminreservierung für das Bürgerbüro erfolgen.  Für die Abteilung Allgemeine Ordnungsangelegenheiten bietet die Stadt Castrop-Rauxel unter der Hotline-Nummer 106-2233 eine Kontaktstelle für telefonische Anregungen und Beschwerden an. Diese Anrufe werden aktuell durch eine Mitarbeiterin der Stadt Castrop-Rauxel entgegengenommen. Zukünftig sollen die Anrufe direkt im ServiceCenter der Stadt Bochum eingehen und über das hiesige Ticket-System erfasst werden. Die inhaltliche Bearbeitung erfolgt wie bisher in der Abteilung Allgemeine Ordnungsangelegenheiten.  Insgesamt soll für die beiden o. g. Kontaktmöglichkeiten eine größtmögliche Verbesserung des Servicegedankens erreicht werden; beide Dienstleistungen prägen ganz erheblich das Image der Stadt Castrop-Rauxel bei den Bürgerinnen und Bürgern.  Die Zusammenarbeit zwischen den beiden Städten soll über eine öffentlich-rechtliche Vereinbarung erfolgen. Diese ist in enger Zusammenarbeit zwischen dem ServiceCenter der Stadt Bochum und der Stadt Castrop-Rauxel erarbeitet worden. Im Anhang 1 ist diese als finale Version einsehbar.  Auf Grund von Erfahrungswerten der Stadt Castrop-Rauxel gehen beide Seiten von einer rechnerischen Größe von 2 Stellen aus. Es sind Gesamtkosten in Höhe von rd. 180.000  kalkuliert. Dieser Betrag beinhalt bereits die ab 2021 greifende Umsatzsteuerpflicht. Für 2020 sind Kosten in Höhe von rd. 152.000  zu kalkulieren. Die Beträge sind für den Haushalt 2020ff. angemeldet. Hinzu kommen noch Lizenzgebühren im unteren 4-stelligen Bereich.  Die öffentlich-rechtliche Vereinbarung sieht eine zunächst 5-jährige Laufzeit vor. Diese Laufzeit ist erforderlich, um ggfls. eine einmalige Zuwendung aus der Richtlinie über die Förderung der Einrichtung neuer interkommunaler Kooperationen in NRW (Förderrichtlinie IKZ NRW) in Höhe von max. 150.000  zu generieren. Die Antragstellung erfolgt nach positiven Beschlussfassungen der Räte der Städte Bochum und Castrop-Rauxel.  Der Verwaltungsvorstand der Stadt Bochum hat dem Abschluss der öffentlich-rechtlichen Vereinbarung am 24.09.2019 zugestimmt; ebenso der Personalrat der Stadt Bochum am 13.09.2019. Der dortige Haupt- und Finanzausschuss hat am 30.10.2019, der Rat am 07.11.2019 die Thematik behandelt (über das Ergebnis wird in den Sitzungen berichtet).  Im weiteren Verfahren ist der hiesige Personalrat zu beteiligen (die Vertreter des ServiceCenters der Stadt Bochum haben bereits zu Beginn der Vertragsverhandlungen angeboten, dass der Personalrat die Räumlichkeiten in Bochum in Augenschein nehmen können; auch stehen sie für Fragen des Personalrates zur Verfügung). Die Beratung ist für den 29.01.2020 vorgesehen.  Weiterer Bericht in der Sitzung.    Anhang  Textfassung öffentlich-rechtliche Vereinbarung  32 20               \f  \fAnlage 1  - Finanzielle Auswirkungen     \f  I. Mittelbedarf: davon                                        Ergebnisplan              Aufwendungen: 151.160,00   - Erträge von Dritten: -   = Städtischer Eigenanteil: 151.160,00                  davon       Finanzplan Auszahlungen: 151.160,00   - Einzahlungen von Dritten: -   = Städtischer Finanzierungsanteil: 151.160,00             Die benötigten Haushaltsmittel stehen zur Verfügung:                \f JA  Buchungsstelle: KST: 50321 KTR: 120101 SK: 5272000  85.350                                                     KST: 50326 KTR: 121004 SK: 5272000  85.000    NEIN  Siehe Erläuterungen / Angabe von Deckungsvorschlägen \f Erläuterungen / Angabe von Deckungsvorschlägen:    \f Bei Maßnahmen des Finanzplanes:  Die Maßnahme ist in der vom Rat beschlossenen Dringlichkeitsliste enthalten.  Die Maßnahme ist in die vom Rat beschlossene Dringlichkeitsliste zusätzlich aufzunehmen bzw. eine     Erweiterung der Maßnahme ist vorzunehmen.  Die Maßnahme ist in die vom Rat zu beschließende Dringlichkeitsliste aufzunehmen. \f II. Auswirkungen auf die mittelfristige Haushaltsplanung: Ergebnisplan 2021 2022 2023 2024 insgesamt  Personalaufwendungen          Sachaufwendungen 179.880,40   179.880,40   179.880,40   179.880,40  719.521,60   Zinsaufwendungen       Aufwendungen für Abschreib.       Zusätzliche Erträge          Mindererträge          Summe 179.880,40   179.880,40   179.880,40   179.880,40  719.521,60    Die Finanzierung ist innerhalb der mittelfristigen Haushaltsplanung für diese Maßnahme gesichert.  \f   gesichert    nicht gesichert \f     \f   \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Abschluss einer öffentlich-rechtlichen Vereinbarung zwischen den Städten Bochum und Castrop-Rauxel zur Übernahme von Telefondienstleistungen der Stadt Castrop-Rauxel durch das von der Stadt Bochum betriebene ServiceCenter",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/013",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B1",
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

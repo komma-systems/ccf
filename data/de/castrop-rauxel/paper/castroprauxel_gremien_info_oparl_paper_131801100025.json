@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/131801100025",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-AUSLB-33%7C131801100025%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/4986",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-AUSLB-33",
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2012-01-18",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/131801100025",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=131801100025&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=131801100025&id=69",
+      "fileName": "131801100025",
+      "id": "https://castroprauxel.gremien.info/oparl/file/131801100025",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2012/025",
+      "size": 172373,
+      "text": "bereich stabsstelle integration 2012/025 öffentlich az: datum: 18.01.2012 sitzungsvorlage beratungsfolge datum top-nr. integrationsrat 01.02.2012 betreff arbeitskreis städtepartnerschaften finanzielle auswirkungen x keine haushaltsmäßige berührung auswirkungen siehe sachverhalt beschlussvorschlag der integrationsrat nimmt den mündlichen vortrag von herrn corbaci zur kenntnis. johannes beisenherz bürgermeister sachverhalt mündlicher vortrag von des integrationsratsvorsitzenden kubilay corbaci zu dem weiteren vorgehen des arbeitskreises städtepartnerschaften griechenland und türkei.arbeitskreis städtepartnerschaften2012/025%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Arbeitskreis Städtepartnerschaften",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2012/025",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36207",
+  "modified_at": "2026-08-25T15:56:53+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368916.pdf",
+        "created": "2026-08-25T15:10:48+02:00",
+        "date": "2026-08-25",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368916.pdf",
+        "fileName": "00368916.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368916",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-25T15:56:53+02:00",
+        "name": "Gemeinsamer Antrag BV",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141402",
+        "created": "2026-08-25T06:07:38+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68571",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24570",
+        "modified": "2026-09-02T09:21:25+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/47"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36207",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-24T15:07:10+02:00",
+    "date": "2026-08-25",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36207",
+    "modified": "2026-08-25T15:56:53+02:00",
+    "name": "Querungshilfe über die Beyenburger Straße in Höhe Mahnmal / zukünftige Gedenkstätte KZ Kemna schaffen",
+    "paperType": "Gemeinsamer Antrag BV",
+    "reference": "VO/1009/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

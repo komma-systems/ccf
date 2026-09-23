@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/260503100009",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-EUV-25%7C260503100009%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8335",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-EUV-25",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-03-05",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/260503100009",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=260503100009&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=260503100009&id=69",
+      "fileName": "260503100009",
+      "id": "https://castroprauxel.gremien.info/oparl/file/260503100009",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/EUV/010",
+      "size": 155525,
+      "text": "/  Datum:  05.03.2019    TB I 9686-700       Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 20.03.2019 TOP: I.4 Drucksache-Nr. 2019/EUV/010     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 20.03.2019 4    Betreff:  Zwischenbericht 1 / 2019     Finanzielle Auswirkungen gem. Wirtschaftsplan   ja Gesamtkosten       X nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat nimmt den Zwischenbericht  1 / 2019 zur Kenntnis.     \f  \f    ________________________ Werner \fSachverhalt: Der Vorstand des EUV Stadtbetrieb Castrop-Rauxel  AöR  hat gem. § 8 Abs. 5 der Satzung für das gleichnamige Kommunalunternehmen der Stadt Castrop-Rauxel den Verwaltungsrat mindestens halbjährlich über die Entwicklung des Vermögens- und Erfolgsplanes schriftlich zu unterrichten. Der aktuelle Stand im Zusammenhang mit dem angestrebten Zwischenbericht des EUV Stadtbetriebs Castrop-Rauxel stellt sich zum 28.02.2019 wie folgt dar: Die Verbuchung der Erträge und Aufwendungen für die ersten zwei Monate ist noch nicht komplett abgeschlossen. Daher können lediglich Tendenzen für 2019 sowie Änderungen, die sich nach dem Planungsstichtag ergeben haben, dargestellt werden. Die Umsatzentwicklung für das Jahr 2019 im Vergleich zum Planansatz ist wie folgt:  Teilbetrieb III  Abfallentsorgung Die veranlagten Abfallentsorgungsgebühren belaufen sich auf rd. 8.859.000  und liegen leicht über dem Planwert in Höhe von 8.828.000  bzw. + 0,4 %. Teilbetrieb V  Stadtentwässerung Die im Teilbetrieb Stadtentwässerung veranlagten Gebühren belaufen sich aktuell auf rd. 17.387.000 . Hinzu kommen Nachveranlagungen im laufenden Jahr für Neubauten und Sonderveranlagungen sowie Gewerbe, so dass mit dem Planwert kalkuliert werden kann. Der Planwert liegt bei 18.159.000 . Teilbetrieb VI  Straßenreinigung/Winterdienst Die veranlagten Gebühren betragen rd. 1.696.000 , der Planwert liegt bei 1.711.000  bzw. \u000b- 0,9 %. Da das tatsächliche Ergebnis des Teilbetriebes vom Winterhalbjahr 2018/2019 und 2019/2020 abhängt, ist zurzeit noch keine fixierte Aussage über das erzielte Ergebnis möglich. Andere Teilbetriebe entwickeln sich im Rahmen des Wirtschaftsplanes 2019.  Weiterer Sachvortrag in der Sitzung.     \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Zwischenbericht 1 / 2019",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/EUV/010",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

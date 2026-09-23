@@ -1,0 +1,51 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "meeting",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25753",
+  "modified_at": "2026-09-21T13:10:08+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "created": "2026-09-21T08:08:20+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141910",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25753",
+        "modified": "2026-09-21T13:02:11+02:00",
+        "name": "Gewährung von GFG-Mitteln - Pflasterung der Odoaker Straße",
+        "number": "1",
+        "order": 1,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      }
+    ],
+    "created": "2026-09-21T08:06:44+02:00",
+    "end": "2026-09-28T00:00:00+02:00",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25753",
+    "invitation": {
+      "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370387.pdf",
+      "created": "2026-09-21T13:03:23+02:00",
+      "date": "2026-09-21",
+      "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370387.pdf",
+      "fileName": "00370387.pdf",
+      "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370387",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-21T13:10:08+02:00",
+      "name": "Einladung öffentlicher Teil",
+      "type": "https://schema.oparl.org/1.1/File"
+    },
+    "location": {
+      "created": "2026-09-21T08:06:44+02:00",
+      "description": "Freiwillige Feuerwehr Am Timpen 44",
+      "id": "http://oparl.wuppertal.de/oparl/bodies/0001/locations/si/25753",
+      "modified": "2026-09-21T13:10:08+02:00",
+      "type": "https://schema.oparl.org/1.1/Location"
+    },
+    "modified": "2026-09-21T13:10:08+02:00",
+    "name": "öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Langerfeld-Beyenburg",
+    "organization": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/47"
+    ],
+    "start": "2026-09-28T19:30:00+02:00",
+    "type": "https://schema.oparl.org/1.1/Meeting"
+  }
+}

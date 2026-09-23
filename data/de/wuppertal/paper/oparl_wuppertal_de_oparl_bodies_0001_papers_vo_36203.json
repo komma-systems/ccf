@@ -1,0 +1,48 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36203",
+  "modified_at": "2026-08-24T11:26:10+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368850.pdf",
+        "created": "2026-08-24T11:23:14+02:00",
+        "date": "2026-08-24",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368850.pdf",
+        "fileName": "00368850.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368850",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-24T11:26:11+02:00",
+        "name": "Gemeinsamer Antrag BV",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141374",
+        "authoritative": true,
+        "created": "2026-08-24T11:28:20+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68567",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24579",
+        "modified": "2026-09-02T07:42:00+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/46"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36203",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-24T11:18:18+02:00",
+    "date": "2026-08-24",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36203",
+    "modified": "2026-08-24T11:26:10+02:00",
+    "name": "Trinkwasserbrunnen am Spielplatz gegenüber des Toelleturms",
+    "paperType": "Gemeinsamer Antrag BV",
+    "reference": "VO/1005/26",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-1",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-1%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-1",
+        "name": "Genehmigung des Protokolls der Sitzung vom 19.02.2014",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2014-EUV-1%7Czt_0%7C1",
+          "date": "2014-05-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2014-EUV-1%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2014-EUV-1%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 4311,
+          "text": "1 Genehmigung des Protokolls der Sitzung vom 19.02.2014 Der Verwaltungsrat genehmigt das Protokoll vom 19.02.2014 einstimmig. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/5976",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-1%7C162204100018%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-1",
+        "name": "Zwischenbericht 2 / 2014",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2014-EUV-1%7C162204100018%7C1",
+          "date": "2014-05-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2014-EUV-1%7C162204100018%7C1",
+          "fileName": "be_162204100018_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2014-EUV-1%7C162204100018%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 5198,
+          "text": "2 Zwischenbericht 2 / 2014 (2014/EUV/017) Vorstand Herr Werner erläutert das vorliegende Zwischenergebnis, ergänzt die Vorlage und beantwortet die Nachfragen der Verwaltungsratsmitglieder. Der Verwaltungsrat nimmt den Zwischenbericht 2 / 2014 zur Kenntnis. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/5975",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-1%7C162204100017%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-1",
+        "name": "Baumaßnahmen im Stadtgebiet von besonderer Bedeutung\r\nHier: Fortführung Landwehrbach\r\n         -Sachstandsbericht-",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2014-EUV-1%7C162204100017%7C1",
+          "date": "2014-05-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2014-EUV-1%7C162204100017%7C1",
+          "fileName": "be_162204100017_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2014-EUV-1%7C162204100017%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 5999,
+          "text": "3 Baumaßnahmen im Stadtgebiet von besonderer Bedeutung Hier: Fortführung Landwehrbach -Sachstandsbericht- (2014/EUV/016) Vorstand Herr Werner gibt einen aktuellen Sachstandsbericht seit der Berichterstattung im Verwaltungsjahr 2013 und ergänzt die tagesaktuelle Entwicklung zum geplanten Grundstücksverkauf der LEG, die durch den Vorsitzenden bestätigt wird. Der Verwaltungsrat nimmt den Sachstandsbericht des Vorstandes zum Stand der Umsetzung des 2. Bauabschnittes zur Renaturierung des Landwehrbaches zur Kenntnis. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-1%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-1",
+        "name": "Anfragen der Verwaltungsmitglieder",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2014-EUV-1%7Czt_1%7C1",
+          "date": "2014-05-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2014-EUV-1%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2014-EUV-1%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 5465,
+          "text": "4 Anfragen der Verwaltungsmitglieder Zur Anfrage des Verwaltungsratsmitglieds Herrn Gärtner zur Dauer der Sperrung des Kreisverkehrs Wartburgstraße / Schwarzer Weg, bedingt durch die Verlegung der Fernwärmeleitung von Rütgers zum Einbindepunkt der EON im Schwarzen Weg wird der Vorstand Herr Werner Erkundigungen einholen und diese kurzfristig weitergeben. Auf Anfrage des Verwaltungsratsmitglieds Herrn Helsper erklärt der Vorstand Herr Werner, dass die Von-Hofmann-Straße derzeit nur provisorisch wiederhergestellt ist und der Fernwärmenetzbetreiber EON eine Entschädigung auf zukünftige Straßenschäden gegenüber der Stadt Castrop-Rauxel geleistet hat. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-1%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-1",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2014-EUV-1%7Czt_2%7C1",
+          "date": "2014-05-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2014-EUV-1%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2014-EUV-1%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 61928,
+          "text": "5 Mitteilungen des Vorstandes Vorstand Herr Werner teilt mit, dass derzeit das Beteiligungsverfahren an der Fortschreibung des ökologischen Abfallwirtschaftsplanes, Teilplan „Siedlungsabfälle für NRW“ erfolgt. Aus Sicht des EUV, als teilentsorgungspflichtige Körperschaft, sind keine relevanten Punkte anzusprechen, da die eigentliche Zuständigkeit beim Kreis Recklinghausen als entsorgungspflichtige Körperschaft liegt. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-1%7Czt_3%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-1",
+        "name": "Personalangelegenheiten \r\n- mündlicher Bericht - ",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/5974",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-1%7C162204100016%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-1",
+        "name": "Bestehender Geschäftsbesorgungsvertrag zwischen der Stadt\r\nCastrop-Rauxel und dem EUV Stadtbetrieb\r\nHier: Teilbetrieb Straßeninfrastruktur",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/5973",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-1%7C162204100015%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-1",
+        "name": "Abschluss Gewerbegrundstückskaufvertrag",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-1%7Czt_6%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-1",
+        "name": "Sachstandsbericht Unterbringung Bereich Stadtgrün der Stdtverwaltung auf dem Betriebsgelände des EUV \r\n-mündlicher Bericht-",
+        "number": "4",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/5963",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-1%7C161004100012%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-1",
+        "name": "Schuldenmanagement\r\n-Sachstandsbericht-",
+        "number": "5",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/5964",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-1%7C161004100013%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-1",
+        "name": "Umschuldung eines Darlehens",
+        "number": "6",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/5967",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-1%7C161004100014%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-1",
+        "name": "Kanalerneuerung Lerchenstraße",
+        "number": "7",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-1%7Czt_7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-1",
+        "name": "Sachstand Verwaltungsstreitverfahren \r\n-mündlicher Bericht-",
+        "number": "8",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-1%7Czt_4%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-1",
+        "name": "Anfragen Verwaltungsratsmitglieder",
+        "number": "9",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-1%7Czt_5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-1",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "10",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2014-05-07T17:50:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-1",
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Sitzungsraum 1 EUV,  Westring 215, Castrop-Rauxel, Westring 215, 44575 Castrop-Rauxel",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-1/location",
+      "locality": "Castrop-Rauxel",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "postalCode": "44575",
+      "room": "Sitzungsraum 1 EUV,  Westring 215, Castrop-Rauxel",
+      "streetAddress": "Westring 215",
+      "subLocality": "Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Verwaltungsrates EUV",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/241",
+      "https://castroprauxel.gremien.info/oparl/person/292",
+      "https://castroprauxel.gremien.info/oparl/person/112",
+      "https://castroprauxel.gremien.info/oparl/person/133",
+      "https://castroprauxel.gremien.info/oparl/person/344",
+      "https://castroprauxel.gremien.info/oparl/person/790"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2014-EUV-1",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2014-06-02",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2014-EUV-1",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2014-EUV-1",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 91824,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2014-05-07T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2014-EUV-1",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2014-06-02",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2014-EUV-1",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2014-EUV-1",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 91824,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

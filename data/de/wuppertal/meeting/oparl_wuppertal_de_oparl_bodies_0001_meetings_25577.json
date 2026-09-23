@@ -1,0 +1,83 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "meeting",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25577",
+  "modified_at": "2026-06-29T16:29:24+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "created": "2026-06-29T16:25:55+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/140934",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25577",
+        "modified": "2026-06-29T16:25:55+02:00",
+        "name": "Begrüßung",
+        "number": "1",
+        "order": 1,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      },
+      {
+        "created": "2026-06-29T16:27:10+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/140935",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25577",
+        "modified": "2026-06-29T16:27:10+02:00",
+        "name": "Kulturagentenprogramm – Möglichkeiten der Umsetzung -",
+        "number": "2",
+        "order": 2,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      },
+      {
+        "created": "2026-06-29T16:27:47+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/140936",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25577",
+        "modified": "2026-06-29T16:27:47+02:00",
+        "name": "Netzwerktreffen Kulturelle Bildung",
+        "number": "3",
+        "order": 3,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      },
+      {
+        "created": "2026-06-29T16:28:15+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/140937",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25577",
+        "modified": "2026-06-29T16:28:15+02:00",
+        "name": "Datenbank für Workshops der Kulturellen Bildung und Landing Page",
+        "number": "4",
+        "order": 4,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      },
+      {
+        "created": "2026-06-29T16:28:52+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/140938",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25577",
+        "modified": "2026-06-29T16:28:52+02:00",
+        "name": "Nächster Termin",
+        "number": "5",
+        "order": 5,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      }
+    ],
+    "created": "2026-06-29T16:24:11+02:00",
+    "end": "2026-07-06T16:00:00+02:00",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25577",
+    "location": {
+      "created": "2026-06-29T16:24:11+02:00",
+      "description": "Kulturbüro, Neumarkt 10, Raum 004, 42103 Wuppertal",
+      "id": "http://oparl.wuppertal.de/oparl/bodies/0001/locations/si/25577",
+      "modified": "2026-06-29T16:29:24+02:00",
+      "type": "https://schema.oparl.org/1.1/Location"
+    },
+    "modified": "2026-06-29T16:29:24+02:00",
+    "name": "öffentliche Sitzung der Steuergruppe Kulturelle Bildung",
+    "organization": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/287"
+    ],
+    "start": "2026-07-06T14:00:00+02:00",
+    "type": "https://schema.oparl.org/1.1/Meeting"
+  }
+}

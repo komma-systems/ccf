@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/131405100134",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2010-AUSLB-35%7C131405100134%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5117",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2010-AUSLB-35",
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2012-05-14",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/131405100134",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=131405100134&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=131405100134&id=69",
+      "fileName": "131405100134",
+      "id": "https://castroprauxel.gremien.info/oparl/file/131405100134",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2012/122",
+      "size": 173570,
+      "text": "bereich stabsstelle integration 2012/122 öffentlich az: ib datum: 14.05.2012 sitzungsvorlage beratungsfolge datum top-nr. integrationsrat 06.06.2012 betreff mündlicher bericht von herrn diel zum aktuellen stand der betreuung in bezug auf unternehmerinnen und neugründerinnen mit migrationshintergrund und zur zukünftigen bearbeitung des arbeitsfeldes „migrantenökonomie“ im bereich 80. finanzielle auswirkungen x keine haushaltsmäßige berührung auswirkungen siehe sachverhalt beschlussvorschlag der integrationsrat nimmt den mündlichen bericht von herrn diel -leiter des bereiches 80- zur kenntnis. ____________________ johannes beisenherz bürgermeister sachverhalt in der integrationsratssitzung am 1.02.2012 wurde angeregt herrn diel zur integrationsratssitzung einzuladen um zu eruieren, was die wirtschaftsförderung schwerpunktmäßig im bereich der unterhehmerinnen und neugründerinnen mit migrationshintergrund unternommen hat und wie die arbeit mit dem vom imap institut erarbeiteten handlungsfeldern in zukunft weiter fortgeführt werden soll.mündlicher bericht von herrn diel zum aktuellen stand der betreuungin bezug auf unternehmerinnen und neugründerinnen mit migrationshintergrund und zur zukünftigen bearbeitung des arbeitsfeldes (migrantenökonomie) im bereich 80.2012/122%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Mündlicher Bericht von Herrn Diel zum aktuellen Stand der Betreuung  in Bezug auf UnternehmerInnen und NeugründerInnen mit Migrationshintergrund und zur zukünftigen Bearbeitung des Arbeitsfeldes (Migrantenökonomie) im Bereich 80.",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2012/122",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

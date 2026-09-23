@@ -1,0 +1,75 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36156",
+  "modified_at": "2026-08-26T10:25:10+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368553.pdf",
+        "created": "2026-08-17T08:45:50+02:00",
+        "date": "2026-08-17",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368553.pdf",
+        "fileName": "00368553.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368553",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-26T10:25:10+02:00",
+        "name": "Anlage 1 - Antrag Wuppervital e.V. - Zuschuss Projekt \"Open Sunday\" in der Grundschule Königshöher Weg",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368558.pdf",
+        "created": "2026-08-17T09:24:39+02:00",
+        "date": "2026-08-17",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368558.pdf",
+        "fileName": "00368558.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368558",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-26T10:25:10+02:00",
+        "name": "Anlage 1.1 - Projekt \"Open Sunday\"",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368560.pdf",
+        "created": "2026-08-17T09:26:23+02:00",
+        "date": "2026-08-17",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368560.pdf",
+        "fileName": "00368560.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368560",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-26T10:25:10+02:00",
+        "name": "Anlage 1.2 - Antragsteller Wuppervital e.V.",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141267",
+        "authoritative": true,
+        "created": "2026-08-17T08:48:37+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68481",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24597",
+        "modified": "2026-09-03T10:59:07+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/40"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36156",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-17T08:42:06+02:00",
+    "date": "2026-08-17",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36156",
+    "modified": "2026-08-26T10:25:10+02:00",
+    "name": "Verwendung von freien Mitteln der Bezirksvertretung",
+    "paperType": "Gemeinsamer Antrag BV",
+    "reference": "VO/0961/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

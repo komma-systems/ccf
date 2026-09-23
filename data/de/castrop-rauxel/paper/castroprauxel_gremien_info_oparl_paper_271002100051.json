@@ -1,0 +1,94 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/271002100051",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271002100051%7C20200210113002-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-02-10",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271002100051%7C20200210113002-0.pdf%7C",
+        "fileName": "20200210113002-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271002100051%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271002100051",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "198b25b4708b86b0b9e768183d425179b24736a7",
+        "size": 612672,
+        "text": "Wirtschaftsplan 2020 TB VII Anlage 2 Ratsvorlage 2020-047",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271002100051%7C20200210113006-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-02-10",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271002100051%7C20200210113006-0.pdf%7C",
+        "fileName": "20200210113006-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271002100051%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271002100051",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "f59dc1d26a6491d2ebfa37f74dc05d24259138ca",
+        "size": 318695,
+        "text": "Wirtschaftsplan 2020 TB IX Anlage 3 Ratsvorlage 2020-047",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-HFA-101%7C271002100051%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8836",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-HFA-101",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-116%7C271002100051%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8837",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-116",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-02-10",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/271002100051",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271002100051&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271002100051&id=69",
+      "fileName": "271002100051",
+      "id": "https://castroprauxel.gremien.info/oparl/file/271002100051",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/047",
+      "size": 259974,
+      "text": " Bereich Finanzen 2020/047  öffentlich  Az: 20   Datum: 10.02.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Haupt- und Finanzausschuss 25.02.2020   Rat der Stadt 27.02.2020    Betreff  Zustimmung zum Wirtschaftsplan 2020 des EUV für a) Teilbetrieb VII - Dienstleistungen b) Teilbetrieb IX - Straßeninfrastruktur  \f     Finanzielle Auswirkungen      keine haushaltsmäßige Berührung     X Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  Der Rat der Stadt stimmt dem Wirtschaftsplanentwurf 2020 des EUV für den Teilbetrieb VII  Dienstleistungen (Anlage 2) Teilbetrieb IX  Straßeninfrastruktur (Anlage 3)         mit folgenden Änderungen zu:  Teilbetrieb VII = Position 3.2 Reduzierung der Erstattungen durch die Stadt Castrop-Rauxel von 394.384  auf 321.971  Teilbetrieb IX = Position 1.1 Reduzierung der Erstattungen durch die Stadt Castrop-Rauxel von 12.974.495  auf 6.764.268 .   \f\f ________________     ___________________ Kravanja       Eckhardt Bürgermeister      1. BG / Kämmerer  \f  Sachverhalt  Gemäß § 9 Absatz 2 der Satzung über das Kommunalunternehmen der Stadt Castrop-Rauxel EUV, Stadtbetrieb Castrop-Rauxel, bedürfen Entscheidungen von grundsätzlicher Bedeutung der Zustimmung des Rates, insbesondere Gebührensatzungen und Kalkulationsgrundlagen (Wirtschaftspläne) von Teilbetrieben des EUV, in denen Erstattungsleistungen der Stadt vorgesehen sind.  Teilbetrieb VII  Dienstleistungen  Der EUV erbringt für die Stadt Castrop-Rauxel vertraglich vereinbarte Dienstleistungen, deren Kosten durch die Stadt Castrop-Rauxel zu erstatten sind. Bei den zu erbringenden Dienstleistungen handelt es sich um   Fahrbereitschaft der Verwaltungsleitung, die Abwicklung von Grundsteuerangelegenheiten, den betrieblichen und operativen Umweltschutz.  Der EUV ist verpflichtet, die Kalkulationsgrundlagen für die Erstattungsleistungen frühzeitig vor Beginn des Wirtschaftsjahres der Stadt vorzulegen. Die im Wirtschaftsplan enthaltenen Veranschlagungen werden am Ende des Wirtschaftsjahres nach den tatsächlich erbrachten Aufwendungen abgerechnet. Der Gesamtwirtschaftsplan 2020 des EUV liegt vor (Beschluss des EUV-Verwaltungsrates vom 27.11.2019). Für den Teilbetrieb VII  Dienstleistungen  (siehe Anlage 2) geht der EUV unter Punkt 3.2 von Erstattungsleistungen seitens der Stadt Castrop-Rauxel in Höhe von 394.384  aus.  Aufgrund der im Rahmen des Haushaltssanierungsplans (HSP) unter der Maßnahme Nr. A75 festgelegten Beträgen für die Abwicklung von Grundsteuerangelegenheiten sowie für den betrieblichen und operativen Umweltschutz in Höhe von 251.637  können für das Jahr 2020 die Erstattungsleistungen durch die Stadt wie folgt anerkannt werden:  Fahrbereitschaft der Verwaltungsleistung     70.334  (2019    63.940 ) Abwicklung von Grundsteuerangelegenheiten   74.125  (2019    74.125 ) Betrieblicher und operativer Umweltschutz  177.512  (2019  177.512 ) Vorauszahlungen 2020 insgesamt:   321.971  (2019  315.577 ).  Bei Gegenüberstellung des vom EUV kalkulierten Erstattungsbetrages von 394.384  und des anzuerkennenden Erstattungsbetrages von 321.971  errechnet sich eine Differenz von 72.413 .  Wie bereits oben ausgeführt, sind die tatsächlichen Aufwendungen des EUV nach Abschluss des Wirtschaftsjahres und Erstellung des jeweiligen Jahresabschlusses abzurechnen.         Teilbetrieb IX  Straßeninfrastruktur  Der EUV erbringt im Teilbetrieb IX auf Grundlage eines Geschäftsbesorgungsvertrages für die Stadt Castrop-Rauxel Dienstleistungen im Bereich Straßeninfrastruktur und Sportplatzunterhaltung. Die hierdurch entstehenden Aufwendungen sind dem EUV durch die Stadt zu erstatten.  Auch bezogen auf diese Leistungen ist der EUV verpflichtet, Kalkulationsgrundlagen für die Erstattungsleistungen frühzeitig vor dem Wirtschaftsjahr der Stadt vorzulegen. Die im Wirtschaftsplan enthaltenen Veranschlagungen werden am Ende des Wirtschaftsjahres nach den tatsächlich erbrachten Aufwendungen abgerechnet.  Im Wirtschaftsplan 2020 hat der EUV für den Teilbetrieb IX  Straßeninfrastruktur  (siehe Anlage 3) eine Erstattung seitens der Stadt Castrop-Rauxel in Höhe von 12.974.495  veranschlagt (Beschluss des EUV-Verwaltungsrates vom 27.11.2019).  Aufgrund der im Rahmen des HSP unter den Maßnahme-Nummern A 76  A 79, A 84,  A 91 und A 96 verbindlich festgelegten Höchstbeträgen für die jeweiligen Dienstleistungen, Aufwendungen, Gebühren usw. kann nur ein Erstattungsbetrag in Höhe von 6.764.268  berücksichtigt werden.  Bei der Gegenüberstellung des vom EUV kalkulierten Erstattungsbetrages von 12.974.495  und des anzuerkennenden Erstattungsbetrages von 6.764.268  errechnet sich eine Differenz von 6.210.227 .   Investitionen:  Der EUV kann nur die Investitionen durchführen, die in der Investitionsdringlichkeitsliste 2020 / 2021 enthalten und im städtischen Haushalt finanziert sind.  \f  \fAnlage 1  - Finanzielle Auswirkungen     \f  I. Mittelbedarf: davon                                        Ergebnisplan              Aufwendungen: 7.086.239   - Erträge von Dritten:    = Städtischer Eigenanteil: 7.086.239                  davon       Finanzplan Auszahlungen: 7.086.239   - Einzahlungen von Dritten:   = Städtischer Finanzierungsanteil: 7.086.239          Die benötigten Haushaltsmittel stehen zur Verfügung:                \f JA  Buchungsstelle:  Sachkonto 5235000 Kostenstelle: 50200 Kostenträger: 610101 : 6.764.268   Sachkonto 5235000 Kostenstelle: 50200 Kostenträger: 110901 : 251.637  Sachkonto 5235000 Kostenstelle: 50900 Kostenträger: 113001 : 70.334   NEIN  Siehe Erläuterungen / Angabe von Deckungsvorschlägen \f Erläuterungen / Angabe von Deckungsvorschlägen:    \f Bei Maßnahmen des Finanzplanes:  Die Maßnahme ist in der vom Rat beschlossenen Dringlichkeitsliste enthalten.  Die Maßnahme ist in die vom Rat beschlossene Dringlichkeitsliste zusätzlich aufzunehmen bzw. eine     Erweiterung der Maßnahme ist vorzunehmen.  Die Maßnahme ist in die vom Rat zu beschließende Dringlichkeitsliste aufzunehmen. \f II. Auswirkungen auf die mittelfristige Haushaltsplanung: Ergebnisplan 2021 2022 2023 2024 insgesamt  Personalaufwendungen          Sachaufwendungen         Zinsaufwendungen       Aufwendungen für Abschreib.       Zusätzliche Erträge          Mindererträge          Summe           Die Finanzierung ist innerhalb der mittelfristigen Haushaltsplanung für die Produktgruppe  \f   gesichert    nicht gesichert \f                                                                                                                          \f   \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Zustimmung zum Wirtschaftsplan 2020 des EUV für\r\na) Teilbetrieb VII - Dienstleistungen\r\nb) Teilbetrieb IX - Straßeninfrastruktur",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/047",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

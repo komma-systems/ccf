@@ -1,0 +1,60 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/121406100206",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-B2-43%7C121406100206%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/4701",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B2-43",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B2"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-RAT-56%7C121406100206%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/4702",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-RAT-56",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2011-06-14",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/121406100206",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=121406100206&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=121406100206&id=69",
+      "fileName": "121406100206",
+      "id": "https://castroprauxel.gremien.info/oparl/file/121406100206",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2011/190",
+      "size": 175316,
+      "text": "bereich kinder- und jugendförderung, schule 2011/190 öffentlich az: 40 datum: 14.06.2011 sitzungsvorlage beratungsfolge datum top-nr. betriebsausschuss 2 (ausschuss für jugend, schule und soziales) 07.07.2011 rat der stadt 14.07.2011 betreff anregungen und beschwerden nach § 24 go nrw hier: erweiterung der grundschule grüner weg finanzielle auswirkungen x keine haushaltsmäßige berührung auswirkungen siehe sachverhalt beschlussvorschlag der rat der stadt beschließt, dem bürgerantrag gemäß § 24 go nrw der schulpflegschaft der grundschule grüner weg auf erweiterung der grundschule grüner weg nicht zu entsprechen. ____________________________ ________________________________ beisenherz, bürgermeister glöß, erste beigeordnete sachverhalt am 15.11.2010 hat die schulpflegschaft der grundschule grüner weg einen antrag gemäß § 24 go nrw auf erweiterung der grundschule grüner weg gestellt (siehe anlage 1). in der sitzung des betriebsausschusses 2 am 24.03.2011 hat dieser beschlossen, über den bürgerantrag im zuge der beschlussfassung über den schulentwicklungsplan 2010 zu beraten (siehe vorlage nr. 2011/066). mit sitzungsvorlage 2011/180 hat die verwaltung u.a. vorgeschlagen, die grundschule grüner weg ab dem schuljahr 2012/2013 als einzügigen teilstandort der grundschule am hügel zu führen. eine erweiterung der grundschule grüner weg ist daher nicht erforderlich, da die grundschule am hügel zusammen mit dem teilstandort groß genug ist, um alle schülerinnen zu beschulen, für die die grundschule nächstgelegene schule ist.%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Anregungen und Beschwerden nach § 24 GO NRW \r\nhier: Erweiterung der Grundschule Grüner Weg",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2011/190",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

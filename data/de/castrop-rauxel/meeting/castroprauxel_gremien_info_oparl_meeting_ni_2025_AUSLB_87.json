@@ -1,0 +1,335 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AUSLB-87",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AUSLB-87%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AUSLB-87",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AUSLB-87%7C1%7C1",
+          "date": "2025-05-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AUSLB-87%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AUSLB-87%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 393250,
+          "text": "Die Vorsitzende Aysel Cetin begrüßt die Mitglieder des Integrationsrates und die Gäste. Sie stellt fest, dass keine Einwände gegen die Tagesordnung erhoben werden, diese fristgerecht zugestellt wurde und die Beschlussfähigkeit des Integrationsrates vorliegt.  Sie fragt die Mitglieder an, ob die Punkte 4 und 5 der Tagesordnung getauscht werden können. Dies findet Zustimmung.  1 Fragestunde für Einwohnerinnen und Einwohner  Es sind keine Anwohner*innen anwesend.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AUSLB-87%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AUSLB-87",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AUSLB-87%7CProtokoll%7C1",
+          "date": "2025-05-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AUSLB-87%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AUSLB-87%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 381429,
+          "text": " 2 Einwände gegen die letzte Niederschrift  Die Niederschrift der letzten Integrationsratssitzung wird genehmigt.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2025-AUSLB-87%7C26%7C1%7C20250515115511-0_26_1.pdf",
+            "date": "2025-05-15",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2025-AUSLB-87%7C26%7C1%7C20250515115511-0_26_1.pdf",
+            "fileName": "20250515115511-0_26_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2025-AUSLB-87%7C26%7C1%7C20250515115511-0_26_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Flyer ADA 2025 Fertig",
+            "size": 2215908,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AUSLB-87%7C26%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AUSLB-87",
+        "name": "Ines Carralero y Martinez, AGORA Kultur- und Bildungszentrum der Griechischen Gemeinde in Castrop-Rauxel e.V., \r\nBericht über die Arbeit der Antidiskriminierungsberatungsstelle ",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AUSLB-87%7C26%7C1",
+          "date": "2025-05-19",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AUSLB-87%7C26%7C1",
+          "fileName": "be_26_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AUSLB-87%7C26%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 413733,
+          "text": " 3 Ines Carralero y Martinez, AGORA Kultur- und Bildungszentrum der Griechischen Gemeinde in Castrop-Rauxel e.V.,  Bericht über die Arbeit der Antidiskriminierungsberatungsstelle   Ines Carralero y Martinez betreut seit dem 01.11.2024 in Teilzeit die Antidiskriminierungsberatungsstelle im Kulturzentrum Agora. Der Schwerpunkt liegt in der Beratung zu rassistischer, antisemitischer, ethnischer und religiöser Diskriminierung (Benachteiligung jeglicher Art). In der Antidiskriminierungsagentur geht auf der einen Seite um die Beratung und Unterstützung von Menschen, die von Diskriminierung betroffen sind. Betroffene haben die Möglichkeit, kostenlos, in einem geschützten Raum, vertraulich über ihre Erfahrungen zu sprechen. Wenn sich innerhalb des Gesprächs herausstellt, dass es sich nicht vorrangig um einen Diskriminierungsfall handelt, wird beim Finden der passenden Beratungsstelle unterstützt und vermittelt. Auch besteht die Möglichkeit einer anonymen Beratung, telefonisch oder online. Auf der anderen Seite geht es um Aufklärung von Bürgerinnen und Bürger durch Bildungsarbeit gegen Diskriminierung und für Gleichberechtigung aller Menschen, die Öffentlichkeit und Politik für Ungleichbehandlungen zu sensibilisieren und zu einer Antidiskriminierungskultur beizutragen. Zudem sollen Diskriminierungserfahrungen sichtbar gemacht werden. Damit die Arbeit gelingen kann, möchte sie sich in Castrop-Rauxel und Umgebung mit Schulen, Institutionen und Vereinen vernetzen und kooperieren. Die Beratungsstelle für Antidiskriminierungsarbeit (ADA) ist eine von 42 Stellen NRW-weit. Sie ist Teil des Landesprogramms Integrationsagenturen NRW und wird vom Ministerium für Kinder, Jugend, Familie, Gleichstellung, Flucht und Integration des Landes Nordrhein-Westfalen (MKJFGFI) gefördert. Die ehemaligen Servicestellen für Antidiskriminierungsarbeit sind in Beratungsstellen für Antidiskriminierungsarbeit umbenannt worden, ihr Auftrag bleibt der gleiche. Infos über die ADA finden sich im Anhang. Die Vorsitzende bedankt sich für die Ausführung und bittet um Fragen. Herr Manthey stellt die Frage, ob Frau Carralero y Martinez auch in Merklinde beraten könnte. Frau Carralero y Martinez antwortet, dass es zu ihrer Aufgabe gehört, aufsuchende Beratung anzubieten. Herr Matentzoglou möchte wissen, ob es sich bei der Beratungsstelle um ein Projekt oder eine längerfristige Einrichtung handeln würde. Frau Carralero y Martinez entgegnet, dass die Stelle unbefristet sei. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AUSLB-87%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AUSLB-87",
+        "name": "Kommunales Integrationsmanagement\r\nmündlicher Bericht",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AUSLB-87%7C4%7C1",
+          "date": "2025-05-19",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AUSLB-87%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AUSLB-87%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 407204,
+          "text": " 4 Kommunales Integrationsmanagement mündlicher Bericht  Frau Alkhouri (Mitarbeiterin Bereich Migration und Obdachlosenhilfe)und Herr Traska (Ehrenamtler) berichten über das Case Management im Rahmen von KIM im Quartiersbüro Lange Straße. Das Quartiersbüro, Lange Straße 48, ist eine Anlaufstelle für Bürger*innen. Kostenfrei und ohne vorherige Terminvergabe beraten und unterstützen die Mitarbeitenden individuell in der offenen Sprechstunde in unterschiedlichen Bereichen. Sie helfen z.B. (und auch Ehrenamtliche) beim Ausfüllen von Anträgen (Bildung und Teilhabe, Jobcenter, Bundesamt für Migration und Flüchtlinge und so weiter) oder vermitteln Kontakte von anderen Fachdiensten. Zudem gibt es regelmäßige Angebote, niedrigschwellige Beratung in verschiedenen Bereichen wie Schule, Ausbildung, Sprache, Wohnen, Familie, Einbürgerung, Aufenthaltsstatus sowie Freizeit und Erholung. Gemeinsam werden Ideen und Lösungen entwickelt. Bestehende Hilfsangebote in der Umgebung werden aufgezeigt und bei Bedarf wird zu Ämtern begleitet. Im Monat gibt es etwa 250 Anliegen, 15-16 Fälle pro Stunde in einem Zeitraum von ca. fünf Jahren.  Die Vorsitzende bedankt sich für die Ausführungen und bitte um Fragen.  Es gibt keine Fragen. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AUSLB-87%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AUSLB-87",
+        "name": "Novellierung des § 27 GO NRW \r\nmündlicher Bericht",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AUSLB-87%7Czt_0%7C1",
+          "date": "2025-05-19",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AUSLB-87%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AUSLB-87%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 430242,
+          "text": " 5 Novellierung des § 27 GO NRW  mündlicher Bericht  Herr Matentzoglou berichtet über die geplante Novellierung des § 27 GO NRW.  Das Ministerium für Heimat, Kommunales, Bau und Digitalisierung des Landes Nordrhein-Westfalen den Landesintegrationsrat NRW hat im Februar 2025 über den Novellierungsentwurf des § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen (GO NW) informiert. Zum 1. April hat der Landesintegrationsrat in Rahmen der Verbändeanhörung Ergänzungen bzw. weitere Änderungen vorschlagen. Die Abstimmung im Landtag NRW ist für den Juni geplant. Die derzeitigen Vorschläge sehen wie folgt aus: Dualität der Modelle Integrationsrat und Integrationsausschuss wird aufgegeben und gesetzlich ein einheitliches Gremium vorgegeben. Dieses Gremium wird die neue Bezeichnung Ausschuss für Chancengerechtigkeit und Integration erhalten. Der Ausschuss für Chancengerechtigkeit und Integration ist wie der bisherige Integrationsrat bzw. Integrationsausschuss ein (beratender) Ausschuss, der in seinem Zuständigkeitsbereich Beschlüsse fasst, die der Beratung und Vorbereitung von Beschlüssen des Rates dienen. Als (beratender) Ausschuss sui generis ist er wie ein echter Ratsausschuss in die Beratungsfolge des Rates einzubeziehen. Die durch das Gesetz vorgegebene strukturelle Einbindung in die Rats- und Ausschussarbeit wie ein (beratender) Ratsausschuss soll helfen, eine substanzielle und nachhaltige Einbeziehung des Gremiums in die Beratungs- und Entscheidungsprozesse des Rates sicherzustellen. In der Praxis hat sich die Besetzung mit zwei Dritteln direkt gewählter Mitglieder und einem Drittel vom Rat entsandter Ratsmitglieder bewährt. Diese bereits empfohlene Besetzung des Gremiums wird nun auch in § 27 Absatz 1 Satz 5 n. F. GO NW gesetzlich verankert. Weitere Mitglieder können dem Ausschuss für Chancengerechtigkeit und Integration nicht stimmberechtigt angehören. Im Zuge dessen wird klargestellt, die Entschädigungsregelungen sind auf die gewählten Mitglieder der Gremien anzuwenden, die für die sachkundigen Bürgerinnen und Bürger gelten. Von der Neufassung und den Änderungen in Absatz 7 Satz 2 unberührt, bleibt unter anderem Absatz 10 Satz 1, nach welchem dem Ausschuss für Chancengerechtigkeit und Integration die zur Erledigung seiner Aufgaben erforderlichen Mittel zur Verfügung zu stellen sind. Die personelle und technische Ausstattung des Ausschusses orientiert sich daher weiterhin am konkreten Bedarf des Gremiums im Rahmen der ihm gesetzlich und durch Satzung übertragenen Aufgaben unter Berücksichtigung der gemeindlichen Haushaltslage. Es wird eine Übergangsregelung aufgenommen, die Festlegungen zur erstmaligen Bildung des Ausschusses für Chancengerechtigkeit und Integration nach § 27 der Gemeindeordnung in seiner neuen Fassung enthält, da die Regelung erst mit dem Beginn der neuen Kommunalwahlperiode in Kraft tritt (voraussichtend 1. November 2025). Es wird zudem festgelegt, dass für die erstmalige Bildung des Ausschusses in der am 1. November 2025 beginnenden Wahlperiode ausnahmsweise die vom Rat getroffenen bisherigen Zusammensetzungsregelungen für die Integrationsräte oder -ausschüsse Anwendung finden, sofern eine Anpassung an den künftigen Rechtszustand noch nicht erfolgt ist. Die neue Vorgabe in § 27 Absatz 1 Satz 5, dass der Ausschuss sich zu zwei Dritteln aus gewählten Mitgliedern zusammensetzen muss, wird mithin erst für spätere Neubildungen verbindlich. Rein klarstellend legt Absatz 3 Satz 3 fest, dass die Bildung des Ausschusses mit dem Hinzutreten der weiteren Ratsmitglieder abgeschlossen ist.  Herr Matentzoglou weist darauf hin, dass im Zuge der Reform des § 27 GO NRW die Hauptsatzung der Stadt Castrop-Rauxel zu ändern wäre. Zudem sollte eine neue Geschäftsordnung für den Integrationsrat eingesetzt werden. Auch müssten Schwerpunkte der Integrationsratsarbeit in der nächsten Periode festgelegt werden. Evt. sollte auch ein Ältestenrat einberufen werden, damit gewährleistet werden kann, dass Sitzungen in Zukunft nicht entfallen. Schließlich wären auch Vorgespräche der Verwaltung zu anderen Ausschüssen vor der nächsten Wahl sinnvoll.  Die Vorsitzende dankt für die Ausführungen und bittet um Fragen. Es gibt keine Fragen.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2025-AUSLB-87%7Czt_1%7C1%7C20250526131224-0_zt_1_1.pdf",
+            "date": "2025-05-26",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2025-AUSLB-87%7Czt_1%7C1%7C20250526131224-0_zt_1_1.pdf",
+            "fileName": "20250526131224-0_zt_1_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2025-AUSLB-87%7Czt_1%7C1%7C20250526131224-0_zt_1_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Seenotrettung",
+            "size": 1496021,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AUSLB-87%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AUSLB-87",
+        "name": "Informationsabend \"Sicherer Hafen Castrop-Rauxel - Seenotrettung im Mittelmeer\" am 9. Mai 2025\r\nmündlicher Bericht",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AUSLB-87%7Czt_1%7C1",
+          "date": "2025-05-19",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AUSLB-87%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AUSLB-87%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 420063,
+          "text": " 6 Informationsabend  Sicherer Hafen Castrop-Rauxel - Seenotrettung im Mittelmeer  am 9. Mai 2025 mündlicher Bericht   Herr Werkle berichtet von dem Informationsabend Sicherer Hafen Castrop-Rauxel am 09.05.2025 im Wichernhaus. Der Integrationsrat und das Büro für Integration und Demokratie hatten in Kooperation mit dem Weltladen Castrop, Bündnis für Demokratie Castrop-Rauxel, Klimabündnis Castrop-Rauxel, der Flüchtlingshilfe Castrop-Rauxel e.V. und GEW eingeladen, um eine Spendenaktion für die Seenotrettung im Mittelmeer zu initiieren.  Über die praktische Arbeit während einer Seenotrettung hatte an dem Abend die Castrop-Rauxeler Kapitänin Ina Friebe von Grenzenlos People in Motion e.V. informiert. Anna di Bari von Sea Eye e.V. gab Tipps für die Spendenakquise. Eine Ideenwerkstatt generierte Ideen, an denen in einer Arbeitsgruppe weiter geplant werden soll.  Die Stadt Castrop-Rauxel ist nach Ratsbeschluss vom 29.09.2022 dem Bündnis Sichere Häfen beigetreten, die von der politischen Bewegung Seebrücke initiiert wurde. Dem Bündnis Sichere Häfen liegen 8 Forderungen zugrunde, von denen Castrop-Rauxel bislang die 3 Öffentliche Solidaritätserklärung, Kommunales Ankommen gewährleisten und Transparenz erfüllt. Die Seenotrettung im Mittelmeer wäre die vierte Forderung im Bündnis Sichere Häfen, die Castrop-Rauxel erfüllen möchte.  Eine PPP findet sich in der Anlage.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AUSLB-87%7C13%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AUSLB-87",
+        "name": "Anfragen der Rats- bzw. Integrationsratsmitglieder",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AUSLB-87%7C13%7C1",
+          "date": "2025-05-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AUSLB-87%7C13%7C1",
+          "fileName": "be_13_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AUSLB-87%7C13%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 394302,
+          "text": " 7 Anfragen der Rats- bzw. Integrationsratsmitglieder  Herr Papp möchte gerne wissen, ob die geplante Sitzung des Integrationsrates am 10.09.2025 stattfinden würde.  Die Vorsitzende Frau Cetin bestätigt, dass die Sitzung stattfinden wird.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AUSLB-87%7C998%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AUSLB-87",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-AUSLB-87%7C998%7C1",
+          "date": "2025-05-26",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-AUSLB-87%7C998%7C1",
+          "fileName": "be_998_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-AUSLB-87%7C998%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 400005,
+          "text": " 8 Mitteilungen der Verwaltung  Frau Teschlade teilt die folgenden Termine mit:  21.05.25, Bündnistreffen für Demokratie 22.05.25, Veranstaltung: interreligiöser Austausch 17.06.25, 18-20:00 Uhr, Freibad nur für Frauen geöffnet 10.07.25, 10:00-13:30 Uhr, WBG, Veranstaltung Schule gegen Rassismus  Die Vorsitzende dankt den Teilnehmenden der Sitzung und beschließt die Sitzung. Sie lädt alle zum Rundgang durch die Ausstellung ein.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AUSLB-87%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AUSLB-87",
+        "name": "Rundgang durch die Ausstellung \"Wochen gegen Rassismus\"",
+        "number": "9",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AUSLB-87%7C995%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AUSLB-87",
+        "name": "Anfragen der Rats- bzw. Integrationsratsmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AUSLB-87%7C997%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AUSLB-87",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2025-AUSLB-87%7C20250526131159-0_ni_2025-AUSLB-87_2.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2025-05-26",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2025-AUSLB-87%7C20250526131159-0_ni_2025-AUSLB-87_2.pdf",
+        "fileName": "20250526131159-0_ni_2025-AUSLB-87_2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2025-AUSLB-87%7C2",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Seenotrettung",
+        "size": 1496021,
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2025-AUSLB-87%7C20250526131123-0_ni_2025-AUSLB-87_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2025-05-26",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2025-AUSLB-87%7C20250526131123-0_ni_2025-AUSLB-87_1.pdf",
+        "fileName": "20250526131123-0_ni_2025-AUSLB-87_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2025-AUSLB-87%7C3",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Flyer ADA 2025 Fertig",
+        "size": 2215908,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2025-05-14T19:30:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AUSLB-87",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2025-AUSLB-87",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-04-28",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2025-AUSLB-87",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2025-AUSLB-87",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "f8362a468ac223f23a72814d6ec7761ad4c261ae",
+      "size": 424270,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-AUSLB-87/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Integrationsrates",
+    "organization": [],
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/684",
+      "https://castroprauxel.gremien.info/oparl/person/1053",
+      "https://castroprauxel.gremien.info/oparl/person/1048",
+      "https://castroprauxel.gremien.info/oparl/person/1052",
+      "https://castroprauxel.gremien.info/oparl/person/642",
+      "https://castroprauxel.gremien.info/oparl/person/1032",
+      "https://castroprauxel.gremien.info/oparl/person/240",
+      "https://castroprauxel.gremien.info/oparl/person/1186",
+      "https://castroprauxel.gremien.info/oparl/person/156"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-AUSLB-87",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-06-04",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2025-AUSLB-87",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2025-AUSLB-87",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 486413,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2025-05-14T18:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-AUSLB-87",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-06-04",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2025-AUSLB-87",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2025-AUSLB-87",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 486413,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36305",
+  "modified_at": "2026-09-14T12:56:49+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369636.pdf",
+        "created": "2026-09-08T11:35:20+02:00",
+        "date": "2026-09-08",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369636.pdf",
+        "fileName": "00369636.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369636",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-14T12:56:49+02:00",
+        "name": "Große Anfrage CDU",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141754",
+        "created": "2026-09-09T12:11:34+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68762",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24698",
+        "modified": "2026-09-22T17:41:05+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/270"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36305",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-08T11:23:48+02:00",
+    "date": "2026-09-09",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36305",
+    "modified": "2026-09-14T12:56:49+02:00",
+    "name": "Offene Unterhaltsforderungen im Bereich Unterhaltsvorschuss",
+    "paperType": "Große Anfrage CDU",
+    "reference": "VO/1100/26",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

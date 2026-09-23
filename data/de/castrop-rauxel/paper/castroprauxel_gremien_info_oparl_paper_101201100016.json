@@ -1,0 +1,78 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/101201100016",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=101201100016%7C20090112162115.doc%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=101201100016%7C20090112162115.doc%7C",
+        "fileName": "20090112162115.doc",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C101201100016%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/101201100016",
+        "mimeType": "application/msword",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "f0cd3ebb6f34f22ac5b814bdc2e36174f9cb10ef",
+        "size": 105984,
+        "text": "Beschlusskontrollliste",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-B1-27%7C101201100016%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/3520",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B1-27",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B1"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-B1-28%7C101201100016%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/3549",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B1-28",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B1"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2009-01-12",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/101201100016",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=101201100016&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=101201100016&id=69",
+      "fileName": "101201100016",
+      "id": "https://castroprauxel.gremien.info/oparl/file/101201100016",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2009/017",
+      "size": 171627,
+      "text": "04.03.2009;12.01.2009;2009/017;28.01.2009;anliegende;az;berührung;beschlusskontrolle;betrieb;betriebsausschuss;controlling;datum;die;haushaltsmäßige;keine;kenntnis;nimmt;öffentlich;siehe;sitzungsvorlage;top-nr;zur;beschlusskontrolle;2009/017;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Beschlusskontrolle ",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2009/017",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B1",
+      "https://castroprauxel.gremien.info/oparl/organization/B1"
+    ]
+  }
+}

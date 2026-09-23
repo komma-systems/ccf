@@ -1,0 +1,47 @@
+{
+  "council_id": "koeln",
+  "record_type": "paper",
+  "source_id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134843",
+  "modified_at": "2026-09-23T15:59:50+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01113050.pdf",
+        "created": "2026-09-23T12:34:41+02:00",
+        "date": "2026-09-23",
+        "downloadUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/01113050.pdf",
+        "fileName": "01113050.pdf",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/files/1113050",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T15:59:50+02:00",
+        "name": "Änderungsantrag  (Die Linke BV5)",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln",
+    "consultation": [
+      {
+        "agendaItem": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/450954",
+        "created": "2026-09-23T16:00:59+02:00",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/206810",
+        "meeting": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33913",
+        "modified": "2026-09-23T16:00:59+02:00",
+        "organization": [
+          "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24"
+        ],
+        "paper": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134843",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-23T12:29:15+02:00",
+    "date": "2026-09-23",
+    "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134843",
+    "modified": "2026-09-23T15:59:50+02:00",
+    "name": "Baubeschluss für die bauliche Umsetzung der Geestemünder Straße in Köln-Niehl, im Bereich zwischen Neusser Landstraße und Emdener Straße sowie Freigabe von investiven Auszahlungsermächtigungen bei Finanzstelle 6601-1201-5-1023, Geestemünder Straße",
+    "paperType": "Änderungsantrag BV5 (Die Linke)",
+    "reference": "AN/1538/2026",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

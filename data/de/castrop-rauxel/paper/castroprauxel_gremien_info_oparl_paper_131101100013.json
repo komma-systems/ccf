@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/131101100013",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=131101100013%7C20120111102851.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=131101100013%7C20120111102851.pdf%7C",
+        "fileName": "20120111102851.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C131101100013%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/131101100013",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "2b9e5135b5a4d408625e8917bd4b8d12957a2048",
+        "size": 40311,
+        "text": "FDP-Antrag Ladezone Biesenkamp ",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-B1-48%7C131101100013%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/4971",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B1-48",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B1"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2012-01-11",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/131101100013",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=131101100013&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=131101100013&id=69",
+      "fileName": "131101100013",
+      "id": "https://castroprauxel.gremien.info/oparl/file/131101100013",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2012/014",
+      "size": 12315,
+      "text": "2012/014 öffentlich datum: 13.02.2012 sitzungsvorlage beratungsfolge datum top-nr. betriebsausschuss 1 (ausschuss für öffentliche ordnung, sport und kultur) 07.03.2012 3 betreff ladezonen am biesenkamp; hier: antrag der fdp-ratsfraktion vom 10.01.2012 beschlussvorschlag siehe beiliegenden antragladezonen am biesenkamp; hier:antrag der fdp-ratsfraktion vom 10.01.20122012/014%anl%;fdp-antrag ladezone biesenkamp ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Ladezonen Am Biesenkamp;\r\nhier:  Antrag der FDP-Ratsfraktion vom 10.01.2012",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2012/014",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B1"
+    ]
+  }
+}

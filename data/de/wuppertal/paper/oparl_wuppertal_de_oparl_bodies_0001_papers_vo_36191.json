@@ -1,0 +1,283 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36191",
+  "modified_at": "2026-09-09T13:20:13+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368777.pdf",
+        "created": "2026-08-20T13:40:50+02:00",
+        "date": "2026-08-20",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368777.pdf",
+        "fileName": "00368777.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368777",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-09T13:20:14+02:00",
+        "name": "Bericht",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368778.pdf",
+        "created": "2026-08-20T13:47:22+02:00",
+        "date": "2026-08-20",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368778.pdf",
+        "fileName": "00368778.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368778",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-09T13:20:14+02:00",
+        "name": "Baumfällungsliste103_Fassung für BV Oberbarmen  AFU_Stand-2026-06-25_sA (002)",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368779.pdf",
+        "created": "2026-08-20T13:47:39+02:00",
+        "date": "2026-08-20",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368779.pdf",
+        "fileName": "00368779.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368779",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-09T13:20:14+02:00",
+        "name": "Baumfällungsliste103_Fassung für BV Heck  AFU_Stand-2026-06-25_sA",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368780.pdf",
+        "created": "2026-08-20T13:47:59+02:00",
+        "date": "2026-08-20",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368780.pdf",
+        "fileName": "00368780.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368780",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-09T13:20:14+02:00",
+        "name": "Baumfällungsliste103_Fassung für BV Vohwinkel  AFU_Stand-2026-06-25_sA",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368781.pdf",
+        "created": "2026-08-20T13:48:18+02:00",
+        "date": "2026-08-20",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368781.pdf",
+        "fileName": "00368781.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368781",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-09T13:20:14+02:00",
+        "name": "Baumfällungsliste103_Fassung für BV Rons  AFU_Stand-2026-06-25_sA (002)",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368782.pdf",
+        "created": "2026-08-20T13:48:31+02:00",
+        "date": "2026-08-20",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368782.pdf",
+        "fileName": "00368782.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368782",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-09T13:20:14+02:00",
+        "name": "Baumfällungsliste103_Fassung für BV Barmen  AFU_Stand-2026-06-25_sA (002)",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368783.pdf",
+        "created": "2026-08-20T13:48:45+02:00",
+        "date": "2026-08-20",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368783.pdf",
+        "fileName": "00368783.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368783",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-09T13:20:14+02:00",
+        "name": "Baumfällungsliste103_Fassung für BV Uel-Kat  AFU_Stand-2026-06-25_sA (002)",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368785.pdf",
+        "created": "2026-08-20T13:52:15+02:00",
+        "date": "2026-08-20",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368785.pdf",
+        "fileName": "00368785.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368785",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-09T13:20:14+02:00",
+        "name": "Baumfällungsliste103_Fassung für BV Elberfeld & AFU_Stand-2026-06-25_sA",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368786.pdf",
+        "created": "2026-08-20T13:52:35+02:00",
+        "date": "2026-08-20",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368786.pdf",
+        "fileName": "00368786.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368786",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-09T13:20:14+02:00",
+        "name": "Baumfällungsliste103_Fassung für BV La-Bey & AFU_Stand-2026-06-25_sA",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368787.pdf",
+        "created": "2026-08-20T13:53:35+02:00",
+        "date": "2026-08-20",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368787.pdf",
+        "fileName": "00368787.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368787",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-09T13:20:14+02:00",
+        "name": "Baumfällungsliste103_Fassung für BV Elb-West & AFU_Stand-2026-06-25_sA",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141337",
+        "authoritative": true,
+        "created": "2026-08-20T14:10:03+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68547",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24585",
+        "modified": "2026-09-03T06:27:32+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/42"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36191",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141338",
+        "authoritative": true,
+        "created": "2026-08-20T14:10:49+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68540",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24591",
+        "modified": "2026-09-10T08:47:38+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36191",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141340",
+        "authoritative": true,
+        "created": "2026-08-21T08:08:06+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68541",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24597",
+        "modified": "2026-09-03T10:57:34+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/40"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36191",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141343",
+        "authoritative": true,
+        "created": "2026-08-21T09:04:00+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68546",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24660",
+        "modified": "2026-09-04T06:46:04+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/41"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36191",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141345",
+        "created": "2026-08-21T09:27:51+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68539",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24666",
+        "modified": "2026-09-09T22:21:29+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/43"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36191",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141357",
+        "created": "2026-08-21T12:51:12+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68543",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24570",
+        "modified": "2026-09-02T12:17:30+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/47"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36191",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141363",
+        "created": "2026-08-21T15:14:44+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68538",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24789",
+        "modified": "2026-09-09T12:19:19+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/44"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36191",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141411",
+        "authoritative": true,
+        "created": "2026-08-25T08:23:49+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68542",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24579",
+        "modified": "2026-09-02T07:43:37+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/46"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36191",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141425",
+        "created": "2026-08-25T12:04:35+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68544",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24783",
+        "modified": "2026-09-01T09:24:56+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/45"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36191",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141505",
+        "created": "2026-08-27T15:46:33+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68548",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24684",
+        "modified": "2026-09-21T12:08:11+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/278"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36191",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-20T13:26:05+02:00",
+    "date": "2026-08-20",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36191",
+    "keyword": [
+      "Klimacheck - JA negative Auswirkung"
+    ],
+    "modified": "2026-09-09T13:20:13+02:00",
+    "name": "Baumfällungen Herbst 2026",
+    "paperType": "Bericht",
+    "reference": "VO/0991/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/74"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/2004140",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2004-04-29",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/2004140",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2004140&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2004140&id=69",
+      "fileName": "2004140",
+      "id": "https://castroprauxel.gremien.info/oparl/file/2004140",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2004/140",
+      "size": 14801,
+      "text": "sitzungsvorlage;schulausschuss;betriebsausschuss;ausschuss;jugend;soziales;zügigkeit;elisabethschule;bekenntnisgrundschule;haushaltsstelle;berührung;gesamtkosten;abs;schulverwaltungsgesetz;eingangsklassen;schuljahr;züge;parallelklassen;begrenzung;castrop;rauxel;bezirksregierung;münster;raumsituation;erkenntnissen;festlegung;gemeinschaftsgrundschulen;schuleinzugsbereich;bestand;vergangenheit;klassenräume;einzügigkeit;schulkonferenz;schulmitwirkungsgesetz;stellungnahme;zügigkeit;der;elisabethschule;kath;bekenntnisgrundschule;2004140;,2004/140;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Zügigkeit der Elisabethschule (kath. Bekenntnisgrundschule)",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2004/140",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

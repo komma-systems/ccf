@@ -1,0 +1,35 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/2002305",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2002-10-16",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/2002305",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002305&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002305&id=69",
+      "fileName": "2002305",
+      "id": "https://castroprauxel.gremien.info/oparl/file/2002305",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2002/305",
+      "size": 13945,
+      "text": "eigenbetrieb;euv;sitzungsvorlage;werksausschuss;jahresrechnung;entlastungserteilung;werkleitung;haushaltsstelle;berührung;gesamtkosten;jahresabschluss;prüfbericht;rödl;partner;wirtschaftsprüfungsgesellschaft;steuerberatungsgesellschaft;castrop;rauxel;feststellung;jahresabschlusses;jahresverlust;rechnung;eigenbetriebes;mitgliedern;werksausschusses;werksausschusssitzung;tischvorlage;zahlenwerk;wirtschaftsberatungsgesellschaft;köln;wirtschaftsprüfer;inhalte;prüfung;detail;jahresrechnung;des;euv;für;das;jahr;2001;;beratung;und;beschlussfassung;sowie;entlastungserteilung;der;werkleitung;2002305;,2002/305;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Jahresrechnung des EUV für das Jahr 2001;\r\nBeratung und Beschlussfassung sowie Entlastungserteilung der Werkleitung",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2002/305",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

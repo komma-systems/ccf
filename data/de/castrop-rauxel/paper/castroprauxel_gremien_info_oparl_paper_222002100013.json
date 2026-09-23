@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/222002100013",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2017-EUV-20%7C222002100013%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7412",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2017-EUV-20",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2017-02-20",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/222002100013",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=222002100013&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=222002100013&id=69",
+      "fileName": "222002100013",
+      "id": "https://castroprauxel.gremien.info/oparl/file/222002100013",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2017/EUV/014",
+      "size": 150815,
+      "text": "Datum: 20.02.2017 TB I 9686-700 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 08.03.2017 TOP: Drucksache-Nr. 2017/EUV/014 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 08.03.2017 5 Betreff: Sachstandsbericht zur „Umstellung der finanzbuchhalterischen Systeme (Einführung eines ERP Enterprise-Resource-Planning)“ Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat des EUV Stadtbetrieb AöR nimmt den Sachstandsbericht zur „Umstellung der Finanzbuchhaltungssoftware und Einführung eines ERP“ zur Kenntnis. ________________________ Werner Sachverhalt: Der Vorstand hat dem Verwaltungsrat in seiner Sitzung vom 23.11.2016 (Drucksache 2016/EUV/050) einen Sachstand zur Umstellung der finanzbuchhalterischen Systeme vorgetragen. In der aktuell stattfindenden Sitzung wird ein Vertreter der beauftragten Wirtschaftsprüfungsgesellschaft Rödl & Partner, Köln, eine Präsentation über den aktuellen Status des Projektes geben. Darin wird sie die bisherigen Ergebnisse und Entscheidungsvorschläge sowie weitere Vorgehensweisen präsentieren. Weiterer Sachvortrag in der Sitzung.%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Sachstandsbericht zur „Umstellung der finanzbuchhalterischen Systeme (Einführung eines ERP Enterprise-Resource-Planning)“",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2017/EUV/014",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

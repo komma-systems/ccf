@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/271003100077",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-BEHB-43%7C271003100077%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8926",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-BEHB-43",
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-03-10",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/271003100077",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271003100077&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271003100077&id=69",
+      "fileName": "271003100077",
+      "id": "https://castroprauxel.gremien.info/oparl/file/271003100077",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/072",
+      "size": 40680,
+      "text": " Bereich Stabsstelle Bildung, Vielfalt und Teilhabe 2020/072  öffentlich  Az:     Datum: 10.03.2020    Tischvorlage  Beratungsfolge Datum TOP-Nr.  Beirat für Menschen mit Behinderung 10.03.2020 1   Betreff  Ernennung einer Schriftführerin für den Beirates für Menschen mit Behinderung der Stadt Castrop-Rauxel  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  Gemäß § 52 Abs. 1 GO NRW wird als stellvertretende Schriftführerin Frau Ayla Dalkilinc benannt.   \f  \f ________________ Kleff Beigeordnete für Soziales  \f  Sachverhalt  Gemäß § 58 Abs. 7 der Gemeindeordnung NRW (GO NRW) ist über die Beschlüsse der Ausschüsse eine Niederschrift aufzunehmen. Diese wir in analoger Anwendung des § 52 Abs. 1 in Verbindung mit § 58 Abs. 2 GO NRW von einem/r vom Beirat für Menschen mit Behinderung zu bestellenden Schriftführer/in gefertigt.  Nach § 17 Abs. 2 Geschäftsordnung des Rates der Stadt Castrop-Rauxel ist die Niederschrift, die in Form eines Beschlussprotokolls erfolgt, vom Ausschussvorsitzenden und dem/r Schriftführer/in zu unterzeichnen.  \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Ernennung einer Schriftführerin für den Beirates für Menschen mit Behinderung der Stadt Castrop-Rauxel",
+    "paperType": "Tischvorlage",
+    "reference": "2020/072",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

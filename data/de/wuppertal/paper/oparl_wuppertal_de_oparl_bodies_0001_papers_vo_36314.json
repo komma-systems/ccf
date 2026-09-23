@@ -1,0 +1,86 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36314",
+  "modified_at": "2026-09-21T15:11:11+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369678.pdf",
+        "created": "2026-09-09T06:49:21+02:00",
+        "date": "2026-09-21",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369678.pdf",
+        "fileName": "00369678.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369678",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-21T15:11:11+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370395.pdf",
+        "created": "2026-09-21T13:32:27+02:00",
+        "date": "2026-09-21",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370395.pdf",
+        "fileName": "00370395.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370395",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-21T15:11:11+02:00",
+        "name": "Anlage 01 - Gegenüberstellung",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "created": "2026-09-09T06:49:14+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68774",
+        "modified": "2026-09-21T13:24:56+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/272"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36314",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141801",
+        "created": "2026-09-15T07:40:43+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68772",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24654",
+        "modified": "2026-09-21T12:13:02+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36314",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141868",
+        "created": "2026-09-16T08:52:13+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68773",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24543",
+        "modified": "2026-09-23T10:41:34+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36314",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-09T06:47:10+02:00",
+    "date": "2026-09-21",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36314",
+    "modified": "2026-09-21T15:11:11+02:00",
+    "name": "Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Einrichtungen Vogelsangstraße und Wuppertaler Hof für die Zeit vom 01.04.2026 bis 31.03.2027",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/1106/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/49"
+    ]
+  }
+}

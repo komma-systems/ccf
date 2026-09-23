@@ -1,0 +1,339 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-UMWA-120",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-UMWA-120%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-UMWA-120",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-UMWA-120%7C1%7C1",
+          "date": "2025-03-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-UMWA-120%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-UMWA-120%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 62959,
+          "text": "I.1 Fragestunde für Einwohnerinnen und Einwohner   Keine Anfragen.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-UMWA-120%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-UMWA-120",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-UMWA-120%7CProtokoll%7C1",
+          "date": "2025-03-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-UMWA-120%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-UMWA-120%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 63466,
+          "text": "I.2 Einwände gegen die letzte Niederschrift   Keine Einwände.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-UMWA-120%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-UMWA-120",
+        "name": "Bericht über erforderliche städtische Baumfällmaßnahmen",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-UMWA-120%7Czt_0%7C1",
+          "date": "2025-03-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-UMWA-120%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-UMWA-120%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 112249,
+          "text": "I.3 Bericht über erforderliche städtische Baumfällmaßnahmen   Herr Werner berichtet zu den städtischen Baumfällmaßnahmen. Folgende Bäume mussten gefällt werden: Sieben Bäume an der Schule Am Hügel Sieben Bäume an der Willy-Brandt-Gesamtschule Drei Bäume an der Elisabethschule Zwei Bäume an der Kanalstraße Zwei Bäume an der Herner Straße hinter Autohaus Tiemeyer 15 Bäume an der Parkanlage an der Rennbahn Im Rahmen Straßenbaumkontrolle mussten zudem folgende Bäume gefällt werden: Vier Bäume an der Erinstraße Zwei Bäume Am Förderturm Ein Baum an der Bladenhorster Straße Ein Baum am Parkplatz an der Lönsstraße Zwei Bäume an der Sägewerkstraße Zwei Bäume an der Herner Straße Sechs Bäume am Westring Ein Baum an der Emscherstraße Zudem wurden durch den Kreis Recklinghausen zwei Ahorne an der Wartburgstraße im Bereich des Berufskollegs Castrop-Rauxel gefällt. Diese waren aufgrund einer Pilzerkrankung und verstärktem Totholzaufkommen nicht mehr standsicher.  Für die Sanierung der Trauerhalle mussten sechs Bäume auf dem Friedhof Bladenhorst gefällt werden.  Weiterhin berichtet Herr Werner, dass 16 Fällgenehmigungen ohne Ersatzpflanzung, 17 Fällgenehmigungen mit Ersatzpflanzungen erteilt wurden und zwei Fällanträge noch in Bearbeitung sind.  Folgende Fällungen mussten im Rahmen von Forstarbeiten durchgeführt werden: 13 Bäume auf der Halde Schwerin (diese gehört eigentlich dem RVR, aber aufgrund eines Vertrages zwischen der Stadt und dem RVR, wird der Bewuchs durch den Bereich Stadtgrün zurückgeschnitten) Mehrere geschädigte Bäume im Bereich Goldschmieding Einige geschädigte Bäume im Waldstück an der Bergstraße Eine Buche an der Gaswerkstraße Mehrere Buchen im Grutholz 13 Bäume im Wildgehege  Abschließend berichtet Herr Werner zu dem Baumbestand in der Ackerstraße. Die Platanen entlang der Ackerstraße wurden als Kopfbäume angelegt. Da die Platanen stark gekappt worden, erinnert das Erscheinungsbild nicht mehr an Bäume. Die Platanen sollen gefällt werden und die Wurzeln gefräst werden. Eine Bepflanzung der Ackerstraße mit einer neuen Baumart wird vorgeschlagen.  Frau Mintrop-Werkle fragt an, wann das Baumkataster abgeschlossen sein wird. Herr Werner antwortet, dass die Aufnahme der Bäume noch ca. zehn Wochen in Anspruch nehmen wird, danach wird das Baumkataster entsprechend aufbereitet. Eine Vorstellung ist für eine der AKU-Sitzungen nach der Sommerpause angedacht.  Herr Schlabach teilt mit, dass im Bereich der Dortmunder Straße am Golfclub ebenfalls Fällmaßnahmen stattgefunden haben. Die Verwaltung wird das prüfen und Kontakt zum Golfclub aufnehmen.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-UMWA-120%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-UMWA-120",
+        "name": "Bericht über städtische Baumpflanzmaßnahmen",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-UMWA-120%7Czt_1%7C1",
+          "date": "2025-03-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-UMWA-120%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-UMWA-120%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 94035,
+          "text": "I.4 Bericht über städtische Baumpflanzmaßnahmen   In der Zeit vom 26.11.2024 bis zum 27.02.2024 wurden 138 Gehölze gepflanzt.   Für das Frühjahr 2025 ist geplant, dass die Waldflächen an der Gaswerkstraße und Goldschmieding aufgeforstet werden. Zudem werden Im Wildgehege zehn weitere Gehölze nachgepflanzt.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-UMWA-120%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-UMWA-120",
+        "name": "Sachstandsbericht Baumkataster",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-UMWA-120%7Czt_3%7C1",
+          "date": "2025-03-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-UMWA-120%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-UMWA-120%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 128787,
+          "text": "I.5 Sachstandsbericht Baumkataster   Herr Werner berichtet, dass die städtischen Straßenbäume seit Ende Januar durch eine externe Firma kontrolliert und in das Baumkataster aufgenommen werden. Die Bäume erhalten eine Plakette mit einer entsprechenden Nummerierung. Die Nummer lässt sich in digitaler Variante im Baumkataster finden.  Eine erste Datenlieferung fand am 11.02.2025 statt. Dabei wurden die Daten von ca. 1.000 Bäumen in das Baumkataster eingespielt. Die Daten der Kontrolleure werden turnusmäßig alle zwei bis drei Wochen geliefert. Es wird mit einer Anzahl von etwa 10.000 Straßenbäumen gerechnet. Herr Eismann erfragt, ob das Baumkataster über das Geoportal eingesehen werden kann und wie die Zugriffsrechte sind. Herr Werner erwidert, dass nach Rücksprache mit Bereich 62 und Frau Lenort geklärt wird, welche Informationen im CasGeoportal zur Verfügung gestellt werden.  Der Ausschuss für Klima- und Umweltschutz nimmt den Sachstandsbericht zur Kenntnis.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/15425",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-UMWA-120%7C382701100012%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-UMWA-120",
+        "name": "Antrag der AG Mobilität des Klimabeirats vom 16.12.2024\r\nMobilitätsmaßnahmen im Ortsteil Henrichenburg",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-UMWA-120%7C382701100012%7C1",
+          "date": "2025-03-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-UMWA-120%7C382701100012%7C1",
+          "fileName": "be_382701100012_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-UMWA-120%7C382701100012%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 175311,
+          "text": "I.6 Antrag der AG Mobilität des Klimabeirats vom 16.12.2024 Mobilitätsmaßnahmen im Ortsteil Henrichenburg                                            (2025/013)   Frau Reuter erläutert die Vorlage und beantwortet die Anfragen der Ausschussmitglieder. Auf die Nachfrage von Herrn Dr. Häpke, wann die im Antrag benannten Maßnahmen umgesetzt werden, teilt Frau Reuter mit, dass es ohne Beschluss des Antrages noch keinen Arbeitsauftrag gibt und es zur Terminierung der Maßnahmenumsetzung des Ratsbeschlusses bedarf. Dabei wird bei Beschluss des Antrages das IGA Jahr 2027 aber im Blick gehalten. Herr Ehm bemängelt den 2. Punkt aus dem Antrag der AG Mobilität, der Ausbau der Lambertstraße als Fahrradstraße zwischen den Straßen Auf der Flur und der Denrodtstraße, da dies für ihn lediglich Symbolcharakter darstellt, da Fahrräder hier lediglich nebeneinander fahren können. Zudem fragt er warum beim 3. Punkt lediglich ein kurzer Abschnitt an der Freiheitstraße zwischen Henrichenburg Mitte und Wartburgstraße ausgebaut wird und nicht die gesamte Straße.  Frau Lenort schlägt vor, die Verwaltung zunächst zu beauftragen, die vorgeschlagenen Maßnahmen zu prüfen. Wenn die Prüfung zu dem Schluss kommt, dass es sinnvoller ist die gesamte Freiheitstraße auszubauen, wird dies hier entsprechend vorgestellt und vorgeschlagen. Herr Ehm stellt den Antrag, die Punkte einzeln abzustimmen. Der Ausschuss für Klima- und Umweltschutz beschließt bei fünf Ja Stimmen und einer Enthaltung den Antrag abzulehnen. Der Ausschuss für Klima- und Umweltschutz empfiehlt dem Rat der Stadt Castrop-Rauxel mehrstimmig bei vier Nein Stimmen, den Antrag der AG Mobilität zu beschließen und die Verwaltung zu beauftragen, die Maßnahmenumsetzung im Rahmen der finanziellen Möglichkeiten anzugehen.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-UMWA-120%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-UMWA-120",
+        "name": "Bericht zu den städtischen Klimaschutz- und Klimaanpassungsmaßnahmen",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-UMWA-120%7Czt_2%7C1",
+          "date": "2025-03-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-UMWA-120%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-UMWA-120%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 142735,
+          "text": "I.7 Bericht zu den städtischen Klimaschutz- und Klimaanpassungsmaßnahmen   Frau Reuter berichtet: Im Dezember 2024 wurde im hiesigen Ausschuss die Zwischenevaluation des Nahmobilitätskonzeptes und der Sachstandsbericht an die AGFS vorgelegt. Nun wurde mitgeteilt, dass der Sachstandsbericht die Aktivitäten der Stadt Castrop-Rauxel in der Nahmobilität gut dokumentiert und die Stadt Castrop-Rauxel nach der zweijährigen Bewährungsphase Mitglied der AGFS bleiben wird. Das Projekt metropolrad.ruhr wird durch den RVR neu ausgeschrieben. Die Stationsnetzplanung für Castrop-Rauxel wird derzeit erarbeitet. Vorrangig sollen Verknüpfungspunkte und zentrale Orte in den Stadtteilzentren gewählt werden. Herr Molloisch regt an über eine Beteiligungsplattform die Bürgerinnen und Bürger einzubinden, um entsprechende Standorte zu eruieren. Frau Reuter erläutert, dass die ca. 60 Fahrräder, die im Zuge der RVR-Ausschreibung zur Verfügung gestellt werden können, anhand der Einwohnerzahl ermittelt wurden und die Stationen vorrangig virtuell ggf. mit kleinen Markierungen/Beschilderungen vor Ort eingerichtet werden. So kann zunächst der Zulauf der Stationen getestet werden, sollten die Stationen nicht frequentiert werden, könnten diese auch verlegt werden. In diesem Zuge wäre im zweiten Schritt bei Bedarf eine Bürgerabfrage möglich.  Die neuen Kollegen, Frau Knauber als Sachbearbeiterin für das Klimamanagement ist seit Januar 2025 und Herrn Elkmann als Teamleitung Klima und Mobilität seit März 2025 für den Bereich 12 tätig und stellen sich kurz vor. Der Ausschuss für Klima- und Umweltschutz nimmt den Sachstandsbericht zur Kenntnis.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-UMWA-120%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-UMWA-120",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-UMWA-120%7C6%7C1",
+          "date": "2025-03-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-UMWA-120%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-UMWA-120%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 89920,
+          "text": "I.8 Anfragen der Ausschussmitglieder   Herr Dr. Häpke fragt an, ob die Stadt Castrop-Rauxel eine so genannte  Verpackungssteuer  auf Einweggeschirr und -besteck nach dem Vorbild der Stadt Tübingen erheben oder zumindest prüfen wird. Einweggeschirr und -besteck wie z.B. Pommes-Schalen, Kaffeebecher u.v.a. sind unnötiger Müll, der häufig sogar in Grünanlagen und auf Straßen herumliegt, und insofern eine unnötige Umweltverschmutzung darstellt. Laut Deutscher Umwelthilfe erwägen rund 120 Kommunen in Deutschland, eine solche Steuer zu erheben. Einige Kommunen (z.B. Konstanz) sind bereits dem Tübinger Vorbild gefolgt.  Nach eingehender Diskussion schlägt Herr Werner vor, zunächst die Faktenlage zu prüfen und zum Sachstand im AKU zu berichten.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-UMWA-120%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-UMWA-120",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-UMWA-120%7C4%7C1",
+          "date": "2025-03-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-UMWA-120%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-UMWA-120%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 58716,
+          "text": "I.9 Mitteilungen der Verwaltung   Keine Mitteilungen.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-UMWA-120%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-UMWA-120",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-UMWA-120%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-UMWA-120",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2025-UMWA-120%7C20250319094934-0_ni_2025-UMWA-120_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2025-03-19",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2025-UMWA-120%7C20250319094934-0_ni_2025-UMWA-120_1.pdf",
+        "fileName": "20250319094934-0_ni_2025-UMWA-120_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2025-UMWA-120%7C1",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "AKU Baumfällungen -Pflanzungen 2025-03-04",
+        "size": 2283290,
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2025-UMWA-120%7C20250605081520-0_ni_2025-UMWA-120_2.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2025-06-05",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2025-UMWA-120%7C20250605081520-0_ni_2025-UMWA-120_2.pdf",
+        "fileName": "20250605081520-0_ni_2025-UMWA-120_2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2025-UMWA-120%7C2",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Hinweis Niederschrift 04.03.2025 iV mit Niederschrift vom 06.05.2025",
+        "size": 401160,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2025-03-04T18:10:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-UMWA-120",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2025-UMWA-120",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-02-19",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2025-UMWA-120",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2025-UMWA-120",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "e32f6ad8f24974e0f93d1bb65f98bc171ca105bb",
+      "size": 114575,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-UMWA-120/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschusses für Klima- und Umweltschutz",
+    "organization": [],
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/977",
+      "https://castroprauxel.gremien.info/oparl/person/370",
+      "https://castroprauxel.gremien.info/oparl/person/1059",
+      "https://castroprauxel.gremien.info/oparl/person/224",
+      "https://castroprauxel.gremien.info/oparl/person/73",
+      "https://castroprauxel.gremien.info/oparl/person/1249",
+      "https://castroprauxel.gremien.info/oparl/person/1090",
+      "https://castroprauxel.gremien.info/oparl/person/635",
+      "https://castroprauxel.gremien.info/oparl/person/963",
+      "https://castroprauxel.gremien.info/oparl/person/112",
+      "https://castroprauxel.gremien.info/oparl/person/858",
+      "https://castroprauxel.gremien.info/oparl/person/1083",
+      "https://castroprauxel.gremien.info/oparl/person/335",
+      "https://castroprauxel.gremien.info/oparl/person/654",
+      "https://castroprauxel.gremien.info/oparl/person/841",
+      "https://castroprauxel.gremien.info/oparl/person/1092",
+      "https://castroprauxel.gremien.info/oparl/person/416",
+      "https://castroprauxel.gremien.info/oparl/person/1129",
+      "https://castroprauxel.gremien.info/oparl/person/837",
+      "https://castroprauxel.gremien.info/oparl/person/1133",
+      "https://castroprauxel.gremien.info/oparl/person/838",
+      "https://castroprauxel.gremien.info/oparl/person/802",
+      "https://castroprauxel.gremien.info/oparl/person/344",
+      "https://castroprauxel.gremien.info/oparl/person/1025",
+      "https://castroprauxel.gremien.info/oparl/person/1011",
+      "https://castroprauxel.gremien.info/oparl/person/1266"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-UMWA-120",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-03-19",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2025-UMWA-120",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2025-UMWA-120",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 258716,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2025-03-04T17:05:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-UMWA-120",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-03-19",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2025-UMWA-120",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2025-UMWA-120",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 258716,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

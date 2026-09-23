@@ -1,0 +1,47 @@
+{
+  "council_id": "koeln",
+  "record_type": "paper",
+  "source_id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134834",
+  "modified_at": "2026-09-23T13:15:34+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01113003.pdf",
+        "created": "2026-09-23T10:20:00+02:00",
+        "date": "2026-09-23",
+        "downloadUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/01113003.pdf",
+        "fileName": "01113003.pdf",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/files/1113003",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T13:15:34+02:00",
+        "name": "Gem. Änderungsantrag (BV6)",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln",
+    "consultation": [
+      {
+        "agendaItem": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/450948",
+        "created": "2026-09-23T13:22:09+02:00",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/206801",
+        "meeting": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34024",
+        "modified": "2026-09-23T13:23:36+02:00",
+        "organization": [
+          "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25"
+        ],
+        "paper": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134834",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-23T10:17:27+02:00",
+    "date": "2026-09-23",
+    "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134834",
+    "modified": "2026-09-23T13:15:34+02:00",
+    "name": "Änderungsantrag zu 8.3.1 AN 1384/2026",
+    "paperType": "Gem. Änderungsantrag BV6",
+    "reference": "AN/1531/2026",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

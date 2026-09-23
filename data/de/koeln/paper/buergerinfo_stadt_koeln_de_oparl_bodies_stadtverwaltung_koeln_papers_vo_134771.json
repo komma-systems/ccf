@@ -1,0 +1,50 @@
+{
+  "council_id": "koeln",
+  "record_type": "paper",
+  "source_id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134771",
+  "modified_at": "2026-09-21T16:26:29+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01112323.pdf",
+        "created": "2026-09-18T15:20:13+02:00",
+        "date": "2026-09-21",
+        "downloadUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/01112323.pdf",
+        "fileName": "01112323.pdf",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/files/1112323",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-21T15:17:52+02:00",
+        "name": "Beantwortung einer Anfrage (Ausschuss)",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln",
+    "consultation": [
+      {
+        "agendaItem": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/450649",
+        "created": "2026-09-21T15:35:46+02:00",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/206726",
+        "meeting": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34401",
+        "modified": "2026-09-21T15:35:56+02:00",
+        "organization": [
+          "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71"
+        ],
+        "paper": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134771",
+        "role": "Kenntnisnahme (Mitteilung)",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-18T15:18:27+02:00",
+    "date": "2026-09-21",
+    "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134771",
+    "modified": "2026-09-21T16:26:29+02:00",
+    "name": "Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung des Ausschuss Klima, Umwelt und Grün vom 18.06.2026 (AN/0997/2026) betreffend \"Alleen für Köln\"",
+    "paperType": "Beantwortung einer Anfrage (Ausschuss)",
+    "reference": "2625/2026",
+    "subordinatedPaper": [
+      "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/133418"
+    ],
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

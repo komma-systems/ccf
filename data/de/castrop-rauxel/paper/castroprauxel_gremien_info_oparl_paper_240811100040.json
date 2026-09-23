@@ -1,0 +1,83 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/240811100040",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=240811100040%7C20181109123546-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2018-11-12",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=240811100040%7C20181109123546-0.pdf%7C",
+        "fileName": "20181109123546-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C240811100040%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/240811100040",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "0e11b08fe06854f836281c76e27388d1bd831a18",
+        "size": 424636,
+        "text": "Gebührenbedarfsberechnung 2019 (Entwässerung)",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=240811100040%7C20181109123549-1.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2018-11-12",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=240811100040%7C20181109123549-1.pdf%7C",
+        "fileName": "20181109123549-1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C240811100040%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/240811100040",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "02cc251b2f3e2b49999fbf5c22052c8142430be4",
+        "size": 386341,
+        "text": "Gebührensatzung zur Entwässerungssatzung 2019",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-24%7C240811100040%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8169",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2018-EUV-24",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2018-11-08",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/240811100040",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=240811100040&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=240811100040&id=69",
+      "fileName": "240811100040",
+      "id": "https://castroprauxel.gremien.info/oparl/file/240811100040",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2018/EUV/041",
+      "size": 173469,
+      "text": "/  Datum:  08.11.2018    TB VII / GBA 96 86 380       Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 28.11.2018 TOP: I.7 Drucksache-Nr. 2018/EUV/041     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 28.11.2018 7  Rat der Stadt 29.11.2018     Betreff:  Gebührenbedarfsberechnung 2019 -Stadtentwässerung- und Erlass einer Gebührensatzung zur Entwässerungssatzung in der Stadt Castrop-Rauxel      Finanzielle Auswirkungen gem. Wirtschaftsplan  x ja Gesamtkosten        nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat nimmt die Gebührenbedarfsberechnung 2019 -Stadtentwässerung- \u000b(Anlage 1) zur Kenntnis und beschließt die beigefügte Gebührensatzung (Anlage 2).      \f  \f  ________________________\u000bWerner\f Sachverhalt: Gemäß beiliegender Gebührenbedarfsberechnung 2019 sind nachfolgende Veränderungen im Vergleich zum Vorjahr erkennbar. die Beiträge zur Emschergenossenschaft erhöhen sich um 6,27% (= 475.590 ) die Abwasserabgabe erhöht sich um ca.13%  durch tarifliche Lohnerhöhungen steigen die Personalkosten um etwa 2,8% (= 56.513 ) ferner sind keine Gebührenerstattungen aus Vorjahren in Ansatz zu bringen (gegenüber 2018  900.000 ). Das heißt, Mindereinnahmen von rund 480.000 . Der Vorstand hält es für erforderlich, die Entwässerungsgebühren ab dem 01.01.2019 wie folgt anzuheben:  2018 2018 %  Schmutzwassergebühr  2,67  pro cbm  2,48  pro cbm  + 7,7   Niederschlagswassergebühr  1,13  pro qm  1,13  pro qm  + 0,0   \u000b Im Übrigen wird auf die Erläuterungen in der anliegenden Gebührenbedarfsberechnung verwiesen. \u000b Gemäß § 5 Abs. 2 Ziff. 1 der Satzung für das Kommunalunternehmen der Stadt Castrop-Rauxel, EUV, Stadtbetrieb Castrop-Rauxel  AöR  ist der Verwaltungsrat für den Erlass von Satzungen im Rahmen des übertragenen Aufgabenbereiches zuständig.  Gemäß § 9 Abs. 2 der Kommunalunternehmenssatzung bedürfen Entscheidungen von grundsätzlicher Bedeutung der Zustimmung des Rates.  Vor der öffentlichen Bekanntmachung der Satzung ist somit die vom Verwaltungsrat beschlossene Satzung vom Rat der Stadt Castrop-Rauxel zu billigen.  Weiterer Bericht in der Sitzung.  Anlage 1: Gebührenbedarfsberechnung 2019\u000bAnlage 2: Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage der Stadt Castrop-Rauxel (Entwässerungssatzung)   \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Gebührenbedarfsberechnung 2019 -Stadtentwässerung- und Erlass einer Gebührensatzung\r\nzur Entwässerungssatzung in der Stadt Castrop-Rauxel",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2018/EUV/041",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

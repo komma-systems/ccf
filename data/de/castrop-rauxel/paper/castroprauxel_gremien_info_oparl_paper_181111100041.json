@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/181111100041",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=181111100041%7C20151111135242.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=181111100041%7C20151111135242.pdf%7C",
+        "fileName": "20151111135242.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C181111100041%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/181111100041",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "b0c89c0b26b83e814f56fb7364119d79b854d603",
+        "size": 49757,
+        "text": "Zwischenbericht 4_2015 zu VR Sitzung 25.11.2015_V2",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C181111100041%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6784",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2015-EUV-10",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2015-11-11",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/181111100041",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=181111100041&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=181111100041&id=69",
+      "fileName": "181111100041",
+      "id": "https://castroprauxel.gremien.info/oparl/file/181111100041",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2015/EUV/042",
+      "size": 156815,
+      "text": "Datum: 11.11.2015 TB I 9686-590 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 25.11.2015 TOP: I.2 Drucksache-Nr. 2015/EUV/042 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 25.11.2015 2 Betreff: Zwischenbericht 4 / 2015 Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt den Zwischenbericht 4 / 2015 zur Kenntnis. ________________________ Werner Sachverhalt: Der Vorstand des EUV Stadtbetrieb Castrop-Rauxel – AöR – hat gem. § 8 Abs. 5 der Satzung der Stadt Castrop-Rauxel den Verwaltungsrat mindestens halbjährlich über die Entwicklung des Vermögens- und Erfolgsplanes des EUV Stadtbetrieb Castrop-Rauxel schriftlich zu unterrichten. Es wird regelmäßig vierteljährlich berichtet, zuletzt in der Sitzung des Verwaltungsrates am 26.08.2015. Dieser Zwischenbericht 4 / 2015 berücksichtigt nunmehr alle Buchungsvorgänge und -belege, die bis einschließlich 30.09.2015 durch die Buchhaltung erfasst worden sind. Die wirtschaftliche Entwicklung des EUV stellt sich in den 9 Monaten des Jahres 2015 wie folgt dar:  Das Ergebnis des Gesamtbetriebes EUV wird in diesem Zwischenbericht mit 759 T€ und somit um 85 T€ niedriger als geplant. Die größten gebührenfinanzierten Teilbetriebe sehen folgendermaßen aus: Teilbetrieb III – Abfallentsorgung Bei dem Teilbetrieb III wird zum jetzigen Zeitpunkt von einem Rechnungsergebnis von 25 T€ ausgegangen, was über dem Plan liegt. Ursächlich dafür sind die zusätzlichen Aufträge zu Entsorgungsleistungen. Teilbetrieb IV – Duales System Das Ergebnis des Teilbetriebes IV für neun Monate beläuft sich auf -104 T€, somit ist des Ergebnis um 4 T€ leicht besser als geplant. Teilbetrieb V – Stadtentwässerung Der Teilbetrieb V schließt nach dem jetzigen Stand mit einem Ergebnis i. H. v. 904 T€ ab, was leicht unter dem Planwert liegt. Teilbetrieb VI – Straßenreinigung/Winterdienst Das Ergebnis im Teilbetrieb Straßenreinigung/Winterdienst beträgt 19 T€ und liegt ebenfalls über dem Planwert. Der Grund dafür sind die im 1. Halbjahr 2015 verbundenen Einsparungen im Bereich der Aufwendungen. Teilbetrieb VIII – Energie: Das Ergebnis des Teilbetriebes VIII liegt mit -61 T€ um -51 T€ deutlich unter dem Planwert in Höhe von -10 T€. Diese Entwicklung ist u. a. auf die Verschiebung der Inbetriebnahme der neuen Photovoltaikanlage zurückzuführen. Dadurch konnten die geplanten Umsatzerlöse nicht erreicht werden. Teilbetrieb XI -Wochenmärkte und Teilbetrieb XII Kirmesveranstaltungen: Das Ergebnis des Teilbetriebes XI liegt mit -9 T€ um -9 T€ unter dem Planwert in Höhe von 0 T€. Das Ergebnis des Teilbetriebes XII liegt mit -14 T€ um -10 T€ ebenfalls deutlich unter dem Planwert in Höhe von -4 T€. Diese Planabweichung ist darauf zurückzuführen, dass die Tätigkeiten im Rahmen der beiden oben genannten Teilbetriebe vom EUV im Vorjahr erstmalig abgewickelt wurden. Andere Teilbetriebe entwickeln sich im Rahmen des Wirtschaftsplanes. Weiterer Sachvortrag in der Sitzung.Zwischenbericht 4 / 20152015/EUV/042%anl%;Zwischenbericht 4_2015 zu VR Sitzung 25.11.2015_V2 ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Zwischenbericht 4 / 2015",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2015/EUV/042",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

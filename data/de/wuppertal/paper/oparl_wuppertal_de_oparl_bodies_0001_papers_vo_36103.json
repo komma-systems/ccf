@@ -1,0 +1,63 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36103",
+  "modified_at": "2026-08-25T08:59:40+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368749.pdf",
+        "created": "2026-08-20T07:46:31+02:00",
+        "date": "2026-08-20",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368749.pdf",
+        "fileName": "00368749.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368749",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-25T08:59:41+02:00",
+        "name": "Anlage 1 - Beschluss der BV Elberfeld vom 24.06.2026",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368816.pdf",
+        "created": "2026-08-21T10:46:25+02:00",
+        "date": "2026-08-25",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368816.pdf",
+        "fileName": "00368816.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368816",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-25T08:59:41+02:00",
+        "name": "Bericht",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141412",
+        "authoritative": true,
+        "created": "2026-08-25T08:59:22+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68375",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24591",
+        "modified": "2026-09-09T19:44:54+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36103",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-27T14:50:59+02:00",
+    "date": "2026-08-25",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36103",
+    "modified": "2026-08-25T08:59:40+02:00",
+    "name": "Bericht der Verwaltung zum Prüfaufrag zu Bekämpfung potentieller Angsträume- hier Gebiet Kluse",
+    "paperType": "Bericht",
+    "reference": "VO/0996/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/6"
+    ]
+  }
+}

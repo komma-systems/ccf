@@ -1,0 +1,352 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-122",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-122%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-122",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-122%7C1%7C1",
+          "date": "2024-09-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-122%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-122%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 62770,
+          "text": "  1 Fragestunde für Einwohnerinnen und Einwohner   Keine Fragen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-122%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-122",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-122%7CProtokoll%7C1",
+          "date": "2024-09-06",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-122%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-122%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 64482,
+          "text": "  2 Einwände gegen die letzte Niederschrift   Keine Einwände.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-122%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-122",
+        "name": "Begrüßung durch Herrn Glock\r\nVerwaltungsdirektor des EvK Castrop-Rauxel",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-122%7Czt_1%7C1",
+          "date": "2024-09-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-122%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-122%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 106645,
+          "text": "  3 Begrüßung durch Herrn Glock Verwaltungsdirektor des EvK Castrop-Rauxel   Herr Glock, der Verwaltungsdirektor des EvK, stellt sich vor und heißt die Ausschussmitglieder des Betriebsausschuss 2 willkommen. Zusätzlich stellen sich Herr Galuschka und Frau Luckner als Geschäftsführung des St. Rochus Hospital Castrop-Rauxel vor.  Hauptsächlich wird die anstehende Krankenhausreform thematisiert. Dabei unterstreichen alle drei Vertreter deutlich, dass die Änderungen, die durch die Reform eintreten werden, noch nicht endgültig absehbar sind und deswegen noch keine konkreten Umsetzungen geplant sind.   Herr Fritsch fragt in diesem Zusammenhang an, ob die Geburtshilfe weiterhin ein Bereich im Rochus Hospital in Castrop-Rauxel bleiben wird.  Herr Galuschka erwidert, dass die Abteilung der Geburtshilfe schon immer sehr kostenaufwendig war, weil diese ganztägig viele Ressourcen fordert und daher bereits seit längerer Zeit subventioniert wird. Wenn andere Abteilungen wie zum Beispiel die Orthopädie schließen muss, wird es eine größere Herausforderung sein, die Geburtshilfe weiterhin anbieten zu können. Grundsätzlich wollen die Träger, aber die Geburtshilfe erhalten, da dies z.B. auch Auswirkungen auf die Attraktivität für die Einwohner und potenziellen Arbeitnehmer einer Stadt hat.  Frau Thiel fragt, ob auch im Rochus Hospital manche Abteilungen für andere Abteilungen wirtschaften müssen. Herr Galuschka bejaht diese Frage und ergänzt, dass Bereiche wie Innere oder Plastische Chirurgie sehr stabil sind und die Geburtshilfe grundsätzlich in Deutschland schwierig zu finanzieren ist.   Die Vorsitzende Frau Lasser-Moryson fragt an, ob möglicherweise die erweiterte Notfallversorgung oder die Akutversorgung betroffen sind und dadurch Einschränkungen erfolgen könnten. Herr Galuschka entgegnet, dass zwei Krankenhäuser mit einer Akutversorgung eher unüblich sind. Eine verstärkte Ambulantisierung könnte dabei in Betracht kommen. Hierfür müsste man gemeinsam mit Vertretern vom Land, der kommunalen Politik und unterschiedlichen (relevanten) Akteuren Lösungen erarbeiten. Frau Luckner ergänzt, dass eine Akutversorgung definitiv auch in Zukunft sichergestellt sein wird.  Ferner fragt Frau Schulte wie viele Geburten das Rochus Hospital im Jahr verzeichnen kann. Herr Galuschka erwidert, dass ca. 800 Geburten im letzten Jahr dokumentiert werden konnten.  Darüber hinaus möchte Frau Holtmann wissen, ob in den Krankenhäusern die Hebammen festangestellt sind. Frau Luckner erklärt, dass sowohl Fest- als auch Honorarverträge geschlossen werden. Aktuell besteht ein Arbeitnehmermarkt, wodurch man versucht vielen Forderungen entgegenzukommen.  Die soziale Beigeordnete Frau Kleff fügt an dieser Stelle hinzu, dass der Bürgermeister Herr Kravanja bereits die Bezirksregierung darum gebeten hat, die wichtigen Akteure der Stadt bezüglich der neuen Reform miteinzubeziehen. Frau Kleff betont, dass ein gemeinsames Gremium diesbezüglich wünschenswert wäre. Frau Luckner erwidert, dass erst mit den endgültigen Ergebnissen der Reform die Krankenhäuser reagieren können. Dies könnte ab Ende des Jahres der Fall sein.  Herr Glock ergänzt, dass noch unklar ist, ob und welche Übergangsfrist angesetzt wird, wodurch vorab noch keine Änderungen vorgenommen werden können.  Zusätzlich betont Herr Galuschka, dass bei Umstrukturierungen Gelder fließen müssen, weil das übliche Krankenhausbudget keine Kosten für derartige Veränderungen vorsieht.   Die Vorsitzende Frau Lasser-Moryson möchte an dieser Stelle wissen, ob es bereits Gespräche mit dem Bürgermeister und Abgeordneten der Parteien gab. Herr Galuschka bejahte zwar die Frage, aber führt an, dass solche Gespräche gerne erneut angesetzt werden können.  Außerdem fragt Herr Matentzoglou an, ob die Arbeitsstellen der Mitarbeiter gefährdet sind, wenn Abteilungen geschlossen werden. Herr Galuschka antwortet, dass betriebsbedingte Kündigungen nicht geplant sind und man in erster Linie nach anderweitigen Lösungen suchen wird. Dabei wäre zum Beispiel die Versetzung in ein anderes Krankenhaus möglich. Frau Luckner ergänzt, dass auch hierbei der Arbeitnehmermarkt ausgeprägt ist und somit eher zusätzliches Personal gebraucht als abgebaut wird.  Ergänzend möchte Herr Matentzoglou wissen, ob die Ausbildungsplätze ebenfalls erhalten bleiben. Herr Galuschka erwidert, dass insbesondere der Bererich Pflege viele Arbeitskräfte und damit viele Auszubildende fordert. Hierfür wurden zum Beispiel zusätzlich Projekte im Ausland initiiert, um weitere Pflegekräfte dort auszubilden und in Deutschland anschließend einzustellen. Frau Luckner fügt hinzu, dass der demografische Wandel eher weitere Ausbildungsplätze fordert. Herr Glock bestätigt die vorangegangenen Einschätzungen und erläutert, dass es grundsätzlich schwierig ist offene Stellen zu besetzen.  Die Vorsitzende Frau Lasser-Moryson bedankt sich für den Austausch.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-B2-122%7Czt_0%7C1%7C20240906111904-0_zt_0_1.pdf",
+            "date": "2024-09-06",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-B2-122%7Czt_0%7C1%7C20240906111904-0_zt_0_1.pdf",
+            "fileName": "20240906111904-0_zt_0_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-B2-122%7Czt_0%7C1%7C20240906111904-0_zt_0_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "B2 05.09.2024 Vorstellung WAW 2024",
+            "size": 1232070,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-122%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-122",
+        "name": "Welt-Alzheimerwoche 21. - 27.09.2024\r\n\"Demenz - Gemeinsam. Mutig. Leben\"\r\nmündlicher Bericht: Beratungs- und Infocenter Pflege (BIP)",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-122%7Czt_0%7C1",
+          "date": "2024-09-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-122%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-122%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 94385,
+          "text": "  4 Welt-Alzheimerwoche 21. - 27.09.2024  Demenz - Gemeinsam. Mutig. Leben  mündlicher Bericht: Beratungs- und Infocenter Pflege (BIP)   Frau Barth und Herr Trzeziak stellen ihre PowerPointPräsentation bezüglich der Welt-Alzheimerwoche vor. Diese ist der Niederschrift als Anlage 1 beigefügt.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-B2-122%7Czt_3%7C1%7C20240909110521-0_zt_3_1.pdf",
+            "date": "2024-09-09",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-B2-122%7Czt_3%7C1%7C20240909110521-0_zt_3_1.pdf",
+            "fileName": "20240909110521-0_zt_3_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-B2-122%7Czt_3%7C1%7C20240909110521-0_zt_3_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Übersicht der jüngst durchgeführten Sanierungen an den Schulen in Castrop",
+            "size": 119036,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-122%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-122",
+        "name": "Aktueller Bericht zur Schulentwicklungsplanung\r\n- Aktuelle Informationen zum Start des Schuljahres 2024/2025",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-122%7Czt_3%7C1",
+          "date": "2024-09-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-122%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-122%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 112854,
+          "text": "  5 Aktueller Bericht zur Schulentwicklungsplanung - Aktuelle Informationen zum Start des Schuljahres 2024/2025   Die Sozialbeigeordnete Frau Kleff berichtet, dass ca. 750 Schülerinnen und Schüler ins Schuljahr 2024/2025 gestartet sind. Das Bewilligungsverfahren der neuen Grundschule ist beinahe abgeschlossen, sodass zeitnah das Anmeldeverfahren beginnen soll. Zusätzlich informiert Frau Kleff über die abgeschlossenen und laufenden Sanierungsmaßnahmen an den Schulen in Castrop-Rauxel. Eine Auflistung der Maßnahmen ist dem Protokoll als Anlage 2 beigefügt.  Ferner möchte Frau Kleff auf den Beitrag der Lokalzeit Dortmund über den Sternenmarsch der Castrop-Rauxeler Schulen aufmerksam machen. Es sind insgesamt trotz schlechter Wetterbedingungen über 3.000 Schülerinnen und Schüler zusammengekommen. Sie betont, dass die Demo und die Beteiligung ein wichtiges Zeichen setzt und bedankt sich bei allen Schulen für das Engagement. (https://www1.wdr.de/lokalzeit/fernsehen/dortmund/sternmarsch-der-castroper-schulen-fuer-frieden-und-demokratie-100.html)  Darüber hinaus informiert die Sozialbeigeordnete Frau Kleff, dass sie erst in der nächsten Ausschusssitzung über das Projekt Übergang Schule-Beruf berichten wird, da noch relevante Statistiken ausstehen.   Ferner informiert Frau Kruck über den aktuellen Stand des Start-Chancenprogramms. Die Richtlinien sind beinahe zu ausgearbeitet und sollen nächste Woche veröffentlicht werden. Es ist jedoch bereits klar, dass die Mittel pro Schülerin bzw. pro Schüler berechnet werden und insgesamt ein Eigenanteil in Höhe von 30 % aufgebracht werden muss. Es wurde dabei zwar empfohlen die Schul- und Bildungspauschale zu nutzen, aber in Castrop-Rauxel wird diese bereits an anderen Stellen verwendet. Ergänzend teilt Frau Kruck mit, dass das Programm zunächst an der Cottenburgschule und anschließend an der Erich-Kästner-Schule durchgeführt wird.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12903",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-122%7C350608100167%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-122",
+        "name": "Neue öffentlich-rechtliche Vereinbarung \"Hans- Christian-Andersen-Schule\" in Castrop-Rauxel",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-122%7C350608100167%7C1",
+          "date": "2024-09-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-122%7C350608100167%7C1",
+          "fileName": "be_350608100167_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-122%7C350608100167%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 92872,
+          "text": "  6 Neue öffentlich-rechtliche Vereinbarung  Hans- Christian-Andersen-Schule  in Castrop-Rauxel (2024/163)  Frau Kruck erläutert den Antrag und fügt hinzu, dass diese Vereinbarung in Zukunft als Muster für zukünftige Kooperationen im Kreis Recklinghausen genutzt werden soll.  Die Mitglieder des Ausschusses empfehlen diesen Beschluss einstimmig.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-122%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-122",
+        "name": "Übermittagsbetreuung für Grundschulkinder an drei Grundschulen in Castrop-Rauxel",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-122%7Czt_2%7C1",
+          "date": "2024-10-14",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-122%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-122%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 98018,
+          "text": "  7 Übermittagsbetreuung für Grundschulkinder an drei Grundschulen in Castrop-Rauxel   Die Sozialbeigeordnete Frau Kleff informiert über den aktuellen Sachstand bezüglich der Umsetzung der Übermittagsbetreuung. Sie berichtet, dass die Kommunalaufsicht der Umsetzung zugestimmt hat und das Thema in der nächsten Ratssitzung verhandelt wird. Grundsätzlich ist angedacht, dass der monatliche Beitrag 50,00  nicht übersteigen soll und Geschwisterkinder, wie auch in den anderen Betreuungsformen, vom Beitrag befreit werden sollen. Die entsprechende Satzung wird am 12.09.2024 in den Rat der Stadt zum Beschluss eingebracht.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12939",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-122%7C352108100180%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-122",
+        "name": "Antrag der SPD Ratsfraktion und Bündnis 90 / Die Grünen vom 21.08.2024\r\n\"Castrop-Rauxel als stillfreundliche Kommune\"",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-122%7C352108100180%7C1",
+          "date": "2024-09-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-122%7C352108100180%7C1",
+          "fileName": "be_352108100180_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-122%7C352108100180%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 156893,
+          "text": "  8 Antrag der SPD Ratsfraktion und Bündnis 90 / Die Grünen vom 21.08.2024  Castrop-Rauxel als stillfreundliche Kommune  (2024/176)   Herr Selim Korkutan erläutert den Antrag und betont die Wichtigkeit dahinter. Ferner bittet Frau Lückel, dass der Antrag bzw. das Konzept um die Nutzungsmöglichkeiten der Räume erweitert wird. Nicht nur stillenden Müttern sollten diese Örtlichkeiten zur Verfügung stehen, sondern auch Vätern und Großeltern, die ein Kind füttern oder wickeln möchten. Hierfür wird folgende Ergänzung vorgeschlagen:  Vorschlag für zur Ergänzung des Stillantrag  Umbenennung in Antrag zur Einrichtung Baby und kinderfreundlicher Räume im öffentlichen Raum Ergänzung Die Räume sollten ebenso für Eltern und Kinder zugänglich sein die sich für eine Säuglingsernährung mit der Flasche entschieden haben.  Ein gutes Vorbild sind hier die Babylounges im Ruhrpark. Hier haben Eltern und ebenso Großeltern Zutritt zu Räumen, die mit einem gemütlichen Stuhl, einer Wickelmöglichkeit und einer Aufwärmmöglichkeit für Babynahrung ausgestattet ist.  Herr Roehl erwidert, dass die FDP-Partei dem Antrag nicht zustimmen wird, weil eine Notwendigkeit der Umsetzung nicht gesehen wird und der finanzielle Aspekt womöglich nicht unbedeutend ist. Ferner betont Herr Fritsch, dass die CDU-Partei dem Antrag zwar zustimmt, aber er dies persönlich nicht tut. Er erklärt, dass er in der Öffentlichkeit bereits neben stillenden Frauen gesessen hat und nicht den Eindruck hatte, dass dies eine unnatürliche Situation war. Zusätzlich ergänzt er, dass die Öffentlichkeit aufzuklären und zu sensibilisieren im Widerspruch zur Schaffung von diskreten Räumen steht. Frau Lückel entgegnet daraufhin, dass es nicht lediglich um Still- sondern auch um Wickelmöglichkeiten gehen soll. Dafür könnte man zum Beispiel Kooperationen mit den lokalen Geschäften ausarbeiten und dadurch die Kosten möglichst geringhalten.  Herr Matentzoglou äußert die Sorge vor Vandalismus, wobei Frau Graeber grundsätzlich auf den Sicherheitsaspekt der stillenden Mütter aufmerksam macht. Die Vorsitzende Frau Lasser-Moryson erwidert, dass man die Räume für eine verhältnismäßig kurze Zeit aufsucht und betont, dass man dadurch eine familienfreundlichere Infrastruktur schaffen würde. Ferner ergänzt Frau Lückel, dass mit dem Antrag zunächst ein Arbeitsauftrag an die Stadtverwaltung gerichtet wird und im Nachgang über die Ausarbeitung diskutiert werden kann.  Wobei Herr Korkutan hinzufügt, dass es sich im Antrag zunächst in erster Linie um entsprechende Räume in öffentlichen Gebäuden handelt. Mehrere Ausschussmitglieder stimmen der Vorgehensweise zu und stimmen mehrheitlich, mit zwei Gegenstimmen, für den Beschluss ab.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-122%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-122",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-122%7C6%7C1",
+          "date": "2024-09-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-122%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-122%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 64512,
+          "text": "  9 Anfragen der Ausschussmitglieder   Keine Anfragen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-122%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-122",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-122%7C4%7C1",
+          "date": "2024-09-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-122%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-122%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 60375,
+          "text": "  10 Mitteilungen der Verwaltung   Keine Mitteilungen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-122%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-122",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-122%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-122",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2024-09-05T19:00:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-122",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-B2-122",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-08-23",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2024-B2-122",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2024-B2-122",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "64e0ba3cdf8b119e3732e0d739faaa949afe51ce",
+      "size": 127427,
+      "text": "Amtliche Bekanntmachung der Tagesordnung zur Sitzung des Betriebsausschusses 2 (Familie, Jugend, Soziales und Bildung) am Donnerstag, 05.09.2024 um 17:00 Uhr Seminarzentrum des EvK Castrop-Rauxel, Grutholzallee 63, 44577 Castrop-Rauxel    I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner  2. Einwände gegen die letzte Niederschrift  3. Begrüßung durch Herrn Glock Verwaltungsdirektor des EvK Castrop-Rauxel  4. Welt-Alzheimerwoche 21. - 27.09.2024  Demenz - Gemeinsam. Mutig. Leben  mündlicher Bericht: Beratungs- und Infocenter Pflege (BIP)  5. Aktueller Bericht zur Schulentwicklungsplanung - Aktuelle Informationen zum Start des Schuljahres 2024/2025  6. Antrag der CDU-Ratsfraktion vom 11.07.2024  EBG Abiturfeier  7. Neue öffentlich-rechtliche Vereinbarung  Hans- Christian-Andersen-Schule  in Castrop-Rauxel  8. Übermittagsbetreuung für Grundschulkinder an drei Grundschulen  9. Antrag der SPD Ratsfraktion und Bündnis 90 / Die Grünen vom 21.08.2024  Castrop-Rauxel als stillfreundliche Kommune   10. Anfragen der Ausschussmitglieder  11. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  1. Anfragen der Ausschussmitglieder  2. Mitteilungen der Verwaltung    Katrin Lasser-Moryson Ausschussvorsitzende \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "außerhalb des Rathauses, Info siehe Bekanntmachung, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-122/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "außerhalb des Rathauses, Info siehe Bekanntmachung",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Betriebsausschusses 2 (Familie, Jugend, Soziales und Bildung)",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/597",
+      "https://castroprauxel.gremien.info/oparl/person/694",
+      "https://castroprauxel.gremien.info/oparl/person/626",
+      "https://castroprauxel.gremien.info/oparl/person/138",
+      "https://castroprauxel.gremien.info/oparl/person/1032",
+      "https://castroprauxel.gremien.info/oparl/person/1244",
+      "https://castroprauxel.gremien.info/oparl/person/389",
+      "https://castroprauxel.gremien.info/oparl/person/1043",
+      "https://castroprauxel.gremien.info/oparl/person/858",
+      "https://castroprauxel.gremien.info/oparl/person/309",
+      "https://castroprauxel.gremien.info/oparl/person/977",
+      "https://castroprauxel.gremien.info/oparl/person/1198",
+      "https://castroprauxel.gremien.info/oparl/person/1060",
+      "https://castroprauxel.gremien.info/oparl/person/1066",
+      "https://castroprauxel.gremien.info/oparl/person/1061",
+      "https://castroprauxel.gremien.info/oparl/person/29",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/1147"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-B2-122",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-11-05",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-B2-122",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-B2-122",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 235326,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2024-09-05T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-B2-122",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-11-05",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-B2-122",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-B2-122",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 235326,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

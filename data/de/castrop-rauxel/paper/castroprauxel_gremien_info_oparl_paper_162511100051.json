@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/162511100051",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=162511100051%7C20141209091225.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=162511100051%7C20141209091225.pdf%7C",
+        "fileName": "20141209091225.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C162511100051%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/162511100051",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "c3a343fcb102054a0b4fa537cedadf0aece9b76c",
+        "size": 18234,
+        "text": "Anlage_zur_Ergebnisauskehrung_E_27_xlsx",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-6%7C162511100051%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6313",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2014-EUV-6",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2014-11-25",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/162511100051",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=162511100051&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=162511100051&id=69",
+      "fileName": "162511100051",
+      "id": "https://castroprauxel.gremien.info/oparl/file/162511100051",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2014/EUV/049",
+      "size": 139059,
+      "text": "Datum: 25.11.2014 TB I 9686-500 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 10.12.2014 TOP: Drucksache-Nr. 2014/EUV/049 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 10.12.2014 Betreff: Verlustausgleich in der Bilanz EUV; Ergebnisauskehrung an die Stadt Castrop-Rauxel Konsolidierungsmaßnahme E 27 Finanzielle Auswirkungen gem. Wirtschaftsplan X ja Gesamtkosten € nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt den Sachvortrag des Vorstandes zur Kenntnis und beauftragt den Vorstand zum Ausgleich des Verlustvortrages Rücklagen in Höhe von 2.430.577,34 € aufzulösen. Gleichzeitig wird der Vorstand beauftragt, eine Vorauszahlung auf das Ergebnis im Rahmen des Abschlusses 2014 gem. Ratsbeschluss vom 21.06.2012 zu leisten. Die Restzahlung für die Abführung an die Stadt Castrop-Rauxel erfolgt, wenn das endgültige Ergebnis gem. Jahresabschlussprüfung feststeht und sich als umsetzbar nach Beschluss durch den Verwaltungsrat erweist. _______________________ Werner Sachverhalt: In der Sitzung des Verwaltungsrates vom 17.09.2014 wurde der Vorstand beauftragt, zu prüfen, ob und wann unter welchen Voraussetzungen eine Ergebnisauskehrung an die Stadt Castrop-Rauxel durchgeführt werden kann. Der EUV Stadtbetrieb Castrop-Rauxel als Anstalt des öffentlichen Rechts nahm zum 01.01.2003 seine Geschäftstätigkeit als selbständiger Verwaltungsträger wahr. Das Ver\u001fmögen u.a. der Abwassersammlungsanlagen wurde durch Auskehrung und letztendlich über eine Kreditaufnahme von der Stadt Castrop-Rauxel erworben. Die Zinsbelastung geht zu Lasten der gebührenpflichtigen Haushalte. Der EUV zeigte in den vergangenen Jahren bis 2011 ein defizitäres Ergebnis hauptsächlich durch die jährlichen Erhöhungen von Umlagen und Abgaben der Genossenschaften und Verbände. Mit Beschluss des Verwaltungsrates sind daher eigenkapitalstabilisierende Maßnahmen durch den EUV umgesetzt worden. Der Gewinn sollte dabei zur Deckung des Verlustvortrags verwendet und somit das Eigenkapital des EUV erhöht werden. Der Verlust\u001fvortrag ist 2013 in der Bilanz des EUV mit rd. - 2,4 Mio. Euro ausgewiesen worden. Die Wirtschaftsprüfungsgesellschaft BDO Westfalen-Revision GmbH, Dortmund, hat in ihrer Jahresabschlussprüfung 2012 festgestellt, dass das Verhältnis von Eigen- und Fremdkapital sowie die Eigenkapitalquote des EUV weiterhin kritisch zu bewerten sind. Im Rahmen des Jahresabschlusses 2013 ist die Problematik erneut mit Hinweis auf die Kommunalunter\u001fnehmensverordnung (KUV) aufgegriffen worden: Nach § 14 (2) S. 3 KUV sind erwirtschaftete handelsrechtliche Gewinne vorrangig zur Tilgung des Verlustvortrags einzusetzen. Weiterhin bestimmt § 14 (2) KUV: „Ein nach Ablauf von 5 Jahren nicht getilgter Verlustvortrag ist … aus Haushaltsmitteln der Gemeinde auszugleichen.“ In der Konsequenz für die Ergebnis\u001fauskehrung E 27 an die Stadt Castrop-Rauxel bedeutet dies mangels eines ausreichenden Cash-flows, dass eine Ergebnisauskehrung über Kredite des EUV zu finanzieren wäre. In Abstimmung mit der Wirtschaftsprüfungsgesellschaft BDO wird daher vorge\u001fschlagen, die Rücklagen aufzulösen und mit dem Verlustvortrag zu verrechnen, damit künftige Gewinne ausschüttungsfähig werden. 1) Eigenkapital des EUV zum 31.12.2013: Erwirtschaftung eines positiven Ergebnisses in Höhe von 667.672,22 Euro. Der Verlustvortrag aus Vorjahren belief sich vor Verrechnung mit dem Jahresergebnis 2013 auf -3.098.249,56 Euro. Die Rücklagen weisen einen Betrag von 12.650.404,20 Euro aus. 2) Auflösung von Rücklagen im Jahr 2014: Der EUV weist einen Verlustvortrag zum 31.12.2013 in Höhe von -2.430.577,34 Euro aus. Daher schlägt der Vorstand hiermit dem Verwaltungsrat vor, zum Ausgleich des Verlustvortrags Rücklagen in Höhe von 2.430.577,34 Euro aufzulösen. Gleichzeitig ist eine Vorauszahlung auf den Ergebnisbeitrag E 27 zu leisten. Die Restzahlung erfolgt, wenn das Ergebnis gemäß Jahresabschlussprüfung feststeht und es sich als realisierbar erweist, einen entsprechenden Teilbetrag zur Gesamtaus-schüttung von der geforderten Summe (590.000 Euro) zu leisten. 3) Falls der EUV im Jahr 2014 einen Jahresüberschuss erwirtschaftet, wird der EUV unter Berücksichtigung des Ausschüttungs\u001fbeschlusses im Punkt 2 im Jahr 2015 einen Teil des Ergebnisses an die Stadt Castrop-Rauxel ausschütten können. Weiterer Bericht in der Sitzung. Anlagen Bilanz zum 31.12.2013 des EUV vor Umbuchung Bilanz zum 31.12.2013 des EUV nach UmbuchungVerlustausgleich in der Bilanz EUV; Ergebnisauskehrung an die Stadt Castrop-Rauxel Konsolidierungsmaßnahme E 272014/EUV/049%anl%;Anlage_zur_Ergebnisauskehrung_E_27_xlsx ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Verlustausgleich in der Bilanz EUV;\r\nErgebnisauskehrung an die Stadt Castrop-Rauxel Konsolidierungsmaßnahme E 27",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2014/EUV/049",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

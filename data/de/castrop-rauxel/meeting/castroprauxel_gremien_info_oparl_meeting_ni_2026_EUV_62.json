@@ -1,0 +1,434 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-EUV-62%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+        "name": "Genehmigung des Protokolls der Sitzung vom 10.12.2025\r\n-öffentlicher Teil-",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7Czt_0%7C1",
+          "date": "2026-06-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-EUV-62%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 42455,
+          "text": "Verwaltungsratsvorsitzender Herr Bürgermeister Kravanja begrüßt die Anwesenden und stellt die satzungsgemäße Einladung fest. Vor dem Einstieg in die Sitzung wird das neue Verwaltungsratsmitglied Herr Dr. Lehmke (Bündnis 90/Die Grünen) pflichtgemäß nach der Gemeindeordnung vereidigt.  Bürgermeister Kravanja weist auf den Ergänzungsantrag der Fraktion Bündnis 90/Die Grünen zum Tagesordnungspunkt I.9 hin. Ohne weitere Änderungen zur Tagesordnung wird nach dieser verfahren.   1 Genehmigung des Protokolls der Sitzung vom 10.12.2025\u000b-öffentlicher Teil-  ohne Wortmeldung\u000b Der Verwaltungsrat genehmigt einstimmig das Protokoll der Sitzung vom 10.12.2025 für den öffentlichen Teil.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16522",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-EUV-62%7C411201100000%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+        "name": "Beschlusscontrolling 2025",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7C411201100000%7C1",
+          "date": "2026-06-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7C411201100000%7C1",
+          "fileName": "be_411201100000_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-EUV-62%7C411201100000%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 144048,
+          "text": "2 Beschlusscontrolling zum Verwaltungsrat für das Jahr 2025\u000b-öffentlicher Teil-\u000b(2026/EUV/001)  Vorstand Herr Weskamp verweist auf einzelne sprachliche Unschärfen und gibt an, dass die aus dem Jahr 2024 bestehenden Beschlüsse adressiert wurden, aber noch nicht abgeschlossen sind. Eine aktualisierte Liste liegt dem Protokoll bei. Verwaltungsratsmitglied Herr Dr. Jankovics ergänzt, dass zur Sitzung vom 01.10.2025 unter TOP I.1 das Protokoll der öffentlichen und nicht der nichtöffentlichen Sitzung beschlossen wurde. Verwaltungsratsmitglied Herr Dr. Jankovics merkt zudem an, dass der Beschluss zum TOP I.6 nicht aufgeführt ist. Dieser ist zu ergänzen. Auf Nachfrage des Verwaltungsratsmitglieds Herrn Dr. Jankovics gibt Vorstand Herr Brigadski an, dass die Mitglieder des Arbeitskreises Friedhof benannt sind und eine erste Sitzung voraussichtlich nach den Osterferien 2026 einberufen wird. Zum Arbeitskreis haben die Fraktionen folgende Mitglieder und Vertreter benannt: /\u000b Der Verwaltungsrat nimmt den Bericht des Vorstandes zum Beschlusscontrolling 2025 für die öffentlichen Sitzungen im Jahr 2025 zur Kenntnis.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16523",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-EUV-62%7C410903100002%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+        "name": "Zwischenbericht 5 / 2025",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7C410903100002%7C1",
+          "date": "2026-06-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7C410903100002%7C1",
+          "fileName": "be_410903100002_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-EUV-62%7C410903100002%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 38091,
+          "text": "3 Zwischenbericht 5 / 2025\u000b(2026/EUV/003)  Vorstand Herr Brigadski ergänzt zur Vorlage zum Zwischenbericht 5 / 2025, dass die Rückstellungen für Pensionsverpflichtungen, Altlasten und Wertberichtigungen noch nicht berücksichtigt sind. Ohne Wortmeldung. Der Verwaltungsrat nimmt den Zwischenbericht 5 / 2025 zur Kenntnis.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16524",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-EUV-62%7C410903100003%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+        "name": "Zwischenbericht 1 / 2026",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7C410903100003%7C1",
+          "date": "2026-06-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7C410903100003%7C1",
+          "fileName": "be_410903100003_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-EUV-62%7C410903100003%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 40353,
+          "text": "4 Zwischenbericht 1 / 2026\u000b(2026/EUV/004)  Vorstand Herr Brigadski ergänzt, dass der vorliegende Lagebericht die Buchungen des Januar 2026 berücksichtigt. Er weist auf belastende Faktoren der geopolitischen Entwicklungen hin, die sich insbesondere auf die Energie- und Treibstoffkosten negativ auswirken.  Auf Nachfrage von Verwaltungsratsmitglied Herrn Papp erläutert Herr Brigadski, dass die höheren Aufwendungen im Bereich der Abfallentsorgung durch die Auflösung bestehender Rücklagen für Gebührenrückerstattungen kompensiert werden können. Darüber hinaus kann nicht vollständig ausgeschlossen werden, dass perspektivisch auch gebührenbezogene Anpassungen in Betracht gezogen werden müssen. Auf Anfrage des Verwaltungsratsmitglieds Herr Steinbach erläutert der Vorstand Herr Brigadski, dass die letztjährige Entwicklung im Bereich Stadtentwässerung insbesondere durch gestiegene Refinanzierungskosten geprägt war. \u000b Der Verwaltungsrat nimmt den Zwischenbericht 1 / 2026 zur Kenntnis.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16525",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-EUV-62%7C410903100004%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+        "name": "Zwischenbericht zur Grundsteuererhebung und Gebührenveranlagung 2026",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7C410903100004%7C1",
+          "date": "2026-06-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7C410903100004%7C1",
+          "fileName": "be_410903100004_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-EUV-62%7C410903100004%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 40294,
+          "text": "5 Zwischenbericht zur Grundsteuererhebung und Gebührenveranlagung 2026\u000b(2026/EUV/005)  Vorstand Herr Brigadski gibt einen kurzen Sachstandsbericht über die Erhebung der Grundsteuern und Benutzungsgebühren. Insgesamt wurden rund 175 Widersprüche eingelegt, die sich etwa gleichmäßig auf Steuern und Gebühren verteilen. Dies bewegt sich im erwartbaren Rahmen und zeigt keine besonderen Auffälligkeiten.  Ohne Wortmeldung\u000b Der Verwaltungsrat nimmt den Zwischenbericht des Vorstands zur Kenntnis.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16526",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-EUV-62%7C410903100005%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+        "name": "Gleichstellungsplan 2026",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7C410903100005%7C1",
+          "date": "2026-06-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7C410903100005%7C1",
+          "fileName": "be_410903100005_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-EUV-62%7C410903100005%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 38905,
+          "text": "6 Gleichstellungsplan 2026\u000b(2026/EUV/006)  Vorstand Herr Brigadski leitet in den Tagesordnungspunkt ein und bittet um Zustimmung. Er sagt auf Anfrage zu, zur nächsten Sitzung des Verwaltungsrats eine Übersicht zum Frauenanteil in Führungspositionen beim EUV vorzulegen.\u000b Der Verwaltungsrat beschließt einstimmig den Gleichstellungsplan 2026 für die Dauer von fünf Jahren.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16529",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-EUV-62%7C410903100007%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+        "name": "Erlass einer 16. Änderungsentgeltordnung zur Entgeltordnung für Sonderleistungen des EUV Stadtbetriebes Castrop-Rauxel",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7C410903100007%7C1",
+          "date": "2026-06-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7C410903100007%7C1",
+          "fileName": "be_410903100007_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-EUV-62%7C410903100007%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 41905,
+          "text": "7 Erlass einer 16. Änderungsentgeltordnung zur Entgeltordnung für Sonderleistungen des EUV Stadtbetriebes Castrop-Rauxel\u000b(2026/EUV/008)  Vorstand Herr Brigadski weist darauf hin, dass diese Änderungssatzung bereits in der letzten Sitzung behandelt wurde. Da die formale Bestätigung durch den Rat der Stadt noch aussteht, wird das Verfahren erneut durchgeführt. Ohne Wortmeldung\u000b Der Verwaltungsrat beschließt die anliegende beigefügte 16. Änderungsentgeltordnung zur Entgeltordnung für Sonderleistungen des EUV Stadtbetriebes Castrop-Rauxel.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16531",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-EUV-62%7C410903100006%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+        "name": "Aktueller Planungsstand Hochwasserrückhaltebecken Obercastroper Bach",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7C410903100006%7C1",
+          "date": "2026-06-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7C410903100006%7C1",
+          "fileName": "be_410903100006_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-EUV-62%7C410903100006%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 40262,
+          "text": "8 Aktueller Planungsstand Hochwasserrückhaltebecken Obercastroper Bach\u000b(2026/EUV/007)  Vorstand Herr Weskamp erläutert die Vorlage. Auf Nachfrage von Verwaltungsratsmitglied Herr Papp gibt Vorstand Herr Weskamp an, dass geplant ist, das Vorhaben bis 2030 umzusetzen.  Auf Nachfrage von Verwaltungsratsmitglied Herr Steinbach gibt Vorstand Herr Weskamp an, dass im mittleren Bereich, wo früher Schrottplätze bestanden, Altlastenverdachtsfälle bestehen, die erkundet werden sollen.\u000b Der Verwaltungsrat nimmt den Sachstandsbericht des Vorstands zur Kenntnis.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16532",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-EUV-62%7C410903100009%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+        "name": "Antrag der SPD-/CDU-Fraktion;\r\nErstellung eines Grünflächenkatasters durch den EUV Stadtbetrieb",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7C410903100009%7C1",
+          "date": "2026-06-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7C410903100009%7C1",
+          "fileName": "be_410903100009_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-EUV-62%7C410903100009%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 43886,
+          "text": "9 Antrag der SPD-/CDU-Fraktion;\u000bErstellung eines Grünflächenkatasters durch den EUV Stadtbetrieb\u000b(2026/EUV/010) Ergänzender Antrag der Grünen (E-Mail vom 24.03.2026)  Verwaltungsratsmitglieder Herr Steinbach und Herr Dr. Jankovics erläutern und begründen ihren Antrag. \u000bVerwaltungsratsmitglied Herr Zygowski erläutert den Ergänzungsantrag und weist auf das Fehlen der ökologischen Komponenten hin. Die Anträge wurden im Gremium diskutiert. Vorstand Herr Weskamp erklärt, dass sich der EUV bei der Erstellung eines Dritten bedienen will und auch auf die Erfahrung anderer Kommunen zurückgreifen möchte. Daher ist der Umfang des Katasters noch nicht vorgegeben. Die zu berücksichtigen Kriterien sollen dem Verwaltungsrat rechtzeitig vorgestellt werden.\u000b Der Verwaltungsrat lehnt den Ergänzungsantrag der Fraktion Bündnis 90 / Die Grünen bei vier Zustimmungen mehrheitlich ab. Der Verwaltungsrat beauftragt den EUV Stadtbetrieb einstimmig ein Grünflächenkataster zu erstellen.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-EUV-62%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+        "name": "Anfragen der Verwaltungsratsmitglieder",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7Czt_1%7C1",
+          "date": "2026-06-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-EUV-62%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 48828,
+          "text": "10 Anfragen der Verwaltungsratsmitglieder  Auf Anfrage des Verwaltungsratsmitglieds Frau Ewert zur Entsiegelung der Fläche am Bookenkreuz (Wilhelmstraße Ecke Luisenstraße) teilt der Vorstand Herr Weskamp mit, dass der Förderbescheid zum Ende des vergangenen Jahres ergangen ist und die Umsetzung derzeit vorbereitet wird. Auf Anfrage des Verwaltungsratsmitglied Frau Vierhaus zu den abgebauten Absperrpfosten im Bereich der Mülldeponie Brandheide, Eingang von der Straße In den Kämpen verweist der stellvertretende Vorstand Herr Genster auf den sogenannten Pollererlass des Landes aus dem Jahr 2024, wonach die Poller grundsätzlich zurückzubauen sind. Ein erneutes Aufstellen von Pollern ist nur auf Anordnung der städtischen Ordnungsbehörde möglich. Herr Genster werde mit dem Fachbereich Kontakt aufnehmen. Vorsitzer Herr Bürgermeister Kravanja ergänzt die Hintergründe zu der landesgesetzlichen Vorschrift.  Auf Anfrage des Verwaltungsratsmitglieds Herr Zygowski zur Baumaßnahme an der Amtstraße / Bergstraße teilt der Vorstand Herr Weskamp mit, dass der aktuelle Bauabschnitt in etwa 8 bis 10 Wochen abgeschlossen sein soll. Auf Anfrage des Verwaltungsratsmitglieds Frau Hellfeier zur Westringbrücke teilt der Vorstand Herr Weskamp mit, dass nach der Entdeckung von Altlasten, Änderungen im Planfeststellungsverfahren notwendig waren. Der aktuelle Bauzeitenplan sieht eine Vollsperrung des Westrings für den Zeitraum vom 23.06. bis 17.08.2026 vor. Verwaltungsratsmitglied Herr Dr. Jankovics merkt an, dass der Verbindungsweg auf dem Grundstück des Schulkomplexes an der Wartburgstraße / Lange Straße zwischen dem Parkplatz Fridjof-Nansen-Realschule und der städtischen Turnhalle unzureichend beleuchtet und in einem verkehrsunsicheren Zustand ist. Er bittet den Vorstand, sich dem Problem anzunehmen. Vorstand Herr Weskamp entgegnet, dass die Zuständigkeit beim Kreis Recklinghausen liegt und dieser schon kontaktiert wurde. Auf Anfrage des Verwaltungsratsmitglieds Herr Dr. Jankovics zur fachgerechten Entsorgung von E-Zigaretten entgegnet der Vorstand Herr Weskamp, dass im Juni 2026 eine Gesetzesänderung vorgesehen sei, die die Verkäufer zur Rücknahme verpflichten soll. Bis dahin nimmt der EUV den Abfall am Standort Westring 215an. Der Vorstand nimmt die Anfrage zum Anlass, die Bürger über die Möglichkeit der Entsorgung zu informieren. Verwaltungsratsmitglied Herr Rodammer verweist auf den instandsetzungsbedürftigen Zustand des Bereiches am Ickerner Knoten und bittet den Vorstand um Weitergabe an den zuständigen Straßenbaulastträger. Auf ergänzende Anfrage des Vorsitzenden Herrn Bürgermeister Kravanja erläutert der stellvertretende Vorstand Herr Genster, dass derzeit kein aktueller Sachstand zum Schadenskataster möglich sei. Er gibt an, dass der EUV aktuell plant, eine weitere Kolonne für Gehwegschäden aufzustellen. Auf Anfrage des Verwaltungsratsmitglieds Herr Dr. Jankovics zum Zustand der Wege am Nordlager gibt der stellvertretende Vorstand Herr Genster an, dass der Bereich im Wegesanierungsprogramm im II. Quartal 2026 ertüchtigt werden soll. Verwaltungsratsmitglied Herr Papp bittet den Gehweg an der Gaswerkstraße, zwischen Frebergstraße und Mulvanystraße, so zu ertüchtigen, dass das Wasser bei Regen nicht auf der Fläche stehen bleibt. Derzeit würden Fußgänger überwiegend auf die Fahrbahn ausweichen.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-EUV-62%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7Czt_2%7C1",
+          "date": "2026-06-18",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-EUV-62%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-EUV-62%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 91428,
+          "text": "11 Mitteilungen des Vorstandes  keine  Ende öffentliche Sitzung: 17:50 h \f  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-EUV-62%7Czt_3%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+        "name": "Genehmigung des Protokolls der Sitzung vom 10.12.2025\r\n-nicht öffentlicher Teil-",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16533",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-EUV-62%7C411201100001%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+        "name": "Beschlusscontrolling 2025",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16534",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-EUV-62%7C410903100010%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+        "name": "Jahresbericht eines Ressorts",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16535",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-EUV-62%7C410903100011%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+        "name": "Beteiligungsbericht",
+        "number": "4",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-EUV-62%7Czt_4%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+        "name": "Grundstücksangelegenheiten des EUV-Gesamtbetriebes\r\n-mündlicher Bericht-",
+        "number": "5",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-EUV-62%7Czt_5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+        "name": "Sachstand Rechtsangelegenheiten des EUV Stadtbetriebes\r\n-mündlicher Bericht-",
+        "number": "6",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-EUV-62%7Czt_6%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+        "name": "Anfragen der Verwaltungsratsmitglieder",
+        "number": "7",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-EUV-62%7Czt_7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "8",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2026-EUV-62%7C20260623111659-0_ni_2026-EUV-62_4.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2026-06-23",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2026-EUV-62%7C20260623111659-0_ni_2026-EUV-62_4.pdf",
+        "fileName": "20260623111659-0_ni_2026-EUV-62_4.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2026-EUV-62%7C4",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Anlage zu TOP I.2 Beschlusscontrolling öffentlicher Teil 2025 - Korrektur",
+        "size": 257216,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-03-25T18:15:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2026-EUV-62",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-03-11",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2026-EUV-62",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2026-EUV-62",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "375303a53cf6fa157e2651d4d5b7b8a23e712bc2",
+      "size": 117819,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Verwaltungsgebäude Sitzungsraum, Erinstraße 6, 44575 Erinstraße 6, Castrop-Rauxel",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-EUV-62/location",
+      "locality": "Erinstraße 6, Castrop-Rauxel",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "postalCode": "44575",
+      "room": "Verwaltungsgebäude Sitzungsraum",
+      "streetAddress": "Erinstraße 6",
+      "subLocality": "Erinstraße 6, Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Verwaltungsrates EUV",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/176",
+      "https://castroprauxel.gremien.info/oparl/person/73",
+      "https://castroprauxel.gremien.info/oparl/person/908",
+      "https://castroprauxel.gremien.info/oparl/person/133",
+      "https://castroprauxel.gremien.info/oparl/person/645",
+      "https://castroprauxel.gremien.info/oparl/person/389",
+      "https://castroprauxel.gremien.info/oparl/person/318",
+      "https://castroprauxel.gremien.info/oparl/person/240",
+      "https://castroprauxel.gremien.info/oparl/person/1072",
+      "https://castroprauxel.gremien.info/oparl/person/817",
+      "https://castroprauxel.gremien.info/oparl/person/1304",
+      "https://castroprauxel.gremien.info/oparl/person/1307",
+      "https://castroprauxel.gremien.info/oparl/person/1309",
+      "https://castroprauxel.gremien.info/oparl/person/1311",
+      "https://castroprauxel.gremien.info/oparl/person/977",
+      "https://castroprauxel.gremien.info/oparl/person/1069",
+      "https://castroprauxel.gremien.info/oparl/person/1322",
+      "https://castroprauxel.gremien.info/oparl/person/1302",
+      "https://castroprauxel.gremien.info/oparl/person/1173",
+      "https://castroprauxel.gremien.info/oparl/person/1274",
+      "https://castroprauxel.gremien.info/oparl/person/1292",
+      "https://castroprauxel.gremien.info/oparl/person/790"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-EUV-62",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-06-23",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-EUV-62",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-EUV-62",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 299195,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2026-03-25T17:00:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-EUV-62",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-06-23",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-EUV-62",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-EUV-62",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 299195,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

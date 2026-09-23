@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/242202100011",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-21%7C242202100011%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7821",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2018-EUV-21",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2018-02-22",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/242202100011",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=242202100011&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=242202100011&id=69",
+      "fileName": "242202100011",
+      "id": "https://castroprauxel.gremien.info/oparl/file/242202100011",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2018/EUV/012",
+      "size": 92176,
+      "text": "/  Datum: 22.02.2018   TB III 9686-250      Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 07.03.2018 TOP: I.7 Drucksache-Nr. 2018/EUV/012     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 07.03.2018 7    Betreff:  Grünabfallaktion Frühjahr 2018     Finanzielle Auswirkungen gem. Wirtschaftsplan   ja Gesamtkosten       X nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat nimmt von der Vorlage zur Durchführung der Grünabfallsammlung im Frühjahr 2018 Kenntnis.   \f  \f   ________________________ Werner \f Sachverhalt:  Auch im Jahr 2018 wird der EUV Stadtbetrieb  den Bürgerinnen und Bürgern der Stadt Castrop-Rauxel bei der Grünabfallentsorgung unterstützend zur Seite stehen und Abgabestellen einrichten.  Grünabfälle können im Zeitraum vom 19.03.2018  14.04.2018 von allen Privathaushalten, die an die öffentliche Abfallentsorgung angeschlossen sind, in haushaltsüblichen Mengen entsorgt werden. Die Annahme erfolgt am Recyclinghof in Pöppinghausen während der Öffnungszeiten und ist kostenfrei.   Die Leerung der Container erfolgt durch Sammelfahrzeuge der Fa. DAR. Die Verwertung findet anschließend in der Kompostierungsanlage der Fa. Remondis in Lünen statt. Seitens des EUV Stadtbetriebes wird auf dem Recyclinghof ein Mitarbeiter eingesetzt.   Im Jahre 2017 wurden während der Grünabfallsammlung im Frühjahr ca. 356 t Grünabfälle abgegeben.  Weiterer Bericht in der Sitzung.    \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Grünabfallaktion Frühjahr 2018",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2018/EUV/012",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

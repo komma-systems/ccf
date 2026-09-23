@@ -1,0 +1,446 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Einführung der neuen Verwaltungsratsmitglieder und Vereidigung der Sachkundigen Bürger im Verwaltungsrat",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7Czt_0%7C1",
+          "date": "2014-10-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2014-EUV-4%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 5350,
+          "text": "1 Einführung der neuen Verwaltungsratsmitglieder und Vereidigung der Sachkundigen Bürger im Verwaltungsrat Bürgermeister Herr Beisenherz vereidigt die Sachkundigen Bürger Herr Günter Beyer, Herr Dr. Ronald Jankowics, Herr Ulrich Kirchner und Herr Marcus Pelzig und verpflichtet sie gemäß § 67 Absatz 3 Gemeindeordnung NW (GO). %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6017",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7C160807100022%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Bestellung der Schriftführung sowie deren Vertretung",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7C160807100022%7C1",
+          "date": "2014-10-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7C160807100022%7C1",
+          "fileName": "be_160807100022_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2014-EUV-4%7C160807100022%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 6004,
+          "text": "2 Bestellung der Schriftführung sowie deren Vertretung (2014/EUV/021) Der Verwaltungsrat des EUV beschließt einstimmig, Herrn Gert Krause-Joseph zum Schriftführer und Herrn Wolfgang Linke zum stellvertretenden Schriftführer zu ernennen. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Genehmigung des Protokolls der Sitzung vom 07.05.2014",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7Czt_1%7C1",
+          "date": "2014-10-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2014-EUV-4%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 4941,
+          "text": "3 Genehmigung des Protokolls der Sitzung vom 07.05.2014 Der Verwaltungsrat genehmigt das Protokoll vom 07.05.2014 einstimmig. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6122",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7C162008100024%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Erste Änderung der Geschäftsordnung für den Verwaltungsrat",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7C162008100024%7C1",
+          "date": "2014-10-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7C162008100024%7C1",
+          "fileName": "be_162008100024_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2014-EUV-4%7C162008100024%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 5798,
+          "text": "4 Erste Änderung der Geschäftsordnung für den Verwaltungsrat (2014/EUV/023) Der Verwaltungsrat beschließt einstimmig die vorliegende Änderung seiner Geschäftsordnung vom 25. November 2009. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6139",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7C162608100029%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Zwischenbericht  3 / 2014",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7C162608100029%7C1",
+          "date": "2014-10-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7C162608100029%7C1",
+          "fileName": "be_162608100029_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2014-EUV-4%7C162608100029%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 61548,
+          "text": "5 Zwischenbericht 3 / 2014 (2014/EUV/027) Vorstand Herr Werner erläutert das vorliegende Zwischenergebnis. Er macht insbesondere ergänzende Ausführungen zu den Schäden des Unwetters „ELA“ am 09. Juni 2014 und beantwortet die Nachfragen der Verwaltungsratsmitglieder. Der Verwaltungsrat nimmt den Zwischenbericht 03/2014 des Vorstands zur Kenntnis. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6145",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7C162608100034%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Feststellung der Jahresrechnung 2013 und Entlastung des Vorstandes\r\n(Zustellung des Jahresberichtes 2013 auf dem Postweg)",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7C162608100034%7C1",
+          "date": "2014-10-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7C162608100034%7C1",
+          "fileName": "be_162608100034_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2014-EUV-4%7C162608100034%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 57103,
+          "text": "Feststellung der Jahresrechnung 2013 und Entlastung des Vorstandes (Zustellung des Jahresabschlusses 2013 auf dem Postweg) (2014/EUV/032) Herr Schepers (Wirtschaftsprüfungsgesellschaft BDO Westfalen-Revision GmbH) berichtet zum Ablauf und zum Ergebnis der Prüfung. Die Prüfung stellte eine ordnungsgemäße Geschäftsführung ohne Beanstandungen fest. Insbesondere geht er auf den Ratsauftrag vom 21. Juni 2012 ein und erläutert den Jahresabschlussbericht (siehe Anlage II Nr. 10). Herr Schepers spricht die Verlustfortschreibung aus den zurückliegenden Jahren und die Zielsetzung der Kommunalunternehmensverordnung § 14 an. Nach Fragen der Verwaltungsratsmitglieder Herr Helsper und Herr Dr. Jankowics wird der Beschluss um einen weiteren Prüfauftrag (Punkt d) zum Thema Gewinnabführung an die Stadt ergänzt. Dabei weist der Bürgermeister Herr Beisenherz auf die Erforderlichkeit der Gewinnabführung zur Sanierung des städtischen Haushalts hin. Der Verwaltungsrat nimmt den Jahresabschluss 2013 und den Prüfbericht der BDO Westfalen- Revision GmbH Wirtschaftsprüfungsgesellschaft zur Kenntnis und beschließt jeweils einstimmig wie folgt: Die Jahresrechnung 2013 des EUV Stadtbetriebes wird festgestellt. Der zum 31.12.2013 ausgewiesene Jahresgewinn in Höhe von 667.676,22 € wird auf neue Rechnung vorgetragen und mit den Verlustvorträgen aus Vorjahren verrechnet. Der Vorstand des EUV wird uneingeschränkt entlastet. Der Vorstand wird mit der Prüfung beauftragt, ob und wenn ja wenn unter welchen Voraussetzungen die Gewinnauskehrung an die Stadt Castrop-Rauxel durchgeführt werden kann. Der Verwaltungsrat ist über das Prüfergebnis zu unterrichten in den ein Beschlussvorschlag zur weiteren Vorgehensweise vorgelegt wird. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6148",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7C162608100028%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Risikomanagementbericht 2013\r\n(Zustellung des Risikomanagementberichtes auf dem Postweg)",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7C162608100028%7C1",
+          "date": "2014-10-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7C162608100028%7C1",
+          "fileName": "be_162608100028_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2014-EUV-4%7C162608100028%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 5877,
+          "text": "7 Risikomanagementbericht 2013 (Zustellung des Risikomanagementberichtes auf dem Postweg) (2014/EUV/034) Vorstand Herr Werner erläutert die Vorlage. Der Verwaltungsrat nimmt den Risikomanagementbericht 2013 zur Kenntnis. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6144",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7C162608100033%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Benennung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2014 für den EUV Stadtbetrieb",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7C162608100033%7C1",
+          "date": "2014-10-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7C162608100033%7C1",
+          "fileName": "be_162608100033_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2014-EUV-4%7C162608100033%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 6291,
+          "text": "8 Benennung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2014 für den EUV Stadtbetrieb (2014/EUV/031) Der Verwaltungsrat beschließt einstimmig, die BDO Westfalen-Revision GmbH aus Dortmund als Prüfer für den Jahresabschluss 2014 zu benennen. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Sachstandsbericht Sturm- und Hochwasserschäden vom 09.06.2014\r\n- mündlicher Bericht -",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7Czt_2%7C1",
+          "date": "2014-10-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2014-EUV-4%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 6290,
+          "text": "9 Sachstandsbericht Sturm- und Hochwasserschäden vom 09.06.2014 - mündlicher Bericht - Vorstand Herr Werner und stellvertretender Vorstand Herr Werth-von Kampen berichten zur Vorlage und beantworten die Fragen der Verwaltungsratsmitglieder. Der Verwaltungsrat nimmt den Sachstandsbericht zu den Sturm- und Hochwasserschäden vom 09.06.2014 zur Kenntnis. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6132",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7C162508100025%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Laub- und Grünabfallaktion Herbst 2014",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7C162508100025%7C1",
+          "date": "2014-10-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7C162508100025%7C1",
+          "fileName": "be_162508100025_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2014-EUV-4%7C162508100025%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 6532,
+          "text": "10 Laub- und Grünabfallaktion Herbst 2014 (2014/EUV/024) Vorstand Herr Werner erläutert die Vorlage und verweist auf die in der Vorlage genannten Termine im Herbst 2014. Der Verwaltungsrat nimmt die Planungen zur Durchfügung der Laub- und Grünabfallsammlung im Herbst 2014 zur Kenntnis. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6133",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7C162508100026%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Einsatzplanung Winterdienst 2014/2015",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7C162508100026%7C1",
+          "date": "2014-10-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7C162508100026%7C1",
+          "fileName": "be_162508100026_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2014-EUV-4%7C162508100026%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 6335,
+          "text": "11 Einsatzplanung Winterdienst 2014/2015 (2014/EUV/025) Vorstand Herr Werner erläutert die Vorlage und verweist auf das in der Vorlage genannte. Organisationskonzept zur Aufgabenverteilung des Winterdienstes. Der Verwaltungsrat nimmt die Einsatzplanung des EUV Stadtbetriebes für den Winterdienst 2014/2015 zur Kenntnis. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Anfragen der Verwaltungsratsmitglieder",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7Czt_3%7C1",
+          "date": "2014-10-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2014-EUV-4%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 65462,
+          "text": "12 Anfragen der Verwaltungsratsmitglieder Auf Anfrage des Verwaltungsratsmitglieds Herrn Helsper erklärt der Vorstand Herr Werner, dass das Bruchholz in den Parkbuchten kurzfristig entfernt wird, damit das Laub besser geräumt werden kann. Zur weiteren Anfrage des Verwaltungsratsmitglieds Herrn Helsper gibt der Vorstand Herr Werner an, dass die Aufträge zur Markierung der Fußgängerüberwege „Cottenburgstraße“ erfolgt seien und die Arbeiten Anfang Oktober 2014 ausgeführt werden. Auf Anfrage des Verwaltungsratsmitglieds Herrn Steinbach, wann und warum die Planung für die Sanierung an der Deponie Brandheide gestoppt worden seien, erklärt der stellvertretende Vorstand Herr Werth-von Kampen, dass durch die europarechtlichen Vorschriften zur Gewässergüte eine Ergänzung des Sanierungsplanes zu erfolgen hat, da sonst keine Fördermittel erteilt werden können. Verwaltungsratsmitglied Herr Goerke weist darauf hin, dass die „Gullis“ am Park-and-Ride-Parkplatz am Hauptbahnhof zugewachsen seien. Auf Anfrage des Verwaltungsratsmitglieds Herr Bettinger erklärt der Vorstand Herr Werner, dass für die nächste Sitzung eine Vorlage zur Einführung einer Werkstofftonne erstellt wird. Verwaltungsratsmitglied Herr Dr. Jankowics mahnt zur Einbeziehung der Maßnahmen zur Berücksichtigung Inklusion beim Straßen- und Wegebau hin. So sei der Bereich Hasenkamp / Lambertstraße zurzeit nicht Rollstuhlgerecht ausgebaut. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7Czt_4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "13",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7Czt_4%7C1",
+          "date": "2014-10-29",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2014-EUV-4%7Czt_4%7C1",
+          "fileName": "be_zt_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2014-EUV-4%7Czt_4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 13",
+          "size": 4214,
+          "text": "13 Mitteilungen des Vorstandes keine %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7Czt_5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Personalangelegenheiten\r\n- mündlicher Bericht -",
+        "number": "14",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6135",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7C162508100027%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Höhergruppierung",
+        "number": "15",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6081",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7C162608100030%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Kanalerneuerung Adlerstraße, Frohlinder Straße, Falkenstraße",
+        "number": "16",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6143",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7C162608100032%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Sanierung Abwasserkanal DN 500 im Kreuzungsbereich  B 235 / Pallasstraße",
+        "number": "17",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6140",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7C162608100031%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Sanierung Behringhauser Straße; Herner Straße; Daimler Straße; Dortmunder Straße",
+        "number": "18",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7Czt_6%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Rechtsangelegenheiten;\r\nSachstandsbericht zu den laufenden verwaltungsgerichtlichen Verfahren gegen den EUV Stadtbetrieb Castrop-Rauxel\r\n- mündlicher Bericht -",
+        "number": "19",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6146",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7C162608100035%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Sachstandsbericht Einnahmeentwicklung Gebührenhaushalte",
+        "number": "20",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7Czt_7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Sachstandsbericht Bauvorhaben EUV / W & S am Standort Westring 225 sowie Betriebshof Westring 215",
+        "number": "21",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7Czt_8%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Sachstand Verwaltungsstreitverfahren AGR ./. Stadt Castrop-Rauxel bzw. EUV\r\n- mündlicher Bericht -",
+        "number": "22",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7Czt_9%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Anfragen der Verwaltungsratsmitglieder",
+        "number": "23",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7Czt_10%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "24",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2014-09-17T18:30:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2014-EUV-4",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2014-09-01",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2014-EUV-4",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2014-EUV-4",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "fc5705594b95f0d93cb756ef511925c7be180c93",
+      "size": 13187,
+      "text": "Amtliche Bekanntmachung der Tagesordnung zur Sitzung des Verwaltungsrates EUV am Mittwoch, 17.09.2014 um 17:00 Uhr im großen Besprechungsraum des EUV, Westring 215 I. Öffentliche Sitzung: 1. Einführung der neuen Verwaltungsratsmitglieder und Vereidigung der Sachkundigen Bürger im Verwaltungsrat 2. Bestellung der Schriftführung sowie deren Vertretung 3. Genehmigung des Protokolls der Sitzung vom 07.05.2014 4. Erste Änderung der Geschäftsordnung für den Verwaltungsrat 5. Zwischenbericht 3 / 2014 6. Feststellung der Jahresrechnung 2013 und Entlastung des Vorstandes (Zustellung des Jahresberichtes 2013 auf dem Postweg) 7. Risikomanagementbericht 2013 (Zustellung des Risikomanagementberichtes auf dem Postweg) 8. Benennung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2014 für den EUV Stadtbetrieb 9. Sachstandsbericht Sturm- und Hochwasserschäden vom 09.06.2014 - mündlicher Bericht - 10. Laub- und Grünabfallaktion Herbst 2014 11. Einsatzplanung Winterdienst 2014/2015 12. Anfragen der Verwaltungsratsmitglieder 13. Mitteilungen des Vorstandes II. Nichtöffentliche Sitzung: 14. Personalangelegenheiten - mündlicher Bericht - 15. Höhergruppierung 16. Kanalerneuerung Adlerstraße, Frohlinder Straße, Falkenstraße 17. Sanierung Abwasserkanal DN 500 im Kreuzungsbereich B 235 / Pallasstraße 18. Sanierung Behringhauser Straße; Herner Straße; Daimler Straße; Dortmunder Straße 19. Rechtsangelegenheiten; Sachstandsbericht zu den laufenden verwaltungsgerichtlichen Verfahren gegen den EUV Stadtbetrieb Castrop-Rauxel - mündlicher Bericht - 20. Sachstandsbericht Einnahmeentwicklung Gebührenhaushalte 21. Sachstandsbericht Bauvorhaben EUV / W & S am Standort Westring 225 sowie Betriebshof Westring 215 22. Sachstand Verwaltungsstreitverfahren AGR ./. Stadt Castrop-Rauxel bzw. EUV - mündlicher Bericht - 23. Anfragen der Verwaltungsratsmitglieder 24. Mitteilungen des Vorstandes Johannes B e i s e n h e r z Bürgermeister\r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Sitzungsraum 1 EUV,  Westring 215, Castrop-Rauxel, Westring 215, 44575 Castrop-Rauxel",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2014-EUV-4/location",
+      "locality": "Castrop-Rauxel",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "postalCode": "44575",
+      "room": "Sitzungsraum 1 EUV,  Westring 215, Castrop-Rauxel",
+      "streetAddress": "Westring 215",
+      "subLocality": "Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Verwaltungsrates EUV",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/748",
+      "https://castroprauxel.gremien.info/oparl/person/626",
+      "https://castroprauxel.gremien.info/oparl/person/318",
+      "https://castroprauxel.gremien.info/oparl/person/133",
+      "https://castroprauxel.gremien.info/oparl/person/241",
+      "https://castroprauxel.gremien.info/oparl/person/240",
+      "https://castroprauxel.gremien.info/oparl/person/817",
+      "https://castroprauxel.gremien.info/oparl/person/420",
+      "https://castroprauxel.gremien.info/oparl/person/344"
+    ],
+    "start": "2014-09-17T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting"
+  }
+}

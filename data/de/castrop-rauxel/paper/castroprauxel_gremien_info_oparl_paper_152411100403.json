@@ -1,0 +1,60 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/152411100403",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=152411100403%7C20141124101653.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=152411100403%7C20141124101653.pdf%7C",
+        "fileName": "20141124101653.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C152411100403%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/152411100403",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "20fb6b3efabe6c167aa31dee937f971783d14b1c",
+        "size": 109642,
+        "text": "Gemeinsamer Antrag der Fraktionen SPD, CDU, B9-Die Grünen, FWI, DIE LINKE, FDP_Generationenfreundliche Kommune vom 20.11.2014",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2014-BEHB-29%7C152411100403%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6318",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2014-BEHB-29",
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2014-11-24",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/152411100403",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=152411100403&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=152411100403&id=69",
+      "fileName": "152411100403",
+      "id": "https://castroprauxel.gremien.info/oparl/file/152411100403",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2014/389",
+      "size": 8052,
+      "text": "2014/389 öffentlich Datum: 24.11.2014 Tischvorlage Beratungsfolge Datum TOP-Nr. Beirat für Menschen mit Behinderung 25.11.2014 Betreff Gemeinsamer Antrag der Fraktionen SPD, CDU, FDP, Grüne, Die Linke und FWI hier: Veranstaltung zum Thema Generationenfreundliche KommuneBeschlussvorschlag Siehe AntragGemeinsamer Antrag der Fraktionen SPD, CDU, FDP, Grüne, Die Linke und FWI hier: Veranstaltung zum ThemaGenerationenfreundliche Kommune2014/389%anl%;Gemeinsamer Antrag der Fraktionen SPD, CDU, B9-Die Grünen, FWI, DIE LINKE, FDP_Generationenfreundliche Kommune vom 20.11.2014 ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Gemeinsamer Antrag der Fraktionen SPD, CDU, FDP, Grüne, Die Linke und FWI\r\nhier: Veranstaltung zum Thema 'Generationenfreundliche Kommune'",
+    "paperType": "Tischvorlage",
+    "reference": "2014/389",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

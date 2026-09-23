@@ -1,0 +1,236 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Bericht über erforderliche städtische Baumfällmaßnahmen",
+        "number": "3",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Bericht über städtische Baumpflanzmaßnahmen",
+        "number": "4",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10750",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7C330108100210%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Antrag der FDP-Fraktion vom 31.07.2023_Baumneupflanzungen mit Befreiung von den Regelungen der Baumschutzsatzung",
+        "number": "5",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10747",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7C330108100203%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Gemeinsamer Antrag der Fraktionen SPD und Bündnis 90/Die GRÜNEN vom 31.07.2023_Umgestaltung des Einmündungsbereiches Ecke Stadtgarten/ Beethovenstraße",
+        "number": "6",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/13128",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7C331606100167%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Fahrradabstellanlagen Rathaus",
+        "number": "7",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10772",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7C332306100170%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Sachstandsbericht zum Handlungskonzept Wohnen",
+        "number": "8",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10756",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7C330407100175%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Grundstücksgeschäfte der ECAS GmbH - Entwicklung der Fläche 'Schillerstraße'",
+        "number": "9",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10775",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7C332307100189%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Sachstandsbericht (Juli 2023) zum Bahnübergang Obere Münsterstraße/ Bahnhof Süd",
+        "number": "10",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10760",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7C330507100177%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Satzung zur Bezeichnung von Flächen, in denen die Stadt nach § 25 Abs. 1 Nr. 2 Baugesetzbuch ein besonderes Vorkaufsrecht beansprucht (Vorkaufsrechtssatzung 4)\r\nhier: Satzungsbeschluss",
+        "number": "11",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10765",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7C330707100179%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Erhaltungs- und Gestaltungssatzung Nr. 1 'Bergarbeitersiedlung Schwerin'\r\nhier: Beschluss über die Erhaltungs- und Gestaltungssatzung nach § 172 Abs. 1 Nr. 1 und Abs. 3 BauGB und § 89 Abs. 1 Nr. 1 und 2 BauO NRW",
+        "number": "12",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10763",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7C330607100178%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Sachstandsbericht gemäß Straßenbeleuchtungsvertrag der Stadt Castrop-Rauxel für das Jahr 2022",
+        "number": "13",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10779",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7C332806100172%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Beleuchtung der Hauptwegeachse im Nordlager-Park",
+        "number": "14",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10759",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7C330507100176%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Trinkwasserbrunnen im Stadtgebiet",
+        "number": "15",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10753",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7C330108100212%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Antrag der FDP-Fraktion vom 01.08.2023_Umgestaltung des Engelsburgplatzes",
+        "number": "16",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Bericht zu den städtischen Klimaschutz- und Klimaanpassungsmaßnahmen",
+        "number": "17",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "18",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "19",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2023-UMWA-113%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2023-08-15T00:00:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=2023-UMWA-113",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-08-02",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=2023-UMWA-113",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "99c3ab708b06f3be7d121b5a5ce8e6b834e6eab4",
+      "size": 125598,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/2023-UMWA-113/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "eingeladen",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschusses für Klima- und Umweltschutz",
+    "organization": [],
+    "start": "2023-08-15T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting"
+  }
+}

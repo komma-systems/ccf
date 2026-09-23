@@ -1,0 +1,376 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B3-118",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B3-118%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B3-118",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B3-118%7C1%7C1",
+          "date": "2024-07-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B3-118%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B3-118%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 375734,
+          "text": "  I.1 Fragestunde für Einwohnerinnen und Einwohner   Keine Anfragen.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B3-118%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B3-118",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B3-118%7CProtokoll%7C1",
+          "date": "2024-07-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B3-118%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B3-118%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 376186,
+          "text": "  I.2 Einwände gegen die letzte Niederschrift   Keine Einwände.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11204",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B3-118%7C350605100113%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B3-118",
+        "name": "Lärmaktionsplan der 4. Stufe für die Stadt Castrop-Rauxel",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B3-118%7C350605100113%7C1",
+          "date": "2024-07-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B3-118%7C350605100113%7C1",
+          "fileName": "be_350605100113_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B3-118%7C350605100113%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 510894,
+          "text": "  I.3 Lärmaktionsplan der 4. Stufe für die Stadt Castrop-Rauxel (2024/111)    Der Betriebsausschuss 3 empfiehlt dem Rat der Stadt Castrop-Rauxel:  Der Rat der Stadt Castrop-Rauxel nimmt den Sachstandsbericht zur Kenntnis und beschließt den Lärmaktionsplan der 4. Stufe für die Stadt Castrop-Rauxel in der vorgelegten Fassung.  Die Beschlussfassung erfolgt einstimmig.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "resolutionText": "einstimmig angenommen",
+        "result": "einstimmig angenommen",
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11245",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B3-118%7C352705100128%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B3-118",
+        "name": "Umbau Rieperbergstraße als Fahrradstraße bis Bergstraße",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B3-118%7C352705100128%7C1",
+          "date": "2024-07-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B3-118%7C352705100128%7C1",
+          "fileName": "be_352705100128_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B3-118%7C352705100128%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 507258,
+          "text": "  I.4 Umbau Rieperbergstraße als Fahrradstraße bis Bergstraße (2024/126)    Der Betriebsausschuss 3 nimmt den Sachverhalt zur Kenntnis und unterstützt eine Qualifizierung der Rieperbergstraße bis zur Bergstraße als Fahrradstraße und Fußgängerverbindung. Die Verwaltung wird beauftragt, entsprechende Fördermittel bei der Bezirksregierung Münster zu beantragen.  Die Beschlussfassung erfolgt einstimmig.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11213",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B3-118%7C351804100105%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B3-118",
+        "name": "Grundstücksgeschäfte der ECAS GmbH - Entscheidung über die Konzeptvergabe \"Schillerstraße\"",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B3-118%7C351804100105%7C1",
+          "date": "2024-07-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B3-118%7C351804100105%7C1",
+          "fileName": "be_351804100105_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B3-118%7C351804100105%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 538115,
+          "text": "  I.5 Grundstücksgeschäfte der ECAS GmbH - Entscheidung über die Konzeptvergabe  Schillerstraße  (2024/107)    Der Betriebsausschuss 3 empfiehlt dem Rat der Stadt Castrop-Rauxel:  Der Rat der Stadt Castrop-Rauxel beschließt, dass die ECAS GmbH die Entwicklungsfläche in der Schillerstraße (Gemarkung Castrop, Flur 7, Flurstück 125 und Gemarkung Castrop, Flur 7, Flurstück 219) vorbehaltlich der Einreichung einer verbindlichen Finanzierungsbestätigung eines deutschen Kreditinstituts bis zum 19.07.2024 an Bewerber A veräußert. Sollte bis zum 19.07.2024 keine Finanzierungsbestätigung vorliegen, wird der Zuschlag an Bewerber B erteilt. Auch dies vorbehaltlich einer verbindlichen Finanzierungsbestätigung innerhalb von acht Wochen nach Aufforderung.  Die Beschlussfassung erfolgt mit 17 Ja-Stimmen und 1 Enthaltung.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11219",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B3-118%7C350205100112%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B3-118",
+        "name": "Interessensbekundung der Stadt Castrop-Rauxel\r\nhier: Genehmigung der Dringlichkeitsentscheidung vom 25.04.2024",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B3-118%7C350205100112%7C1",
+          "date": "2024-07-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B3-118%7C350205100112%7C1",
+          "fileName": "be_350205100112_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B3-118%7C350205100112%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 531960,
+          "text": "  I.6 Projektaufruf 2024, Förderung von Investitionen in nationale Projekte des Städtebaus - Interessensbekundung der Stadt Castrop-Rauxel hier: Genehmigung der Dringlichkeitsentscheidung vom 25.04.2024 (2024/110)   Der Betriebsausschuss 3 empfiehlt dem Rat der Stadt Castrop-Rauxel:  Der Rat der Stadt Castrop-Rauxel genehmigt die als Anlage 2 von Herrn Bürgermeister Rajko Kravanja und Herrn Ratsmitglied Carsten Papp gem. § 60 Abs. 1 Satz 2 GO NRW am 25.04.2024 getroffene Dringlichkeitsentscheidung zur Interessensbekundung der Stadt Castrop-Rauxel am Projektaufruf 2024 zur Förderung von Investitionen in nationale Projekte des Städtebaus.  Die Beschlussfassung erfolgt einstimmig.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11207",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B3-118%7C350705100115%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B3-118",
+        "name": "Sanierungsmanagement \"Links und Rechts der Emscher\" und die Kampagne CASKlimahelden - Abschlussbericht im Rahmen der Förderung der energetischen Quartiersentwicklung",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B3-118%7C350705100115%7C1",
+          "date": "2024-07-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B3-118%7C350705100115%7C1",
+          "fileName": "be_350705100115_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B3-118%7C350705100115%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 404181,
+          "text": "   7 Sanierungsmanagement  Links und Rechts der Emscher  und die Kampagne CASKlimahelden - Abschlussbericht im Rahmen der Förderung der energetischen Quartiersentwicklung (2024/113)    Der Sachverhalt wird seitens der Ausschussmitglieder zur Kenntnis genommen.\f  Der Rat der Stadt Castrop-Rauxel nimmt den Abschlussbericht zum Sanierungsmanagement und der Kampagne CASKlimahelden im Fördergebiet Links und Rechts der Emscher zur Kenntnis.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11210",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B3-118%7C350705100116%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B3-118",
+        "name": "ISEK Merklinde \r\nISEK Merklinde\r\n- Sanierungsmanagement in Merklinde\r\n- Anpassung der Richtlinien zum Hof- und Fassadenprogramm und zum Quartiersfonds\r\n- Sachstand zum ehemaligen Getränkemarkt",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B3-118%7C350705100116%7C1",
+          "date": "2024-07-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B3-118%7C350705100116%7C1",
+          "fileName": "be_350705100116_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B3-118%7C350705100116%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 531473,
+          "text": "  I.8 ISEK Merklinde  - Anpassung der Richtlinien zum Hof- und Fassadenprogramm und zum Quartiersfonds - Sanierungsmanagement in Merklinde - Sachstand zum ehemaligen Getränkemarkt (2024/121)   Der Betriebsausschuss 3 empfiehlt dem Rat der Stadt Castrop-Rauxel:  Der Rat der Stadt Castrop-Rauxel  beschließt die Anpassung der Richtlinie zum Hof- und Fassadenprogramm, beschließt die Anpassung der Richtlinie zum Quartiersfonds, beauftragt die Verwaltung mit der Umsetzung der im Sachverhalt dargelegten Vorgehensweise zur Übertragung des Sanierungsmanagements innerhalb der Förderkulisse des ISEK Merklinde,  beschließt die Verschiebung der Mittel von der Maßnahme D2 Öffentlichkeitsarbeit und Imagebildung zur Maßnahme C6 Beratung zur energetischen Gebäudesanierung und Energieeinsparung innerhalb des ISEK-Katalogs und nimmt den Sachstand zur Entwicklung des ehemaligen Getränkemarktes in Merklinde zur Kenntnis. Die Beschlussfassung erfolgt einstimmig.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11220",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B3-118%7C352405100127%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B3-118",
+        "name": "Kenntnisnahme -Neuaufstellung eines einfachen Mietspiegels in Castrop-Rauxel",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B3-118%7C352405100127%7C1",
+          "date": "2024-07-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B3-118%7C352405100127%7C1",
+          "fileName": "be_352405100127_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B3-118%7C352405100127%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 522425,
+          "text": "  I.9 Kenntnisnahme - Neuaufstellung eines einfachen Mietspiegels in Castrop-Rauxel (2024/125)   Der Betriebsausschuss 3 nimmt den Sachverhalt zur Kenntnis.  Frau Breilmann stellt für die CDU einen Antrag an die Verwaltung zur Erstellung bzw. Fortschreibung eines qualifizierten Mietspiegels.   Die Ausschussmitglieder diskutieren ausführlich die Vorlage, sowie den vorgenannten Antrag.  Der Vorschlag des Ausschussvorsitzenden, die Verwaltung zu beauftragen mit der Kommunalaufsicht abzuklären, ob bei Einplanung der entsprechenden Mittel für den Haushalt 2025 die Erstellung eines qualifizierten Mietspiegels aufgrund der höheren Kosten im Sinne des § 82 GO grundsätzlich durchführbar wäre, wird einstimmig angenommen.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B3-118%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B3-118",
+        "name": "Bauvorhaben von städtebaulicher Bedeutung",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B3-118%7Czt_0%7C1",
+          "date": "2024-07-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B3-118%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B3-118%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 381715,
+          "text": "  I.10 Bauvorhaben von städtebaulicher Bedeutung   Keine Vorstellung von Bauvorhaben städtebaulicher Bedeutung.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B3-118%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B3-118",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B3-118%7C6%7C1",
+          "date": "2024-07-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B3-118%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B3-118%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 422738,
+          "text": "  I.11 Anfragen der Ausschussmitglieder     I.11.1 Herr Faber: Herr Faber (CDU) bittet um Sachstandsbericht zum Feldweg Hagenstraße Richtung Ickern (Heidbauer).  Des Weiteren fragt Herr Faber nach einer Möglichkeit, den Schulweg entlang der Emscherstraße in Richtung Vinckestraße und dessen Querung durch eine Mittelinsel zu verbessern. Die Frequentierung durch die Schulkinder macht es erforderlich, am Standort Vinckestraße eine Sicherungsmaßnahme zu prüfen.  Herr Werner: Herr Werner berichtet, dass die Verwaltung mit dem Grundstückseigentümer Gespräche über die dauerhafte Offenhaltung des Weges führt. Darüber hinaus ist eine mögliche Ausleuchtung dieses Schulweges in Prüfung.   Herr Werner sagt zu, die Thematik bzgl. einer Sicherungsmaßnahme zu prüfen.     I.11.2 Herr Manthey: Herr Manthey fragte nach dem Sachstand Mariengärten.  Herr Werner: Herr Werner berichtet, dass seitens des Insolvenzverwalters der Verwaltung mündlich mitgeteilt wurde, dass die Maßnahme nicht weitergeführt wird. Derzeit finden Abstimmungsgespräche innerhalb der Verwaltung zur Möglichkeit der weiteren Fortführung der Infrastrukturmaßnahmen statt.     I.11.3 Herr Berkel: Herr Berkel (CDU) erkundigte sich zur Dauer der Baumaßnahme Ausbau barrierefreier Haltestellen im Bereich Becklem/Becklemer Straße. Er berichtete über Verkehrsbehinderungen und auftretende Rückstaus. Ferner, dass das Grundstück mit den darauf stehenden Pflanzen einfach ohne Abstimmung mit den Grundstücksnachbarn geräumt wurde. Abschließend fragte er nach der Dauer der Baumaßnahme in Höhe Soccer-Five auf der Wartburgstraße.  Herr Werner: Herr Werner sagt zu, dass er die gestellten Fragen schriftlich beantworten wird.     I.11.4 Herr Melzner: Herr Melzner (SPD) fragte zum Stand der Umsetzung des Bauprojektes am ehemaligen Dehner-Standort, Siemensstraße  Herr Melzner wies weiter darauf hin, dass sich der vorhandene Baum- und Strauchaufwuchs im Verlauf der Schulstraße (Trog Deininghauser Bach) mittlerweile so stark ausgedehnt hat, dass ggf. bei Einstau bzw. bei größeren Wassermassen Rückstaugefahren bestehen.  Herr Röhnert: Herr Röhnert teilt mit, dass der Bauantrag zur Umsetzung des Bauprojekts an der Siemensstraße inhaltlich weitestgehend digital abgestimmt ist, aber der Antrag bisher nicht förmlich eingereicht wurde. Die Gründe dafür sind der Verwaltung nicht bekannt.  Herr Werner: Herr Werner sagt zu, die Information bzgl. der Schulstraße an die Betriebsstelle der Emschergenossenschaft weiterzugeben.     I.11.5 Herr Dr. Häpke: Herr Dr. Häpke fragt nach dem Stand der Umsetzung der Maßnahme Entsieglung vor dem Bookenkreuz Wilhelmstraße/Luisenstraße.  Herr Werner: Herr Werner berichtet, dass zwischenzeitlich auch die Gespräche mit der Kirchengemeinde Heiligkreuz geführt wurden. Diese begrüßt die Maßnahme.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B3-118%7C998%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B3-118",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B3-118%7C998%7C1",
+          "date": "2024-07-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B3-118%7C998%7C1",
+          "fileName": "be_998_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B3-118%7C998%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 405466,
+          "text": "  I.12 Mitteilungen der Verwaltung   Gelände Graf Schwerin Herr Röhnert informiert, dass der Kreis Recklinghausen die Genehmigung nach BImSchG für den neuen Standort der Firma Boymans auf dem Gelände Graf Schwerin (Mengeder Str.) erteilt hat.  Information zur Zeitkette des Nahverkehrsplans des Kreises Frau Reuter informiert, dass die Zeitkette des Kreises eine Grundlagenermittlung in diesem Jahr vorsieht - die Planungsphase soll dann in 2025 stattfinden und die Fertigstellung zum Ende des Jahres 2025. Wie bereits angekündigt soll daher nun ein Planungsbüro zur Ermittlung der kommunalen Bedarfe der Bürgerschaft beauftragt werden.  kurzfristiger Aufruf Landesverkehrsministerium zum Landesstraßenbauprogramm Frau Reuter berichtet, dass der Aufruf zusammen mit dem EUV besprochen wurde. Der Aufruf bezieht sich ausdrücklich nur auf Landesstraßen die entweder einem Neubau von über 3 Millionen Euro oder einem erheblichen Umbau in Höhe von über 3 Millionen Euro unterliegen werden. Es soll der gesamte Straßenzug der Dortmunder Straße mit Abbruch der SoDa-Brücke angemeldet werden und grundsätzlich auf die Einrichtung von Radverkehrsanlagen an Landestraßen verwiesen werden.  Sachstand über die Gespräche mit der DB Bahnübergang Obere Münsterstr Frau Reuter berichtet, dass DB die Prüfung der im letzten Jahr vorgelegten Varianten in Bezug auf die Bahnsteiglagen angekündigt. Es haben bereits Vermessungsarbeiten stattgefunden. Außerdem wurde ein Planungsbüro beauftragt.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B3-118%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B3-118",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B3-118%7C997%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B3-118",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2024-06-13T17:30:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B3-118",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-B3-118",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-05-27",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2024-B3-118",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2024-B3-118",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "dfdcd1c6c110aca234e9a9630477979bddbaacfc",
+      "size": 434847,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B3-118/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Betriebsausschusses 3 (Bauen, Verkehr und Sport)",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/205",
+      "https://castroprauxel.gremien.info/oparl/person/1031",
+      "https://castroprauxel.gremien.info/oparl/person/1052",
+      "https://castroprauxel.gremien.info/oparl/person/642",
+      "https://castroprauxel.gremien.info/oparl/person/596",
+      "https://castroprauxel.gremien.info/oparl/person/241",
+      "https://castroprauxel.gremien.info/oparl/person/318",
+      "https://castroprauxel.gremien.info/oparl/person/961",
+      "https://castroprauxel.gremien.info/oparl/person/240",
+      "https://castroprauxel.gremien.info/oparl/person/1064",
+      "https://castroprauxel.gremien.info/oparl/person/416",
+      "https://castroprauxel.gremien.info/oparl/person/187",
+      "https://castroprauxel.gremien.info/oparl/person/335",
+      "https://castroprauxel.gremien.info/oparl/person/780",
+      "https://castroprauxel.gremien.info/oparl/person/841",
+      "https://castroprauxel.gremien.info/oparl/person/420",
+      "https://castroprauxel.gremien.info/oparl/person/1048",
+      "https://castroprauxel.gremien.info/oparl/person/418",
+      "https://castroprauxel.gremien.info/oparl/person/1011",
+      "https://castroprauxel.gremien.info/oparl/person/344",
+      "https://castroprauxel.gremien.info/oparl/person/1025",
+      "https://castroprauxel.gremien.info/oparl/person/1228"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-B3-118",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-07-17",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-B3-118",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-B3-118",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 620830,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2024-06-13T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-B3-118",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-07-17",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-B3-118",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-B3-118",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 620830,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

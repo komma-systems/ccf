@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/241209100037",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-23%7C241209100037%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8057",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2018-EUV-23",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2018-09-12",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/241209100037",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=241209100037&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=241209100037&id=69",
+      "fileName": "241209100037",
+      "id": "https://castroprauxel.gremien.info/oparl/file/241209100037",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2018/EUV/038",
+      "size": 95580,
+      "text": "/  Datum:  12.09.2018   TB I 9686-700      Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 26.09.2018 TOP: I.3 Drucksache-Nr. 2018/EUV/038     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 26.09.2018 3    Betreff:  Risikomanagementbericht 2017     Finanzielle Auswirkungen gem. Wirtschaftsplan   ja Gesamtkosten       X nein Förderung   \f       \f Beschlussvorschlag:  Der Risikomanagementbericht 2017 wird zur Kenntnis genommen.    \f  \f  ________________________ Werner \f Sachverhalt:  Das Systematische Risikomanagement ist ein wichtiger Beitrag zur Sicherung der stabilen Führung und des dauerhaften Erfolges des Stadtbetriebs. Aus diesem Grund wurde nach Einführung des Gesetzes zur Transparenz und Kontrolle im Unternehmensbereich (KonTraG) ein Risikomanagementsystem aufgebaut. Ziel ist es, Risiken frühzeitig zu erkennen und zu bewerten sowie frühzeitig Gegenmaßnahmen zu treffen und einzuleiten. Damit sollen Risiken auf ein Minimum begrenzt werden.  Für 2017 wurden Risiken, die den Bestand des Unternehmens operativ gefährden nicht fest-gestellt. Dennoch wurden einige Risiken wegen ihrer möglichen finanziellen Bedeutung und damit in ihrer Auswirkung einer entwicklungsbeeinträchtigenden Risikoklasse zugeordnet.  Hauptsächlich sind hier die Risiken in der Gebührenstabilität für die Bereiche Abfallentsorgung, Stadtentwässerung und Straßenreinigung/Winterdienst zu nennen. Zudem steht das Kommunalunternehmen an den Schnittstellen der Abfallentsorgung im Wettbewerb mit privaten Dienstleistern.  Der EUV agiert innerhalb der gesetzlichen Rahmenbedingungen, die für 2017 insbesondere die Auseinandersetzung und Umsetzung des EU-Rechts (insbes. die Einführung des § 2 b Umsatzsteuergesetz, Änderungen zu Vergaberichtlinien für öffentliche Auftraggeber, EU-Abfallrahmenrichtlinien) bedeuten.  Weiterhin ist auch die intensive Einbindung des EUV in die Haushaltskonsolidierung der Stadt Castrop-Rauxel zu berücksichtigen. Hier sind insbesondere die Gewährleistung der Verkehrssicherungspflicht sowie die Schadensregulierung bei Straßen- und Gehwegoberflächen gegenüber den Versicherungsträger GVV zu nennen.  Das Verfahren AGR ./. Stadt Castrop-Rauxel vor dem Verwaltungsgericht Gelsenkirchen zur Nachsorge der Altdeponie Pöppinghausen und deren Prozessrisiken für die Stadt Castrop-Rauxel sind - wie auch in den Vorjahren - weiter offen und werden durch den Vorstand in Abstimmung mit der Stadt Castrop-Rauxel begleitet.   Für die Bewältigung der komplexen Aufgaben, die dem EUV bei der Wahrnehmung der Aufgaben der Daseinsvorsorge sowie den Ingenieurbau- und Servicebereichen obliegen, muss die Stabilität in den organisatorischen Abläufen und in der Datenadministration gewährleistet werden. Dahingehend prüft der EUV regelmäßig seine Prozesse auf Nachhaltigkeit und entwickelt diese fortlaufend weiter.  Ferner ist es Zielsetzung des Vorstandes, den Personalbestand zu sichern, die Weiterbildung zu fördern sowie frühzeitig Personalentwicklungsmaßnahmen einzuleiten. Bestandsgefährdende Risiken zeichnen sich derzeit für den EUV nicht ab.  Wir beurteilen die voraussichtliche Entwicklung unseres Unternehmens auf der Grundlage der aktuellen Wirtschafts- und Branchenentwicklung für 2018 optimistisch.  Ergebnis:  Risiken, die den Bestand des Unternehmens tatsächlich gefährden, wurden nicht festgestellt.  Weiterer Bericht in der Sitzung.    \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Risikomanagementbericht 2017",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2018/EUV/038",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36286",
+  "modified_at": "2026-09-03T08:59:46+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369353.pdf",
+        "created": "2026-09-03T08:53:40+02:00",
+        "date": "2026-09-03",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369353.pdf",
+        "fileName": "00369353.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369353",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-03T08:59:46+02:00",
+        "name": "Antrag CDU",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141619",
+        "authoritative": true,
+        "created": "2026-09-03T08:59:29+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68727",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24591",
+        "modified": "2026-09-10T08:48:47+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36286",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-03T08:41:16+02:00",
+    "date": "2026-09-03",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36286",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-03T08:59:46+02:00",
+    "name": "Attraktivierung des Spielplatzes im Von-der-Heydt-Park: Ergänzung von Spiel-, Sport- und Bewegungsangeboten für ältere Kinder und Jugendliche (inkl. Prüfauftrag Minitore) - Antrag der CDU Fraktion",
+    "paperType": "Antrag CDU",
+    "reference": "VO/1083/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "council_id": "muenster",
+  "record_type": "paper",
+  "source_id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056589",
+  "modified_at": "2026-09-08T10:05:32+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588679.pdf",
+        "created": "2026-09-02T14:44:56+02:00",
+        "date": "2026-09-02",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588679.pdf",
+        "fileName": "00588679.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588679",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-04T10:04:07+02:00",
+        "name": "Anlage 1",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588680.pdf",
+        "created": "2026-09-02T14:45:19+02:00",
+        "date": "2026-09-02",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588680.pdf",
+        "fileName": "00588680.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588680",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-04T10:04:07+02:00",
+        "name": "Anlage 2",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588750.pdf",
+        "created": "2026-09-04T09:56:12+02:00",
+        "date": "2026-09-04",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588750.pdf",
+        "fileName": "00588750.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588750",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-04T10:04:07+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://oparl.stadt-muenster.de/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/287629",
+        "created": "2026-08-21T11:23:56+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91617",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14529",
+        "modified": "2026-08-21T11:23:56+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/481"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056589",
+        "role": "Vorberatung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/288594",
+        "created": "2026-09-10T09:02:20+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91616",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14505",
+        "modified": "2026-09-22T15:03:09+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/88"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056589",
+        "role": "Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-21T11:00:50+02:00",
+    "date": "2026-08-21",
+    "id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056589",
+    "modified": "2026-09-08T10:05:32+02:00",
+    "name": "Errichtung eines Recyclinghofs (Zentralhof) in Münster-Hiltrup",
+    "paperType": "Vorlagen",
+    "reference": "V/0471/2026",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "https://oparl.stadt-muenster.de/bodies/0001/organizations/at/100279"
+    ]
+  }
+}

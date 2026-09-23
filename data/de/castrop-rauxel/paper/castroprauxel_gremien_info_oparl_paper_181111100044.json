@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/181111100044",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=181111100044%7C20151111140708.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=181111100044%7C20151111140708.pdf%7C",
+        "fileName": "20151111140708.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C181111100044%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/181111100044",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "47fde4e3a84a055f6d9e2ac8007d1ef7f0cfcc76",
+        "size": 258876,
+        "text": "Gebührenbedarfsberechnung 2016 - Klärschlammentsorgung",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C181111100044%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6795",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2015-EUV-10",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2015-11-11",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/181111100044",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=181111100044&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=181111100044&id=69",
+      "fileName": "181111100044",
+      "id": "https://castroprauxel.gremien.info/oparl/file/181111100044",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2015/EUV/045",
+      "size": 156053,
+      "text": "Datum: 11.11.2015 TB V 96 86 340 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 25.11.2015 TOP: I.3 Drucksache-Nr. 2015/EUV/045 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 25.11.2015 3 Betreff: Gebührenbedarfsberechnung 2016 Klärschlammentsorgung Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € x nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt die Gebührenbedarfsberechnung 2016 Klärschlammentsorgung (Anlage 1) zur Kenntnis. Er beschließt, die Klärschlammgebühren nicht zu ändern. ________________________ Werner Vorstand Sachverhalt: Der EUV Stadtbetrieb Castrop-Rauxel betreibt in seinem Gebiet die Entsorgung und Überwachung der Grundstücksentwässerungsanlagen als öffentliche Einrichtung. Die hierfür erhobene Gebühr betrug im abgelaufenen Jahr 2015 – 58,47 Euro pro angefangenem cbm abgefahrenen Grubeninhaltes. Die Unternehmerkosten stiegen zuletzt im Jahr 2013 auf 18,00 €/cbm zuzüglich MwSt., erhöhten sich jedoch für das Jahr 2015 auf 18,50 €/cbm zuzüglich MwSt., die Verwaltungskosten haben sich in den letzten Jahren kontinuierlich erhöht. Somit ergibt sich entsprechend der Gebührenbedarfsberechnung ein Gebührensatz von 60,46 Euro/cbm. Der Gebührensatz ermittelt sich wie folgt: 2016 I) Verwaltungskosten (Personal- und Sachkosten) 38,44 Euro/cbm II) Unternehmerkosten laut Angebot vom 14.10.2014 18,50 Euro + 19 % Mehrwertsteuer ( 3,52 Euro) 22,02 Euro/cbm insgesamt 60,46 Euro/cbm Von der Gebührensatzung sind zur Zeit noch 57 Grundstückseigentümer betroffen, deren Grundstücke nicht an die öffentliche Abwasseranlage angeschlossen werden können, sondern noch über Grundstücksentwässerungsanlagen verfügen, die entsorgt werden müssen. Es werden im Schnitt ca. 4 m³ Schlamm abgefahren. Obwohl sich die Verwaltungskosten und die Unternehmerkosten verändert haben, soll die Gebühr in 2016 mit einem Satz von 58,47 Euro/cbm beibehalten werden. Weiterer Bericht in der Sitzung.Gebührenbedarfsberechnung 2016 Klärschlammentsorgung2015/EUV/045%anl%;Gebührenbedarfsberechnung 2016 - Klärschlammentsorgung Gebührenbedarfsberechnung 2016 - Klärschlammentsorgung ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Gebührenbedarfsberechnung 2016 Klärschlammentsorgung",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2015/EUV/045",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "council_id": "koeln",
+  "record_type": "paper",
+  "source_id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134795",
+  "modified_at": "2026-09-21T16:54:01+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01112515.pdf",
+        "created": "2026-09-21T13:11:53+02:00",
+        "date": "2026-09-21",
+        "downloadUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/01112515.pdf",
+        "fileName": "01112515.pdf",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/files/1112515",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-21T16:54:01+02:00",
+        "name": "Gem. Änderungsantrag (BV4)",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln",
+    "consultation": [
+      {
+        "agendaItem": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/450653",
+        "authoritative": true,
+        "created": "2026-09-21T16:51:58+02:00",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/206753",
+        "meeting": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34043",
+        "modified": "2026-09-21T18:22:43+02:00",
+        "organization": [
+          "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23"
+        ],
+        "paper": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134795",
+        "role": "Antrag / Anfrage",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-21T13:08:35+02:00",
+    "date": "2026-09-21",
+    "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134795",
+    "modified": "2026-09-21T16:54:01+02:00",
+    "name": "Gemeinsamer Änderungsantrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke, CDU-Fraktion zu TOP 9.3, betr.: Finanzierung der Bürgerschaftshäuser und Bürgerzentren nicht zu kürzen",
+    "paperType": "Gem. Änderungsantrag BV4",
+    "reference": "AN/1515/2026",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

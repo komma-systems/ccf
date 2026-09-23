@@ -1,0 +1,48 @@
+{
+  "council_id": "koeln",
+  "record_type": "paper",
+  "source_id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134746",
+  "modified_at": "2026-09-17T12:56:10+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01111895.pdf",
+        "created": "2026-09-17T12:53:47+02:00",
+        "date": "2026-09-17",
+        "downloadUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/01111895.pdf",
+        "fileName": "01111895.pdf",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/files/1111895",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-17T12:56:10+02:00",
+        "name": "Gem. Änderungsantrag (BV1)",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln",
+    "consultation": [
+      {
+        "agendaItem": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/450321",
+        "authoritative": true,
+        "created": "2026-09-17T12:56:54+02:00",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/206700",
+        "meeting": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33906",
+        "modified": "2026-09-18T07:12:45+02:00",
+        "organization": [
+          "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20"
+        ],
+        "paper": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134746",
+        "role": "Antrag / Anfrage",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-17T12:52:23+02:00",
+    "date": "2026-09-17",
+    "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134746",
+    "modified": "2026-09-17T12:56:10+02:00",
+    "name": "Gem. Änderungsantrag zu TOP 3.10 - Beratung des Haushaltsplan-Entwurfs 2027/2028 (2422/2026), gem. Änderungsantrag B90/Die Grünen, Die Linke, SPD und Volt",
+    "paperType": "Gem. Änderungsantrag BV1",
+    "reference": "AN/1486/2026",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

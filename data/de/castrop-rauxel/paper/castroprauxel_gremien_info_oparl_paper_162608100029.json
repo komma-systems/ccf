@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/162608100029",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=162608100029%7C20140829074651.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=162608100029%7C20140829074651.pdf%7C",
+        "fileName": "20140829074651.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C162608100029%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/162608100029",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "7fd00bb24ce131aa6245b8f1d2af0665a8dff873",
+        "size": 1034739,
+        "text": "Anlage zum Zwischenbericht",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-4%7C162608100029%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6139",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2014-EUV-4",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2014-08-26",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/162608100029",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=162608100029&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=162608100029&id=69",
+      "fileName": "162608100029",
+      "id": "https://castroprauxel.gremien.info/oparl/file/162608100029",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2014/EUV/027",
+      "size": 158480,
+      "text": "Datum: 26.08.2014 TB I 9686-700 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 17.09.2014 TOP: I.5 Drucksache-Nr. 2014/EUV/027 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 17.09.2014 5 Betreff: Zwischenbericht 3 / 2014 Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt den Zwischenbericht 3 / 2014 zur Kenntnis. ________________________ Werner Sachverhalt: Der Vorstand des EUV Stadtbetrieb Castrop-Rauxel – AöR – hat gem. § 8 Abs. 5 der Satzung für das gleichnamige Kommunalunternehmen der Stadt Castrop-Rauxel den Verwaltungsrat mindestens halbjährlich über die Entwicklung des Vermögens- und Erfolgsplanes schriftlich zu unterrichten. Dieser Zwischenbericht 3 / 2014 berücksichtigt alle Buchungsvorgänge und -belege die bis einschließlich 31.07.2014 erfasst worden sind. Die wirtschaftliche Entwicklung des EUV stellt sich in den ersten 7 Monaten des Jahres 2014 wie folgt dar:  Das Ergebnis des Gesamtbetriebes EUV wird in diesem Zwischenbericht mit 544 T€ und somit um 185 T€ höher als im Vergleich zum Zwischenbericht 2/2014 (359 T€) prognostiziert. Im TB III – Abfallentsorgung wird zum jetzigen Zeitpunkt von einem Rechnungsergebnis von -113 T€ ausgegangen. Dieses um 75 T€ im Vergleich zum Zwischenbericht 2/2014 verbessertes Ergebnis ist auf die zeitliche Verschiebung der ursprünglich für das Jahr 2014 vorgesehene Sanierungsmaßnahme (Altdeponie) sowie die positive Entwicklung im Bereich Personalaufwand zurückzuführen. Für der TB IV – Duales System und Sonderleistungen wird nach derzeitiger Berechnung mit -108 T€ abschließen. Der Planwert wird damit um 18 T€ übertroffen und das im Zwischenbericht 2/2014 prognostizierte Ergebnis um 76 T€ verbessert. Der TB V – Stadtentwässerung schließt nach dem jetzigen Stand mit einem Ergebnis i. H. v. 732 T€ ab, was dem im vorausgegangenen Zwischenbericht prognostizierten Wert sowie dem Planwert beinahe entspricht. Der TB VI Straßenreinigung/Winterdienst hat sich im Zwischenbericht 3/2014 im Vergleich zum Zwischenbericht 2/2014 leicht positiv entwickelt. Das prognostizierte Ergebnis verbessert sich um 4 T€ (gegenüber 2/2014 i. H. v. 20 T€), und wird voraussichtlich mit einem Ergebnis von 24 T€ abschließen; im Wirtschaftsplan 2014 wurde ein Wert in Höhe von -5 T€ vorgesehen. Die Gründe für diese positive Entwicklung sind ausschließlich bei der zwischenzeitlich erfolgten Abrechnung der Winterdienstbereitschaft zu sehen. Hinsichtlich der Zahlen des Teilbetriebes VI – Straßenreinigung/Winterdienst ist festzuhalten, dass die positive Planabweichung aus den milden winterlichen Witterungsverhältnissen im 1. Halbjahr resultiert. Der TB VIII – Energie wird voraussichtlich mit dem Ergebnis in Höhe von 2 T€ abgeschlossen, also etwas geringer als im Wirtschaftsplan 2014 kalkuliert, aber deutlich besser als in beiden letzten Zwischenberichten. Bezüglich des Teilbetriebes XI- Kirmesveranstaltungen und Wochenmärkte ist von einem Ergebnis in Höhe von 8 T€ auszugehen, was eine Verbesserung um 9 T€ im Vergleich zum Bericht 2/2014 bedeutet. Der Planwert in Höhe von – 6 T€ wurde somit um T€ 14 übertroffen. Allerdings ist an dieser Stelle darauf hinzuweisen, dass zum jetzigem Zeitpunkt eine belastbare Aussage über das Ergebnis des Teilbetriebes XI für das Jahr 2014 nicht möglich ist, da die von der Stadt Castrop-Rauxel zu erstellende Abrechnung der von den Mitarbeitern der Stadtverwaltung im Jahr 2014 für den Teilbetrieb XI erbrachten Leistungen noch nicht berücksichtigt werden konnte. Bezüglich der Detailzahlen des EUV und der einzelnen Teilbetriebe wird auf die Anlage verwiesen. Weiterer Sachvortrag bei Bedarf in der Verwaltungsratssitzung. .Zwischenbericht3 / 20142014/EUV/027%anl%;Anlage zum Zwischenbericht ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Zwischenbericht  3 / 2014",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2014/EUV/027",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

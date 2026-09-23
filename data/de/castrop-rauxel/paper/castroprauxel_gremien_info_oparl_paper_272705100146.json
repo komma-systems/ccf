@@ -1,0 +1,76 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/272705100146",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272705100146%7C20200610114911-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-06-10",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272705100146%7C20200610114911-0.pdf%7C",
+        "fileName": "20200610114911-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272705100146%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272705100146",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "b25ae262028b73614349e05b933c77639e263290",
+        "size": 535202,
+        "text": "Anlage 3 zu Vorlage 2020.130 - Dringlichkeitsentscheidung",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-HFA-103%7C272705100146%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/9036",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-HFA-103",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-118%7C272705100146%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/9037",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-118",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-05-27",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/272705100146",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272705100146&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272705100146&id=69",
+      "fileName": "272705100146",
+      "id": "https://castroprauxel.gremien.info/oparl/file/272705100146",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/130",
+      "size": 304195,
+      "text": " Bereich Finanzen 2020/130 öffentlich  Az: 20   Datum: 27.05.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Haupt- und Finanzausschuss 25.06.2020 6  Rat der Stadt 25.06.2020 6   Betreff  Genehmigung einer Dringlichkeitsentscheidung gemäß § 60 Abs. 1 Satz 4 GO NRW  (Mittelbereitstellung für die KInvFöG II - Maßnahme  Fridtjof-Nansen-Realschule, Altbau - Sanierung Fassade, Fenster, Türen )  \f     Finanzielle Auswirkungen      keine haushaltsmäßige Berührung     X Auswirkungen siehe Sachverhalt    \f      \fBeschlussvorschlag  Der Rat genehmigt die als Anlage 3 beigefügte von Herrn Bürgermeister Kravanja und Herrn Ratsmitglied Breilmann gemäß § 60 Abs. 1 Satz 4 GO NRW getroffene Dringlichkeitsentscheidung vom 04.06./08.06.2020.     \f\f ___________ __________________   ___________ K r a v a n j a E c k h a r d t     L e n o r t  Bürgermeister Erster Beigeordneter/   Stadtbaurätin Stadtkämmerer \fSachverhalt  Der Rat der Stadt Castrop-Rauxel hat in seiner Sitzung vom 27.02.2020 die fortgeschriebenen Arbeitslisten zu den Förderprogrammen Kommunalinvestitionsförderungsgesetz, Kapitel 2 (KInvFöG II) und Gute Schule 2020 zur Kenntnis genommen und diese als neue Gesamtmaßnahmenlisten beschlossen (Drucksache 2020/046).  Die neue Gesamtmaßnahmenliste zu KInvFöG II beinhaltet u.a. die Maßnahme 22 Fridtjof-Nansen-Realschule, Altbau  Sanierung Fassade, Fenster, Türen. Die genannte Maßnahme wurde mit Gesamtkosten in Höhe von 470.000  in den Maßnahmenkatalog aufgenommen.   Der nach den Bestimmungen des Kommunalinvestitionsförderungsgesetzes förderfähige Anteil liegt bei 90 % der förderfähigen Gesamtkosten, bei der vorliegenden Maßnahme demnach bei 423.000 . Der 10 %ige Eigenanteil in Höhe von 47.000  wird aus Mitteln des Landesprogramms Gute Schule 2020 finanziert und ist in der fortgeschriebenen Arbeitsliste Gute Schule 2020 unter der Maßnahme Nr. 116 ausgewiesen.  Aufgrund der schlechten Bausubstanz des Gebäudes soll die Maßnahme umgehend begonnen und noch in 2020 abgeschlossen werden. Die diesbezüglichen Ausschreibungsunterlagen wurden zeitnah fertig gestellt. Um diese veröffentlichen zu können, war eine unverzügliche Mittelbereitstellung erforderlich. Zeitliche Verzögerungen wie auch ein Zuwarten bis zur Ratssitzung am 25.06.2020 hätten ggf. zur Folge gehabt, dass die Maßnahme nicht mehr planmäßig im Jahr 2020 durchgeführt werden kann.  Es wurde daher am 04.06./08.06.2020 die als Anlage 3 beigefügte Dringlichkeitsentscheidung durch Herrn Bürgermeister Kravanja und Herrn Ratsmitglied Breilmann beschlossen. Irrtümlich ist in der Dringlichkeitsentscheidung als Rechtnorm § 60 Abs. 2 Satz 1 GO NRW angegeben. Zutreffende Rechtsgrundlage nach Änderung der Gemeindeordnung (Artikel 4 des Gesetzes vom 14.04.2020, in Kraft getreten am 15. April 2020) ist nunmehr jedoch § 60 Abs. 1 Satz 4 GO NRW.   Die Mittel in Höhe von 470.000  wurden im Nachgang bei der Position 0321006 03013 211502 I0003 (FNR Altbau Sanierung Fassade) bereitgestellt. Die Refinanzierung erfolgt aus den Positionen 3811182 03013 211502 I0003 (423.000  Landeszuwendung KInv-FöG) und 3261016 50200 610101 ALT178 (47.000  Investitionskredite Landesprogramm Gute Schule 2020).   Gemäß § 60 Abs. 1 Satz 5 GO NRW ist die Dringlichkeitsentscheidung dem Rat in der nächsten Sitzung zur Genehmigung vorzulegen.  Der Abschreibungszeitraum beträgt 35 Jahre. Die zusätzlichen Aufwendungen aus der Abschreibung in Höhe von 13.429  p.a. werden durch die Erträge aus der Auflösung der Sonderposten ausgeglichen. Die Maßnahme stellt sich insofern als haushaltsneutral dar.  Darüber hinaus wird von durchschnittlich notwendigen Instandhaltungsaufwendungen in Höhe von 7.050  p.a. ausgegangen. Für die mittelfristige Finanzplanung des Doppelhaushalts 2020/2021 (Haushaltsjahre 2021- 2024) entstehen dadurch voraussichtlich Aufwendungen in Höhe von 28.200 , wobei in den ersten Jahren der Nutzung eines neuen Vermögensgegenstandes regelmäßig davon auszugehen ist, dass die tatsächlich erforderlichen Instandhaltungsaufwendungen unterhalb des o. a. Wertes liegen. Die jeweils erforderlichen Aufwendungen sind vom Bereich Immobilienmanagement aus den in den einzelnen Haushaltsjahren bereitstehenden Haushaltsmitteln zu finanzieren.     Bereich 20 Bereich 60       \f  \fAnlage 1  - Finanzielle Auswirkungen     \f  I. Mittelbedarf (2020): davon                                        Ergebnisplan              Aufwendungen: 0   - Erträge von Dritten: 0   = Städtischer Eigenanteil: 0                  davon       Finanzplan Auszahlungen: 470.000   - Einzahlungen von Dritten: 470.000   = Städtischer Finanzierungsanteil: 0           (Daten zur Investitionsmaßnahme          siehe Anlage 2)  Die benötigten Haushaltsmittel stehen zur Verfügung:                \f JA  Buchungsstelle:   NEIN  Siehe Erläuterungen / Angabe von Deckungsvorschlägen \f Erläuterungen / Angabe von Deckungsvorschlägen:  Refinanzierung aus Position 3811182 03013 211502 I0003 (423.000  Landeszuwendung KInvFöG) und 3261016 50200 610101 ALT178 (47.000  Investitionskredite Landesprogramm Gute Schule 2020).   \f Bei Maßnahmen des Finanzplanes:  Die Maßnahme ist in der vom Rat beschlossenen Dringlichkeitsliste enthalten.  Die Maßnahme ist in die vom Rat beschlossene Dringlichkeitsliste zusätzlich aufzunehmen bzw. eine     Erweiterung der Maßnahme ist vorzunehmen.  Die Maßnahme ist in die vom Rat zu beschließende Dringlichkeitsliste aufzunehmen. \f  II. Auswirkungen auf die mittelfristige Haushaltsplanung: Ergebnisplan 2021 2022 2023 2024 insgesamt  Personalaufwendungen          Sachaufwendungen 7.050  7.050  7.050  7.050   28.200   Zinsaufwendungen       Aufwendungen für Abschreib. 13.429  13.429  13.429  13.429  53.716   Zusätzliche Erträge 13.429  13.429  13.429   13.429  53.716   Mindererträge          Summe 7.050  7.050  7.050  7.050   28.200    Die Finanzierung ist innerhalb der mittelfristigen Haushaltsplanung für die Produktgruppe  \f   gesichert    nicht gesichert \f  III. Es wurde geprüft, dass es sich um eine Maßnahme handelt, die unter Berücksichtigung der Vorgaben des § 83 GO NRW notwendig und unabweisbar ist.                                                                                                                       \f Daten zur Investitionsmaßnahme: Fridtjof-Nansen-Realschule, Altbau  Sanierung Fassade, Fenster, Türen  (Anlage 2)          1. Gesamtwerte        Maßnahme/Gegenstand Anschaffungs- und Herstellungskosten Zuwendungen  Buchungs-stelle Gegenstand Investive Auszahlung Akt. Eigen-leistung Summe Zuwendungs- geber 1 Zuwendungs-geber 2 Summe  0321006 03013 211502 I0003 FNR Altbau Sanierung 470.000  0  470.000  Bezirksregierung Münster  423.000  NRW.BANK 47.000  470.000                     Summe: 470.000  0  470.000  423.000  47.000  470.000    Maßnahme/Gegenstand    Buchungs-stelle Gegenstand Eigenanteil Nutzungs-dauer (Jahre) Aktivierung (Zeitpunkt der Inbetr./Herst.) Kostenstelle    0321006 03013 211502 I0003 Sanierung FNR Altbau  0 35 2021 03013                        2. Darstellung der Folgeaufwendungen und /-erträge     Maßnahme/Gegenstand Abschreibungen     Grundwerte Abschreibungsbeträge   Nutzungs-   beginn Nutzungsende Abschr. / Jahr Abschr. / Monat Abschr. im 1. Jahr Abschr. in Folgejahren Abschr. im letzten Jahr   2021 2056 13.429  1.119  13.429  13.429  13.429                      Maßnahme/Gegenstand Erträge aus der Auflösung von Sonderposten     Grundwerte Ertragswerte   Nutzungs-   beginn Nutzungsende Ertrag / Jahr Ertrag / Monat Ertrag im 1. Jahr Ertrag in Folgejahren Ertrag im letzten Jahr   2021 2056 13.429  1.119  13.429  13.429  13.429                               3. Finanzielle Auswirkungen der Investitionsmaßnahme      Zeitraum Finanzplanung   Auszahlung Einzahlung Saldo  2020 470.000  470.000  0                                                Summe: 470.000  470.000  0    Zeitraum Ergebnisplanung   Aufwand Ertrag Saldo  2021 bis 2056 470.000   AfA  470.000  Auflösung Sonderposten                     0    246.750  -          246.750    (lfd. Instandhaltungsaufwendungen)                                       Summe: 716.750  470.000  246.750    \f   \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Genehmigung einer Dringlichkeitsentscheidung gemäß § 60 Abs. 1 Satz 4 GO NRW  (Mittelbereitstellung für die KInvFöG II - Maßnahme 'Fridtjof-Nansen-Realschule, Altbau - Sanierung Fassade, Fenster, Türen')",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/130",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

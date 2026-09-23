@@ -1,0 +1,441 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-119",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-119%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-119",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-119%7C1%7C1",
+          "date": "2024-02-23",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-119%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-119%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 298363,
+          "text": "1 Fragestunde für Einwohnerinnen und Einwohner    Keine Fragen.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-119%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-119",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-119%7CProtokoll%7C1",
+          "date": "2024-02-23",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-119%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-119%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 299874,
+          "text": "2 Einwände gegen die letzte Niederschrift    Keine Einwände.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-119%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-119",
+        "name": "Vorstellung des Palliativ Netzwerkes und deren Angebote\r\n- Frau Vogel -",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-119%7Czt_1%7C1",
+          "date": "2024-02-23",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-119%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-119%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 327871,
+          "text": "3 Vorstellung des Palliativ Netzwerkes und deren Angebote - Frau Vogel -   Frau Vogel gibt dem Ausschuss einen Einblick der Arbeit und der Partner des Palliativ Netzwerkes.  Auch in diesem Jahr gibt es wieder ein Radeln mit Partnern und Interessenten. Der nächste Palliativ-Tag findet am 07.09.2024. Frau Vogel wünscht sich, dass das Thema mehr publik wird und die Presse es mehr in Fokus nimmt.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-119%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-119",
+        "name": "Begrüßung durch Herrn Hagedorn\r\nSchulleiter der Cottenburgschule",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-119%7Czt_0%7C1",
+          "date": "2024-02-23",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-119%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-119%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 322788,
+          "text": "4 Begrüßung durch Herrn Hagedorn Schulleiter der Cottenburgschule    Herr Hagedorn begrüßt den Betriebsausschuss 2 in den OGS Räumlichkeiten des  Teilstandortes Cottenburgschule. Er berichtet dem Ausschuss, wie es seit Eröffnung des Standortes im letzten Jahr  verlaufen ist und teilt mit, dass die Anmeldezahlen zum kommenden Schuljahr zwei 1. Klassen am Teilstandort und drei 1. Klassen am Hauptstandort zulassen.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-B2-119%7Czt_2%7C1%7C20240228113522-0_zt_2_1.pdf",
+            "date": "2024-02-28",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-B2-119%7Czt_2%7C1%7C20240228113522-0_zt_2_1.pdf",
+            "fileName": "20240228113522-0_zt_2_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-B2-119%7Czt_2%7C1%7C20240228113522-0_zt_2_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Präsentation_Gelingendes Aufwachsen_ LWLpptx",
+            "size": 3132496,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-119%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-119",
+        "name": "Sachstandsbericht zum Projekt 'Gelingendes Aufwachsen'\r\n- Frau Teschlade -",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-119%7Czt_2%7C1",
+          "date": "2024-02-23",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-119%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-119%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 327938,
+          "text": "5 Sachstandsbericht zum Projekt  Gelingendes Aufwachsen  - Frau Teschlade -   Frau Born und Frau Teschlade berichten von dem Projekt Gelingendes Aufwachsen. Die Präsentation hierzu ist dem Protokoll beigefügt (Anlage 1).       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-B2-119%7Czt_4%7C1%7C20240314081823-0_zt_4_1.pdf",
+            "date": "2024-03-14",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-B2-119%7Czt_4%7C1%7C20240314081823-0_zt_4_1.pdf",
+            "fileName": "20240314081823-0_zt_4_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-B2-119%7Czt_4%7C1%7C20240314081823-0_zt_4_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Präsentation Zusammen im Quartier",
+            "size": 3804549,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-119%7Czt_4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-119",
+        "name": "Sachstandsbericht zum Projekt 'Zusammen im Quartier'\r\n- Frau Teschlade -",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-119%7Czt_4%7C1",
+          "date": "2024-02-23",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-119%7Czt_4%7C1",
+          "fileName": "be_zt_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-119%7Czt_4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 320135,
+          "text": "6 Sachstandsbericht zum Projekt  Zusammen im Quartier  - Frau Teschlade -    Frau Teschlade gibt einen Zwischenbericht zum Projekt Zusammen im Quartier.  Die Präsentation ist als Anlage 2 dem Protokoll beigefügt.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-119%7Czt_5%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-119",
+        "name": "Integration in Castrop-Rauxel - ein Bericht zur aktuellen Situation\r\n- Bereich Migration und Obdachlosenhilfe -",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-119%7Czt_5%7C1",
+          "date": "2024-02-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-119%7Czt_5%7C1",
+          "fileName": "be_zt_5_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-119%7Czt_5%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 325526,
+          "text": "7 Integration in Castrop-Rauxel - ein Bericht zur aktuellen Situation - Bereich Migration und Obdachlosenhilfe -    Frau Matzmorr, Frau Kintscher und Frau Drescher des Bereichs Migration und  Obdachlosenhilfe berichten dem Ausschuss vom Case-Management und dem  Quartiersbüro auf der Lange Straße in C.-R.  Die 1. Beigeordnetet, Frau Kleff, teilt den Ausschussmitgliedern mit, dass die Notunterkunft aufgrund einer Sturmwarnung geschlossen wird und alle Bewohnern in der Stadthalle unterkommen.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-119%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-119",
+        "name": "Aktueller Sachsstandsbericht zur Schulentwicklungsplanung",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-119%7Czt_3%7C1",
+          "date": "2024-02-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-119%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-119%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 330752,
+          "text": "8 Aktueller Sachstandsbericht zur Schulentwicklungsplanung    Frau Kruck berichtet über die Prüfung des Landesrechnungshofes NRW vom  Förderprogramm Digitalpakt. Weiterhin teilt sie mit, dass die Wilhelmschule und die Grundschule Am Hügel zum Schuljahr 2024/2025 3-zügig sind.  Ebenso berichtet sie vom Bestimmungsverfahren zur Eigenständigkeit des  Teilstandortes der Cottenburgschule.  Sie informiert die Ausschussmitglieder über den aktuellen Stand des Anmeldeverfahrens an den weiterführenden Schulen.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11071",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-119%7C350102100026%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-119",
+        "name": "Änderung der Bezeichnung einer Schule gem. § 6 SchulG NRW\r\nhier: neue Namensgebung der 'Grundschule Am Hügel'",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-119%7C350102100026%7C1",
+          "date": "2024-02-23",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-119%7C350102100026%7C1",
+          "fileName": "be_350102100026_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-119%7C350102100026%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 349544,
+          "text": "9 Änderung der Bezeichnung einer Schule gem. § 6 SchulG NRW hier: neue Namensgebung der  Grundschule Am Hügel  (2024/028)  Frau Anders, Schulleiterin der Grundschule Am Hügel, begründet den Wunsch des neuen Namens. Der offizielle Schulname soll somit ab Beginn des Schuljahres 2024/25  Löwenherz-Grundschule, Gemeinschaftsgrundschule der Stadt Castrop-Rauxel lauten  Der Betriebsausschuss 2 beschließt einstimmig die  Vorlage 2024/028.  \f Der Betriebsausschuss 2 der Stadt Castrop-Rauxel beschließt für die Grundschule Am Hügel folgende Änderung des Schulnamens:   Löwenherz-Grundschule Standort: Kleine Lönsstr. 60, 44575 Castrop-Rauxel Zeitpunkt: Beginn des Schuljahres 2024/25         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11072",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-119%7C350602100033%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-119",
+        "name": "Umbesetzung Betriebsausschuss 02",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-119%7C350602100033%7C1",
+          "date": "2024-02-23",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-119%7C350602100033%7C1",
+          "fileName": "be_350602100033_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-119%7C350602100033%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 313322,
+          "text": "  10 Umbesetzung Betriebsausschuss 02 (2024/034)    Der Betriebsausschuss 2 stimmt der Vorlage einstimmig zu.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/15492",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-119%7C352301100015%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-119",
+        "name": "Antrag der FWI-Fraktion vom 19.01.2024_Prüfauftrag zur Aufstellung einer autarken Toilettenanlage",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-119%7C352301100015%7C1",
+          "date": "2024-02-23",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-119%7C352301100015%7C1",
+          "fileName": "be_352301100015_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-119%7C352301100015%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 326336,
+          "text": "  11 Antrag der FWI-Fraktion vom 19.01.2024_Prüfauftrag zur Aufstellung einer autarken Toilettenanlage (2024/015)   Frau Leuchtmann berichtet, dass der Antrag bereits im AGID und JHA besprochen und beschlossen wurde. Der Betriebsausschuss 2 folgt dem AGID und JHA und stimmt dem Antrag einstimmig zu.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-B2-119%7C6%7C1%7C20240228122010-0_6_1.pdf",
+            "date": "2024-02-28",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-B2-119%7C6%7C1%7C20240228122010-0_6_1.pdf",
+            "fileName": "20240228122010-0_6_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-B2-119%7C6%7C1%7C20240228122010-0_6_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "SPD_Gruene_Schulwegsicherung  Kopie",
+            "size": 249637,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-119%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-119",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-119%7C6%7C1",
+          "date": "2024-02-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-119%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-119%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 315437,
+          "text": "12 Anfragen der Ausschussmitglieder    Die schriftliche Anfrage wird von Herrn Eismann erklärt. Frau Lasser-Moryson schlägt vor, diese in einen Prüfauftrag zu wandeln.  Die Ausschussmitglieder beschließen einstimmig den Prüfauftrag.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-119%7C998%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-119",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "13",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-119%7C998%7C1",
+          "date": "2024-02-28",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-119%7C998%7C1",
+          "fileName": "be_998_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-119%7C998%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 13",
+          "size": 297118,
+          "text": "13 Mitteilungen der Verwaltung   Keine Mitteilungen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-119%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-119",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-119%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-119",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2024-B2-119%7C20240202094129-0_2024-B2-119_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2024-02-02",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2024-B2-119%7C20240202094129-0_2024-B2-119_1.pdf",
+        "fileName": "20240202094129-0_2024-B2-119_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2024-B2-119%7C1",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Anlage zum Antrag über die Änderung der Bezeichnung der 'Grundschule am Hügel'",
+        "size": 475876,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2024-02-22T19:30:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-119",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-B2-119",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-02-08",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2024-B2-119",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2024-B2-119",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "2f63015722e86c1b1b2a687c0c1a2e56eaa7b16c",
+      "size": 434037,
+      "text": "Amtliche Bekanntmachung der Tagesordnung zur Sitzung des Betriebsausschusses 2 (Familie, Jugend, Soziales und Bildung) am Donnerstag, 22.02.2024 um 17:00 Uhr Cottenburgschule Teilstandort Am Hügel, Am Hügel 6, 44575 Castrop-Rauxel  I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner  2. Einwände gegen die letzte Niederschrift  3. Begrüßung durch Herrn Hagedorn Schulleiter der Cottenburgschule  4. Vorstellung des Palliativ Netzwerkes und deren Angebote - Frau Vogel -  5. Sachstandsbericht zum Projekt  Gelingendes Aufwachsen  - Frau Teschlade -  6. Sachstandsbericht zum Projekt  Zusammen im Quartier  - Frau Teschlade -  7. Integration in Castrop-Rauxel - ein Bericht zur aktuellen Situation - Bereich Migration und Obdachlosenhilfe -  8. Aktueller Sachsstandsbericht zur Schulentwicklungsplanung  9. Änderung der Bezeichnung einer Schule gem. § 6 SchulG NRW hier: neue Namensgebung der  Grundschule Am Hügel   10. Umbesetzung Betriebsausschuss 02  11. Antrag der FWI-Fraktion vom 19.01.2024_Prüfauftrag zur Aufstellung einer autarken Toilettenanlage  12. Anfragen der Ausschussmitglieder  13. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  1. Anfragen der Ausschussmitglieder  2. Mitteilungen der Verwaltung   \u000b Katrin Lasser-Moryson Ausschussvorsitzende \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "außerhalb des Rathauses, Info siehe Bekanntmachung, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-119/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "außerhalb des Rathauses, Info siehe Bekanntmachung",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Betriebsausschusses 2 (Familie, Jugend, Soziales und Bildung)",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/597",
+      "https://castroprauxel.gremien.info/oparl/person/694",
+      "https://castroprauxel.gremien.info/oparl/person/812",
+      "https://castroprauxel.gremien.info/oparl/person/138",
+      "https://castroprauxel.gremien.info/oparl/person/1032",
+      "https://castroprauxel.gremien.info/oparl/person/1052",
+      "https://castroprauxel.gremien.info/oparl/person/1063",
+      "https://castroprauxel.gremien.info/oparl/person/1043",
+      "https://castroprauxel.gremien.info/oparl/person/858",
+      "https://castroprauxel.gremien.info/oparl/person/309",
+      "https://castroprauxel.gremien.info/oparl/person/977",
+      "https://castroprauxel.gremien.info/oparl/person/895",
+      "https://castroprauxel.gremien.info/oparl/person/1060",
+      "https://castroprauxel.gremien.info/oparl/person/1061",
+      "https://castroprauxel.gremien.info/oparl/person/29",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/949"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-B2-119",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-02-28",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-B2-119",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-B2-119",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 413146,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2024-02-22T17:00:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-B2-119",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-02-28",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-B2-119",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-B2-119",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 413146,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36053",
+  "modified_at": "2026-07-07T12:40:32+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00366984.pdf",
+        "created": "2026-07-06T07:47:03+02:00",
+        "date": "2026-06-22",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00366984.pdf",
+        "fileName": "00366984.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/366984",
+        "mimeType": "application/pdf",
+        "modified": "2026-07-07T12:40:32+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141055",
+        "authoritative": true,
+        "created": "2026-07-06T07:50:15+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68287",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24653",
+        "modified": "2026-07-29T09:06:23+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36053",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141056",
+        "authoritative": true,
+        "created": "2026-07-06T07:50:41+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68288",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24542",
+        "modified": "2026-09-23T10:39:12+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36053",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-06T07:47:02+02:00",
+    "date": "2026-07-06",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36053",
+    "modified": "2026-07-07T12:40:32+02:00",
+    "name": "Teilweise Neubesetzung des Planungsbeirates für die Klinik des Maßregelvollzugs (Forensik) des Landschaftsverbandes Rheinland (LVR) in Wuppertal-Ronsdorf",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/0824/26/1-Neuf.",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

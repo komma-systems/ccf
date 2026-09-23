@@ -1,0 +1,78 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/271001100004",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271001100004%7C20200110121902.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-01-10",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271001100004%7C20200110121902.pdf%7C",
+        "fileName": "20200110121902.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271001100004%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271001100004",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "9d3397f9498be206d1897e406bdd4492e36d14b1",
+        "size": 719664,
+        "text": "Dringlichkeitsentscheidung",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-HFA-101%7C271001100004%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8832",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-HFA-101",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-116%7C271001100004%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8833",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-116",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-01-10",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/271001100004",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271001100004&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271001100004&id=69",
+      "fileName": "271001100004",
+      "id": "https://castroprauxel.gremien.info/oparl/file/271001100004",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/005",
+      "size": 106931,
+      "text": " Bereich EUV Stadtbetrieb 2020/005 öffentlich  Az:     Datum: 10.01.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Haupt- und Finanzausschuss 25.02.2020   Rat der Stadt 27.02.2020    Betreff  Genehmigung einer Dringlichkeitsentscheidung gem. § 60 Abs. 1 der Gemeindeordnung NW (GO NW) zu einer überplanmäßigen Mittelbereitstellung bei der Buchungsstelle 61.01.54392020 (Beratungsleistungen Konzessionsverträge in Verbindung mit Straßenbeleuchtungsvertrag)  \f     Finanzielle Auswirkungen      keine haushaltsmäßige Berührung     X Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Der Rat der Stadt genehmigt die von Herrn Bürgermeister Kravanja und Herrn Ratsmitglied Breilmann gem. § 60 Abst. 1 der GO NW getroffenen Dringlichkeitsentscheidung vom 20.12.2019, die wie folgt lautet:  Die Unterzeichner beschließen gem. § 60 GO NW im Wege der Dringlichkeit:  Bei der Buchungsstelle 61.0154392020 (Beratungsleistungen Konzessionsvertrag und Straßenbeleuchtungsvertrag) werden im Haushalt 2019 außerplanmäßig 30.000  zur Verfügung gestellt. Die Deckung der außerplanmäßig bereitgestellten Mittel in Höhe von 46.500  brutto erfolgt aus entsprechenden Minderaufwendungen bei der Buchungsstelle 61.01.551810 Zinsen Kassenkredite.  \f  \f Kravanja      Erster Beigeordneter und Kämmerer Bürgermeister    Eckhardt  Sachverhalt  Aus der Buchungsstelle 61.01.54392020 werden die Beratungskosten für die Kon- zessionsverträge und für die Straßenbeleuchtung gezahlt. Der geplante Ansatz für 2019 beläuft sich auf 130.000 . Wie in der Vorlage 2019/297 für den Rat der Stadt am 28.11.2019 dargestellt, konnte zum damaligen Zeitpunkt die abschließende Kostengröße für die Abrechnung des 4. Quartals noch nicht vorgelegt werden. Diese liegt mittlerweile vor, so dass es erforderlich war, außerplanmäßig weitere Mittel bereitzustellen.  Durch die Bereitstellung des Mehrbedarfs in der v.g. Höhe wird die Wertgrenze von 75.000  überschritten, weswegen für die Mittelbereitstellung die Genehmigung des Rates erforderlich ist. Da der Rat erst am 27.02.2020 erneut zu einer Sitzung zusammentrifft, die Auszahlung jedoch mit Rechnungsläufen zum Jahreswechsel zu erfolgen hatte, war eine Dringlichkeitsentscheidung gem. § 60 GO NW erforderlich. Die Dringlichkeitsentscheidung vom 20.12.2019 ist als Anlage beigefügt.  /       \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Genehmigung einer Dringlichkeitsentscheidung gem. § 60 Abs. 1 der Gemeindeordnung NW (GO NW) zu einer überplanmäßigen Mittelbereitstellung bei der Buchungsstelle 61.01.54392020 (Beratungsleistungen Konzessionsverträge in Verbindung mit Straßenbeleuchtungsvertrag)",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/005",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

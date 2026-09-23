@@ -1,0 +1,47 @@
+{
+  "council_id": "koeln",
+  "record_type": "paper",
+  "source_id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134797",
+  "modified_at": "2026-09-23T17:58:29+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01112519.pdf",
+        "created": "2026-09-21T13:40:35+02:00",
+        "date": "2026-09-21",
+        "downloadUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/01112519.pdf",
+        "fileName": "01112519.pdf",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/files/1112519",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-21T14:59:57+02:00",
+        "name": "Beantwortung einer Anfrage (Ausschuss)",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln",
+    "consultation": [
+      {
+        "agendaItem": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/450646",
+        "created": "2026-09-21T15:27:37+02:00",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/206755",
+        "meeting": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34403",
+        "modified": "2026-09-23T09:16:03+02:00",
+        "organization": [
+          "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/198"
+        ],
+        "paper": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134797",
+        "role": "Kenntnisnahme (Mitteilung)",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-21T13:38:28+02:00",
+    "date": "2026-09-21",
+    "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134797",
+    "modified": "2026-09-23T17:58:29+02:00",
+    "name": "Beantwortung einer schriftlichen Anfrage der Fraktion Volt aus der Sitzung des Finanzausschusses vom 11.05.2026 (AN/0741/2026 ) betreffend \"Ansätze zur Verbesserung der Ertragsbasis“",
+    "paperType": "Beantwortung einer Anfrage (Ausschuss)",
+    "reference": "2634/2026",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

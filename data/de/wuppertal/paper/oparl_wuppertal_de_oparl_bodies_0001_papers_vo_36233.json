@@ -1,0 +1,53 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36233",
+  "modified_at": "2026-09-01T15:25:33+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369033.pdf",
+        "created": "2026-08-27T13:06:27+02:00",
+        "date": "2026-08-27",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369033.pdf",
+        "fileName": "00369033.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369033",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-01T15:25:33+02:00",
+        "name": "Bericht",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141501",
+        "created": "2026-08-27T14:33:47+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68622",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24648",
+        "modified": "2026-09-08T16:46:39+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/271"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36233",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-27T12:58:44+02:00",
+    "date": "2026-08-27",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36233",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-01T15:25:33+02:00",
+    "name": "Bericht zum Regionaltreffen mit dem Landesprogramm Beruf und Pflege NRW und den bergischen betrieblichen Pflegeguides am 06.10.2026",
+    "paperType": "Bericht",
+    "reference": "VO/1033/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/70711100264",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-UMWA-13%7C70711100264%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/2431",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-UMWA-13",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2006-11-07",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/70711100264",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=70711100264&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=70711100264&id=69",
+      "fileName": "70711100264",
+      "id": "https://castroprauxel.gremien.info/oparl/file/70711100264",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2006/262",
+      "size": 122141,
+      "text": "angebot;anlage;aufsichtsbehörde;ausbau;ausgewählt;bahnhofstr;bahnhofsvorplatz;beigeordneter;beleuchtungskonzept;beleuchtungssystem;bereichs-budgets;berücksichtigung;berührung;bestückt;castroper-holz;dringlichkeitsliste;dritten;eigenanteil;eingriff;einsparung;energiebeirat;energiebeirates;erläuterungen;erlöse;europaplatz;finanzierung;finanzplanungszeitraum;flächenausleuchtung;folgekosten;gesamtkosten;hallenbad;hallenbadbesuchern;hallenbadparkplätze;haushaltsstelle;hhst;hsk-planung;iii;korrosion;kreisverkehrs;kurzzeichen;leuchten;leuchtentyp;licht;licht-;lichttechnik;mindereinnahmen;nachbarschaft;natriumdampf-hochdrucklampe;nein;nrw;personalkosten;projektes;rahmen;rundumlicht;rwe;sachkosten;sitzungsvorlage;spiegeltechnik;städtischer;straßenbeleuchtung;technischer;tiefbau;top-nr;trilux;typ;umsetzung;umweltausschuß;vermögens-hh;verwaltungs-hh;vorgaben;wanderparkplatz;watt;zufahrt;zufahrts-;beleuchtungskonzept;wanderparkplatz;hallenbad;2006/262;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Beleuchtungskonzept Wanderparkplatz Hallenbad",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2006/262",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

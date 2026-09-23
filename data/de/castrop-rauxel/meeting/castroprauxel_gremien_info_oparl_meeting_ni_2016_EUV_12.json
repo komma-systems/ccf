@@ -1,0 +1,439 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Genehmigung des Protokolls vom 25.11.2015",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7Czt_0%7C1",
+          "date": "2016-03-09",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2016-EUV-12%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 96626,
+          "text": "1 Genehmigung des Protokolls vom 25.11.2015 Vorstand Herr Werner gibt unter Verweis auf die Anfragen in der Sitzung vom 25.11.2015 ergänzende Erklärungen zu verschiedenen Wirtschaftsplanansätzen 2016. Der Verwaltungsrat nimmt die Ergänzungen zur Kenntnis. Weitere Wortmeldungen zum Protokoll gibt es nicht. Der Verwaltungsrat beschließt einstimmig das Protokoll der Sitzung vom 25.11.2015. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6913",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7C201802100010%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Zwischenbericht 5 / 2015",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7C201802100010%7C1",
+          "date": "2016-03-09",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7C201802100010%7C1",
+          "fileName": "be_201802100010_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2016-EUV-12%7C201802100010%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 100322,
+          "text": "2 Zwischenbericht 5 / 2015 (2016/EUV/011) Vorstand Herr Werner erläutert die Vorlage. Auf Anmerkung von Verwaltungsratsmitglied Herrn Dr. Jankovics schlägt Vorstand Herr Werner vor, die absoluten Abweichungen zum Planansatz und zum Vorjahr zukünftig absolut betragsmäßig sowie graphisch darzustellen. Auf Anfrage von Verwaltungsratsmitglied Herrn Dr. Jankovics erläutert der stellvertretende Vorstand Herr Werth-von Kampen die Gründe, warum der Teilbetrieb „Energie“ derzeit noch kein ausgeglichenes Ergebnis erzwingt. Der Verwaltungsrat nimmt den Zwischenbericht 5 / 2015 zur Kenntnis. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6914",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7C201802100011%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Zwischenbericht  1 / 2016",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7C201802100011%7C1",
+          "date": "2016-03-09",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7C201802100011%7C1",
+          "fileName": "be_201802100011_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2016-EUV-12%7C201802100011%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 94367,
+          "text": "3 Zwischenbericht 1 / 2016 (2016/EUV/012) Vorstand Herr Werner erläutert die Vorlage. Der Verwaltungsrat nimmt den Zwischenbericht 1 / 2016 zur Kenntnis. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6907",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7C201502100008%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Beschlusscontrolling Verwaltungsrat 2015",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7C201502100008%7C1",
+          "date": "2016-03-09",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7C201502100008%7C1",
+          "fileName": "be_201502100008_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2016-EUV-12%7C201502100008%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 95612,
+          "text": "4 Beschlusscontrolling Verwaltungsrat 2015 (2016/EUV/009) Zur Vorlage gibt es keine Wortmeldung. Der Verwaltungsrat nimmt den Bericht des Vorstandes zum Beschlusscontrolling für den öffentlichen Teil zur Kenntnis. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6915",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7C201802100012%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Grünabfallaktion Frühjahr 2016",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7C201802100012%7C1",
+          "date": "2016-03-09",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7C201802100012%7C1",
+          "fileName": "be_201802100012_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2016-EUV-12%7C201802100012%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 97471,
+          "text": "5 Grünabfallaktion Frühjahr 2016 (2016/EUV/013) Vorstand Herr Werner erläutert die Vorlage. Der Verwaltungsrat nimmt von der Vorlage zur Durchführung der Grünabfallsammlung im Frühjahr 2016 Kenntnis. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Einsätze Winterdienst 2015/2016\r\n-mündlicher Bericht-",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7Czt_1%7C1",
+          "date": "2016-03-09",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2016-EUV-12%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 98562,
+          "text": "6 Einsätze Winterdienst 2015/2016 - mündlicher Bericht- Vorstand Herr Werner erklärt, dass im bisherigen Winter 2015/2016 unterdurchschnittliche Winterdienst-Einsätze notwendig waren. Herr Werner macht Aussagen zu den Einsatztagen und zum Streusalzverbrauch. Auf Anfrage von Verwaltungsratsmitglied Herrn Dr. Jankovics erklärt der Vorstand, dass das trocken gelagerte Streusalz auch in der nächsten Winterperiode weiterhin nutzbar ist. Der Verwaltungsrat nimmt den mündlichen Bericht zu den Einsätzen im Winterdienst 2015/2016 zur Kenntnis. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6897",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7C201502100003%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Rückwärtsfahren im öffentlichen Straßenraum;\r\nKommunale Entsorgungsfahrzeuge",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7C201502100003%7C1",
+          "date": "2016-03-09",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7C201502100003%7C1",
+          "fileName": "be_201502100003_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2016-EUV-12%7C201502100003%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 100194,
+          "text": "7 Rückwärtsfahren im öffentlichen Straßenraum; Kommunale Entsorgungsfahrzeuge (2016/EUV/004) Vorstand Herr Werner erläutert die Vorlage. Das Rückwärtsfahren ist aufgrund einer Übergangsregelung unter Beachtung und Einhaltung der Arbeitssicherheitsvorschriften in Anliegerstraßen weiter gestattet. Vielfach sind aber parkende Kraftfahrzeuge in den Straßen und insbesondere in den Wendehämmern das Hindernis für den EUV. Der Verwaltungsrat nimmt den Bericht des Vorstandes zur Kenntnis. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6901",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7C201502100007%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Sachstand zur Umsetzung der Sanierung der Deponie Brandheide",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7C201502100007%7C1",
+          "date": "2016-03-09",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7C201502100007%7C1",
+          "fileName": "be_201502100007_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2016-EUV-12%7C201502100007%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 99299,
+          "text": "8 Sachstand zur Umsetzung der Sanierung der Deponie Brandheide (2016/EUV/008) Stellvertretender Vorstand Herr Werth-von Kampen erläutert die Vorlage und die Forderung der Einrichtung einer Fischtreppe. Er stellt fest, dass sich der Bauzeitenplan aufgrund neuer Auflagen des Umweltministeriums bzw. des Landesumweltamtes um etwa ein Jahr verschieben wird. Die entsprechende Verlängerung des Förderzeitraums wurde vom Ministerium bereits signalisiert. Auf Anfrage teilt Herr Werth-von Kampen ergänzend mit, dass der Verlauf des Baustellenverkehrs noch nicht abschließend geregelt sei. Verschiedene An- und Abfahrtswege werden noch geprüft. Der Verwaltungsrat nimmt den Sachstand zur Umsetzung der Sanierung der Deponie Brandheide zur Kenntnis. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7Czt_2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Umsetzung  Ausbau Landwehrbach\r\n-mündlicher Bericht-",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7Czt_2%7C1",
+          "date": "2016-03-09",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7Czt_2%7C1",
+          "fileName": "be_zt_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2016-EUV-12%7Czt_2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 97381,
+          "text": "9 Umsetzung Ausbau Landwehrbach -mündlicher Bericht- Vorstand Herr Werner erläutert den aktuellen Stand für den Ausbau des Landwehrbaches in Verbindung mit der aktuellen Offenlegung der Wasserflächen im Rennbahngelände sowie den erforderlichen Hochwasserrückhaltebecken Obercastrop, die aus wasserwirtschaftlicher Sicht gemeinsam in die weiteren Verfahren einzubringen sind. Der Verwaltungsrat nimmt dem mündlichen Bericht zur Umsetzung des Ausbaus des Landwehrbachs zur Kenntnis. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Aktion Platzverweis dem Dreck 2016\r\n-mündlicher Bericht-",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7Czt_3%7C1",
+          "date": "2016-03-09",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2016-EUV-12%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 99220,
+          "text": "10 Aktion Platzverweis dem Dreck 2016 -mündlicher Bericht- Vorstand Herr Werner informiert, die nächste Aktion „Platzverweis dem Dreck 2016“ findet am 09.04.2016 statt. Der Verwaltungsrat nimmt den mündlichen Bericht zur Aktion „Platzverweis dem Dreck 2016“ zur Kenntnis. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7Czt_4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Anfragen der Verwaltungsratsmitglieder",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7Czt_4%7C1",
+          "date": "2016-03-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7Czt_4%7C1",
+          "fileName": "be_zt_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2016-EUV-12%7Czt_4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 137203,
+          "text": "11 Anfragen der Verwaltungsratsmitglieder Auf Anfrage der Verwaltungsratsmitglieder Herr Molloisch und Herr Helsper erklärt der stellvertretende Vorstand Herr Werth-von Kampen, dass die aufgetretenen Längsrillen nach der letzte Überarbeitung in 2015 in der Cottenburgstraße im Rahmen der Gewährleistung ausgebessert werden. Ansonsten sei das Verfahren nicht mit einer grundlegenden Deckenerneuerung bzw. Sanierung der Fahrbahn zu vergleichen. Durch diese Behandlung wird die notwendige grundlegende Sanierung lediglich um einige Jahre zeitlich hinausgeschoben. Herr Helsper ergänzt, dass sich die Fahrbahn im oberen Bereich der Kreuzstraße großflächig löst und vergleichbare Auffälligkeiten aufweist. Der Vorstand sichert eine Überprüfung zu. Weiterhin erklärt der Vorstand Herr Werner, dass das „Loch“ in der Kreuzstraße beim EUV als Tagesbruch behandelt wird, der im Umkreis eines Schachtbauwerkes entstanden ist und entsprechend instandgesetzt wird. Verwaltungsratsmitglied Herr Steinbach fragt an, ob die Rasengittersteine an der Erinstraße in Kürze ersetzt werden. Vorstand Herr Werner erklärt, es könnten keine Fördermittel hierfür abgerufen werden, daher stehen weiterhin keine Mittel zur Verfügung. Die Maßnahme ist im Verkehrskonzept „Altstadt“ ausgewiesen. Auf Anfrage von Verwaltungsratsmitglied Herr Boxhammer stellt Vorstand Herr Werner die Voraussetzungen zur Verkleinerung privater Müllgefäße im Rahmen der satzungsrechtlichen Regelungen dar. Verwaltungsratsmitglied Herr Postel stellt fest, dass die Straßen in überörtlicher Baulast in hohem Maße sanierungsbedürftig sind. Er fragt an, wer die Schäden meldet und wie die Prioritäten für diese Straßen gelegt werden. Vorstand Herr Werner antwortet, dass die Stadt bzw. der EUV stets die Mängel anzeigen. Da die überörtlichen Träger zum Beispiel keine Wochenenddienste mehr unterhalten, ist der Bereitschaftsdienst des EUV auch bei Schäden an überörtlichen Straßen regelmäßig im Einsatz. Als Quintessenz der anschließenden Diskussion stellt der Vorsitzende fest, dass alle Verwaltungsratsmitglieder aufgefordert sind in den verschiedenen Gremien dafür Sorge zu tragen, dass finanzielle Mittel für Infrastrukturmaßnahmen für die Stadt bereitgestellt werden. Auf Anfrage vom Verwaltungsratsmitglied Dr. Wagener stellt Vorstand Herr Werner fest, dass das Ergebnis der Submission für den ersten Abschnitt der Baumaßnahme „Marktplatz“ deutlich höher ausfiel als nach der Vorkalkulation erwartet. Aufgrund der verschiedenen Förderprogramme des Landes und des Bundes ist es ausschreibungsbedingt regional möglich, dass die Unternehmerpreise für Bauleistungen zukünftig anziehen werden, so dass die Kalkulation für den zweiten Bauabschnitt eventuell auch überschritten wird. Auf Anfrage informiert der Vorstand Herr Werner, dass die Frühjahrskirmes 2016 planmäßig im Bereich Viehmarkt / Am Stadtgarten / Parkplatz „Alte Post“ stattfinden wird. Mit den gemachten Erfahrungen wird anschließend über die Herbstkirmes entschieden. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7Czt_5%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7Czt_5%7C1",
+          "date": "2016-03-15",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2016-EUV-12%7Czt_5%7C1",
+          "fileName": "be_zt_5_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2016-EUV-12%7Czt_5%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 130285,
+          "text": "12 Mitteilungen des Vorstandes Vorstand Herr Werner teil mit, dass der EUV auf Ansprache der Emschergenossenschaft dem EU-Förderprogramm „Horizon 2020“ beigetreten ist. Die Teilnahme ist für den EUV kostenfrei. Der Schwerpunkt des Projektes liegt in der integrativen Stadtgestaltung durch die Einbindung des Gestaltungselementes „Wasser“ (Stichwort: Wasser in der Stadt von Morgen), die auch für städtebauliche Maßnahmen in Castrop-Rauxel genutzt werden können. %anl%; %anl%;\r\n\r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7Czt_6%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Personalangelegenheiten\r\n-mündlicher Bericht-",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6906",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7C201502100009%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Beschlusscontrolling Verwaltungsrat 2015",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6916",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7C200202100002%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Neuaufnahme eines Darlehens",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6899",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7C201502100005%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Neuaufnahme eines Darlehns",
+        "number": "4",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6920",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7C200202100001%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Umschuldung eines Darlehens",
+        "number": "5",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6898",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7C201502100004%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Kanalerneuerung Neptun, Luna-, Orionstraße",
+        "number": "6",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6900",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7C201502100006%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Neugestaltung Marktplatz\r\n1. BA Erneuerung Parkplatzfläche (Segmentbogenpflaster)",
+        "number": "7",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7Czt_7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Sachstandsbericht Rechtsangelegenheiten des EUV\r\n-mündlicher Bericht-",
+        "number": "8",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/6824",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7C200701100000%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Beteiligungsbericht W & S GmbH für 2015",
+        "number": "9",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7Czt_8%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Sachstandsbericht Bauvorhaben Westring 215\r\n-mündlicher Bericht-",
+        "number": "10",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7Czt_9%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Anfragen der Verwaltungsratsmitglieder",
+        "number": "11",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7Czt_10%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+        "name": "Mitteilungen des Vorstandes",
+        "number": "12",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2016-03-02T18:45:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12",
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Sitzungsraum 1 EUV,  Westring 215, Castrop-Rauxel, Westring 215, 44575 Castrop-Rauxel",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2016-EUV-12/location",
+      "locality": "Castrop-Rauxel",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "postalCode": "44575",
+      "room": "Sitzungsraum 1 EUV,  Westring 215, Castrop-Rauxel",
+      "streetAddress": "Westring 215",
+      "subLocality": "Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Verwaltungsrates EUV",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/176",
+      "https://castroprauxel.gremien.info/oparl/person/224",
+      "https://castroprauxel.gremien.info/oparl/person/748",
+      "https://castroprauxel.gremien.info/oparl/person/626",
+      "https://castroprauxel.gremien.info/oparl/person/318",
+      "https://castroprauxel.gremien.info/oparl/person/133",
+      "https://castroprauxel.gremien.info/oparl/person/241",
+      "https://castroprauxel.gremien.info/oparl/person/240",
+      "https://castroprauxel.gremien.info/oparl/person/817",
+      "https://castroprauxel.gremien.info/oparl/person/420",
+      "https://castroprauxel.gremien.info/oparl/person/344",
+      "https://castroprauxel.gremien.info/oparl/person/790"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2016-EUV-12",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2016-03-15",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2016-EUV-12",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2016-EUV-12",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 150747,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2016-03-02T17:00:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2016-EUV-12",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2016-03-15",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2016-EUV-12",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2016-EUV-12",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 150747,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

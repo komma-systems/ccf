@@ -1,0 +1,68 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36192",
+  "modified_at": "2026-09-01T15:20:43+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368799.pdf",
+        "created": "2026-08-21T08:42:34+02:00",
+        "date": "2026-09-01",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368799.pdf",
+        "fileName": "00368799.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368799",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-01T15:20:43+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141364",
+        "authoritative": true,
+        "created": "2026-08-21T15:14:44+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68549",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24789",
+        "modified": "2026-09-09T13:50:44+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/44"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36192",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141418",
+        "authoritative": true,
+        "created": "2026-08-25T10:01:15+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68550",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24744",
+        "modified": "2026-09-15T14:43:35+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/277"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36192",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-21T08:34:08+02:00",
+    "date": "2026-08-21",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36192",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-01T15:20:43+02:00",
+    "name": "Kostenneufestsetzung für die Modernisierung der Rundlaufbahn einschl. der Segmente auf der Bezirkssportanlage Oberbergische Straße sowie Erneuerung der Bewässerungsanlage auf dem Sportplatz",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/0992/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/15"
+    ]
+  }
+}

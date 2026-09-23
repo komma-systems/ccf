@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/100302100038",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-SCHULA-19%7C100302100038%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/3548",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-SCHULA-19",
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2009-02-03",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/100302100038",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=100302100038&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=100302100038&id=69",
+      "fileName": "100302100038",
+      "id": "https://castroprauxel.gremien.info/oparl/file/100302100038",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2009/039",
+      "size": 181844,
+      "text": "0,50;03.02.2009;1,00;2007;2009/039;22.04.2009;ä..);aber;abzubauen;aktiv;alle;als;an;angebot;angebote;angenommen;ankündigung;arbeitet;armut;auch;auf;aufgrund;aus;ausgelegt;az;bastelmaterial;beantragten;begriff;bei;beigeordnete;beirates;beiratsberatung;beiratsmitglieder;berät;bereiches;bereithalten;berufen;beruft;beruhen;berührung;beschaffung;beschließt;beschreiten;besondere;beträgt;bildungsbenachteiligung;bildungsbenachteiligungen;bildungsbeteiligung;bildungsfonds;breiten;castrop-rauxel;chance;charakter;da;dabei;dargestellten;darstellen;das;datum;dazu;dem;den;denkbar;des;die;diese;dieser;dieses;durch;dürfen;ebenfalls;eigene;ein/e;eine;einen;eines;einfachen;einfacher;eingerichtet;einige;einrichtung;einzelmaßnahmen;einzelpersonen;einzuziehen;eltern;eng;enger;entnommen;entscheidet;entwickeln;er;eröffnet;erzielen;es;ethnischer;euro;exkursionen;experte/expertin;experten;expertinnen;fachkompetenz;familien;festgelegt;finanzieren;finanzierung;flexibel;fördermittel;fördermöglichkeiten;fördert;förderung;förderwege;förderzweck;freiwilligen;früher;für;ganztagsschulen;geben;geeignet;geeigneten;gefördert;geförderten;gemäß;gemeinsam;getragen;gibt;gleiche;gleichwohl;glöß;großen;grundsätze;grundsätzen;grundschulen;haben;halbjährlich;halten;handeln;haushaltsmäßige;herkunft;hier;ihre;ii;im;in;informiert;initiatoren;insbesondere;intensive;ist;je;jeweils;jugendförderung;jugendliche;jugendparlamentes;kann;keine;kinder;kleinen;kofinanzierung;kommunale;können;konsens;kriterien;land;leistungen;leitlinie;linken;macht;mahlzeit;mehr;mehrheit;mildern;mit;mittelausstattung;mitteln;möglichst;musikinstrumenten;nach;nehmen;nicht;nothaushaltskommune;notwendig;notwendige;oder;öffentlich;parteien;parteienvertreter(innen);politik;projekte;projekten;rahmen;ratsmitgliedern;rechtsanspruch;recklinghausen;schlägt;schon;schulausschuss;schulbücher;schulbuchkosten;schulen;schulische;sehr;selber;setzt;sgb;sich;sichern;sie;siehe;sind;sinn;sitzungsvorlage;solche;sollen;sollte;sowohl;sozialen;sozialer;sparkasse;spenden;städtischen;stellen;tageseinrichtungen;teil;top-nr;über;übernahme;übernommen;um;und;unternehmen;unterrichtsmaterial;unterstützen;unterstützung;verantwortlich;verausgabung;verfolgen.);vergabe;vertretenen;vertreter/in;vertreter/innen;vest;vom;von;vor;vorausgegangen;vorgesehen;war;wäre;weil;weiter;weitere;weitere/r;weiterführenden;wenigen;werden;wie;wir;wirbt;wird;worden;wurde;zahlen;zu;zukunftsweisenden;einrichtung;eines;beirates;für;den;bildungsfonds;2009/039;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Einrichtung eines Beirates für den Bildungsfonds",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2009/039",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

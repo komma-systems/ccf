@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/222808100040",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=222808100040%7C20170828153010.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2017-08-28",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=222808100040%7C20170828153010.pdf%7C",
+        "fileName": "20170828153010.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C222808100040%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/222808100040",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "a04a1307f66e476d81ddb4fa1516040bb9107be3",
+        "size": 124077,
+        "text": "Zwischenbericht 3_2017 zu VR Sitzung 13.09.2017",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2017-EUV-18%7C222808100040%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7605",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2017-EUV-18",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2017-08-28",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/222808100040",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=222808100040&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=222808100040&id=69",
+      "fileName": "222808100040",
+      "id": "https://castroprauxel.gremien.info/oparl/file/222808100040",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2017/EUV/041",
+      "size": 161086,
+      "text": "Datum: 28.08.2017 TB I 9686-700 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 13.09.2017 TOP: Drucksache-Nr. 2017/EUV/041 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 13.09.2017 2 Betreff: Zwischenbericht 3 / 2017 Finanzielle Auswirkungen gem. Wirtschaftsplan X ja Gesamtkosten € nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt den Zwischenbericht 3 / 2017 zur Kenntnis. ________________________ Werner Sachverhalt: Der Vorstand des EUV Stadtbetrieb Castrop-Rauxel – AöR – hat gem. § 8 Abs. 5 der Satzung der Stadt Castrop-Rauxel den Verwaltungsrat mindestens halbjährlich über die Entwicklung des Vermögens- und Erfolgsplanes des EUV Stadtbetrieb Castrop-Rauxel schriftlich zu unterrichten. Es wird regelmäßig vierteljährlich berichtet, zuletzt in der Sitzung des Verwaltungsrates am 21.06.2017. Dieser Zwischenbericht 3 / 2017 berücksichtigt nunmehr alle Buchungsvorgänge und -belege, die bis einschließlich zum Stichtag 30.06.2017 durch die Buchhaltung erfasst worden sind. Der vorherige Zwischenbericht 2 / 2017 (Drucksache 2017/EUV/028) kann grundsätzlich bestätigt werden, daher gelten die im vorherigen Zwischenbericht genannten Begründungen auch hier. Weitere Abweichungen werden im Weiteren erläutert. Das Ergebnis kann sich dahingehend verändern, dass Änderungen bei den kalkulierten Personal- und Instandhaltungsrückstellungen sowie Gebührenrückstellungen zu berücksichtigen sind. Die wirtschaftliche Entwicklung des EUV stellt sich für das Jahr 2017 voraussichtlich wie folgt dar:  Das Ergebnis des Gesamtbetriebes EUV wird in diesem Zwischenbericht mit 547 Tsd. Euro und somit um voraussichtlich 198 Tsd. Euro niedriger als geplant ausgewiesen. Das Ergebnis lag für den Zwischenbericht 2 / 2017 bei 720 Tsd. Euro. Die gebührenfinanzierten Teilbetriebe sowie der Teilbetrieb Energie stellen sich wie folgt dar: Teilbetrieb III – Abfallentsorgung Der Teilbetrieb III weist in der Hochrechnung ein Ergebnis von kalkuliert - 122 Tsd. Euro aus, der Planwert liegt bei - 84 Tsd. Euro. Die Begründung der Abweichung liegt in den noch nicht vollständig vereinnahmten geplanten Erlösen für 2017. Teilbetrieb IV – Duales System Der Teilbetrieb IV weist eine negative Prognose über - 100 Tsd. Euro aus (Plan - 92 Tsd. Euro). Für das II. Quartal liegen die Entgelte für Altpapier höher als der Planansatz, somit können Mehraufwendungen in diesem Teilbetrieb ausgeglichen und das Planergebnis voraussichtlich erzielt werden. Teilbetrieb V – Stadtentwässerung Der Teilbetrieb V wird nach dem jetzigen Stand mit einem Ergebnis i. H. v. 895 Tsd. Euro abschließen (Plan 996 Tsd. Euro). Die Entscheidung über die Kostenumlage für die Pumpwerksentflechtung ist weiterhin offen (gerichtliches Verfahren zwischen der Emschergenossenschaft und der RAG AG). Der EUV hat im Wirtschaftsjahr 2016 eine Rückstellung für diese Nachforderung eingestellt. Für 2017 und Folgejahre wird der EUV einen Generalentwässerungsplan auf Grundlage der Fortschreibung des Abwasserbeseitigungskonzeptes (ABK) überarbeiten. Die Fortschreibung des ABK wird regelmäßig durch die Bezirksregierung Münster angefordert. Die Aufwendungen sind im Ergebnis berücksichtigt. Teilbetrieb VI – Straßenreinigung/Winterdienst Das Ergebnis im Teilbetrieb Straßenreinigung/Winterdienst wird voraussichtlich bei - 15 Tsd. Euro (Plan - 3 Tsd. Euro) liegen. Die Reinigungsintervalle wurden gem. Satzung für die Ickerner Straße reduziert, so dass nur Mindererlöse aus Gebühren für Straßenreinigung in Höhe von 47 Tsd. Euro vorliegen, die nur teilweise durch Einsparungen bei den Aufwendungen gedeckt werden können. Teilbetrieb VIII – Energie: Für den Teilbetrieb VIII wird für das Jahr 2017 ein negatives Ergebnis in Höhe von - 45 Tsd. Euro (Plan - 25 Tsd. Euro) aufgrund geringerer Umsätze prognostiziert. Für 2 Photovoltaikanlagen sind technische Defekte festgestellt worden, die zu einer geringeren Auslastung und damit zu einem geringeren Ertrag führen. Der Versicherungsschutz für den Ertragsausfall wird zurzeit geprüft. Ferner fallen ungeplante Rückstellungsaufwendungen für Rückbauverpflichtungen in Höhe von rd. 4 Tsd. Euro an. Teilbetrieb XI -Wochenmärkte: Das Ergebnis des Teilbetriebes XI wird auf - 15 Tsd. Euro prognostiziert, die Planung für 2017 sieht ein ausgeglichenes Ergebnis vor. Die weitere Akquise des EUV für eine gute Auslastung der Wochenmarktflächen sowie Abstimmung mit den Gewerbetreibenden erfolgt laufend. Andere Teilbetriebe entwickeln sich im Rahmen des Wirtschaftsplanes. Weiterer Sachvortrag in der Sitzung.%anl%;Zwischenbericht 3_2017 zu VR Sitzung 13.09.2017 ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Zwischenbericht  3 / 2017",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2017/EUV/041",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

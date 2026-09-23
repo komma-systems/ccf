@@ -1,0 +1,53 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36168",
+  "modified_at": "2026-08-18T10:17:44+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368622.pdf",
+        "created": "2026-08-18T10:13:05+02:00",
+        "date": "2026-08-18",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368622.pdf",
+        "fileName": "00368622.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368622",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-18T10:17:45+02:00",
+        "name": "Große Anfrage die Linke",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141313",
+        "created": "2026-08-18T10:17:15+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68497",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24585",
+        "modified": "2026-08-26T12:40:30+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/42"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36168",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-18T10:11:02+02:00",
+    "date": "2026-08-18",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36168",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-08-18T10:17:44+02:00",
+    "name": "Bebauungsplan 1267 „westlich Bahnstraße / Buntenbeck: Entwässerung, Leitungsrechte, Starkregen, Kosten und Alternativen - Große Anfrage des Vertreters von Die Linke",
+    "paperType": "Große Anfrage die Linke",
+    "reference": "VO/0972/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

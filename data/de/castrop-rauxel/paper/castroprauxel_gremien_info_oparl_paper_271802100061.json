@@ -1,0 +1,82 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/271802100061",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271802100061%7C20200225130024-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-02-25",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271802100061%7C20200225130024-0.pdf%7C",
+        "fileName": "20200225130024-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271802100061%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271802100061",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "ccac8b126eaa1a8f5058a78242a2c06ddaa1254f",
+        "size": 2682277,
+        "text": "Anlage Sitzungsvorlage Haltestellen",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271802100061%7C20200225130132-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-02-25",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271802100061%7C20200225130132-0.pdf%7C",
+        "fileName": "20200225130132-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271802100061%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271802100061",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "d13dd534fa3d116cfbe8fa0c225f2a43214bc4ac",
+        "size": 2563650,
+        "text": "2020-02-04 Haltestellen geplant 2020_2",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B3-99%7C271802100061%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8987",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B3-99",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-02-18",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/271802100061",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271802100061&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271802100061&id=69",
+      "fileName": "271802100061",
+      "id": "https://castroprauxel.gremien.info/oparl/file/271802100061",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/055",
+      "size": 240289,
+      "text": " Bereich EUV Stadtbetrieb 2020/055 öffentlich  Az:     Datum: 18.02.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 3 (Bauen, Verkehr und Sport) 18.06.2020    Betreff  Barrierefreier Ausbau von 6 Haltestellenpunkten am Altstadtring in Castrop-Rauxel  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Der Betriebsausschuss 3 nimmt den Sachverhalt zur Kenntnis und stimmt dem Ausbau der vorgeschlagenen 6 Haltestellenpunkte am Altstadtring zu. Die Verwaltung wird beauftragt entsprechende Fördermittel beim VRR, Gelsenkirchen zu beantragen.       \f  \f  L e n o r t                                                                                     W e r n e r  Stadtbaurätin                                                                               Vorstand EUV   \f  Sachverhalt    Aufgrund des Personenbeförderungsgesetzes des Bundes sind Haltestellen des ÖPNV bis zum Jahr 2022 barrierefrei auszubauen. Aus diesem Grund wurden im Jahre 2015 alle Bushaltestellen im Stadtgebiet durch den EUV Stadtbetrieb erfasst und priorisiert.  Hieraus ergaben sich 149 Haltepunkte in der Straßenbaulast der Stadt Castrop-Rauxel.    Stand der Umsetzung: Im Jahr 2016 wurden für folgende Haltestellen beim VRR Fördermittel in Höhe von 152.800  beantragt: Am Markt Katholisches Krankenhaus Tappenhof Nordstraße Am Busch Waldfriedhof  Die Umsetzung hat stattgefunden.     Im Jahr 2017 wurden für folgende Haltestellen beim VRR Fördermittel in Höhe von 223.200  beantragt: Am Weißdorn (Haltepunkt auf dem Ginsterweg) Borghagener Straße  Heinestraße (Haltepunkt auf der Friedhofstraße) Holzstraße/Im Sandweg Rathaus/Europaplatz Westheide/Schule (nur einseitig im Zuständigkeitsbereich der Stadt Castrop)   Die Umsetzung hat im Jahr 2019 begonnen und wird in diesem Jahr beendet.   Im Jahr 2018 wurden für folgende Haltestellen beim VRR Fördermittel in Höhe von 221.200  beantragt: Amt- und Bergstraße Bogenweg Falkenstraße Ickerner Friedhof Vockmannshof  Der Zuwendungsbescheid liegt vor. Die Umsetzung soll in diesem Jahr beginnen.   Im Jahr 2019 wurden für folgende Haltestellen beim VRR Fördermittel in Höhe von 196.100  beantragt: Becklem Waldstraße Dingen Talstraße Elsterngrund Emschertalstraße  Eine Einplanungsmitteilung liegt vor.   Im Jahr 2020 sollen für folgende Haltestellenpunkte Fördermittel beim VRR beantragt werden: Karlstraße Am Wiedehagen/Erinpark Engelsburgplatz  Die Kostenschätzung beläuft sich auf ca. 144.000 .     Weiterer Bericht in der Sitzung   Anlage 1 - Bilddokumentation der Haltestellenpunkte Anlage 2 - Lageplan der Haltestellen im Stadtgebiet \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Barrierefreier Ausbau von 6 Haltestellenpunkten am Altstadtring in Castrop-Rauxel",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/055",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ]
+  }
+}

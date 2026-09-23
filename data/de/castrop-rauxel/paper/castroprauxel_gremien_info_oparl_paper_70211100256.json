@@ -1,0 +1,56 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/70211100256",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-UMWA-13%7C70211100256%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/2412",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-UMWA-13",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-B3-14%7C70211100256%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/2413",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B3-14",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2006-11-02",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/70211100256",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=70211100256&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=70211100256&id=69",
+      "fileName": "70211100256",
+      "id": "https://castroprauxel.gremien.info/oparl/file/70211100256",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2006/254",
+      "size": 710213,
+      "text": "abs;allgemeine;als;anlage;art;aufstellung;ausbau;ausprägung;ausschuss;bahn;bahnflächenentwicklungsgesellschaf;baugb;baugesetzbuch;baugesetzbuches;bauleitplanung;bauweise;bebauung;bebauungsplan;bebauungsplanes;beg;beigeordneter;bereiches;berührung;bestimmungen;betriebsausschuss;bockenfelder;deutschen;dobrindt;dortmund;einbeziehung;entwicklung;erschließung;flächen;folgenutzung;freifläche;friedhofes;geltungsbereich;geltungsbereiches;gewerbegebiet;gleisanlagen;gleisdreieck;gleisdreiecks;grabeland;grabeländer;grenzen;grundstücke;hellweg;inhalte;inwiefern;johannesstraße;kompensation;landschaft;lothringer;maß;mensch;merklinde;merklinder;mgg;montan-grundstücksgesellschaft;nahversorgungsstandortes;natur;neuordnung;norden;nrw;nutzung;planbereich;planungsrecht;rückbau;schaffung;schutz;sitzungsvorlage;stadtentwicklung;stadtgrenze;stadtplanung;steinkohle;stilllegung;süden;südlich;technischer;teilbereich;teilbereiche;top-nr;umlegungsverfahren;umsetzung;umwelt;umweltausschuss;umweltauswirkungen;umweltprüfung;verkehr;verlagerung;voraussichtliche;wittener;wohnbauflächen;wohnbebauung;wohngebiet;wohngebietes;bauleitplanung;bebauungsplan;nr;186;planbereich;südlich;der;johannesstraße;hier;beschluss;zur;aufstellung;des;bebauungsplanes;2006/254;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "BAULEITPLANUNG\r\nBebauungsplan Nr. 186\r\nPlanbereich 'Südlich der Johannesstraße'\r\nhier: Beschluss zur Aufstellung des Bebauungsplanes",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2006/254",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ]
+  }
+}

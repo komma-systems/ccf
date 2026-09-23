@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/241209100038",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=241209100038%7C20180913125513.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2018-09-13",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=241209100038%7C20180913125513.pdf%7C",
+        "fileName": "20180913125513.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C241209100038%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/241209100038",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "b783ad59f60e6cca32d758809c2ec2abc0dc0990",
+        "size": 147233,
+        "text": "Anlage 3_2018 zu VR Sitzung 26.09.2018",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-23%7C241209100038%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8058",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2018-EUV-23",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2018-09-12",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/241209100038",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=241209100038&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=241209100038&id=69",
+      "fileName": "241209100038",
+      "id": "https://castroprauxel.gremien.info/oparl/file/241209100038",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2018/EUV/039",
+      "size": 164543,
+      "text": "/   Datum:  12.09.2018    TB I 9686-700       Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 26.09.2018 TOP: I.2 Drucksache-Nr. 2018/EUV/039     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 26.09.2018 2    Betreff:  Zwischenbericht 3 / 2018     Finanzielle Auswirkungen gem. Wirtschaftsplan  X ja Gesamtkosten        nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat nimmt den Zwischenbericht  3 / 2018 zur Kenntnis.     \f  \f  ________________________ Werner \f Sachverhalt: Der Vorstand des EUV Stadtbetrieb Castrop-Rauxel  AöR  hat gem. § 8 Abs. 5 der Satzung der Stadt Castrop-Rauxel den Verwaltungsrat mindestens halbjährlich über die Entwicklung des Vermögens- und Erfolgsplanes des EUV Stadtbetrieb Castrop-Rauxel schriftlich zu unterrichten. Es wird regelmäßig vierteljährlich berichtet, zuletzt in der Sitzung des Verwaltungsrates am 20.06.2018 (Zwischenbericht 2 / 2018; Drucksache 2018/EUV/026). Dieser Zwischenbericht 3 / 2018 berücksichtigt nunmehr sowohl die Buchungsvorgänge, die bis einschließlich zum Stichtag 31.08.2018 erfasst worden sind als auch eine risikoorientierte Betrachtung für mögliche Vorgänge, die zu Planabweichungen führen können.  Insgesamt können aktuell keine Tendenzen festgestellt werden, die abweichend zum vorherigen Zwischenbericht 2 / 2018 bestätigt werden können. Daher werden die Ergebnisse der gebührenfinanzierten Teilbetriebe übernommen. Das Ergebnis des Gesamtbetriebes EUV wird in diesem Zwischenbericht weiterhin mit 1.309 Tsd. Euro prognostiziert und entspricht nahezu dem Planwert 2018 in Höhe von 1.312 Tsd. Euro.  Für die gebührenfinanzierten Teilbetriebe sowie für die Teilbetriebe Energie, Liegenschaften, Wochenmärkte und Kirmesveranstaltungen ergeben sich folgende Ergebnisse:  Teilbetrieb III  Abfallentsorgung: Der Teilbetrieb III weist in der Hochrechnung ein Ergebnis von + 113 Tsd. Euro aus, der Planwert liegt bei + 124 Tsd. Euro. Mindererträge für Sonderleistungen und Sonstiges werden durch Einsparungen in den Verwaltungs- und Betriebsaufwendungen mit insgesamt 78 Tsd. Euro in fast gleicher Höhe ausgeglichen. Die Gebühreneinnahmen entsprechen dem Planwert. Teilbetrieb IV  Duales System: Der Teilbetrieb IV weist eine negative Prognose von - 89 Tsd. Euro aus (Plan - 82 Tsd. Euro). Hier liegen ebenso Mindererträge für Sonderleistungen und Ähnliches vor (- 55 Tsd. Euro), die durch Einsparungen in den korrespondierenden Aufwendungen in fast gleicher Höhe ausgeglichen werden können. Weiterhin können leicht höhere Personalaufwendungen im Zusammenhang mit Logistikleistungen für die Zusatz- leistungen durch Einsparungen im Verwaltungsbereich aufgefangen werden. Teilbetrieb V  Stadtentwässerung: Der Teilbetrieb V wird nach dem jetzigen Stand mit einem Ergebnis i. H. v. 1.360 Tsd. Euro abschließen (Plan 1.327 Tsd. Euro). Die Umsatzerlöse für die Kanalbenutzungsgebühren liegen mit ca. 438 Tsd. Euro zwar besser als Plan, jedoch werden bei anderen Erträgen, z. Bsp. den Erträgen aus anderen Teilbetrieben, Mindererlöse erwartet. Die Reparaturaufwendungen für Kanalunterhaltung und technische Anlagen liegen leicht höher als der Planansatz (um 155 Tsd. Euro) und werden durch andere Ersparnisse kompensiert.  Die Entscheidung über die Kostenumlage für die Pumpwerksentflechtung liegt vor, die Umlage wird durch die Emschergenossenschaft ab dem Jahr 2019 mit einer Beitragserhöhung von ca. 1,25 % erfolgen (entspricht 105.000 Euro/jährlich). Teilbetrieb VI  Straßenreinigung/Winterdienst: Das Ergebnis im Teilbetrieb Straßenreinigung/Winterdienst wird voraussichtlich bei + 32 Tsd. Euro (Plan + 1 Tsd. Euro) liegen. Die Umsatzerlöse, hauptsächlich aus Gebühreneinnahmen, liegen im Plan. Es können leichte Einsparungen im Bereich der Verwaltungs- und Betriebsaufwendungen prognostiziert werden. Teilbetrieb VIII  Energie: Für den Teilbetrieb VIII wird für das Jahr 2018 ein negatives Ergebnis in Höhe von - 51 Tsd. Euro (Plan - 12  Tsd. Euro) aufgrund geringerer Umsätze prognostiziert. Der Bestand an Photovoltaikanlagen wird zurzeit auf technische Defekte überprüft, für die verminderten Umsatzeinnahmen wird eine Erstattung von der Versicherung erwartet. Teilbetrieb X  Liegenschaften: Das voraussichtliche Ergebnis liegt bei - 45 Tsd. Euro und entspricht dem Planergebnis. Hier müssen gesetzliche Vorgaben nach dem Bilanzrechtsmodernisierungsgesetz (BilMoG) hinsichtlich der Verzinsung von Rückstellungen für Altdeponien berücksichtigt werden. Teilbetrieb XI - Wochenmärkte: Für den Teilbetrieb XI wird ein ausgeglichenes Ergebnis erwartet. Die weitere Akquise des EUV für eine gute Auslastung der Wochenmarktflächen sowie Abstimmung mit den Gewerbetreibenden erfolgt laufend. Teilbetrieb XII - Kirmesveranstaltungen: Für diesen Teilbetrieb wird eine Unterdeckung aufgrund höherer Aufwendungen, insbesondere für die Verkehrssicherung und sonstige Organisation der Veranstaltungen erwartet. Andere Teilbetriebe entwickeln sich im Rahmen des Wirtschaftsplanes.  Weiterer Sachvortrag in der Sitzung.      \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Zwischenbericht 3 / 2018",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2018/EUV/039",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

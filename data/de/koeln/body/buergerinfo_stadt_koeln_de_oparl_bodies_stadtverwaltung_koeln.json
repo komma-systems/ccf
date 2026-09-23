@@ -1,0 +1,70 @@
+{
+  "council_id": "koeln",
+  "record_type": "body",
+  "source_id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln",
+  "modified_at": "2019-04-25T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems",
+    "ags": "05315000",
+    "classification": "Kreisfreie Stadt",
+    "consultation": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations",
+    "contactEmail": "12-session@stadt-koeln.de",
+    "contactName": "Fachanwendungsbetreuung Session, SessionNet und Mandatos",
+    "created": "2019-01-01T00:00:00+02:00",
+    "equivalent": [
+      "https://de.wikipedia.org/wiki/K%C3%B6ln",
+      "http://d-nb.info/gnd/2015732-0",
+      "https://dbpedia.org/page/Cologne"
+    ],
+    "file": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/files",
+    "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln",
+    "legislativeTerm": [
+      {
+        "body": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln",
+        "created": "2025-10-20T07:42:07+02:00",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/legislativeterms/7",
+        "modified": "2025-10-20T07:42:07+02:00",
+        "name": "2025 - 2030",
+        "startDate": "2025-11-01",
+        "type": "https://schema.oparl.org/1.1/LegislativeTerm"
+      },
+      {
+        "body": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln",
+        "created": "2020-09-25T10:41:21+02:00",
+        "endDate": "2025-10-31",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/legislativeterms/5",
+        "modified": "2025-10-09T10:13:23+02:00",
+        "name": "2020 - 2025",
+        "startDate": "2020-11-01",
+        "type": "https://schema.oparl.org/1.1/LegislativeTerm"
+      },
+      {
+        "body": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln",
+        "created": "2017-08-03T00:27:57+02:00",
+        "endDate": "2020-10-31",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/legislativeterms/4",
+        "modified": "2025-10-09T10:13:18+02:00",
+        "name": "2014 - 2020",
+        "startDate": "2014-06-01",
+        "type": "https://schema.oparl.org/1.1/LegislativeTerm"
+      }
+    ],
+    "legislativeTermList": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/legislativeterms",
+    "licenseValidSince": "2017-01-31T00:00:00+02:00",
+    "locationList": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/locations",
+    "meeting": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings",
+    "membership": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/memberships",
+    "modified": "2019-04-25T00:00:00+02:00",
+    "name": "Stadt Köln, kreisfreie Stadt",
+    "oparlSince": "2019-04-11T00:00:00+02:00",
+    "organization": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations",
+    "paper": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers",
+    "person": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/people",
+    "rgs": "053150000000",
+    "shortName": "Köln",
+    "system": "https://buergerinfo.stadt-koeln.de/oparl/system",
+    "type": "https://schema.oparl.org/1.1/Body",
+    "website": "https://www.stadt-koeln.de/"
+  }
+}

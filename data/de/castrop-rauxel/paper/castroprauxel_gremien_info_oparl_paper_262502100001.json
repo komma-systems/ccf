@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/262502100001",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-EUV-25%7C262502100001%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8313",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-EUV-25",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-02-25",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/262502100001",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=262502100001&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=262502100001&id=69",
+      "fileName": "262502100001",
+      "id": "https://castroprauxel.gremien.info/oparl/file/262502100001",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/EUV/002",
+      "size": 89581,
+      "text": "/  Datum:  25.02.2019    TB I 96 86 - 380       Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 20.03.2019 TOP: I.5 Drucksache-Nr. 2019/EUV/002     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 20.03.2019 5    Betreff:  Neubestellung des Verwaltungsrates in der laufenden Wahlperiode      Finanzielle Auswirkungen gem. Wirtschaftsplan   ja Gesamtkosten       X nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat nimmt den mündlichen Bereich des Vorstands zur Kenntnis   \f  \f  ________________________ Werner \f Sachverhalt:  Siehe Vorlage zur Ratssitzung (Drucksache 2019/066).\u000bMündlicher Bericht des Vorstands in der Sitzung  \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Neubestellung des Verwaltungsrates in der laufenden Wahlperiode",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/EUV/002",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

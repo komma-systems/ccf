@@ -1,0 +1,98 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/272505100142",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272505100142%7C20200525160436-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-25",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272505100142%7C20200525160436-0.pdf%7C",
+        "fileName": "20200525160436-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272505100142%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272505100142",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "4f7ac48ce32d9e62a28f41b5b54388d161e7ed18",
+        "size": 492006,
+        "text": "Anlage1-Übersichtsplan Kunoplatz",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272505100142%7C20200525161202-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-25",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272505100142%7C20200525161202-0.pdf%7C",
+        "fileName": "20200525161202-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272505100142%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272505100142",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "d87dea91fb47c65c99f1c63c6a2fbfe9e3071280",
+        "size": 126127,
+        "text": "Anlage2-Schrägluftbild Kunoplatz",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272505100142%7C20200525161312-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-25",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272505100142%7C20200525161312-0.pdf%7C",
+        "fileName": "20200525161312-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272505100142%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272505100142",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "7e4642ff16f6629df422b158fe7b5b5fd59f0a63",
+        "size": 183522,
+        "text": "Anlage3-Antrag Kunoplatz",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B3-99%7C272505100142%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8991",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B3-99",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-05-25",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/272505100142",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272505100142&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272505100142&id=69",
+      "fileName": "272505100142",
+      "id": "https://castroprauxel.gremien.info/oparl/file/272505100142",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/127",
+      "size": 399269,
+      "text": " Bereich Vermessung und Geoinformation 2020/127  öffentlich  Az: 14S0006STR Kunoplatz   Datum: 25.05.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 3 (Bauen, Verkehr und Sport) 18.06.2020    Betreff  Platzbenennung  Kunoplatz   \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  Der Betriebsausschuss 3 beschließt:  Die an der ehemaligen Einmündung der Kunostraße in die Schulstraße durch den Straßenumbau im Rahmen der Offenlegung des Deininghauser Baches entstandene dreieckige Platzfläche erhält die Bezeichnung  Kunoplatz   \f  \f Lenort Stadtbaurätin \fZusammenfassung  Durch den Ausbau und die Offenlegung des Deininghauser Bachs entlang der Schulstraße ist im Bereich der ehemaligen Einmündung der Kunostraße in die Schulstraße eine dreieckige Platzfläche entstanden. Dieser Platz soll nun offiziell benannt werden. Als offizieller Platzname wird die Bezeichnung Kunoplatz vorgeschlagen.  Sachverhalt  Anlass für die Benennung Die beabsichtigte Benennung mit dem Namen Kunoplatz beruht auf einem Antrag der SPD Ratsfraktion Castrop-Rauxel vom 28.01.2020 (s. Anlage). Betriebsausschuss 3 (20.02.2020) und Rat der Stadt (27.02.2020) haben dem Antrag, dass der Platz offiziell zum Kunoplatz gewidmet werden soll, jeweils zugestimmt. Ein formelles straßenrechtliches Widmungsverfahren ist, laut EUV Stadtbetrieb Castrop-Rauxel AöR, nicht erforderlich.  Herkunft der Lagebezeichnung Kunostraße/Kunoplatz Die Kunostraße wurde, laut vorliegendem Protokoll, am 30.10.1958 durch Beschluss des Bauausschusses benannt. In der Verwaltungsvorlage vom 15.10.1958 ist der Hinweis enthalten, dass es sich bei Kuno um eine Person aus Wilhelm Busch handelt. In direkter Nachbarschaft befinden sich parallel verlaufend östlich und westlich die Max- und die Moritzstraße. Kuno ist eine Figur aus der letzten Bildergeschichte Wilhelm Buschs Maler Klecksel aus dem Jahr 1884.            Bedeutung und Inhalt der Bildergeschichte: Ähnlich wie Balduin Bählamm weist das aus neun Kapiteln und einem Schluß bestehende Werk Maler Klecksel eine lange Vorrede (das erste Kapitel) auf, die nach Ansicht des Busch-Biographen Joseph Kraus ein Bravourstück der komischen Lyrik ist. [] Maler Klecksel kritisiert vor allem den bürgerlichen Kunstkenner, dessen Schlüssel zur Kunst vor allem der Preis des Werkes ist. [] Die Vorrede endet mit dem Hinweis, dass sich mit Malerei vielleicht auch Geld verdienen lasse. Auch der junge Kuno Klecksel wird nicht von einem künstlerischen Standpunkt, sondern auf Basis seiner Kunstfertigkeiten beschrieben. Keiner kann so wie er den Bleistift spitzen, wenige nur wie er mit dem Gummi wischen. Busch ironisiert in dieser Bildergeschichte auch seine Erfahrungen an den Kunstakademien in Düsseldorf, Antwerpen und München. Nach vielen Mühen findet Klecksel eine reiche Gönnerin, das Fräulein von der Ach, nachdem er sie aus einer prekären Situation rettet, doch am Ende verliert er ihre Gunst wieder, nachdem sie ihn mit seiner eigentlichen Geliebten ertappt. Anders als in den meisten anderen Geschichten Buschs findet Klecksel hier kein tragisches Ende; vielmehr wechselt er den Beruf und wird Schankwirt in seiner alten Stammkneipe [].\f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Platzbenennung 'Kunoplatz'",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/127",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ]
+  }
+}

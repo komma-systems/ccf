@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/252510100258",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-UMWA-93%7C252510100258%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8624",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-UMWA-93",
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-10-25",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/252510100258",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=252510100258&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=252510100258&id=69",
+      "fileName": "252510100258",
+      "id": "https://castroprauxel.gremien.info/oparl/file/252510100258",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/246",
+      "size": 110624,
+      "text": " Bereich EUV Stadtbetrieb 2019/246 öffentlich  Az:     Datum: 25.10.2019    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Umweltausschuss 19.11.2019    Betreff  innogy Klimaschutzpreis 2019 der Stadt Castrop-Rauxel Hier: Prämierung und Preisverleihung  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Der Umweltausschuss nimmt die eingereichten Wettbewerbsbeiträge zum innogy Klimaschutzpreis 2019 zur Kenntnis und beschließt einen 1. Preis, einen 2. Preis und einen 3. Preis auszuloben.  \f  \f Lenort       Werner Technische Beigeordnete    Vorstand EUV Stadtbetrieb  \f Sachverhalt  Wie schon in den vergangenen 17 Jahren wird auch in diesem Jahr für die Stadt Castrop-Rauxel mit Unterstützung der innogy der Klimaschutzpreis der Stadt Castrop-Rauxel ausgelobt.  Der mit einem Betrag in Höhe von 5.000,00  ausgestattete innogy Klimaschutzpreis Castrop-Rauxel soll an Bürgerinnen/ Bürger, Vereine, Institutionen und Firmen verliehen werden, die sich konkret vor Ort mit Projekten beschäftigen, die die Umwelt schonen und sich für den Klimaschutz einsetzen.   Bis zum (verlängerten) Meldeschluss am 15.10.2019 lagen beim Umweltressort des EUV zehn Wettbewerbsbeiträge vor, von denen drei Beiträge prämiert und fünf Beiträge mit einem Anerkennungspreis (Sachpreis) ausgezeichnet werden sollen.  In der Umweltausschusssitzung vom 26.03.19 wurde beschlossen, den innogy Klimaschutzpreis 2019 durch eine Jury, bestehend aus je einem Mitglied der im Umweltausschuss vertretenen Parteien, auszuloben.  Folgende Reihenfolge und Prämierung wurde durch die Jury in der Sitzung vom 24.10.19 festgelegt:  Teilnehmer Projekt Prämierung/ Platzierung  Lebenshilfe Castrop-Rauxel, Datteln, Oer-Erkenschwick, Waltrop e.V.Lebenshilfe Castrop-Rauxel, Datteln, Oer-Erkenschwick, Waltrop e.V. Hausgemeinschaft Ickern Ein Zuhause für Insekten 2500  Marktschule Ickern Frühstück ohne Müll von Anfang an 1500  EBG Schutz heimischer Tierarten am EBG 1000  Ortsarbeitsgemeinschaft der Verbraucher Plastikfreier Einkauf AP  Natur AG der Elisabeth-Grundschule Bienenstöcke und Blumenbeete AP  Martin-Luther-King-Schule MLKS for future, Umwelt und Nachhaltigkeit AP  Grundschule Alter Garten Bienenstock  Die Honigbiene AP  Josefshaus Altenheim Nachhaltigkeit und Klimaschutz AP   Die Preisverleihung wird am 03.12.2019 um 14:00 Uhr durch Herrn Bürgermeister Rajko Kravanja und Frau Allnoch von der innogy erfolgen.  Weiterer Bericht in der Sitzung.  \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "innogy Klimaschutzpreis 2019 der Stadt Castrop-Rauxel\r\nHier: Prämierung und Preisverleihung",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/246",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

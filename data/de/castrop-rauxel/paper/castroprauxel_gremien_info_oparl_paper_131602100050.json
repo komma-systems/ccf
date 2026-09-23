@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/131602100050",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=131602100050%7C20120216115059.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=131602100050%7C20120216115059.pdf%7C",
+        "fileName": "20120216115059.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C131602100050%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/131602100050",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "711452c7a9143f4d341350113f6df6e3fa2e0288",
+        "size": 72930,
+        "text": "Antrag Querungshilfe Recklinghauser Straße",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-B1-48%7C131602100050%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5023",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B1-48",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B1"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2012-02-16",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/131602100050",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=131602100050&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=131602100050&id=69",
+      "fileName": "131602100050",
+      "id": "https://castroprauxel.gremien.info/oparl/file/131602100050",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2012/050",
+      "size": 10193,
+      "text": "2012/050 öffentlich datum: 16.02.2012 sitzungsvorlage beratungsfolge datum top-nr. betriebsausschuss 1 (ausschuss für öffentliche ordnung, sport und kultur) 07.03.2012 4 betreff querungshilfe auf der recklinghauser straße; hier: antrag der spd- und grünen-ratsfraktionen vom 16.02.2012 beschlussvorschlag siehe beiliegenden antragquerungshilfe auf der recklinghauser straße; hier:antrag der spd- und grünen-ratsfraktionen vom 16.02.20122012/050%anl%;antrag querungshilfe recklinghauser straße ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Querungshilfe auf der Recklinghauser Straße;\r\nhier:  Antrag der SPD- und Grünen-Ratsfraktionen vom 16.02.2012",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2012/050",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B1"
+    ]
+  }
+}

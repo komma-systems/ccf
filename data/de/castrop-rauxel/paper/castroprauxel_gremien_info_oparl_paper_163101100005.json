@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/163101100005",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=163101100005%7C20140131101513.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=163101100005%7C20140131101513.pdf%7C",
+        "fileName": "20140131101513.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C163101100005%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/163101100005",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "681591fa6a3a2c8b57cf01f113f968a62caa5868",
+        "size": 54393,
+        "text": "Anlage zur Vorlage ABK 2014",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-0%7C163101100005%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5848",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2014-EUV-0",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2014-01-31",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/163101100005",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=163101100005&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=163101100005&id=69",
+      "fileName": "163101100005",
+      "id": "https://castroprauxel.gremien.info/oparl/file/163101100005",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2014/EUV/007",
+      "size": 155105,
+      "text": "Datum: 31.01.2014 TB I Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: TOP: Drucksache-Nr. 2014/EUV/007 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 19.02.2014 7 Rat der Stadt Betreff: Aufstellung Abwasserbeseitigungskonzept 2014 (ABK) für die Stadt Castrop-Rauxel Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt das Abwasserbeseitigungskonzept 2014 zur Kenntnis und empfiehlt dem Rat der Stadt, dem Abwasserbeseitigungskonzept 2014 vorbehaltlich der Zustimmung der Genehmigungsbehörde mit den in der Vorlage genannten Bauvorhaben zuzustimmen. ________________________ Werner Sachverhalt: Nach dem Landeswassergesetz NRW, § 53 ist der oberen Wasserbehörde (Bezirksregierung Münster) im Abstand von 6 Jahren ein Abwasserbeseitigungskonzept für das Stadtgebiet Castrop-Rauxel vorzulegen. In dem Konzept hat der Stadtbetrieb EUV als Abwasserbeseitigungspflichtiger den Stand der öffentlichen Abwasserbeseitigung sowie die zeitliche Abfolge, die Abarbeitung und die damit verbundenen geschätzten Baukosten der erforderlichen Kanalbaumaßnahmen darzustellen. Auf der Basis der vorliegenden Zustandserfassung und Kanalbewertung wurden die notwendigen Maßnahmen zusammengestellt. Die Durchführung der geplanten Baumaßnahmen ist im Abwasserbeseitigungskonzept (ABK) folgenden Zeiträumen zuzuordnen: - von 2014 bis einschließlich 2019 (ersten 6 Jahre) - von 2020 bis 2026 (anschließende 6 Jahre) In der als Anlage beigefügten tabellarischen Übersicht sind die einzelnen Kanalbaumaßnahmen aus heutiger Sicht zugeordnet worden. Übersicht der geschätzten Baukosten der Kanalbaumaßnahmen: - 2014 3.570 Mio. € - 2015 4.380 Mio. € - 2016 3.225 Mio. € - 2017 3.010 Mio. € - 2018 3.390 Mio. € - 2019 1.700 Mio. € - 2014 – 2019 19.275 Mio. € - 2020 bis 2026 2.365 Mio. € 21.640 Mio. € Das Konzept wurde im Dezember 2013 der Bezirksregierung Münster vorgelegt. Nach erfolgter Abstimmung und Genehmigung ist das Abwasserbeseitigungskonzept 2014 dem Rat der Stadt Castrop-Rauxel zur Genehmigung vorzulegen. Weiterer Bericht in der Sitzung.Aufstellung Abwasserbeseitigungskonzept 2014 (ABK) für die Stadt Castrop-Rauxel2014/EUV/007%anl%;Anlage zur Vorlage ABK 2014 ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Aufstellung Abwasserbeseitigungskonzept 2014 (ABK) für die Stadt Castrop-Rauxel",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2014/EUV/007",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

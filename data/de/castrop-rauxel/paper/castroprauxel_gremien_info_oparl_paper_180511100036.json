@@ -1,0 +1,82 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/180511100036",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=180511100036%7C20151105152550.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=180511100036%7C20151105152550.pdf%7C",
+        "fileName": "20151105152550.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C180511100036%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/180511100036",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "960a254441cb9b5ad2dd2ac855adec8f6a1fc887",
+        "size": 259421,
+        "text": "8. Änderungsentgeltordnung",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=180511100036%7C20151109093457.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=180511100036%7C20151109093457.pdf%7C",
+        "fileName": "20151109093457.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C180511100036%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/180511100036",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "a0a36d8ec6a79483061f484bd7315cbe1de14cfe",
+        "size": 435793,
+        "text": "Anlage zur Entgeltordnung (8. Änderung)",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C180511100036%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6771",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2015-EUV-10",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2015-11-05",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/180511100036",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=180511100036&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=180511100036&id=69",
+      "fileName": "180511100036",
+      "id": "https://castroprauxel.gremien.info/oparl/file/180511100036",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2015/EUV/037",
+      "size": 90756,
+      "text": "Datum: 05.11.2015 TB I 9686-340 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 25.11.2015 TOP: I.8 Drucksache-Nr. 2015/EUV/037 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 25.11.2015 8 Betreff: Erlass einer 8. Änderungsentgeltordnung zur Entgeltordnung für Sonderleistungen des EUV Stadtbetriebes Castrop-Rauxel Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € x nein Förderung € Beschlussvorschlag: Der Verwaltungsrat beschließt die anliegende 8. Änderungsentgeltordnung zur Entgeltordnung für Sonderleistungen des EUV Stadtbetriebes. ________________________ Werner Vorstand Sachverhalt: Der Entgelttarif der Entgeltordnung für Sonderleistungen des EUV Stadtbetriebes Castrop-Rauxel bedarf einer Anpassung, da eine Erhöhung des Reklamekostenanteils zur Deckung der für die Kirmesveranstaltungen anfallenden Werbungskosten erforderlich ist. Außerdem wurde ein Tarif für den Einsatz der Marktmeister bei Sonderveranstaltungen (Trödelmärkte, WLT etc.) aufgenommen. Die Personalkosten für die Marktmeister werden dem EUV von der Stadt in Rechnung gestellt. Gemäß § 5 Abs. 2 Ziffer 7 der Kommunalunternehmenssatzung ist der Verwaltungsrat für die Festsetzung allgemeiner Leistungsentgelte im Rahmen der übertragenen Aufgabenbereiche zuständig. Gemäß § 9 Abs. 2 der Kommunalunternehmenssatzung bedürfen Entscheidungen von grundsätzlicher Bedeutung der Zustimmung des Rates. Vor öffentlicher Bekanntmachung der Änderungsentgeltordnung ist somit die vom Verwaltungsrat beschlossene Änderungsentgeltordnung noch vom Rat der Stadt zu billigen. Weiterer Bericht in der Sitzung.Erlass einer 8. Änderungsentgeltordnung zur Entgeltordnung für Sonderleistungen des EUV Stadtbetriebes Castrop-Rauxel2015/EUV/037%anl%;8. Änderungsentgeltordnung 8. ÄnderungsentgeltordnungAnlage zur Entgeltordnung (8. Änderung) Anlage zur Entgeltordnung (8. Änderung) ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Erlass einer 8. Änderungsentgeltordnung zur Entgeltordnung für Sonderleistungen des EUV Stadtbetriebes Castrop-Rauxel",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2015/EUV/037",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/131801100022",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-AUSLB-33%7C131801100022%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/4983",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-AUSLB-33",
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2012-01-18",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/131801100022",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=131801100022&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=131801100022&id=69",
+      "fileName": "131801100022",
+      "id": "https://castroprauxel.gremien.info/oparl/file/131801100022",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2012/022",
+      "size": 171914,
+      "text": "bereich stabsstelle integration 2012/022 öffentlich az: datum: 18.01.2012 sitzungsvorlage beratungsfolge datum top-nr. integrationsrat 01.02.2012 betreff vorstellung der aktuellen arbeitsschwerpunkte der verbraucherzentrale finanzielle auswirkungen x keine haushaltsmäßige berührung auswirkungen siehe sachverhalt beschlussvorschlag der integrationsrat nimmt die aktuellen arbeitsschwerpunkte der verbraucherzentrale zur kenntnis. johannes beisenherz bürgermeister sachverhalt die leiterin der verbraucherzentrale, frau voss, stellt die aktuellen arbeitsschwerpunkte der verbraucherzentrale vor.vorstellung der aktuellen arbeitsschwerpunkte der verbraucherzentrale2012/022%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Vorstellung der aktuellen Arbeitsschwerpunkte der Verbraucherzentrale",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2012/022",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

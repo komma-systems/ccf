@@ -1,0 +1,60 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36352",
+  "modified_at": "2026-09-21T08:18:27+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370324.pdf",
+        "created": "2026-09-18T14:15:36+02:00",
+        "date": "2026-09-18",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370324.pdf",
+        "fileName": "00370324.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370324",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-21T08:18:27+02:00",
+        "name": "Große Anfrage die Linke",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141911",
+        "created": "2026-09-21T08:19:08+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68854",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24654",
+        "modified": "2026-09-21T12:13:08+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36352",
+        "role": "--------------------------------------------------",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141912",
+        "created": "2026-09-21T08:20:16+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68853",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24543",
+        "modified": "2026-09-21T08:20:24+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36352",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-18T14:10:00+02:00",
+    "date": "2026-09-21",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36352",
+    "modified": "2026-09-21T08:18:27+02:00",
+    "name": "Hitzeschutz bei städtischem Personal",
+    "paperType": "Große Anfrage die Linke",
+    "reference": "VO/1140/26",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

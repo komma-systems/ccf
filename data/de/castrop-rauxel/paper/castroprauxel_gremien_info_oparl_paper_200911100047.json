@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/200911100047",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-15%7C200911100047%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7282",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2016-EUV-15",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2016-11-09",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/200911100047",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=200911100047&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=200911100047&id=69",
+      "fileName": "200911100047",
+      "id": "https://castroprauxel.gremien.info/oparl/file/200911100047",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2016/EUV/048",
+      "size": 92962,
+      "text": "Datum: 09.11.2016 TB II 9686-230 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 23.11.2016 TOP: I.14 Drucksache-Nr. 2016/EUV/048 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 23.11.2016 14 Betreff: Übernahme der Dienstleistung Sammellogistik für die Leichtstoffverpackungen ab dem 01.01.2017 Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt die Einführung der Sammellogistik für LVP ab 01.01.2017 durch den EUV Stadtbetrieb zur Kenntnis. ________________________ Werner Sachverhalt: Wie bereits in der Septembersitzung aufgezeigt, wird der EUV Stadtbetrieb ab dem 01.01.2017 die LVP-Logistikleistungen für die Fa. Remondis GmbH & Co. KG im Stadtgebiet übernehmen. Die Erfassung von Leichtverpackungen wird dem EUV Stadtbetreib solange übertragen, wie Remondis oder ein Unternehmen, an dem Remondis beteiligt ist, den Auftrag der Dualen Systeme hält. Damit wird langfristig der Bestand der Leistungserbringung zur Sammlung von LVP und ggf. kommunalen Wertstoffen durch die Kommunen gewährleistet. Sammelsystem für LVP Für das Jahr 2017 und 2018 erhält der EUV Stadtbetrieb den Auftrag, im Rahmen von 2 Fahrzeugen mit je 3 Mitarbeitern das Stadtgebiet LVP-mäßig zu erfassen. Remondis stellt dem EUV Stadtbetrieb das Erfassungssystem inkl. zusätzlicher Behälter, Ersatzbehälter sowie Säcke nach Aufforderung umgehend kostenfrei zur Verfügung. Durchführung der Logistikleistung Zur Bewältigung der Logistikleistungen werden 6 der bisher als Fahrer/Lader bei Remondis eingesetzten Mitarbeiter übernommen und mit der Durchführung der LVP-Logistik auf den Stamm-Touren beauftragt. Ersatzpersonal wird aus dem Mitarbeiter-Pool des EUV gestellt. Die Auslieferung und der Austausch von Behältern sowie Säcken wird durch Servicefahrer des EUV durchgeführt. Die hierzu benötigten Materialien und Säcke werden dem EUV vor Ort zur Verfügung gestellt. Des Weiteren werden zwei Ersatz-Müllfahrzeuge aus dem Altfahrzeugbestand des EUV für diese Aufgabe eingesetzt. Eingehende Bestellungen und Kundenanliegen werden über die bekannten Hotlinenummern des Kundenservices bearbeitet. Alle Änderungen wurden sowohl im Abfallkalender 2017 als auch auf der Homepage und Infomaterialien berücksichtigt. Die Öffentlichkeit wird über die kommenden Änderungen ausrechend über die Presse, Homepage und Facebook informiert. Damit die Umstellung der Logistikleistungen ab dem 01.01.2017 ohne weitere Auffälligkeiten durchgeführt werden kann, werden die bisherigen Leerungstage zu mindestens 75 % im bekannten Leerungsintervall durchgeführt. Weiterer Bericht in der Sitzung.Übernahme der Dienstleistung Sammellogistik für die Leichtstoffverpackungen ab dem 01.01.20172016/EUV/048%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Übernahme der Dienstleistung Sammellogistik für die Leichtstoffverpackungen ab dem 01.01.2017",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2016/EUV/048",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

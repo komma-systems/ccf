@@ -1,0 +1,194 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/270605100116",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270605100116%7C20200506160944-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-06",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270605100116%7C20200506160944-0.pdf%7C",
+        "fileName": "20200506160944-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270605100116%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270605100116",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "4c1375a9bafa579ca6b189fcaab406722bfb208e",
+        "size": 1352752,
+        "text": "Anlage 1__Übersichtsskizze",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270605100116%7C20200506160948-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-06",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270605100116%7C20200506160948-0.pdf%7C",
+        "fileName": "20200506160948-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270605100116%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270605100116",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "b84094832fb8f08647362a9d82b64052f6ff0974",
+        "size": 361023,
+        "text": "Anlage 2__Liste der beteiligten Behörden und sonstigen Träger öffentlicher Belange",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270605100116%7C20200506161037-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-06",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270605100116%7C20200506161037-0.pdf%7C",
+        "fileName": "20200506161037-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270605100116%7C8",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270605100116",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 8",
+        "sha1Checksum": "d7946834e97c74d2e63a38f66fe99fd88eab7c35",
+        "size": 4481947,
+        "text": "Anlage 7__Artenschutzprüfung",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270605100116%7C20200519103734-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-19",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270605100116%7C20200519103734-0.pdf%7C",
+        "fileName": "20200519103734-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270605100116%7C5",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270605100116",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 5",
+        "sha1Checksum": "9c965beb4bc6b38cbe65d05c39a5612c7a5be06f",
+        "size": 1826396,
+        "text": "Anlage 4__Bebauungsplan",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270605100116%7C20200519105518-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-19",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270605100116%7C20200519105518-0.pdf%7C",
+        "fileName": "20200519105518-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270605100116%7C6",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270605100116",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 6",
+        "sha1Checksum": "d9fd31fe221ca79070811364b28d374f0063004e",
+        "size": 1926113,
+        "text": "Anlage 5__Bebauungsplan, DIN A4",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270605100116%7C20200519121858-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-19",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270605100116%7C20200519121858-0.pdf%7C",
+        "fileName": "20200519121858-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270605100116%7C4",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270605100116",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 4",
+        "sha1Checksum": "3b02f646d2424daf502491da267c5e04dc049520",
+        "size": 6303996,
+        "text": "Anlage 3__Abwägungsvorschlag zu den Stellungnahmen der Behörden und sonstigen Trägern öfftl Belange",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=270605100116%7C20200519121917-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-19",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=270605100116%7C20200519121917-0.pdf%7C",
+        "fileName": "20200519121917-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C270605100116%7C7",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/270605100116",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 7",
+        "sha1Checksum": "bee5a4c74c102b87aa98a856c01ab783b960b8bf",
+        "size": 4483940,
+        "text": "Anlage 6__Begründung",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-AuWi-32%7C270605100116%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8930",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-AuWi-32",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-UMWA-96%7C270605100116%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8929",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-UMWA-96",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B3-99%7C270605100116%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8927",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B3-99",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-118%7C270605100116%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8928",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-118",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-05-06",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/270605100116",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270605100116&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=270605100116&id=69",
+      "fileName": "270605100116",
+      "id": "https://castroprauxel.gremien.info/oparl/file/270605100116",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/122",
+      "size": 254552,
+      "text": " Bereich Stadtplanung und Bauordnung 2020/122  öffentlich  Az: 61.26.241   Datum: 06.05.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Ausschuss für Wirtschaftsentwicklung 16.06.2020   Umweltausschuss 16.06.2020   Betriebsausschuss 3 (Bauen, Verkehr und Sport) 18.06.2020   Rat der Stadt 25.06.2020    Betreff  Bebauungsplan Nr. 241 Planbereich Gewerbegebiet Habinghorst hier: a) Entscheidung über die Stellungnahmen nach § 2 Abs. 3 BauGB b) Entscheidung über die redaktionellen Änderungen und Ergänzungen c) Satzungsbeschluss nach § 10 Abs. 1 BauGB  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Der Rat der Stadt Castrop-Rauxel hat die vorgebrachten Stellungnahmen im Einzelnen geprüft und abgewogen. Der Rat beschließt, a) die abgegebenen Stellungnahmen insoweit zu berücksichtigen, wie es im beiliegenden Abwägungsvorschlag (Anlage 3) angegeben ist. b) die redaktionellen Änderungen zu berücksichtigen, indem die Begründung wie im Sachverhalt beschrieben geändert wird. Der Rat schließt sich der Stellungnahme der Verwaltung an und erhebt diese zum Beschluss. Der Rat beschließt ferner c) den Bebauungsplan Nr. 241 als Satzung und billigt die zugehörige Begründung in ihrer geänderten Fassung. Der räumliche Geltungsbereich des Bebauungsplans ist in der zum Beschluss gehörenden Anlage 1 dargestellt.  \f  \f          _______________               _______________  K r a v a n j a       L e n o r t  Bürgermeister       Stadtbaurätin    \f  Sachverhalt   Geltungsbereich Der räumliche Geltungsbereich des Bebauungsplans liegt im Ortsteil Habinghorst im Bereich südlich der Emscher zwischen Rhein-Herne-Kanal und Wartburgstraße. Er umfasst ca. 47 ha. Die Grundstücke im Geltungsbereich liegen in der Gemarkung Habinghorst, Flur 2, 3, 4, 6 und 14. Das Plangebiet wird begrenzt  - im Osten durch die Wartburgstraße, - im Norden durch die Emscher, - im Westen durch den Rhein-Herne-Kanal sowie - im Süden durch die Kanalstraße bzw. die hiervon nördlich gelegenen Grün- und Waldflächen. Die genauen Grenzen des räumlichen Geltungsbereichs sind in der zum Beschluss gehörenden Anlage 1 dargestellt.  Planungsanlass und erfordernis Entsprechend des Einzelhandelskonzeptes der Stadt Castrop-Rauxel sollen die zentralen Versorgungsbereiche im Stadtgebiet durch eine Steuerung des Einzelhandels erhalten, gesichert und weiterentwickelt sowie eine funktionierende wohnortnahe Grundversorgung gesichert bzw. verbessert werden.  Der Planbereich gehört nicht zu den zentralen Versorgungsbereichen in Castrop-Rauxel. Er befindet sich in einer Entfernung von ca. 4 km nordwestlich des Hauptversorgungszentrums  Altstadt Castrop . In einem Umkreis von ca. 0,7 - 1 km liegen die Nahversorgungszentren  Henrichenburg ,  Lange Straße  sowie  Rauxel Nord . Aufgrund seiner geringen Entfernung zu den zentralen Versorgungsbereichen ist eine vorbeugende Planung geboten, um die bestehende Zentrenstruktur zu erhalten und zu sichern sowie um deren Entwicklungsoptionen offen zu halten. Der Bebauungsplan soll somit der konsequenten Umsetzung des Zentren- und Einzelhandelskonzeptes 2010 bzw. dessen Fortschreibung 2016 dienen. Anlass für die Einleitung der Planung gab - neben dem Entwicklungsinteresse eines unmittelbar an der Wartburgstraße gelegenen Lebensmitteldiscounters - der anhaltende An-siedlungsdruck für Einzelhandel auf den gewerblichen Bauflächen, der der Erhaltung und Entwicklung der zentralen Versorgungsbereiche zuwiderläuft. Heute beurteilt sich die Zulässigkeit von Vorhaben im Gewerbegebiet Habinghorst nach § 34 Baugesetzbuch (Innenbereich). Die im Rahmen dieser Vorschrift vorgesehenen Instrumente zur Behandlung des Einzelhandels ermöglichen nicht die im Sinne des vorliegenden Zentren- und Einzelhandelskonzeptes gebotene Steuerung. Mit der Aufstellung des Bebauungsplanes Nr. 241 ist beabsichtigt, Ziele des Einzelhandelskonzeptes durch Steuerung der Einzelhandelsverkaufsflächen in diesem Teil des Stadtgebietes umzusetzen.  Inhalte der Planung Die Planung betrifft ein bereits erschlossenes, zum weit überwiegenden Teil bebautes Gebiet und beschränkt sich mit dem vorliegenden Bebauungsplan auf die Feinsteuerung der hier zulässigen Nutzungsarten. Grundlegende Zielvorstellung ist es, den Bereich weiterhin im vorwiegenden Zulässigkeitsregime des § 34 BauGB zu belassen und somit eine sich in den städtebaulichen Kontext einfügende Nutzung der Grundstücke zu ermöglichen. Einzig die Zulässigkeit von Einzelhandelsbetrieben mit zentren- und nahversorgungsrelevantem Sortiment wird geregelt. Außer auf der Fläche des im Plangebiet an der Wartburgstraße liegenden Lebensmittelhandels wird Einzelhandel mit zentren- und nah-versorgungsrelevanten Sortimenten ausgeschlossen. Für die Fläche des bestehenden Lebensmittelmarktes wird der Einzelhandel mit zentrenrelevanten Sortimenten ausgeschlossen sowie der Einzelhandel mit nahversorgungsrelevanten Sortimenten auf Klein-flächigkeit beschränkt. Der genaue Wortlaut der Regelungen und die ausführliche Begründung können den in der Anlage beigefügten Unterlagen entnommen werden.  Auswirkungen der Planung Die Einschränkung der Zulässigkeit von Einzelhandelsnutzungen greift in Eigentumsrechte der Grundstückseigentümer ein. Gegenüber denkbaren, vor Planaufstellung möglicherweise ebenfalls zulässigen Nutzungen werden die Verwertungsmöglichkeiten für die Baugrundstücke beschränkt. Die Beschränkungen sind jedoch städtebaulich erforderlich, um die Ziele des Einzelhandelskonzeptes in Hinsicht auf eine Sicherung und nachhaltige Entwicklung der zentralen Versorgungsbereiche umzusetzen. Da die Regelungen des Bebauungsplanes Nr. 241 weder ein Baurecht auf den betreffenden Grundstücken schaffen noch deren Zulässigkeitsrahmen erweitern, sind keine grundsätzlichen Änderungen in der Entwicklung der Umweltmedien zu erwarten, die in der Planung begründet wären. Durch den Bebauungsplan wird ausschließlich ein kleiner Teil von gegebenenfalls zulässigen Nutzungen nach § 34 BauGB ausgeschlossen. Diese rein einschränkende Regelung kann bereits systematisch keine Umweltauswirkungen haben. Im Zuge einer für das Plangebiet durchgeführten Artenschutzprüfung wurden vorhandene Daten ausgewertet, um festzustellen, wie das Vorhaben mit den gesetzlichen Regelungen zum Artenschutz in Einklang gebracht werden kann. Grundlage für die Beurteilung sind die Angaben des Fachinformationssystems des LANUV (Landesamt für Natur, Umwelt und Verbraucherschutz). Landesanstalt für Natur, Umwelt. Danach wurden Arten der folgenden Tiergruppen untersucht: - Säugetiere - Vögel - Amphibien Da der Bebauungsplan weder ein erstmaliges Baurecht auf den betreffenden Grundstücken schafft noch deren Zulässigkeitsrahmen wesentlich verändert, stellt die Artenschutzprüfung im Ergebnis fest, dass die Verbotstatbestände des § 44 BNatSchG für planungsrelevante Arten nicht erfüllt sind. Eine weitergehende Artenschutzprüfung im Sinne einer  Vertiefenden Prüfung der Verbotstatbestände  (Stufe II) oder ein  Ausnahmeverfahren  (Stufe III) war auf dieser Grundlage nicht erforderlich. Die im Geltungsbereich der Satzung vorhandenen Flurstücke liegen, mit Ausnahme der öffentlichen Flächen für die Erschließung, in privater Hand. Bodenordnende Maßnahmen sind nicht erforderlich.   Auswirkungen der Planung auf das Klima Durch Rechtskraft des Bebauungsplans Nr. 241 sind keine grundsätzlichen Änderungen in der Entwicklung der klimatischen Verhältnisse zu erwarten. Der Bebauungsplan dient lediglich dazu die Art der Nutzung von Vorhaben feinzusteuern und trifft keine weiteren Festsetzungen, die Auswirkungen auf das Klima haben könnten. Auch großräumig wird der Bebauungsplan Nr. 241 keine bemerkbare Änderung bewirken. Der Bebauungsplan dient -ausweislich der Zielsetzungen des Einzelhandelsgutachtens- einer Entwicklung der Zentren und unterstützt damit die mit einer auf eine Innenentwicklung bedachten Planung verbundenen Zielsetzungen. Die Stärkung der Innenentwicklung unterstützt auch Anstrengungen zum Klimaschutz.  Verfahren und weitere Vorgehensweise Der Betriebsausschuss 3 (Bauen, Verkehr und Sport) der Stadt Castrop-Rauxel hat in seiner Sitzung am 19.11.2015 die Aufstellung des Bebauungsplanes Nr. 241, Planbereich Gewerbegebiet Habinghorst, beschlossen. Der Beschluss wurde im Amtsblatt der Stadt Castrop-Rauxel in der Ausgabe 28/2015 am 4.12.2015 bekanntgemacht.  Die Aufstellung des Bebauungsplans erfolgt zur Erhaltung und Entwicklung zentraler Versorgungsbereiche gemäß § 9 Abs. 2a BauGB und entsprechend des Aufstellungsbeschlusses im vereinfachten Verfahren nach § 13 BauGB. Im vereinfachten Verfahren nach § 13 BauGB wird von der Umweltprüfung, Maßnahmen der Überwachung, vom Umweltbericht, von der Angabe über verfügbare umweltbezogene Informationen sowie von der zusammenfassenden Erklärung abgesehen. Von der Möglichkeit, von der frühzeitigen Unterrichtung und Erörterung nach § 3 Abs. 1 und § 4 Abs. 1 BauGB abzusehen, wurde kein Gebrauch gemacht, da die Regelungen des Bebauungsplanes Nr. 241 in bestehende - wenn gleich auch überwiegend noch nicht genutzte - Rechte eingreift und somit eine frühe Beteiligung geboten war und erfolgt ist. Die frühzeitige Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB fand in der Zeit vom 02.01.2020 bis einschließlich 24.01.2020 statt. Parallel wurden die Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB an der Planung beteiligt. Am 20.02.2020 fasste der Ausschuss für Bauen, Verkehr und Sport der Stadt Castrop-Rauxel den Offenlagebeschluss. Die öffentliche Auslegung nach § 3 Abs. 2 BauGB fand im Zeitraum vom 13.03.2020 bis einschließlich 17.04.2020 statt.  Zur Minimierung des Ansteckungsrisikos mit dem Coronavirus hatte die Stadtverwaltung präventive Maßnahmen eingeleitet. Infolgedessen war ab dem 16.03.2020 der uneingeschränkte Zugang für die Öffentlichkeit zum Rathaus und somit zu den für die Öffentlichkeitsbeteiligung ausgelegten Planunterlagen nicht mehr gewährleistet. Zur besseren Gewährleistung der öffentlichen Einsehbarkeit, sowie der Möglichkeit zur Stellungnahme wurden ab 16.03.2020 über das übliche Maß hinausgehende Informationsmöglichkeiten geschaffen. Dazu gehörte - neben der sonst auch üblichen Bereitstellung der vollständigen Planunterlagen im Internet - unter anderem ein zusätzlicher, von außen einsehbarer Aushang an der Glasfassade des Foyers des Ratssaals mit Angabe einer Telefonnummer für Rückfragen und Anregungen. Durch die explizite Veröffentlichung mit Hinweis auf die veränderte Beteiligung in der Offenlage bei Planverfahren wurde die Anstoßwirkung für die Öffentlichkeit erneuert und ausgeschlossen, dass Teile der Öffentlichkeit von der Offenlage ausgeschlossen wurden. Ergänzend waren sämtliche Unterlagen auch am regulären veröffentlichten Ort im Rathaus ausgehängt und konnten bei Anmeldung an der Pforte eingesehen werden. Parallel zur Beteiligung der Öffentlichkeit erfolgte die förmliche Beteiligung der Träger öffentlicher Belange nach § 4 Abs. 2 BauGB. Die vorgebrachten Anregungen sind zu prüfen und abzuwägen. Der Bebauungsplan ist als Satzung zu beschließen. Anschließend führt die Verwaltung die erforderlichen Abschlussarbeiten durch und setzt den Bebauungsplan in Kraft.  Anregungen im Rahmen der Beteiligungsverfahren Im Rahmen der frühzeitigen Beteiligung der Öffentlichkeit nach § 3 Abs. 1 BauGB sowie der Öffentlichen Auslegung des Planes nach § 3 Abs. 2 BauGB sind keine Anregungen aus der Öffentlichkeit eingegangen. Anlage 2 listet alle an der Planung beteiligten Träger öffentlicher Belange und hausinternen Bereiche auf. Die im Rahmen der Beteiligung nach § 4 Abs. 1 und § 4 Abs. 2 BauGB vorgebrachten Stellungnahmen sowie der Abwägungsvorschlag sind in der Anlage 3 aufgeführt. Neben Informationen zur technischen Infrastruktur wurden vor allem die beabsichtigten Festsetzungen zur Regelung des Einzelhandels thematisiert. Folgende Stellen haben abwägungsrelevante Stellungnahmen vorgebracht: Bereich 30, Rechtsangelegenheiten Bereich 37, Feuerwehr Bereich 37, Feuerwehr  Kampfmittel Bereich 67, Stadtgrün und Friedhofswesen EUV Bezirksregierung Arnsberg, Abteilung 6 - Bergbau und Energie Emschergenossenschaft Kreis Recklinghausen LWL  Archäologie für Westfalen Amprion GmbH Uniper Kraftwerke GmbH Gelsenwasser AG Westnetz GmbH Thyssengas GmbH Handwerkskammer Münster Industrie- und Handelskammer Nord Westfalen  Redaktionelle Anpassungen nach der öffentlichen Auslegung Der Bebauungsplan wurde nach der Öffentlichen Auslegung inhaltlich nicht geändert. In der Begründung wurden redaktionelle Änderungen vorgenommen. Die Änderungen erfordern keine erneute Offenlage, da sie keinen materiellen Regelungsinhalt haben.  Kosten Im Geltungsbereich des Bebauungsplanes bzw. in seiner direkten Umgebung sind alle erforderlichen Erschließungsanlagen, d. h. Straßen, Kanalleitungen und Versorgungsleitungen vorhanden. Der Bebauungsplan bereitet auch keine neuen, erweiterten Entwicklungsmöglichkeiten vor, in deren Folge sich ein erhöhter Erschließungsaufwand ergeben könnte. Der Stadt Castrop-Rauxel entstehen durch den Bebauungsplan daher keine kassenwirksamen Kosten. Es entstehen Kosten für bauleitplanerische Leistungen, die die erforderlichen Ausarbeitungen und Planfassungen sowie die Durchführung des Verfahrens beinhalten.     Anlagen: Anlage 1: Übersichtsskizze Anlage 2: Liste der beteiligten Behörden und sonstigen Träger öffentlicher Belange Anlage 3: Abwägungsvorschlag zu den Stellungnahmen der Behörden und sonstigen Träger öffentlicher Belange Anlage 4: Bebauungsplan Anlage 5: Bebauungsplan DIN A4 Anlage 6: Begründung in der aufgrund der redaktionellen Änderungen überarbeiteten Fassung Anlage 7: Artenschutzprüfung     Mitzeichnung Stadtentwicklung Wirtschaftsförderung       \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Bebauungsplan Nr. 241\r\nPlanbereich „Gewerbegebiet Habinghorst“\r\nhier:\r\na)\tEntscheidung über die Stellungnahmen nach § 2 Abs. 3 BauGB\r\nb)\tEntscheidung über die redaktionellen Änderungen und Ergänzungen\r\nc)\tSatzungsbeschluss nach § 10 Abs. 1 BauGB",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/122",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT",
+      "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+    ]
+  }
+}

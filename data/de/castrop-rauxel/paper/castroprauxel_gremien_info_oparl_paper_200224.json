@@ -1,0 +1,32 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/200224",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2002-01-29",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/200224",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=200224&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=200224&id=69",
+      "fileName": "200224",
+      "id": "https://castroprauxel.gremien.info/oparl/file/200224",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2002/24",
+      "size": 12559,
+      "text": "euv;jan;werksausschuss;zwischenbericht;winterdienst;haushaltsstelle;berührung;gesamtkosten;werkleitung;anlehnung;verfahrenspraxis;eigenbetriebes;winterdienstes;einruck;streumittel;kostenaufwand;winterdiensthalbjahr;bereitschaftsdienst;winterdiensteinsatz;einsatz;witterungsverhältnisse;einsätze;weihnachtsfeiertagen;sicherstellung;streufahrzeuge;fahrzeuge;handstreuung;mitarbeitern;streusalz;fahrbahnen;winterdiensteinsätze;fahrzeugbetriebskosten;schneefälle;einsatzbereich;winterzeit;rechnungsergebnis;bereiches;straßenreinigung;werksausschusssitzung;zwischenbericht;winterdienst;2001/2002;200224;,2002/24;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Zwischenbericht Winterdienst 2001/2002",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2002/24",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

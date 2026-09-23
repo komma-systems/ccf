@@ -1,0 +1,333 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-137",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-137%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-137",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16446",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-137%7C402704100134%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-137",
+        "name": "Beteiligungsbericht 2024",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-HFA-137%7C402704100134%7C1",
+          "date": "2026-06-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-HFA-137%7C402704100134%7C1",
+          "fileName": "be_402704100134_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-HFA-137%7C402704100134%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 184705,
+          "text": "2 Beteiligungsbericht 2024 (2026/131)   Der Haupt- und Finanzausschuss empfiehlt dem Rat der Stadt einstimmig, wie folgt zu beschließen: Der Rat der Stadt Castrop-Rauxel beschließt gemäß § 117 Abs. 1 Satz 3 Gemeindeordnung Nordrhein-Westfalen (GO NRW) den als Anlage beigefügten Beteiligungsbericht 2024.          \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16451",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-137%7C402704100135%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-137",
+        "name": "Nebentätigkeit des Hauptverwaltungsbeamten im Jahr 2025\r\nVorlage gem. § 8 Korruptionsbekämpfungsgesetz",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-HFA-137%7C402704100135%7C1",
+          "date": "2026-06-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-HFA-137%7C402704100135%7C1",
+          "fileName": "be_402704100135_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-HFA-137%7C402704100135%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 188267,
+          "text": "3 Nebentätigkeit des Hauptverwaltungsbeamten im Jahr 2025 Vorlage gem. § 8 Korruptionsbekämpfungsgesetz (2026/132)   Der Haupt- und Finanzausschuss nimmt die ausgeübten Nebentätigkeiten und die dafür erzielten Vergütungen von Herrn Bürgermeister Rajko Kravanja aus dem Jahr 2025 zur Kenntnis.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16459",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-137%7C401304100112%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-137",
+        "name": "Neufassung der Benutzungssatzung der Stadtbibliothek",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-HFA-137%7C401304100112%7C1",
+          "date": "2026-06-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-HFA-137%7C401304100112%7C1",
+          "fileName": "be_401304100112_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-HFA-137%7C401304100112%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 186843,
+          "text": "4 Neufassung der Benutzungssatzung der Stadtbibliothek (2026/108)   Der Haupt- und Finanzausschuss empfiehlt dem Rat der Stadt einstimmig, wie folgt zu beschließen:  Der Rat der Stadt Castrop-Rauxel beschließt die anliegende Neufassung der Benutzungssatzung der Stadtbibliothek Castrop-Rauxel vom 25.11.2021 entsprechend Anlage 3.          \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16468",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-137%7C401304100113%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-137",
+        "name": "Neufassung der Gebührensatzung der Stadtbibliothek Castrop-Rauxel",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-HFA-137%7C401304100113%7C1",
+          "date": "2026-06-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-HFA-137%7C401304100113%7C1",
+          "fileName": "be_401304100113_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-HFA-137%7C401304100113%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 190030,
+          "text": "5 Neufassung der Gebührensatzung der Stadtbibliothek Castrop-Rauxel (2026/109)   Der Haupt- und Finanzausschuss empfiehlt dem Rat der Stadt einstimmig, wie folgt zu beschließen:  Der Rat der Stadt Castrop-Rauxel beschließt die anliegende Neufassung der Gebührensatzung der Stadtbibliothek Castrop-Rauxel vom 25.11.2021 entsprechend Anlage 4.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16472",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-137%7C400705100141%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-137",
+        "name": "Interessenbekundung im Rahmen des Bundesprogramms \"Sanierung kommunaler Sportstätten\" (Projektaufruf 2026 - Schwimmbäder);\r\nSanierung des Freibades an der Recklinghauser Str. 208",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-HFA-137%7C400705100141%7C1",
+          "date": "2026-06-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-HFA-137%7C400705100141%7C1",
+          "fileName": "be_400705100141_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-HFA-137%7C400705100141%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 191850,
+          "text": "6 Interessenbekundung im Rahmen des Bundesprogramms  Sanierung kommunaler Sportstätten  (Projektaufruf 2026 - Schwimmbäder); Sanierung des Freibades an der Recklinghauser Str. 208 (2026/137)   Der Haupt- und Finanzausschuss empfiehlt dem Rat der Stadt einstimmig, wie folgt zu beschließen:  Der Rat der Stadt beschließt die Teilnahme am Projektaufruf 2026 des Bundesprogramms Sanierung kommunaler Sportstätten.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16476",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-137%7C402105100149%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-137",
+        "name": "Ergänzungsantrag der AfD-Fraktion vom 20.05.2026_Interessenbekundung im Rahmen des Bundesprogramms \"Sanierung kommunaler Sportstätten\" (Projektaufruf 2026 - Schwimmbäder); Sanierung des Freibades an der Recklinghauser Str. 208",
+        "number": "6.1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-HFA-137%7C402105100149%7C1",
+          "date": "2026-06-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-HFA-137%7C402105100149%7C1",
+          "fileName": "be_402105100149_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-HFA-137%7C402105100149%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6.1",
+          "size": 184741,
+          "text": " 6.1 Ergänzungsantrag der AfD-Fraktion vom 20.05.2026_Interessenbekundung im Rahmen des Bundesprogramms  Sanierung kommunaler Sportstätten  (Projektaufruf 2026 - Schwimmbäder); Sanierung des Freibades an der Recklinghauser Str. 208 (2026/144)   Der Haupt- und Finanzausschuss lehnt den Antrag mehrheitlich bei 4 Dafür-Stimmen und 1 Enthaltung ab.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-137%7C2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-137",
+        "name": "Anfragen der Ratsmitglieder",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-HFA-137%7C2%7C1",
+          "date": "2026-06-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-HFA-137%7C2%7C1",
+          "fileName": "be_2_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-HFA-137%7C2%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 149421,
+          "text": "7 Anfragen der Ratsmitglieder   Keine Anfragen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-137%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-137",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-HFA-137%7C4%7C1",
+          "date": "2026-06-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2026-HFA-137%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2026-HFA-137%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 146718,
+          "text": "8 Mitteilungen der Verwaltung   Keine Mitteilungen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-137%7C3%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-137",
+        "name": "Anfragen der Ratsmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-137%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-137",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2026-HFA-137%7C20260521113540-0_2026-HFA-137_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2026-05-21",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2026-HFA-137%7C20260521113540-0_2026-HFA-137_1.pdf",
+        "fileName": "20260521113540-0_2026-HFA-137_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2026-HFA-137%7C1",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Anlage zur Tischvorlage 2026-144_Ergänzungsantrag der AfD-Fraktion vom 20.05.2026_Interessenbekundung im Rahmen des Bundesprogramms Sanierung kommunal",
+        "size": 213050,
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2026-HFA-137%7C20260521113540-1_2026-HFA-137_2.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2026-05-21",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2026-HFA-137%7C20260521113540-1_2026-HFA-137_2.pdf",
+        "fileName": "20260521113540-1_2026-HFA-137_2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2026-HFA-137%7C2",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Tischvorlage 2026-144_Ergänzungsantrag der AfD-Fraktion vom 20.05.2026_Interessenbekundung im Rahmen des Bundesprogramms Sanierung kommunaler Sportstä",
+        "size": 203472,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-05-21T16:17:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-137",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2026-HFA-137",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-05-13",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2026-HFA-137",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2026-HFA-137",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "717bab9e3a5cf0e39b79c4c3b4df347e68647306",
+      "size": 201246,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-137/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Haupt- und Finanzausschusses",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/176",
+      "https://castroprauxel.gremien.info/oparl/person/1031",
+      "https://castroprauxel.gremien.info/oparl/person/597",
+      "https://castroprauxel.gremien.info/oparl/person/1032",
+      "https://castroprauxel.gremien.info/oparl/person/224",
+      "https://castroprauxel.gremien.info/oparl/person/392",
+      "https://castroprauxel.gremien.info/oparl/person/318",
+      "https://castroprauxel.gremien.info/oparl/person/627",
+      "https://castroprauxel.gremien.info/oparl/person/667",
+      "https://castroprauxel.gremien.info/oparl/person/240",
+      "https://castroprauxel.gremien.info/oparl/person/1304",
+      "https://castroprauxel.gremien.info/oparl/person/1307",
+      "https://castroprauxel.gremien.info/oparl/person/1308",
+      "https://castroprauxel.gremien.info/oparl/person/1310",
+      "https://castroprauxel.gremien.info/oparl/person/1312",
+      "https://castroprauxel.gremien.info/oparl/person/1198",
+      "https://castroprauxel.gremien.info/oparl/person/895",
+      "https://castroprauxel.gremien.info/oparl/person/1321",
+      "https://castroprauxel.gremien.info/oparl/person/1322",
+      "https://castroprauxel.gremien.info/oparl/person/58",
+      "https://castroprauxel.gremien.info/oparl/person/1011",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/1173",
+      "https://castroprauxel.gremien.info/oparl/person/1037"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-HFA-137",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-06-15",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-HFA-137",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-HFA-137",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 310496,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2026-05-21T16:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-HFA-137",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-06-15",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-HFA-137",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-HFA-137",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 310496,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

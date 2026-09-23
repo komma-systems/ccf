@@ -1,0 +1,82 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/272305100137",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272305100137%7C20200526091136-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-26",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272305100137%7C20200526091136-0.pdf%7C",
+        "fileName": "20200526091136-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272305100137%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272305100137",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "64d6a570cf9c3d26f673123537de95f925fbe35d",
+        "size": 1303217,
+        "text": "Antrag nach § 24 GO NRW des Herrn Reiner Fuest vom 25.10.2019",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272305100137%7C20200526091233-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-26",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272305100137%7C20200526091233-0.pdf%7C",
+        "fileName": "20200526091233-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272305100137%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272305100137",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "eb63327a7dd7fb13917c3913231cddf323d51eab",
+        "size": 635723,
+        "text": "Schreiben des Herrn Reiner Fuest vom 17.02.2020",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B3-99%7C272305100137%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8989",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B3-99",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-05-20",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/272305100137",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272305100137&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272305100137&id=69",
+      "fileName": "272305100137",
+      "id": "https://castroprauxel.gremien.info/oparl/file/272305100137",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/117",
+      "size": 48114,
+      "text": " Bereich Stadtplanung und Bauordnung 2020/117 öffentlich  Az: 61-44-03/03   Datum: 20.05.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 3 (Bauen, Verkehr und Sport) 18.06.2020    Betreff  Denkmalschutz und Denkmalpflege hier: Antrag gemäß § 24 GO vom 25.10.2019 zum Gebäudeensemble Wartburgstraße 107 und 109  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Der Betriebsausschuss 3 nimmt den Sachverhalt zur Kenntnis und beschließt, dass keine weiteren Aktivitäten der Unteren Denkmalbehörde in dieser Sache erforderlich sind. Bei der Ev. Pfarrkirche St. Petri und dem Pfarrhaus, Wartburgstraße 109 und 107 in 44575 Castrop-Rauxel handelt es sich nicht um ein Baudenkmal.  \f  \f L e n o r t Stadtbaurätin  \fSachverhalt  Der Antragsteller möchte eine Beauftragung der Verwaltung (Untere Denkmalbehörde) zur erstmaligen Untersuchung der Denkmalwürdigkeit des Gebäudeensembles Ev. Pe-trikirche Wartburgstraße 109 unter Mitwirkung und Begleitung des LWL-Amtes für Denkmalpflege in Westfalen (LWL-AfDW) beschließen lassen (s. Anlage1).  Bereits im August 1999 wurde eine Prüfung der Ev. Pfarrkirche St. Petri und des Pfarrhauses, Wartburgstraße 109 und 107 durch einen Ortstermin mit Innenbesichtigung sowie durch Aktenrecherche auf eine mögliche Denkmaleigenschaft gem. §2 Abs.1 und 2 DSchG NRW durch das LWL-AfDW (seit 2011: LWL-Denkmalpflege, Landschafts- und Baukultur in Westfalen (LWL-DLBW)) und der Unteren Denkmalbehörde (UDB) durchgeführt. Aus aktuellem Anlass wurde Ende 2019/ Anfang 2020 eine erneute Überprüfung des Gebäudeensembles unter Beteiligung des LWL-DLBW vorgenommen.  Eine Unterschutzstellung gem. §3 DSchG wurde schon mit Schreiben des LWL-AfDW vom 12.07.2001 abgelehnt u.a. mit der Begründung, daß durch die Kriegsbeschädigung und die Wiederherstellung in veränderter Form die Kirche nicht mehr geeignet ist, als überzeugendes Beispiel der Kirchenarchitektur aus dem Anfang des 20. Jahrhunderts Zeugnis für diese Zeit abzulegen. Architektonisch sind die Kriegsbeschädigung und die Wiederherstellung in veränderter Form dauerhafte Gründe gegen die Denkmalwürdigkeit. Dies wurde auch in der Stellungnahme des LWL-DLBW vom 13.01.2020 noch einmal schriftlich bestätigt. Die Ev. Petrikirche hat in den seit der ersten Prüfung vergangenen 18  Jahren auch keinen Status der Alleinstellung erfahren.  Eine gewisse Ortsbildprägung wurde der Ev. Petrikirche schon bei der ersten Prüfung nicht abgesprochen, daher empfahl das LWL-AfDW mit Schreiben vom 12.07.2001, wegen des Wahrzeichencharakters für den Ortsteil Habinghorst das Gebäude als erhaltenswerte Bausubstanz nachrichtlich darzustellen. Eine konkrete Berechtigung zur Eintragung in die Denkmalliste aus ortsgeschichtlichen Gründen wurde darüber hinaus nicht festgestellt. Jede Kirche stellt typischerweise einen wichtigen Punkt im Siedlungsgefüge dar.  Die in o.g. Antrag vorgebrachten Erläuterungen liefern keine neuen Erkenntnisse, die eine Berechtigung zur Eintragung in die Denkmalliste angezeigt erscheinen lassen.  Als Anlage 2 ist eine nachträgliche Stellungnahme des Antragstellers hinzugefügt.   Anlage 1 Antrag nach §24 GO NRW des Herrn Reiner Fuest vom 25.10.2019  Aus urheberrechtlichen Gründen können die Anlagen zum Antrag nicht veröffentlicht, sondern nur per Verlinkung angegeben werden:  https://habinghorst.ekvw.de/wir-ueber-uns/gebaeude/petrikirche/  https://www.evangelisch.de/inhalte/121381/11-05-2015/petrikirche-castrop-rauxel-evangelisch-mit-viel-katholischem-inhalt  Anlage 2 Schreiben des Herrn Reiner Fuest vom 17.02.2020\f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Denkmalschutz und Denkmalpflege\r\nhier: Antrag gemäß § 24 GO vom 25.10.2019 zum Gebäudeensemble Wartburgstraße\r\n107 und 109",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/117",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ]
+  }
+}

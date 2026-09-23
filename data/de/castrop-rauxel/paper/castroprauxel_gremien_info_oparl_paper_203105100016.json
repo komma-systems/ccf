@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/203105100016",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=203105100016%7C20160601120722.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=203105100016%7C20160601120722.pdf%7C",
+        "fileName": "20160601120722.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C203105100016%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/203105100016",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "e25a0352bcc71c1ef9e60a3db1605ef5395b9d27",
+        "size": 336238,
+        "text": "Organigramm Kommunale Infrastruktur",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-13%7C203105100016%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7042",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2016-EUV-13",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2016-05-31",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/203105100016",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=203105100016&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=203105100016&id=69",
+      "fileName": "203105100016",
+      "id": "https://castroprauxel.gremien.info/oparl/file/203105100016",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2016/EUV/017",
+      "size": 182331,
+      "text": "Datum: 31.05.2016 TB I 9686-500 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 15.06.2016 TOP: I.3 Drucksache-Nr. 2016/EUV/017 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 15.06.2016 3 Betreff: Organisatorische Zusammenlegung der Ressorts Straßeninfrastruktur (TB IX) und Stadtentwässerung (TB V) innerhalb des EUV Stadtbetrieb zum Ressort Kommunale Infrastruktur zum Ressort Kommunale Infrastruktur Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Bericht des Vorstandes wird zur Kenntnis genommen. ________________________ Werner Sachverhalt: In der Sitzung des Verwaltungsrates vom 17.06.2015 und der Berichterstattung vom 02.03.2016 hat der Vorstand die Restrukturierung der Ressorts Stadtentwässerung und Straßeninfrastruktur ab August 2015 eingeleitet. Die historische Trennung des ehem. kommunalen Tiefbauamtes der Stadt Castrop-Rauxel im Jahre 1993 im Zusammenhang mit der Ausgründung der Stadtentwässerung in Form des Eigenbetriebes Stadtentwässerung Castrop-Rauxel (EbS) und Überführung in den EUV bis hin zur Gründung der Anstalt öffentlichen Rechts zum 31.12.2002 zeichnet die Geschichte der Aufgabenwahrnehmung der klassischen Tiefbauarbeiten der Stadt Castrop-Rauxel nach. Im Jahre 2008 fanden Gespräche zwischen der Stadtverwaltung und dem EUV bezüglich der Übernahme der Straßen- und Sportplatzunterhaltung sowie des Erschließungsbeitragsrechtes in den EUV statt. Dabei zeichnete sich ab, dass das Arbeitsprogramm mit dem zur Verfügung stehenden Personal nicht mehr abgedeckt werden kann, da durch das Ausscheiden des damaligen Ressortleiters und dessen Stellvertreters in Verbindung mit dem Tod des damaligen Sachbearbeiters für die Straßendatenbank sowie dem Ausscheiden des Sachbearbeiters für das Erschließungsbeitragsrecht maßgebliche Mitarbeiter nicht mehr zur Verfügung standen. Im Zeitraum 2009 bis 2014 hat der EUV mit dem vorhandenen Personal und unter den Vorgaben der Haushaltsansätze der Stadt Castrop-Rauxel die Geschäftsprozesse restrukturiert. Mit dem Ausscheiden der Sachbearbeiterin Frau Stirnberg im April 2015 sowie der längerfristigen Erkrankung des bisherigen Ressortleiters Herrn Kresse ergab sich die Notwendigkeit, über die Zusammenführung der Ressorts Stadtentwässerung (TB V) und Straßeninfrastruktur (TB IX) intensiver nachzudenken, zumal eine kurzfristige Neugewinnung von Ingenieuren auf dem regionalen Stellenmarkt nicht gelang. Bedingt durch diese Ausgangsvoraussetzungen bestand das Erfordernis, unter Berücksichtigung der bestehenden Organisationsstruktur des EUV eine Neuausrichtung zur Gewährleistung 1. der hoheitlichen Aufgaben im Bereich Stadtentwässerung und 2. die vertraglichen Vorgaben im Rahmen des Geschäftsbesorgungsvertrages der Stadt Castrop-Rauxel mit den bestehenden Gestaltungsmöglichkeiten und den damit verbundenen Regelungsbedarfen zur Aufgabenwahrnehmung unter Vermeidung höherer Belastungen u.a. der Ingenieure beim EUV vorzunehmen. Dabei ist als Vorgabe eine strikte Kosten-Leistungsrechnung und Spartenbetrachtung des gebührenrechnenden Bereiches mit dem Geschäftsbereich gegenüber der Verwaltung abzubilden. Im Zusammenhang mit der Aufgabenübertragung auf den EUV im Jahre 2009 waren folgende Eckpunkte der Zielvorgabe wesentlich: effizientere Projektabwicklung durch gemeinsamen Personaleinsatz der Bereiche Stadtentwässerung und Straßeninfrastruktur Wahrnehmung der Verkehrssicherungspflicht für die Straßen, Wege und Plätze, Brücken und bauliche Einrichtungen im Stadtgebiet größere und verbesserte Personalflexibilität und Entwicklung bessere Auslastung des kommunalen Fuhrparks des EUV gemeinsame Datenbank für Kanal und Straße sowie eines einheitlichen Aufbruchmanagements Nutzung von wirtschaftlichen Synergieeffekten bei der Umsetzung der Straßen- und Kanalbauprojekte Verbesserung/Optimierung der EDV- und IT-Struktur im Bereich Kommunale Infrastruktur innerhalb des EUV Stadtbetriebes Organisations- und Aufgabendurchdringung in den Leistungsbereichen Unterhaltung, Bauen und Planen durch abgegrenzte Spartenrechnung des kaufm. Ressorts Verbessertes Kostencontrolling. Diese Zielsetzung und die sich zwischenzeitlich abzeichnenden Entwicklungen waren schon Grundlage der Aufgabenübertragung im Jahre 2009 zur Hebung der möglichen Handlungsoptionen zur Sicherstellung der Aufgabenwahrnehmung beim EUV Stadtbetrieb. Dabei spielten schon in der Vergangenheit die gegenwärtigen personalwirtschaftlichen Ausgangsgegebenheiten und die damit verbundenen Einschränkungen einen wesentlichen Gestaltungsantrieb. Schon im Jahre 1993 erfolgte mit der Abtrennung des Entwässerungsbereiches aus dem ehem. klassischen Tiefbauamt in eine eigenständige Organisationseinheit die Miterledigung vielfältiger Aufgaben für das kommunale Tiefbauamt der Stadt Castrop-Rauxel im Rahmen der internen Kooperation mit dem Ressort Straßeninfrastruktur beim EUV Stadtbetrieb. Die Vergleichbarkeit der ingenieurtechnischen Aufgaben und die jeweilige Produktausrichtung im Straßenraum bzw. –körper zeigt die Möglichkeit der Reduzierung von Reibungsverlusten und die Erhöhung des Synergiepotenzials für den operativen Bereich in der Außenwahrnehmung und Darstellung gegenüber den Bürgern und Bürgerinnen bzw. Grundstückseigentümern sowie den zuständigen Stellen innerhalb der Stadt aber auch des Kreises bzw. Landes an. Mit der letztendlichen Zusammenführung des operativen Bereiches des ehem. Tiefbauamtes (TB IX) mit dem Ressort Stadtentwässerung beim EUV (TB V) ergeben sich durch die artverwandten Aufgaben, die sämtlich dem Tiefbau-, Straßen- und Kanalbau zuzuordnen sind, darstellbare Möglichkeiten für die organisatorische Restrukturierung auf der Basis der vorhandenen Personal- und Sachkosten sowie der Aufwandsposition für den Einsatz und Betrieb von Geräten, Maschinen und Fahrzeugen. Gerade in der gegenwärtigen Zeit ist es von grundlegender Bedeutung, frühzeitig Personalentwicklungsmöglichkeiten im technischen sowie nicht technischen Einsatzbereich vorzugeben, um eine mittel- bis langfristige Aufgabenwahrnehmung durch das Kommunalunternehmen EUV sicherzustellen. In der Konkurrenzsituation bzw. im Wettbewerb um qualifiziertes Personal im begrenzten Stellenmarkt und den eingeschränkten Handlungsofferten der kommunalen Arbeitgeber ist es für den EUV Stadtbetrieb Grundvoraussetzung, als attraktiver Arbeitgeber für die Mitarbeiterinnen und Mitarbeiter insbesondere in ingenieurtechnischen Bereichen wahrgenommen zu werden. Mit der Restrukturierung und internen Zusammenführung des TB V und TB IX beim EUV Stadtbetrieb verbleibt es bei der Aufgabenerledigung und der Aufgabenwahrnehmung gegenüber der Stadt Castrop-Rauxel auf der Grundlage des abgeschlossenen Geschäftsbesorgungsvertrages aus dem Jahre 2009. Das neue Ressort „Kommunale Infrastruktur“ (KI) beim EUV Stadtbetrieb wurde in einem intensiven internen Kommunikationsprozess seit Beginn 2015 unter der organisatorischen und multifunktionalen - motivationalen Einbindung aller Mitarbeiter der beiden Ressorts entwickelt. Dabei war es wesentlich, die Klarheit der Zielstrukturen, Aufgaben und Verantwortlichkeiten gemeinschaftlich zu klären und festzulegen. Organisationsstruktur: Die bisher 2 getrennten Ressorts TB V und TB IX – so die Projektvorgabe – sollten sich in 3 Säulen (Sparten) abbilden, die den wesentlichen Aufgabenbereich der Kommunalen Infrastruktur wiederspiegeln: Kanal- und Straßenunterhaltung sowie Sportplatzunterhaltung Straßen- und Kanalbau Planung von Kanälen und Straßen sowie Erschließungsanlagen und die damit verbundenen Datenbank-Unterstützungsleistungen. Diese 3 Voraussetzungen machen schon deutlich, welcher intensive Abstimmungsprozess der bisherigen Strukturen mit den neuen Strukturen innerhalb des EUV verbunden war. Durch die Einrichtung eines Projektteams unter Federführung von Herrn Werth-von Kampen (Ressortleiter Stadtentwässerung) in Zusammenarbeit mit Herrn Genster (Kanalunterhaltung) und Herrn Friedrich (Neubau) konnte diese Organisationsform zwischenzeitlich in intensiver Abstimmung mit dem Vorstand eingerichtet werden. Der eingeleitete Zusammenführungsprozess von Stadtentwässerung mit der Straßeninfrastruktur zeigte, dass die verantwortlichen Abteilungsführungskräfte Herr Genster und Herr Friedrich neben ihren bestehenden Aufgaben zusätzliche Aufgaben im Zusammenhang mit der Organisationszusammenführung und Geschäftsverteilung in Abstimmung mit dem Personalressort zu leisten hatten. In der Gesamtbetrachtung ist es wesentlich, dass die einzelnen Stellen des neuen Ressorts Kommunale Infrastruktur in diesem sehr wichtigen Organisationsprozess nicht isoliert zu bewerten sind. Durch diesen Prozess konnte erreicht werden, dass die Fragen nach der allgemeinen Zuständigkeit nach außen abgedeckt werden und die personifizierte Zuständigkeit innerhalb des EUV Stadtbetriebes klar vorgegeben ist. Weiterer Bericht in der Sitzung. Anlage Organigramm Kommunale Infrastruktur beim EUV Stadtbetrieb mit Aufgabenwahrnehmung und Personalbesetzung sowie EntscheidungsstrukturenOrganisatorische Zusammenlegung der Ressorts Straßeninfrastruktur (TB IX) und Stadtentwässerung (TB V)innerhalb des EUV Stadtbetrieb zum Ressort Kommunale Infrastruktur2016/EUV/017%anl%;Organigramm Kommunale Infrastruktur ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Organisatorische Zusammenlegung der Ressorts Straßeninfrastruktur (TB IX) und Stadtentwässerung (TB V)  innerhalb des EUV Stadtbetrieb zum Ressort Kommunale Infrastruktur",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2016/EUV/017",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36110",
+  "modified_at": "2026-09-01T13:10:48+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367866.pdf",
+        "created": "2026-07-29T14:36:06+02:00",
+        "date": "2026-08-27",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367866.pdf",
+        "fileName": "00367866.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367866",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-01T08:03:50+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369068.pdf",
+        "created": "2026-08-28T11:22:42+02:00",
+        "date": "2026-08-28",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369068.pdf",
+        "fileName": "00369068.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369068",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-01T08:03:50+02:00",
+        "name": "Anlage 01 - Wirtschaftsplan 2026",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "created": "2026-07-29T14:00:11+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68386",
+        "modified": "2026-07-29T14:00:11+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36110",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "created": "2026-07-29T14:00:34+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68387",
+        "modified": "2026-07-29T14:00:34+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36110",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141231",
+        "created": "2026-08-13T10:08:15+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68385",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24698",
+        "modified": "2026-09-22T17:42:47+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/270"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36110",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141298",
+        "authoritative": true,
+        "created": "2026-08-17T11:26:36+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68384",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24690",
+        "modified": "2026-09-02T17:16:38+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/272"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36110",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-29T13:56:49+02:00",
+    "date": "2026-08-07",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36110",
+    "modified": "2026-09-01T13:10:48+02:00",
+    "name": "Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2026 - stationärer Bereich und Fachbereich Senioren und Freizeit -",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/0917/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/49"
+    ]
+  }
+}

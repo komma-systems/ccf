@@ -1,0 +1,63 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36218",
+  "modified_at": "2026-08-26T10:07:59+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368943.pdf",
+        "created": "2026-08-26T10:01:52+02:00",
+        "date": "2026-08-26",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368943.pdf",
+        "fileName": "00368943.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368943",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-26T10:08:00+02:00",
+        "name": "Gemeinsamer Antrag BV",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368944.pdf",
+        "created": "2026-08-26T10:04:26+02:00",
+        "date": "2026-08-26",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368944.pdf",
+        "fileName": "00368944.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368944",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-26T10:08:00+02:00",
+        "name": "Gemeinsamer Antrag Gemeinsamer Antrag der Fraktionen SPD, CDU, Bündnis 90/Die Grünen, Die Linke, Vertreter der FDP",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141440",
+        "authoritative": true,
+        "created": "2026-08-26T10:08:11+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68590",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24597",
+        "modified": "2026-09-03T10:57:58+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/40"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36218",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-26T09:34:41+02:00",
+    "date": "2026-08-26",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36218",
+    "modified": "2026-08-26T10:07:59+02:00",
+    "name": "Prüfauftrag zur Wiederherstellung der Nutzungsfähigkeit bzw. Verbesserung des Spielplatzes Garterlaie - Gemeinsamer Antrag der Fraktionen SPD, CDU, BÜNDNIS90/DIE GRÜNEN, Die Linke und des Vertreters der FDP",
+    "paperType": "Gemeinsamer Antrag BV",
+    "reference": "VO/1018/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

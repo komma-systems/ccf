@@ -1,0 +1,68 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/62682100274",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2004-SCHULA-6%7C62682100274%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/1910",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2004-SCHULA-6",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2004-B2-5%7C62682100274%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/1911",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2004-B2-5",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B2"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2004-RAT-8%7C62682100274%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/1912",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2004-RAT-8",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2005-08-26",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/62682100274",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=62682100274&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=62682100274&id=69",
+      "fileName": "62682100274",
+      "id": "https://castroprauxel.gremien.info/oparl/file/62682100274",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2005/272",
+      "size": 124716,
+      "text": "absprache;anlage;anteilen;ausbau;ausbaukosten;ausschuss;ausstattung;behinderung;berührung;bestimmungen;betriebsausschuss;castrop;datteln;eigentum;eigentümerin;einklang;einrichtungen;einrichtungskosten;erkenschwick;errichtung;errichtungs;erweiterung;fassung;finanzmanagement;folgekosten;förderbedarf;förderschule;fortführung;gebäudes;geistigbehinderte;investition;investitionskosten;jugend;kommunalen;neuen;neufassung;nkf;oberwiese;oer;rauxel;regelung;risiken;schulausschuss;schüler;schülerinnen;schülerzahl;sitzungsvorlage;soziales;städten;vereinbarung;waltrop;änderung;der;öffentlich-rechtlichen;vereinbarung;über;die;errichtung;und;fortführung;der;schule;oberwiese;förderschule;für;geistigbehinderte;62682100274;,2005/272;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Änderung der öffentlich-rechtlichen Vereinbarung über die Errichtung und Fortführung der Schule Oberwiese (Förderschule für Geistigbehinderte)",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2005/272",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

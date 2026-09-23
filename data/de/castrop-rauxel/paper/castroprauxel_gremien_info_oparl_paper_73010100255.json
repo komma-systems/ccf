@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/73010100255",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-UMWA-13%7C73010100255%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/2411",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-UMWA-13",
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2006-10-30",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/73010100255",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=73010100255&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=73010100255&id=69",
+      "fileName": "73010100255",
+      "id": "https://castroprauxel.gremien.info/oparl/file/73010100255",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2006/252",
+      "size": 119236,
+      "text": "agenda;altstadt;anerkennung;anerkennungspreis;anlage;arbeitskreis;bäumen;begrünung;beisenherz;beiträge;beiträgen;berührung;buchtauschbörse;bürgerfreundliche;castrop-rauxel;czychi;einen;einrichtung;energien;erdwärme;europaschule;euv;galeriehaus;grosche;herbert;initiativen;lokalen;meldeschluss;niedrigenergiehaus;ortsarbeitsgemeinschaft;preise;preisgeld;preisverleihung;privatpersonen;projekt;prüfung;rauxel;rwe;schüler;schülerinnen;schulgartens;schulgeländes;sept;sichtung;sitzungsvorlage;sonderpreis;stadtbetrieb;stadtgebiet;stauden;sträuchern;teilnehmern;top-nr;umweltausschuss;umweltausschusses;umweltpreis;umweltressort;umweltschutzpreis;umweltverbesserungen;unterstützung;verbände;verbindung;verbraucher;vereine;vergabe;vertretern;vorsitzenden;westfalen-weser-ems;westring;wettbewerbsbeitrag;wettbewerbsbeiträge;willy-brandt-gesamtschule;wohnen;umweltschutzpreis;der;stadt;castrop-rauxel;2006;2006/252;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Umweltschutzpreis der Stadt Castrop-Rauxel 2006",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2006/252",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/2003052",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/000113%7C2003052%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/629",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000113",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/JHA"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2003-02-17",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/2003052",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2003052&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2003052&id=69",
+      "fileName": "2003052",
+      "id": "https://castroprauxel.gremien.info/oparl/file/2003052",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2003/052",
+      "size": 50678,
+      "text": "einrichtung;jugendhilfe;sitzungsvorlage;jugendhilfeausschuss;projekt;sprachförderung;haushaltsstelle;berührung;gesamtkosten;petra;glöß;beigeordnete;konzept;sprachförderungsbedarf;kindern;gründen;stigmatisierung;differenzierung;migrationshintergrund;gewährung;zuwendungen;angebote;kindergartenjahres;einschulung;entwicklung;anwendung;sprachstandseinschätzung;beschlusslage;jha;konzeption;tageseinrichtungen;kinder;umsetzungsmaßnahmen;arbeitskreis;vernetzung;grundschulen;koordinierung;elementar;primarbereich;schulen;träger;elementarbereich;erlasse;landes;nrw;förderung;sprachkompetenz;interkulturelle;erziehung;arbeitsgruppe;fachberater;innen;trägers;sprachförderungsprogramm;castrop;rauxel;sprache;begabungspotenzial;schulabschlüsse;grundschulstart;defizit;stufenprogramm;begleitung;programm;bausteinen;eltern;geburt;durchführung;sprachtests;kindergarten;einschulungstests;berücksichtigung;sprachentwicklung;grundschule;schulträger;ausdrucksmöglichkeiten;kindergartens;unterschiede;lebenswelten;baustein;inte grationspolitik;zweisprachigkeit;evaluation;abfrage;interkulturellen;auswertung;gesamtgebiet;einrichtungen;datenerhebung;rückmeldungen;zuwanderer;ausländer;staatsbürgerschaft;stadtgebiet;handlungskonzept;zielsetzung;erstklässler;lage;schultag;unterricht;kombination;bundesmitteln;vorschul;grundschulbereich;mittelbeteiligung;kindergartenkinder;grundschulkinder;konzeptbausteine;sprachstandseinschätzungen;erfassung;sprachfähigkeiten;förderbedarf;aufnahme;beratungsstellen;kreisgesundheitsamt;sprachtest;konsequenz;defiziten;fördermaßnahmen;mal;muttersprachliche;elternbroschüren;informationsblätter;verteilungsorte;geschäftsstelle;jugendamtes;förderangebote;vorschulkindergarten;curricula;materialien;fachkräfte;fachkraft;multiplikatorinnen;zusätzliche;entlastungsstunden;wochenstunden;erkenntnisse;iii;effizienz;qualitätscontrolling;wirkung;arbeitgruppe;steuerungsgruppe;koordination;kooperation;erfahrungsaustausch;projektphase;handlungsziele;erreichen;schulanfänger;müssen;welche;instrumente;unterstützung;umsetzung;fortb ildung;fachkräften;projektleiterin;spracherwerb;sprach;dortmund;rahmen;wirksamkeitsdialoges;mitarbeiter;fachberaterinnen;lehrerin;sprachbehinderten;koordinatorin;fachberaterin;bedarfserhebung;jugendamt;alter;kriterien;stadtteilzugehörigkeit;trägerangehörigkeit;stadtbezirk;ausführende;kooperationspartner;nord;mitte;süd;landeszuweisung;honorarkosten;std;förderangebotes;sachkosten;fortbildungskosten;honorarkraft;fortbildungszeit;deckungsvorschlag;haushaltsposition;honorare;projetkt;sprachförderung;2003052;,2003/052;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Projetkt Sprachförderung",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2003/052",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/JHA",
+      "https://castroprauxel.gremien.info/oparl/organization/JHA"
+    ]
+  }
+}

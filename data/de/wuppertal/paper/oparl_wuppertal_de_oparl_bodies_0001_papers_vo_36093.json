@@ -1,0 +1,76 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36093",
+  "modified_at": "2026-08-18T14:21:11+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367837.pdf",
+        "created": "2026-07-28T11:58:15+02:00",
+        "date": "2026-08-03",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367837.pdf",
+        "fileName": "00367837.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367837",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-18T09:56:00+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368090.pdf",
+        "created": "2026-08-03T15:05:56+02:00",
+        "date": "2026-08-03",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368090.pdf",
+        "fileName": "00368090.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368090",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-18T09:56:00+02:00",
+        "name": "Anlage 01 - Geltungsbereich",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141163",
+        "authoritative": true,
+        "created": "2026-08-04T06:41:32+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68377",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24585",
+        "modified": "2026-09-03T06:26:40+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/42"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36093",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141169",
+        "created": "2026-08-04T13:35:32+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68378",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24738",
+        "modified": "2026-09-21T11:32:21+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/279"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36093",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-21T16:33:49+02:00",
+    "date": "2026-08-04",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36093",
+    "modified": "2026-08-18T14:21:11+02:00",
+    "name": "Bebauungsplan 1298 - Marschallstraße / Westring -",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/0900/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/82"
+    ]
+  }
+}

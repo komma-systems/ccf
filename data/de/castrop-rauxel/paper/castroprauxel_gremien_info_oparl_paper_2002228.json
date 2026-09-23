@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/2002228",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/000037%7C2002228%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/278",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/000037",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2002-08-23",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/2002228",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002228&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002228&id=69",
+      "fileName": "2002228",
+      "id": "https://castroprauxel.gremien.info/oparl/file/2002228",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2002/228",
+      "size": 14262,
+      "text": "eigenbetrieb;sitzungsvorlage;werksausschuss;umsetzung;gewerbeabfallverordnung;haushaltsstelle;berührung;gesamtkosten;werkleitung;werner;bundesregierung;gewabfv;kraft;verordnung;verwertung;siedlungsabfällen;abbruchabfällen;verpflichtung;getrennthaltung;vorbehandlung;unternehmern;gewerbetreibenden;abfallfraktionen;papier;glas;kunststoffe;metalle;abfallgemische;vorbehandlungsanlagen;verwertungsquote;scheinverwertungen;unternehmen;restabfallbehälter;kommunen;behälter;pflichtrestmülltonne;beteiligung;gewerbes;fixkosten;abfallwirtschaft;deklarierung;abfallgemischen;verwertungsabfälle;gewerbebetriebe;abfälle;privatfirmen;auflagen;restabfälle;entsorgungskörperschaft;euv;neuregelung;fahrplan;abschätzung;behältervolumens;gewerbebetrieben;potenzials;pflichtrestmüllbehältern;gebühreneinnahmen;gewerbe;beurteilung;nutzenanalyse;akzeptanz;pflichtrestmüllbehälter;behälterdatei;erweiterung;gebührenbedarfsberechnung;bezugsgrößen;beschäftigten;infrastruktureinrichtungen;nutzer;betten;gebührensatzberechnung;gebühr ensatzung;tourenplanung;behältervolumen;regel;liter;umsetzung;der;gewerbeabfallverordnung;2002228;,2002/228;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Umsetzung der Gewerbeabfallverordnung",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2002/228",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

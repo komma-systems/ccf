@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/181003100006",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-11%7C181003100006%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6468",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2015-EUV-11",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2015-03-10",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/181003100006",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=181003100006&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=181003100006&id=69",
+      "fileName": "181003100006",
+      "id": "https://castroprauxel.gremien.info/oparl/file/181003100006",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2015/EUV/007",
+      "size": 89300,
+      "text": "Datum: 10.03.2015 TB III 9686-230 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 25.03.2015 TOP: I.6 Drucksache-Nr. 2015/EUV/007 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 25.03.2015 6 Betreff: Einsätze Winterdienst 2014 / 2015 Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt von der Vorlage der geleisteten Winterdiensteinsätze 2014/2015 Kenntnis. ________________________ Werner Sachverhalt: Im Winterhalbjahr 2014 / 2015 hatte der EUV Stadtbetrieb Castrop-Rauxel sowohl bei Glätte als auch beim Schneefall die Straßen im Stadtgebiet geräumt und gestreut. Dabei sind bis Ende Februar 700 Winterdienstarbeitsstunden angefallen, welche auf 46 Mitarbeiter in 3 Bereitschaftsgruppen verteilt werden. Mit den 14 eingesetzten Fahrzeugen wurden von den eingeteilten MA ca. 240 km Fahrbahnen, 20 km Radwege, 25 km Gehwege und 156 Fußgänger-Querungshilfen pro Einsatz geräumt und bestreut. Verbraucht wurden dabei ca. 600 t Streusalz, wobei die Vorräte beider Salztürme komplett aufgebraucht wurden. Die bisher durchgeführten 152 Einsätze wurden von drei Vorarbeitern im Rahmen von Kontrollfahrten bzw. bedingt durch Schneefälle ausgerufen und begleitet. Die Einsätze fanden sowohl in der Nacht, hier teilweise schon ab 2:00 Uhr, als auch tagsüber statt. Weiterer Bericht in der Sitzung.Einsätze Winterdienst 2014 / 20152015/EUV/007%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Einsätze Winterdienst 2014 / 2015",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2015/EUV/007",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

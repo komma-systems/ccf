@@ -1,0 +1,469 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-124",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-124%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-124",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C1%7C1",
+          "date": "2025-06-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-124%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 375690,
+          "text": "  I.1 Fragestunde für Einwohnerinnen und Einwohner   Keine Anfragen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-124%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-124",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-124%7CProtokoll%7C1",
+          "date": "2025-06-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-124%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-124%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 376186,
+          "text": "  I.2 Einwände gegen die letzte Niederschrift   Keine Einwände.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/14069",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-124%7C382605100103%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-124",
+        "name": "Aufstellung von Trinkwasserbrunnen im Stadtgebiet",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C382605100103%7C1",
+          "date": "2025-06-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C382605100103%7C1",
+          "fileName": "be_382605100103_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-124%7C382605100103%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 400440,
+          "text": "  I.3 Aufstellung von Trinkwasserbrunnen im Stadtgebiet (2025/100)   Der Bericht zur Aufstellung der Trinkwasserbrunnen im Stadtgebiet wird von den Ausschüssen zur Kenntnis genommen.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/13982",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-124%7C380206100109%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-124",
+        "name": "Widmung der neu hinzugekommene Flächen der Straße \"Grutholzallee\" gemäß § 6 Straßen- und Wegegesetz für das Land Nordrhein-Westfalen",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C380206100109%7C1",
+          "date": "2025-06-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C380206100109%7C1",
+          "fileName": "be_380206100109_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-124%7C380206100109%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 524254,
+          "text": "  I.4 Widmung der neu hinzugekommenen Flächen der Straße  Grutholzallee  gemäß § 6 Straßen- und Wegegesetz für das Land Nordrhein-Westfalen (2025/106)   Der Betriebsausschuss 3 beschließt gemäß § 6 Straßen- und Wegegesetz des Landes Nordrhein-Westfalen (StrWG NW) in der z. Z. gültigen Fassung die Widmung der nachstehend genannten Flächen der   Grutholzallee Gemarkung Rauxel Flurstücke 144, 148, 150, 152, 153, 154, 155, 169, 170 und 171  als Gemeindestraße für die Allgemeinheit.    Die Beschlussfassung erfolgt einstimmig.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/14285",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-124%7C380704100075%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-124",
+        "name": "Klimaanpassungskonzept Zwischenevaluation 2025",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C380704100075%7C1",
+          "date": "2025-06-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C380704100075%7C1",
+          "fileName": "be_380704100075_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-124%7C380704100075%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 392233,
+          "text": "  I.5 Klimaanpassungskonzept Zwischenevaluation 2025 (2025/072)   Der Betriebsausschuss 3 nimmt die Zwischenevaluation zur Kenntnis.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/14030",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-124%7C380805100093%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-124",
+        "name": "ISEK Stadtmittelpunkt: Sachstandsbericht",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C380805100093%7C1",
+          "date": "2025-06-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C380805100093%7C1",
+          "fileName": "be_380805100093_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-124%7C380805100093%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 423232,
+          "text": "  I.6 ISEK Stadtmittelpunkt: Sachstandsbericht zu Maßnahmen der Städtebauförderung sowie Nationale Projekte des Städtebaus (2025/090)     Der Ausschuss für Klima- und Umweltschutz und der Betriebsausschuss 3 (Bauen, Verkehr und Sport)  nehmen die Sachverhalte unter Teil A und B zur Kenntnis.  nehmen zur Kenntnis, dass am 30.09.2025 fristgerecht der Antrag zum Finanzierungsabschnitt StEP 2026 bei der Bewilligungsbehörde eingereicht wird.           \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/15467",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-124%7C381205100094%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-124",
+        "name": "IGA-Allee - Beschluss des Vorkonzepts",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C381205100094%7C1",
+          "date": "2025-06-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C381205100094%7C1",
+          "fileName": "be_381205100094_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-124%7C381205100094%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 651220,
+          "text": "  I.7 IGA-Allee - Beschluss des Vorkonzepts (2025/091)   Der Betriebsausschuss 3 übernimmt die geänderte Beschlussempfehlung aus dem Ausschuss- für Klima- und Umweltschutz vom 24.06.2025 und empfiehlt dem Rat der Stadt Castrop-Rauxel: das Vorkonzept zur Entwicklung der IGA-Allee unter der Voraussetzung der Fremdfinanzierung zu beschließen. die Verwaltung zu beauftragen, Möglichkeiten zur Finanzierung der erarbeiteten Maßnahmen zu eruieren, sodass darauf aufbauend die einzelnen Maßnahmen konkreter ausgearbeitet werden können.  Die Beschlussfassung erfolgt einstimmig.             \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/15822",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-124%7C381205100096%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-124",
+        "name": "Sachstandsbericht (Juni 2025) zum Bahnübergang Obere Münsterstraße/ Bahnhof Süd",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C381205100096%7C1",
+          "date": "2025-06-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C381205100096%7C1",
+          "fileName": "be_381205100096_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-124%7C381205100096%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 633644,
+          "text": "  I.8 Sachstandsbericht (Juni 2025) zum Bahnübergang Obere Münsterstraße/ Bahnhof Süd (2025/098)      Der Betriebsausschuss 3 empfiehlt dem Rat der Stadt Castrop-Rauxel:  Der Rat der Stadt Castrop-Rauxel nimmt den fortgeschriebenen Sachstandsbericht zum Bahnübergang Obere Münsterstraße zur Kenntnis und beauftragt die Verwaltung: die DB InfraGo AG aufzufordern, dass die sog. Interimslösung (Bahnsteiglage westlich und provisorischem höhengleichen Fuß- und Radübergang) weiterverfolgt wird, ersatzweise, die Variante 1-D (Überführung mit westlicher Rampe) weiterzuverfolgen, sofern die Umsetzung der Interimslösung technisch oder rechtlich unmöglich ist und eine entsprechende Planungsvereinbarung mit der DB InfraGo AG abzuschließen.   Die Beschlussfassung erfolgt mit 16 Ja-Stimmen gegen 1 Nein-Stimme und 1 Enthaltung.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/15473",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-124%7C381206100121%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-124",
+        "name": "Gemeinsamer Antrag der Fraktionen SPD und Bündnis 90/Die Grünen vom 11.06.2025_Antrag auf Einrichtung eines Fahrradwegs entlang der B 235",
+        "number": "8.a",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C381206100121%7C1",
+          "date": "2025-07-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C381206100121%7C1",
+          "fileName": "be_381206100121_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-124%7C381206100121%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8.a",
+          "size": 533006,
+          "text": "  I.8.a Gemeinsamer Antrag der Fraktionen SPD und Bündnis 90/Die Grünen vom 11.06.2025_Antrag auf Einrichtung eines Fahrradwegs entlang der B 235 (2025/117)   Herr Eismann erläutert ausführlich den Antrag.   Der Betriebsausschuss 3 empfiehlt dem Rat der Stadt Castrop-Rauxel:   Die Verwaltung wird beauftragt,  1. Mit dem Straßenbaulastträger Straßen.NRW Verhandlungen über die Errichtung eines Radwegs entlang der B235 im Stadtgebiet Castrop-Rauxel aufzunehmen, insbesondere auf der Strecke zwischen Engelsburgplatz und Freiheitstraße in Henrichenburg.  2. Den Rat bzw. die zuständigen Ausschüsse fortlaufend über den Stand der Gespräche zu informieren.  3. Für den Fall einer langfristigen Einplanung durch den Straßenbaulastträger, Ansätze für eine Zwischenlösung zu entwickeln.  Die Beschlussfassung erfolgt mit 17 Ja-Stimmen gegen 1 Nein-Stimme.             \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/14312",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-124%7C382605100104%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-124",
+        "name": "Beschluss CAS-Klimaneutral: \r\nKonzepterstellung für eine klimaneutrale Stadt Castrop-Rauxel deutlich vor 2040 möglichst bis 2035",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C382605100104%7C1",
+          "date": "2025-07-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C382605100104%7C1",
+          "fileName": "be_382605100104_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-124%7C382605100104%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 540129,
+          "text": "  I.9 Beschluss CAS-Klimaneutral:  Konzepterstellung für eine klimaneutrale Stadt Castrop-Rauxel deutlich vor 2040 möglichst bis 2035 (2025/101)   Der Betriebsausschuss 3 empfiehlt dem Rat der Stadt Castrop-Rauxel:  Der Rat der Stadt Castrop-Rauxel:  beschließt das Konzept Castrop-Rauxel Klimaneutral bis deutlich vor 2040 möglichst bis 2035 als strategische Grundlage für die Klimaschutzaktivitäten auf dem Weg zur Klimaneutralität in Castrop-Rauxel,  beschließt das Idealszenario als Zielszenario und beauftragt den Konzern Stadt Castrop-Rauxel unter Berücksichtigung sämtlicher (insbesondere externer) notwendiger Rahmenbedingungen dieses umzusetzen.   Die Beschlussfassung erfolgt mit 11 Ja-Stimmen gegen 6 Nein-Stimmen und 1 Enthaltung.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-124%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-124",
+        "name": "Bauvorhaben von städtebaulicher Bedeutung",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-124%7Czt_0%7C1",
+          "date": "2025-06-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-124%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-124%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 375977,
+          "text": "  I.10 Bauvorhaben von städtebaulicher Bedeutung   Keine Bauvorhaben.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/16114",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-124%7C381405100098%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-124",
+        "name": "Erstellung eines Sportstättenentwicklungskonzepts",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C381405100098%7C1",
+          "date": "2025-07-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C381405100098%7C1",
+          "fileName": "be_381405100098_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-124%7C381405100098%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 671496,
+          "text": "  I.11 Erstellung eines Sportstättenentwicklungskonzepts (2025/094)   Die Ausschussmitglieder diskutieren über die Vorlage. Herr Romahn regt an, dass die vereinseigenen Anlagen explizit genannt werden. Herr Bettinger schlägt vor, bei der Ausschreibung auch die Bäder optional mit aufzunehmen.  Der Betriebsausschuss 3 empfiehlt dem Rat der Stadt Castrop-Rauxel:  Der Rat der Stadt Castrop-Rauxel beschließt die Vergabe zur Erstellung eines Sportstättenentwicklungskonzepts. Die Verwaltung wird beauftragt, ein geeignetes Fachbüro mit der Durchführung des Konzepts zu betrauen. Die Maßnahme kann aus Mitteln der zurückgeführten Sportpauschale in Höhe von 100.000  finanziert werden (Kontierung 5431300/50052/420201).   Der Beschlussvorschlag soll wie folgt erweitert werden, um die Ergänzungen aus dem Antrag der CDU-Fraktion vom 25.06.2025 (Vorlage 2025/131):  Im Rahmen der Erstellung des Sportstättenentwicklungskonzepts sollen insbesondere folgende Punkte berücksichtigt werden:  - Bestandsaufnahme von demographischen und sportbezogenen Grunddaten - eine aktuelle Einschätzung der Sportstättensituation durch Vorortbegehungen - die Erstellung eines Sportstättenkatasters, eine wissenschaftlich fundierte Bedarfsanalyse - Nutzerbefragungen der Bevölkerung (Sportverhaltensstudie), der ansässigen  Schulen, Kitas und Sportvereine - Erstellung einer Bestands-Bedarfs-Bilanzierung. - Aktive Bürgerbeteiligung von Beginn des Erstellungsprozesses an durch Vor-Ort- Veranstaltungen, Zielgruppengespräche und Präsentationen. - Einbindung des Ausschusses für Bürgeranliegen, Ehrenamt und Sport sowie der Betriebsausschüsse 2 und 3 als zuständige Fachausschüsse in den gesamten Prozess - Betrachtung von städtischen und privaten Sportanlagen sowie Frei- und Hallenbäder  Die Beschlussfassung erfolgt einstimmig.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/14276",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-124%7C382606100135%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-124",
+        "name": "Ergänzungsantrag der CDU Fraktion vom 25. Juni 2025 zum TOP \"Erstellung eines Sportstättenentwicklungskonzepts\"",
+        "number": "11.a",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C382606100135%7C1",
+          "date": "2025-07-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C382606100135%7C1",
+          "fileName": "be_382606100135_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-124%7C382606100135%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11.a",
+          "size": 502101,
+          "text": "  11.a Ergänzungsantrag der CDU Fraktion vom 25. Juni 2025 zum TOP  Erstellung eines Sportstättenentwicklungskonzepts  (2025/131)   Der Ergänzungsantrag wird einstimmig angenommen (siehe TOP 11).               \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-124%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-124",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C6%7C1",
+          "date": "2025-07-03",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-124%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 423446,
+          "text": "  I.12 Anfragen der Ausschussmitglieder   I.12.1 Herr Bettinger: Herr Bettinger weist auf die Feuchtigkeit in der Tiefgarage hin und fragt nach dem aktuellen Sanierungsstand.  Frau Lenort berichtet aus der letzten interfraktionellen Runde Rathaussanierung, in der die Verwaltung den Fahrplan vorgestellt hat. Hierbei handelt es sich um die Abdichtung der Zugänge in der Tiefgarage, der äußere Zugang ist bisher fertiggestellt. Die weitere Sanierung erfolgt sowie die finanziellen Mittel zur Verfügung stehen.    I.12.2                I.12.3  Herr Berkel: Herr Berkel fragt nach dem aktuellen Sachstand der Parkverbote entlang der Suderwicher Straße und die Suche nach alternativen Parkmöglichkeiten für die Gäste der angrenzenden Gastronomie.  Herr Werner: Herr Werner berichtet, dass der EUV in Abstimmung ist mit der Bundeswasserschifffahrtsverwaltung in Datteln. Auf der gegenüberliegenden Straßenseite in Höhe der Pizzeria Enzo ist eine größere Fläche seitlich des ehemaligen Betriebsleiterhauses. Der EUV versucht diese Fläche vom Bundeswasserschifffahrtsamt anzumieten und den beiden Gastronomen als Ausweichparkplatz zur Verfügung zu stellen. Darüber hinaus hat der EUV das Einverständnis des Landesstraßenbaulastträgers, Dortmund, in Höhe des Angelvereins (seitlich Haus Hölter), zu der ein kleiner Parkplatz gehört, in der Innenkurve der Suderwicher Straße zur Sicherheit für die Bürger*innen die Leitplanken zu ziehen.   Herr Faber:  Herr Faber weist noch einmal auf die schlechte Beleuchtung auf der Suderwicher Straße hin?  Herr Werner nimmt den Hinweis mit und verweist auf die Planungen im Rahmen der IGA 2027, zwei zusätzliche Haltestellen in Abstimmung mit dem Straßenbaulastträger einzurichten.        I.12.4 Herr Eismann berichtet über einen Presseartikel in den RN, worin der Rat der Stadt Dortmund in seiner Julisitzung beschließen möchte, eine Machbarkeitsstudie über die Verlängerung der Stadtbahn Richtung Dortmund Kirchlinde in Auftrag zu geben.  Gibt es im Vorfeld oder vielleicht auch aktuell seitens der Stadt Dortmund oder der Castrop-Rauxeler Verwaltung Kontakt, ob nicht über die Stadtgrenzen hinweg über eine Verlängerung nachgedacht werden könnte.  Frau Lenort:  Wie der Presse zu entnehmen war, beabsichtigt, die Stadt Dortmund eine Machbarkeitsstudie in Auftrag zu geben. Diese Vorlage können wir gerne besorgen. Die Kosten für die Studie betragen über 500.000 . Sobald die Stadt Dortmund den Beschluss hat, können wir gerne mit der Dortmunder Verwaltung überlegen, ob die Stadt Castrop-Rauxel sich daran beteiligten kann. Gleichwohl das natürlich mit Kosten verbunden ist. Eine regelmäßige Berichterstattung erfolgt im Ausschuss.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-124%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-124",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "13",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C4%7C1",
+          "date": "2025-06-27",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2025-B3-124%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2025-B3-124%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 13",
+          "size": 373249,
+          "text": "  I.13 Mitteilungen der Verwaltung   Keine Mitteilung.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-124%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-124",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-B3-124%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-124",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2025-B3-124%7C20250625095242-0_2025-B3-124_1.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2025-06-25",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2025-B3-124%7C20250625095242-0_2025-B3-124_1.pdf",
+        "fileName": "20250625095242-0_2025-B3-124_1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2025-B3-124%7C1",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Vorlage_2025-117",
+        "size": 470380,
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=11&meeting_attachment_id=ni_2025-B3-124%7C20250625095248-0_2025-B3-124_2.pdf",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2025-06-25",
+        "deleted": false,
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=11&meeting_attachment_id=ni_2025-B3-124%7C20250625095248-0_2025-B3-124_2.pdf",
+        "fileName": "20250625095248-0_2025-B3-124_2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/sia%7C2025-B3-124%7C2",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "Antrag_FahrradwegB235",
+        "size": 126528,
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2025-06-26T17:45:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-124",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2025-B3-124",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-06-11",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2025-B3-124",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2025-B3-124",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "8d2fbb27b6ba2e5a575974c5d1d93e5fc70393f6",
+      "size": 437207,
+      "text": "Amtliche Bekanntmachung der Tagesordnung zur Sitzung des Betriebsausschusses 3 (Bauen, Verkehr und Sport) am Donnerstag, 26.06.2025 um 17:00 Uhr im Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel,   I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner  2. Einwände gegen die letzte Niederschrift  3. Aufstellung von Trinkwasserbrunnen im Stadtgebiet  4. Widmung der neu hinzugekommene Flächen der Straße  Grutholzallee  gemäß § 6 Straßen- und Wegegesetz für das Land Nordrhein-Westfalen  5. Klimaanpassungskonzept Zwischenevaluation 2025  6. ISEK Stadtmittelpunkt: Sachstandsbericht  7. IGA-Allee - Beschluss des Vorkonzepts  8. Sachstandsbericht (Juni 2025) zum Bahnübergang Obere Münsterstraße/ Bahnhof Süd  9. Beschluss CAS-Klimaneutral:  Konzepterstellung für eine klimaneutrale Stadt Castrop-Rauxel deutlich vor 2040 möglichst bis 2035  10. Bauvorhaben von städtebaulicher Bedeutung  11. Erstellung eines Sportstättenentwicklungskonzepts  12. Anfragen der Ausschussmitglieder  13. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  1. Anfragen der Ausschussmitglieder  2. Mitteilungen der Verwaltung    gez. Dr. Oliver Lind Ausschussvorsitzender \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2025-B3-124/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Betriebsausschusses 3 (Bauen, Verkehr und Sport)",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/205",
+      "https://castroprauxel.gremien.info/oparl/person/1063",
+      "https://castroprauxel.gremien.info/oparl/person/1052",
+      "https://castroprauxel.gremien.info/oparl/person/642",
+      "https://castroprauxel.gremien.info/oparl/person/596",
+      "https://castroprauxel.gremien.info/oparl/person/241",
+      "https://castroprauxel.gremien.info/oparl/person/908",
+      "https://castroprauxel.gremien.info/oparl/person/400",
+      "https://castroprauxel.gremien.info/oparl/person/961",
+      "https://castroprauxel.gremien.info/oparl/person/627",
+      "https://castroprauxel.gremien.info/oparl/person/1064",
+      "https://castroprauxel.gremien.info/oparl/person/977",
+      "https://castroprauxel.gremien.info/oparl/person/780",
+      "https://castroprauxel.gremien.info/oparl/person/814",
+      "https://castroprauxel.gremien.info/oparl/person/420",
+      "https://castroprauxel.gremien.info/oparl/person/269",
+      "https://castroprauxel.gremien.info/oparl/person/1011",
+      "https://castroprauxel.gremien.info/oparl/person/1184",
+      "https://castroprauxel.gremien.info/oparl/person/1284",
+      "https://castroprauxel.gremien.info/oparl/person/1025",
+      "https://castroprauxel.gremien.info/oparl/person/344",
+      "https://castroprauxel.gremien.info/oparl/person/1274",
+      "https://castroprauxel.gremien.info/oparl/person/965"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-B3-124",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-07-22",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2025-B3-124",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2025-B3-124",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 782883,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2025-06-26T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-B3-124",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2025-07-22",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2025-B3-124",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2025-B3-124",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 782883,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

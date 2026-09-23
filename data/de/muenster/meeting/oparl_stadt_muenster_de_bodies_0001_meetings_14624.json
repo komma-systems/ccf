@@ -1,0 +1,129 @@
+{
+  "council_id": "muenster",
+  "record_type": "meeting",
+  "source_id": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14624",
+  "modified_at": "2026-07-30T14:52:34+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "created": "2026-05-28T12:46:19+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/285917",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14624",
+        "modified": "2026-05-28T12:46:19+02:00",
+        "name": "Einführung und Verpflichtung neuer Mitglieder",
+        "number": "1",
+        "order": 1,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      },
+      {
+        "created": "2026-05-27T08:13:38+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/285776",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14624",
+        "modified": "2026-05-28T12:46:19+02:00",
+        "name": "Eingänge und Eingaben",
+        "number": "2",
+        "order": 2,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      },
+      {
+        "consultation": "https://oparl.stadt-muenster.de/bodies/0001/consultations/90758",
+        "created": "2026-05-28T12:27:00+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/285916",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14624",
+        "modified": "2026-06-17T11:41:27+02:00",
+        "name": "Bauliche Erweiterung des Schulzentrums Hiltrup; Errichtung einer Dreifach-Sporthalle und Erweiterungsneubau Johannes-Gutenberg-Realschule Hiltrup sowie Umsetzung von Maßnahmen im Bestand",
+        "number": "3",
+        "order": 3,
+        "public": true,
+        "result": "einstimmig beschlossen",
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      },
+      {
+        "created": "2026-05-27T08:13:40+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/285784",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14624",
+        "modified": "2026-05-28T12:46:19+02:00",
+        "name": "Verschiedenes",
+        "number": "4",
+        "order": 4,
+        "public": true,
+        "type": "https://schema.oparl.org/1.1/AgendaItem"
+      }
+    ],
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00585546.pdf",
+        "created": "2026-05-28T12:28:39+02:00",
+        "date": "2026-05-28",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00585546.pdf",
+        "fileName": "00585546.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/585546",
+        "mimeType": "application/pdf",
+        "modified": "2026-06-09T10:49:54+02:00",
+        "name": "Tagesordnung öffentlich",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "created": "2026-05-22T10:17:35+02:00",
+    "end": "2026-06-11T17:13:00+02:00",
+    "id": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14624",
+    "location": {
+      "created": "2020-10-06T14:20:58+02:00",
+      "id": "https://oparl.stadt-muenster.de/bodies/0001/locations/rm/108861",
+      "locality": "",
+      "modified": "2021-09-21T15:32:27+02:00",
+      "postalCode": "",
+      "room": "Hauptausschusszimmer, 1. Etage",
+      "streetAddress": "",
+      "subLocality": "",
+      "type": "https://schema.oparl.org/1.1/Location"
+    },
+    "modified": "2026-07-30T14:52:34+02:00",
+    "name": "gemeinsame Sitzung des Ausschusses für Schule und Weiterbildung mit der Bezirksvertretung Münster-Hiltrup",
+    "organization": [
+      "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/382"
+    ],
+    "participant": [
+      "https://oparl.stadt-muenster.de/bodies/0001/people/113844",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/110810",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/109927",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/110733",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/113767",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/109457",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/108066",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/1915",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/109582",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/112547",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/91",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/109588",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/112541",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/109466",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/109230",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/5544",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/109693",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/112504",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/114068",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/112491",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/107492",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/108793",
+      "https://oparl.stadt-muenster.de/bodies/0001/people/108683"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00586493.pdf",
+      "created": "2026-06-16T08:53:13+02:00",
+      "date": "2026-07-14",
+      "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00586493.pdf",
+      "fileName": "00586493.pdf",
+      "id": "https://oparl.stadt-muenster.de/bodies/0001/files/586493",
+      "mimeType": "application/pdf",
+      "modified": "2026-07-17T11:21:59+02:00",
+      "name": "Niederschrift öffentlich",
+      "type": "https://schema.oparl.org/1.1/File"
+    },
+    "start": "2026-06-11T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.1/Meeting"
+  }
+}

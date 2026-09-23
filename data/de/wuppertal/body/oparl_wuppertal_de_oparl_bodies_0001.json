@@ -1,0 +1,34 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "body",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001",
+  "modified_at": "2020-04-24T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems",
+    "consultation": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations",
+    "contactEmail": "abdessamad.amaadachou@stadt.wuppertal.de",
+    "contactName": "Abdessamad Amaadachou",
+    "created": "2020-04-24T00:00:00+02:00",
+    "equivalent": [
+      ""
+    ],
+    "file": "http://oparl.wuppertal.de/oparl/bodies/0001/files",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "legislativeTermList": "http://oparl.wuppertal.de/oparl/bodies/0001/legislativeterms",
+    "licenseValidSince": "2020-04-24T00:00:00+02:00",
+    "locationList": "http://oparl.wuppertal.de/oparl/bodies/0001/locations",
+    "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings",
+    "membership": "http://oparl.wuppertal.de/oparl/bodies/0001/memberships",
+    "modified": "2020-04-24T00:00:00+02:00",
+    "name": "Instance 0001",
+    "oparlSince": "2020-04-24T00:00:00+02:00",
+    "organization": "http://oparl.wuppertal.de/oparl/bodies/0001/organizations",
+    "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers",
+    "person": "http://oparl.wuppertal.de/oparl/bodies/0001/people",
+    "shortName": "I0001",
+    "system": "http://oparl.wuppertal.de/oparl/system",
+    "type": "https://schema.oparl.org/1.1/Body",
+    "website": "https://ris.wuppertal.de/"
+  }
+}

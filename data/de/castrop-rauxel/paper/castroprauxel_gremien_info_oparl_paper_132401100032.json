@@ -1,0 +1,403 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/132401100032",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=132401100032%7C20120201091043.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=132401100032%7C20120201091043.pdf%7C",
+        "fileName": "20120201091043.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C132401100032%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/132401100032",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "a0f4d18f57846e52f4adac1b61a9932667384c09",
+        "size": 14528,
+        "text": "Anlage 1 - Liste der beteiligten Behoerden",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=132401100032%7C20120201091106.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=132401100032%7C20120201091106.pdf%7C",
+        "fileName": "20120201091106.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C132401100032%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/132401100032",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "9ae100d0a3fcce96e8d45f738507e412d7f4d3a8",
+        "size": 1344546,
+        "text": "Anlage 2 - Abwaegung_Behoerden_2012-01-11",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=132401100032%7C20120201091119.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=132401100032%7C20120201091119.pdf%7C",
+        "fileName": "20120201091119.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C132401100032%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/132401100032",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "5c24a37f5f482d069130eab4f149a332e85c5cdd",
+        "size": 74607,
+        "text": "Anlage 3 - Abwaegung_Oeffentlichkeit_2012-01-11",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=132401100032%7C20120201091151.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=132401100032%7C20120201091151.pdf%7C",
+        "fileName": "20120201091151.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C132401100032%7C4",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/132401100032",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 4",
+        "sha1Checksum": "e01b87013b90cc09a4999081e68bdddf960aa2d4",
+        "size": 5180314,
+        "text": "Anlage 4 - Aenderungen nach Auslegung",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=132401100032%7C20120201091202.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=132401100032%7C20120201091202.pdf%7C",
+        "fileName": "20120201091202.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C132401100032%7C5",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/132401100032",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 5",
+        "sha1Checksum": "cf65abb6dba2fdd0facbf5f83dfd7b982c31eb71",
+        "size": 28264808,
+        "text": "Anlage 5 - Flaechennutzungsplan_2012-01-11",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=132401100032%7C20120201091232.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=132401100032%7C20120201091232.pdf%7C",
+        "fileName": "20120201091232.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C132401100032%7C6",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/132401100032",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 6",
+        "sha1Checksum": "a8dcb381f5156169b69056f39a2aaeccd1598fa0",
+        "size": 20867637,
+        "text": "Anlage 5.1 - Teilplan_Techn. Versorgung_2012-01-11",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=132401100032%7C20120201091330.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=132401100032%7C20120201091330.pdf%7C",
+        "fileName": "20120201091330.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C132401100032%7C7",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/132401100032",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 7",
+        "sha1Checksum": "f5f9153c19453d62587e9383061e23ceed32c48f",
+        "size": 707918,
+        "text": "Anlage 6 - Begruendung - mit markierten Aenderungen",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=132401100032%7C20120201091350.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=132401100032%7C20120201091350.pdf%7C",
+        "fileName": "20120201091350.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C132401100032%7C8",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/132401100032",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 8",
+        "sha1Checksum": "eccd919eb12c22afec23e3c9c7b6d5b3530638e7",
+        "size": 673879,
+        "text": "Anlage 7 - Begruendung - Beschlussfassung_2012-01-11",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=132401100032%7C20120201091409.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=132401100032%7C20120201091409.pdf%7C",
+        "fileName": "20120201091409.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C132401100032%7C9",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/132401100032",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 9",
+        "sha1Checksum": "713d56a5f049959884832e4ec46bfceaf0f3d38f",
+        "size": 11722303,
+        "text": "Anlage 7.1 - Themenkarte 01-05",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=132401100032%7C20120201091418.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=132401100032%7C20120201091418.pdf%7C",
+        "fileName": "20120201091418.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C132401100032%7C10",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/132401100032",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 10",
+        "sha1Checksum": "dedfdebcecffbadcbeb1db0764f0d064e980822a",
+        "size": 10963375,
+        "text": "Anlage 7.1 - Themenkarte 06a-06c",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=132401100032%7C20120201091426.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=132401100032%7C20120201091426.pdf%7C",
+        "fileName": "20120201091426.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C132401100032%7C11",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/132401100032",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 11",
+        "sha1Checksum": "895928ffea90b88dc7e87eb2113b995a129a2cdc",
+        "size": 10704573,
+        "text": "Anlage 7.1 - Themenkarte 07-10",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=132401100032%7C20120201091434.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=132401100032%7C20120201091434.pdf%7C",
+        "fileName": "20120201091434.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C132401100032%7C12",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/132401100032",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 12",
+        "sha1Checksum": "0b696967d41cc5a1bdf6b81ae65ed8003a31928c",
+        "size": 15466153,
+        "text": "Anlage 7.1 - Themenkarte 11-13",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=132401100032%7C20120201091457.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=132401100032%7C20120201091457.pdf%7C",
+        "fileName": "20120201091457.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C132401100032%7C13",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/132401100032",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 13",
+        "sha1Checksum": "ae8d77b239e1ee450d49c9219d8fa0deed58db76",
+        "size": 2900327,
+        "text": "Anlage 8 - Umweltbericht - mit markierten Aenderungen_2012-01-11",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=132401100032%7C20120201091517.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=132401100032%7C20120201091517.pdf%7C",
+        "fileName": "20120201091517.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C132401100032%7C14",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/132401100032",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 14",
+        "sha1Checksum": "7cc3b34d15b328eabba086b41d867af453dc21b1",
+        "size": 34414672,
+        "text": "Anlage 8.1 - Gebietsbriefe mit markierten Aenderungen",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=132401100032%7C20120201091542.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=132401100032%7C20120201091542.pdf%7C",
+        "fileName": "20120201091542.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C132401100032%7C15",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/132401100032",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 15",
+        "sha1Checksum": "e1bf61251dbbd9577d13e48a08b8663bce52466f",
+        "size": 2885436,
+        "text": "Anlage 9 - Umweltbericht_2012-01-11_Beschlussfassung",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-UMWA-48%7C132401100032%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/4995",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-UMWA-48",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2006-B1-48%7C132401100032%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/4996",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B1-48",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B1"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-B2-49%7C132401100032%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/4997",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B2-49",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B2"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-B3-49%7C132401100032%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/4998",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B3-49",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-HFA-51%7C132401100032%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/4999",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-HFA-51",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-RAT-61%7C132401100032%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5000",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-RAT-61",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-B1-49%7C132401100032%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5064",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B1-49",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B1"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-B3-50%7C132401100032%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5066",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-B3-50",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-HFA-52%7C132401100032%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5067",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-HFA-52",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-RAT-62%7C132401100032%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5068",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-RAT-62",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-UMWA-49%7C132401100032%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5069",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2006-UMWA-49",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2012-01-24",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/132401100032",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=132401100032&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=132401100032&id=69",
+      "fileName": "132401100032",
+      "id": "https://castroprauxel.gremien.info/oparl/file/132401100032",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2012/031",
+      "size": 263351,
+      "text": "bereich stadtplanung 2012/031 öffentlich az: 61-20-00 datum: 24.01.2012 sitzungsvorlage beratungsfolge datum top-nr. umweltausschuss 06.03.2012 betriebsausschuss 1 (ausschuss für öffentliche ordnung, sport und kultur) 07.03.2012 4 betriebsausschuss 2 (ausschuss für jugend, schule und soziales) 08.03.2012 betriebsausschuss 3 (ausschuss für stadtentwicklung, bau und verkehr) 08.03.2012 haupt- und finanzausschuss 13.03.2012 rat der stadt 15.03.2012 betreff flächennutzungsplan 2025 der stadt castrop-rauxel hier: a) entscheidung über eingegangene stellungnahmen b) entscheidung über die redaktionellen änderungen und ergänzungen c) feststellungsbeschluss des planes und billigung der begründung mit umweltbericht d) vorlage zur genehmigung bei der höheren verwaltungsbehörde finanzielle auswirkungen x keine haushaltsmäßige berührung auswirkungen siehe sachverhalt beschlussvorschlag der rat der stadt castrop-rauxel hat die vorgebrachten stellungnahmen im einzelnen geprüft und abgewogen. der rat beschließt, die abgegebenen stellungnahmen insoweit zu berücksichtigen, wie es im beiliegende abwägungsvorschlag (anlagen 2 und 3) angegeben ist; die redaktionellen änderungen zu berücksichtigen, indem der flächennutzungsplan sowie die begründung mit umweltbericht wie im sachverhalt beschrieben geändert werden. der rat schließt sich der stellungnahme der verwaltung an und erhebt diese zum beschluss. der rat beschließt ferner die feststellung des flächennutzungsplans für das gesamte stadtgebiet der stadt castrop-rauxel in seiner geänderten fassung und billigt die zugehörige begründung mit umweltbericht in ihrer geänderten fassung. die verwaltung wird beauftragt, den flächennutzungsplan der stadt castrop-rauxel einschließlich begründung und umweltbericht der höheren verwaltungsbehörde zur genehmigung vorzulegen. ………………….. …………………… ………….…… …………………… b e i s e n h e r z g l ö ß e c k h a r d t d o b r i n d t bürgermeister erste beigeordnete beigeordneter technischer beigeordneter sachverhalt anlass zur neuaufstellung des flächennutzungsplans der rechtswirksame flächennutzungsplan (fnp) der stadt castrop-rauxel ist bereits am 24. dezember 1974 in kraft getreten. aufgrund veränderter gesellschaftlicher und wirtschaftlicher rahmenbedingungen in den vergangenen jahren mussten jedoch die in den 70er jahren formulierten zielvorstellungen und schwerpunkte der stadtentwicklung in zahlreichen teilräumen überarbeitet werden. die mehr als 60 änderungsverfahren machen deutlich, dass der aus dem jahr 1974 stammende fnp dringend einer gesamtüberarbeitung bedarf, um die in § 5 abs. 1 baugesetzbuch (baugb) geforderte, sich aus der beabsichtigten städtebaulichen entwicklung ergebende art der bodennutzung nach den voraussehbaren bedürfnissen der gemeinde in den grundzügen darstellen zu können und ein nachhaltiges leitbild für die entwicklung der stadt zu erhalten. um den beschriebenen erfordernissen entsprechen zu können, hat der rat der stadt castrop-rauxel am 24. februar 2005 beschlossen, für das gesamte stadtgebiet einen neuen fnp aufzustellen (vgl. sitzungsvorlage 2005/049). ablauf des aufstellungsverfahrens und durchgeführte planungsschritte nach dem beschluss zur aufstellung des fnps erfolgte zwischen januar und april 2006 und damit in einem sehr frühen planungsstadium unter der bezeichnung „zukunftsprojekt“ eine informelle beteiligungsrunde, die unabhängig von dem rechtlichen erfordernis den im baugb gesetzlich vorgegebenen verfahrenschritten vorgeschaltet wurde. nach der ausarbeitung des arbeitsentwurfs bis mai 2007 erfolgte auf dessen grundlage im juni 2007 eine erneute informelle beteiligung der bereiche, um den änderungsbedarf im rechtlich vorgegebenen verfahren reduzieren und somit das verfahren effektiv und effizient gestalten zu können. anschließend erfolgte die ausarbeitung des vorentwurfs und der begründung. um den mitgliedern der ausschüsse und des rats der stadt castrop-rauxel die möglichkeit zu geben, sich im vorfeld umfassend über die darstellungen des fnps zu informieren, wurde ein interfraktioneller lenkungskreis gebildet. neben einer auftaktveranstaltung im dezember 2009 wurden zwischen januar und april 2010 insgesamt drei termine durchgeführt. der vorentwurf wurde am 24.06.2010 durch den rat der stadt castrop-rauxel beschlossen, um im anschluss die frühzeitige beteiligung der öffentlichkeit sowie der behörden und sonstigen träger öffentlicher belange durchführen zu können. die frühzeitige beteiligung der öffentlichkeit erfolgte auf verschiedenen wegen, um die bürger möglichst intensiv in das verfahren einzubinden. neben der bereitstellung sämtlicher daten im internet und einem aushang des vorentwurfs wurden insgesamt drei bürgerinformationsveranstaltungen angeboten, in denen der vorentwurf und seine wesentlichen inhalte stadtteilbezogen vorgestellt wurden. die im rahmen der frühzeitigen beteiligung eingegangenen stellungnahmen der öffentlichkeit und der behörden wurden eingehend geprüft und abgewogen. nach einer vorstellung der ersten zwischenergebnisse in einer erneuten sitzung des interfraktionellen lenkungskreises erfolgte schließlich die ausarbeitung des entwurfs des fnp. nach einer weiteren überarbeitung des flächennutzungsplans erfolgte am 14.07.2011 der beschluss zur öffentlichen auslegung des planentwurfs durch den rat der stadt castrop-rauxel. folgende verfahrensschritte wurden durchgeführt: aufstellungsbeschluss (rat) 24.02.2005 beschluss des vorentwurfs (rat) 24.06.2010 unterrichtung der öffentlichkeit 02.11.2010 – 29.11.2010 bürgerinformationsveranstaltung nord 27.10.2010 bürgerinformationsveranstaltung mitte 08.11.2010 bürgerinformationsveranstaltung süd 11.11.2010 beschluss zur öffentlichen auslegung (rat) 14.07.2011 offenlegung des planentwurfs (§ 3 abs. 2 baugb) 15.08.2011 – 23.09.2011 darstellungen des flächennutzungsplans aufbauend auf den ergebnissen des zukunftsprojekts und den derzeitigen entwicklungstrends wurden leitlinien für die stadtentwicklung von castrop-rauxel formuliert. die darstellungen des fnps orientieren sich an diesen leitlinien, berücksichtigen zugleich die vorgaben des § 5 abs. 2 baugb und alle bis zum 31. märz 2011 vorliegenden informationen, gutachten und fachbeiträge sowie die zu diesem zeitpunkt geltende beschlusslage. die inhalte des fnps sind in § 5 abs. 2 bis 4 baugb geregelt und umfassen darstellungen, kennzeichnungen sowie nachrichtliche übernahmen und vermerke. die darstellungen bilden die für die gemeinde bedeutsamsten inhalte des fnps, da sie die entwicklungsvorstellungen der gemeinde über die zukünftige bodennutzung im gemeindegebiet zum ausdruck bringen und der gemeinde die durchsetzung ihrer eigenen planvorstellungen ermöglichen. anders als die darstellungen des fnps sind die kennzeichnungen sowie die nachrichtlichen übernahmen und vermerke nicht ausdruck des planerischen willens der gemeinde. sie sind hinweise, die auf eine besondere situation im zusammenhang mit der nutzung einer fläche aufmerksam machen, oder übernahmen von planungen und sonstigen, nach anderen gesetzlichen vorschriften festgesetzten nutzungsregelungen. im vergleich zum fnp 1974 wurde im fnp 2025 eine generalisierende darstellung gewählt. durch die darstellung von bauflächen nach der allgemeinen art ihrer baulichen nutzung gem. § 1 abs. 1 baunutzungsverordnung (baunvo) bleibt die stadt im hinblick auf die konkrete festlegung künftiger baugebiete flexibel. darüber hinaus wird das erfordernis von planänderungsverfahren reduziert. auf der nachfolgenden stufe der verbindlichen bauleitplanung sind die darstellungen dann zu konkretisieren. zusätzlich wurde als darstellungsgrenze für flächenbezogene darstellungen eine mindestgröße von 1,0 ha gewählt, die insgesamt zu einer entfeinerung der darstellungen und damit verbunden zu einer besseren übersichtlichkeit und lesbarkeit des plans führt. um eine grafische überfrachtung des fnps zu vermeiden, wurde ein teilplan „technische ver- und entsorgung“ erarbeitet. er wird die gleiche rechtliche bindungswirkung wie der hauptplan entfalten. grundsätzlich sind die darstellungen des flächennutzungsplans behördenverbindlich. als zusätzliche informationsquellen sind darüber hinaus unterschiedliche themenkarten (z. b. zu öffentlichen einrichtungen, grünflächen oder schutzgebieten im sinne des naturschutzrechts) der begründung beigefügt. zur berücksichtigung der belange des umweltschutzes wird im rahmen der neuaufstellung des fnps gem. § 2 abs. 4 baugb eine umweltprüfung durchgeführt, in der die voraussichtlichen erheblichen umweltauswirkungen ermittelt werden. die ergebnisse werden in einem umweltbericht, der teil der begründung ist, beschrieben und bewertet. einen wichtigen baustein des umweltberichts bilden die gebietsbriefe, in denen die umweltauswirkungen der im fnp 2025 geänderten flächendarstellungen differenziert nach den einzelnen schutzgütern bewertet werden und die bei späteren bebauungsplanverfahren als grundlage dienen sollen. im folgenden werden die zentralen aussagen der darstellungen des fnp 2025 zusammengefasst. die änderungen, die sich gegenüber dem vorentwurf bzw. entwurf ergeben haben, sind in den einzelnen themenfeldern beschrieben. wohnbauflächen vor dem hintergrund des demographischen wandels ist es sinnvoll, dass im sinne einer nachhaltigen siedlungsentwicklung die begrenzung der neuinanspruchnahme von flächen erfolgt. grundlegender baustein der wohnbauflächenbedarfsberechnung, die im rahmen der landesplanerischen anpassung mit dem regionalverband ruhr (rvr) als träger der regionalplanung abgestimmt wurde, ist die sich mit dem planungshorizont des fnp 2025 deckende bevölkerungsvorausberechnung 2008-2025. die bevölkerungsvorausberechnung prognostiziert für das jahr 2025 eine bevölkerungszahl von rund 68.400 einwohnern. die prognostizierte bevölkerungszahl ist gemäß dem beschluss des rats vom 05. februar 2009 auch die bevölkerungszielzahl für das jahr 2025, an der die künftige entwicklung neuer wohnbauflächen und die berechnung der weiteren bedarfe (z. b. an infrastruktureinrichtungen) zu orientieren ist. der zukünftige bedarf an wohnbauflächen ergibt sich einerseits aus der zahlenmäßigen entwicklung der bevölkerung. außerdem sind bei der ermittlung des bedarfs aber auch die zahl der wohnungsnachfragenden privathaushalte, der verfügbare wohnungsbestand sowie der steigende wohnflächenkonsum zu berücksichtigen. eine folge dieser entwicklung ist, dass auch bei gleich bleibender oder sinkender bevölkerungszahl mehr wohnraum nachgefragt wird und die entwicklung zusätzlicher wohnbauflächen erforderlich werden kann. in der wohnbauflächenbedarfsprognose, die sich an der berechnungsmethode des instituts für landes- und stadtentwicklungsforschung und bauwesen des landes nordrhein-westfalen orientiert, wurde zunächst ein zukünftiger wohnbauflächenbedarf von 52,5 ha bis zum jahr 2025 prognostiziert und entsprechend im vorentwurf des fnp 2025 dargestellt. im rahmen der landesplanerischen anpassung wurde mit dem rvr vereinbart, dass der nachholbedarf, der sich aus dem bereits bestehenden defizit zwischen verfügbarem wohnungsbestand und nachfragenden privathaushalten ergibt, nur zur hälfte in die berechnung eingehen sollte, da eine sättigung auf dem wohnungsmarkt zu beobachten ist und die anzahl der haushalte und wohnungen statistische unsicherheiten beinhaltet und damit deren einfluss eingeschränkt wird. in abstimmung mit dem rvr wurde der zukünftige wohnbauflächenbedarf auf 40,8 ha korrigiert. eine wesentliche zielsetzung des fnp 2025 besteht darin, dass weitere wohnbauflächen im grundsatz in den siedlungsschwerpunkten gelegen sein sollen. außerhalb der siedlungsschwerpunkte beschränkt sich die siedlungsentwicklung lediglich auf die sicherung des bestands und allenfalls örtlich bedingte abrundungen. zudem werden umweltverträglichkeitsgesichtspunkte beachtet, durch die eine inanspruchnahme zusammenhängender freiflächen möglichst vermieden wird. gewerbliche bauflächen die gewerblichen bauflächen umfassen die in der baunvo definierten gewerbegebiete und industriegebiete. gewerbegebiete dienen vorwiegend der unterbringung von nicht erheblich belästigenden gewerbebetrieben. industriegebiete hingegen dienen ausschließlich der unterbringung von gewerbebetrieben, und zwar vorwiegend solcher betriebe, die in anderen baugebieten unzulässig sind. die geringe arbeitsmarktzentralität und der drastische beschäftigungsrückgang belegen, dass in castrop-rauxel ein erfordernis zur schaffung wohnortnaher arbeitsplätze besteht. ein wichtiges instrument der gewerbeplanung und zur schaffung neuer arbeitsplätze ist nach wie vor die bereitstellung geeigneter flächen. der zukünftige gewerbeflächenbedarf wurde ebenso wie der wohnbauflächenbedarf in enger abstimmung mit dem rvr als träger der regionalplanung anhand der gifpro-methode ermittelt. der errechnete bedarf liegt demnach bei 28,5 ha. die konsequente wiedernutzung und umstrukturierung ehemaliger industrie- und bergbaustandorte in den vergangenen jahren führte dazu, dass aktuell in den bereits entwickelten gewerbegebieten rund 75,0 ha an gewerbe- und industrieflächen zur verfügung stehen. die verfügbaren flächenreserven übersteigen damit den vom rvr ermittelten gewerbeflächenbedarf. da die vorhandenen reserven jedoch überwiegend bereits über die verbindliche bauleitplanung gesichert sind und größtenteils zusammenhängende strukturwandelflächen darstellen, wird auch seitens der regionalplanung eine weitere zersplitterung oder teilung planerisch für nicht sinnvoll erachtet. die darstellung der gewerblichen bauflächen erfolgt im fnp 2025 demzufolge bestandsbezogen. einrichtungen und anlagen für den gemeinbedarf die darstellung der gemeinbedarfseinrichtungen erfolgt aufgrund der bedeutung der anlagen für das gesamte gemeindegebiet und zeigt somit die infrastrukturelle grundausstattung der stadt in ihren grundzügen auf. dabei sind kleinere anlagen und einrichtungen, die lediglich zur versorgung einzelner gebiete in betracht kommen, im fnp nicht darzustellen. dem fnp kommt durch die darstellung der gemeinbedarfseinrichtungen hauptsächlich eine standortvorsorge- bzw. standortsicherungsfunktion zu. die konkrete planung der versorgung der bevölkerung mit einrichtungen des gemeinbedarfs wird durch die sektoralen fachplanungen geleistet, deren ziele der fnp räumlich koordiniert und darstellt. im fnp 2025 werden die folgenden einrichtungen und anlagen für den gemeinbedarf dargestellt: öffentliche verwaltung bildungseinrichtungen kirchen und kirchlichen zwecken dienende einrichtungen sportlichen zwecken dienende einrichtungen sozialen zwecken dienende einrichtungen gesundheitlichen zwecken dienende einrichtungen kulturellen zwecken dienende einrichtungen sonstige einrichtungen (z. b. amtsgericht, feuerwehr, polizei) zentrale versorgungsbereiche für eine räumlich ausgewogene entwicklung des stadtgebiets ist die funktionsfähigkeit des hauptzentrums altstadt und der stadtteilzentren von großer bedeutung. während die altstadt einen großen teil der mittelzentralen funktionen für die gesamtstadt erfüllt, kommt den stadtteilzentren die aufgabe der grundversorgung für die stadtteile zu. darüber hinaus sind die stadtteilzentren wichtige identifikationspunkte der einzelnen stadtteile, in denen infrastruktur sowie soziale und kulturelle einrichtungen gebündelt sind. das zentren- und einzelhandelskonzept aus dem jahr 2007 wurde im jahr 2010 fortgeschrieben. mit der fortschreibung wurde die räumliche und funktionale abgrenzung der zentralen versorgungsbereiche überarbeitet und erneut festgelegt. in castrop-rauxel werden insgesamt sechs zentren als zentrale versorgungsbereiche für die zukunft festgelegt. hierarchisch kommt dem hauptzentrum altstadt castrop die größte bedeutung zu, gefolgt von den fünf nahversorgungszentren lange straße, ickern, rauxel nord, henrichenburg und schwerin. einzelhandelsbetriebe mit zentren- und nahversorgungsrelevanten kernsortimenten, die wichtige frequenzbringer für den übrigen einzelhandel und die vitalität der zentren darstellen, sollen nur noch in diesen zentralen versorgungsbereichen angesiedelt werden. ein wesentlicher umsetzungsaspekt zur gesamtstädtischen steuerung des einzelhandels besteht darin, die erwünschten standorte planungsrechtlich für die entsprechenden ansiedlungsvorhaben vorzubereiten sowie andererseits unerwünschte standorte bzw. sortimente frühzeitig bauplanungsrechtlich auszuschließen. die ergänzende darstellung der zentralen versorgungsbereiche und der ergänzenden sonderstandorte im fnp 2025 trägt hierzu bei. verkehrsflächen die darstellung der straßenverkehrsflächen im fnp 2025 umfasst die bestehenden und die geplanten überörtlichen und örtlichen hauptverkehrsstraßen. darin enthalten ist das netz der klassifizierten bundesfernstraßen, landesstraßen und kreisstraßen. als ergänzung bzw. veränderung des netzes der klassifizierten straßen befinden sich derzeit verschiedene maßnahmen in planung oder in vorbereitung. zu den aktuellen planungen des landesbetriebs straßenbau nrw zählen der bau der l 654n mit umgehungen der stadtteile merklinde und schwerin sowie der bau der b 474n als verlängerung der a 45 vom autobahnkreuz dortmund-nordwest in richtung norden. gem. § 5 abs. 4 baugb sollen planungen und sonstige nutzungsregelungen, die nach anderen gesetzlichen vorschriften festgesetzt sind, nachrichtlich übernommen werden. sind derartige festsetzungen in aussicht genommen, sollen diese im flächennutzungsplan vermerkt werden. der fnp wurde nach der öffentlichen auslegung dahingehend ergänzt, indem der trassenverlauf der beiden planungen im fnp vermerkt wurde. der vermerk ist eine pflicht, die auf dem gesetz beruht, bedeutet aber keine zustimmung der gemeinde. freiflächen im vergleich zur darstellung von freiflächen im derzeit noch rechtswirksamen fnp hat sich der anteil der dargestellten freiflächen im fnp 2025 erhöht, was sich vor allem aus der rücknahme der darstellung von gewerbe- und industriegebieten ergibt. zu den im fnp dargestellten freiflächen gehören sowohl grünflächen wie parkanlagen, dauerkleingärten und friedhöfe, als auch flächen für die landwirtschaft, flächen für den wald und wasserflächen. die erhaltung und entwicklung der grün- und freiflächen besitzt in castrop-rauxel einen hohen stellenwert. trotz ihrer lage im ballungsraum verfügt die stadt über relativ große zusammenhängende freiflächen. diese sind sowohl aus ökologischen gründen als auch aufgrund ihrer bedeutung für die lebensqualität der stadt unverzichtbar und müssen deshalb so weit wie möglich erhalten werden. konzentrationszone für windenergieanlagen da sich seit der darstellung der vorhandenen konzentrationsfläche für windenergieanlagen im jahr 1998 verschiedene rahmenbedingungen in bezug auf die nutzung der windenergie sowohl in technischer als auch gesetzlicher hinsicht geändert haben, wurde im rahmen der neuaufstellung des fnp 2025 das stadtgebiet erneut auf mögliche geeignete standorte untersucht. um eine einschätzung über die eignung von teilräumen des castrop-rauxeler stadtgebiets für die nutzung von windkraft geben zu können, wurde ein plankonzept zur darstellung von konzentrationszonen für windenergieanlagen erstellt, das dazu dient, für die windenergienutzung geeignete standorte zu ermitteln und damit eine gezielte steuerung der windenergienutzung auf flächennutzungsplanebene vorzubereiten. durch die darstellung von konzentrationszonen für windenergieanlagen im fnp 2025 werden die voraussetzungen für eine planvolle und gezielte errichtung von windenergieanlagen geschaffen. so ist es möglich, die positiven eigenschaften dieses energieträgers und seinen nutzen für den klima- und ressourcenschutz an solchen standorten zu konzentrieren, die sich als besonders konfliktarm präsentieren. als ergebnis dieses verfahrens sind zwei bereiche im stadtgebiet ermittelt worden, die sich als besonders geeignet für die darstellung von konzentrationszonen erwiesen haben. entsprechend der ergebnisse des gutachtens werden beide flächen im fnp 2025 als konzentrationszonen für windenergieanlagen dargestellt. stellungnahmen und anregungen sowie beschlussvorschläge der verwaltung sowohl von seiten der öffentlichkeit als auch von seiten der behörden (anlage 1) sind in den vorgenannten planungsschritten anregungen vorgetragen worden, die einer entsprechenden abwägung bedürfen. der beschlussvorschlag der verwaltung zu den eingegangenen stellungnahmen ist dem abwägungsvorschlag (anlage 2 und 3) zu entnehmen. redaktionelle änderungen und ergänzungen nach der öffentlichen auslegung im nachgang zur öffentlichen auslegung wurden die in anlage 4 aufgeführten änderungen an der fnp-plandarstellung durchgeführt. insbesondere ist hier die nicht darstellung von drei weißflächen (siehe punkt: nutzungsanpassung im regionalplan) im flächennutzungsplan zu nennen, sowie kleinere nutzungsänderungen und symbolergänzungen. die betroffenen themenkarten, der teilplan techn. ver- und entsorgung sowie die begründung und der umweltbericht wurden entsprechend der durchgeführten änderungen angepasst. die textlichen anpassungen und aktualisierungen in der begründung sind in der anlage 6 kenntlich gemacht. gestrichene textpassagen wurden hellrosa hinterlegt und durchgestrichen. neu eingefügte textpassagen sind gelbgrün hinterlegt. die anlage 7 enthält die zu beschließende begründung mit allen änderungen und ergänzungen. änderungen im umweltbericht (anlage 8) sowie änderungen in den einzelnen gebietsbriefen (anlage 8.1) wurden ebenfalls kenntlich gemacht (grau hinterlegt). die anlage 9 sowie 9.1 und 9.2 enthält die zu beschließende fassung des umweltberichtes mit allen änderungen und ergänzungen. weiteres verfahren genehmigung durch die höhere verwaltungsbehörde nach erfolgter beschlussfassung durch den rat der stadt castrop-rauxel bedarf der flächennutzungsplan entsprechend § 6 baugb der genehmigung durch die höhere verwaltungsbehörde. die zuständige behörde ist die bezirksregierung münster. nach erteilung der genehmigung des planes ist diese gemäß § 6 abs. 5 baugb ortsüblich bekannt zu machen. mit der bekanntmachung wird der flächennutzungsplan wirksam. nutzungsanpassung im regionalplan der flächennutzungsplan bedarf der landesplanerischen zustimmung gem. § 34 abs. 1 und 5 landesplanungsgesetz (lpig nrw). der regionalverband ruhr hat darauf hingewiesen, dass die im flächennutzungsplan-entwurf dargestellte sonderbaufläche im bereich der bundesstraße b235 und bab 42 (ehem. xscape) sowie die westlich und östlich der sonderbaufläche am hafen pöppinghausen dargestellte grünflächen nicht den zielen des regionalplanes emscher-lippe entsprechen und daher regionalplanerische bedenken bestehen. der bereich östlich der b235 und südlich der grutholzallee war im flächennutzungsplanentwurf als sonderbaufläche für die gesundheitswirtschaft dargestellt. im regionalplan des regierungsbezirks emscher-lippe hingegen ist die fläche als allgemeiner siedlungsbereich mit der zweckbindung freizeiteinrichtungen und freizeitanlagen (asbe) zeichnerisch dargestellt. diese darstellung beruht auf den ehemaligen entwicklungsabsichten diesen bereich für die freizeitnutzung (xscape) zu belegen. der bereich am rhein-herne-kanal enthält im flächennutzungsplanentwurf die darstellung einer sonderbaufläche - s5 freizeithafen- an die sich im westen und osten eine grünfläche anschließt. im regionalplan emscher-lippe ist allerdings die gesamte fläche als allgemeiner siedlungsbereich mit der zweckbindung freizeiteinrichtungen und freizeitanlagen (asbe) zeichnerisch dargestellt, so das die beabsichtigte grünflächendarstellung nicht mit den darstellungen des regionalplans korrespondieren. da sonst gegen den flächennutzugsplan-entwurf keine bedenken bestehen, wird vom regionalverband ruhr angeregt die flächen aus der darstellung der flächennutzungsplan-neudarstellung auszunehmen und im rahmen der neuaufstellung des regionalplans die zielvorstellungen der stadt castrop-rauxel zu berücksichtigen. dieser anregung wurde gefolgt und die flächen aus der darstellung ausgenommen (weißfläche). die im flächennutzungsplan-entwurf enthaltenen entwicklungsabsichten, einer „sonderbaufläche für die gesundheitswirtschaft“ auf der fläche östlich der b 235 und einer „grünfläche“ zur freiraumsicherung westlich und östlich der sondergebietsfläche im bereich des hafens pöppinghausen, werden somit zu einem späteren zeitpunkt im regionalplan aufgenommen. anschließend ist über eine flächennutzungsplanänderung die darstellung im flächennutzungsplan nachzuholen. unterlagen zum feststellungsbeschluss der flächennutzungsplan einschließlich begründung, themenkarten, umweltbericht und abwägungsprotokoll zu den eingegangenen stellungnahmen sowie auflistung der änderungen nach der öffentlichen auslegung geht den einzelnen fraktionen in papierform zu. die vollständigen unterlagen, die unter anderem karten und gebietsbriefe zum umweltbericht sowie gutachten und fachbeiträge umfassen, liegen den unterlagen auf dvd bei. im sitzungsdienst „more! rubin“ können die anlagen 1 bis 9 abgerufen werden. auf die ausgabe in gedruckter form wurde wegen des umfangs verzichtet. stattdessen liegen der sitzungsvorlage alle daten auf dvd bei. alle unterlagen können auch im downloadportal der stadt castrop-rauxel abgerufen werden: http://downloadb3.castrop-rauxel.de/downloadfnp benutzername: fnp2025 kennwort: iflk2025 übersicht der anlagen zum feststellungsbeschlussflächennutzungsplan 2025 der stadt castrop-rauxelhier: a) entscheidung über eingegangene stellungnahmen b) entscheidung über die redaktionellen änderungen und ergänzungen c) feststellungsbeschluss des planes und billigung der begründung mit umweltbericht d) vorlage zur genehmigung bei der höheren verwaltungsbehörde2012/031%anl%;anlage 1 - liste der beteiligten behoerden anlage 1 - liste der beteiligten behoerdenanlage 2 - abwaegung_behoerden_2012-01-11anlage 3 - abwaegung_oeffentlichkeit_2012-01-11anlage 4 - aenderungen nach auslegunganlage 5 - flaechennutzungsplan_2012-01-11anlage 5.1 - teilplan_techn. versorgung_2012-01-11anlage 6 - begruendung - mit markierten aenderungenanlage 7 - begruendung - beschlussfassung_2012-01-11anlage 7.1 - themenkarte 01-05anlage 7.1 - themenkarte 06a-06canlage 7.1 - themenkarte 07-10anlage 7.1 - themenkarte 11-13anlage 8 - umweltbericht - mit markierten aenderungen_2012-01-11anlage 8.1 - gebietsbriefe mit markierten aenderungenanlage 9 - umweltbericht_2012-01-11_beschlussfassung ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Flächennutzungsplan 2025 der Stadt Castrop-Rauxel \r\nhier:   a)\tEntscheidung über eingegangene Stellungnahmen\r\n          b)\tEntscheidung über die redaktionellen Änderungen und Ergänzungen\r\n          c)\tFeststellungsbeschluss des Planes und Billigung der Begründung mit Umweltbericht\r\n          d)\tVorlage zur Genehmigung bei der höheren Verwaltungsbehörde",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2012/031",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B1",
+      "https://castroprauxel.gremien.info/oparl/organization/B2",
+      "https://castroprauxel.gremien.info/oparl/organization/B3",
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT",
+      "https://castroprauxel.gremien.info/oparl/organization/B1",
+      "https://castroprauxel.gremien.info/oparl/organization/B2",
+      "https://castroprauxel.gremien.info/oparl/organization/B3",
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

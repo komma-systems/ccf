@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/130304100096",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2010-AUSLB-34%7C130304100096%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5077",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2010-AUSLB-34",
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2012-04-03",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/130304100096",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=130304100096&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=130304100096&id=69",
+      "fileName": "130304100096",
+      "id": "https://castroprauxel.gremien.info/oparl/file/130304100096",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2012/094",
+      "size": 172778,
+      "text": "bereich stabsstelle integration 2012/094 öffentlich az: datum: 03.04.2012 sitzungsvorlage beratungsfolge datum top-nr. integrationsrat 18.04.2012 betreff kernergebnisse des integrationsmonitorings 2011 finanzielle auswirkungen x keine haushaltsmäßige berührung auswirkungen siehe sachverhalt beschlussvorschlag der integrationsrat nimmt die vorstellung der kernergebnisse des integrationsmonitorings 2011 zur kenntnis. der integrationsrat wählt den ersten arbeitsschwerpunkt zur bearbeitung innerhalb des integrationsrates. petra glöß erste beigeordnete sachverhalt die integrationsbeauftragte frau dalkilinc stellt die kernergebnisse des integrationsmonitorings 2011 vor. auf grundlage der vorstellung soll der integrationsrat abstimmen welches handlungsfeld als erstes bearbeitet werden soll.kernergebnisse des integrationsmonitorings 20112012/094%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Kernergebnisse des Integrationsmonitorings 2011",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2012/094",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

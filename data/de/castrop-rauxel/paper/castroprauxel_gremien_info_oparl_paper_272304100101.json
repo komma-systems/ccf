@@ -1,0 +1,112 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/272304100101",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272304100101%7C20200423152832-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-04-23",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272304100101%7C20200423152832-0.pdf%7C",
+        "fileName": "20200423152832-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272304100101%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272304100101",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "5da584658facc4f2d99181afca9696388309de1c",
+        "size": 3579201,
+        "text": "Energetisches Sanierungskonzept Castrop-Rauxel Habinghorst",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=272304100101%7C20200423152846-1.jpg%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-04-23",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=272304100101%7C20200423152846-1.jpg%7C",
+        "fileName": "20200423152846-1.jpg",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C272304100101%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/272304100101",
+        "mimeType": "image/jpeg",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "7d2eb418311e0309b0d293a4f2db23112a8143ed",
+        "size": 1434926,
+        "text": "Quartiersabgrenzung und Aufteilung",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-UMWA-96%7C272304100101%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8955",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-UMWA-96",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B3-99%7C272304100101%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8954",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B3-99",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-HFA-103%7C272304100101%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8956",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-HFA-103",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-118%7C272304100101%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8957",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-118",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-04-23",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/272304100101",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272304100101&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=272304100101&id=69",
+      "fileName": "272304100101",
+      "id": "https://castroprauxel.gremien.info/oparl/file/272304100101",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/093",
+      "size": 458373,
+      "text": " Bereich Stadtentwicklung und Statistik 2020/093 öffentlich  Az: 12   Datum: 23.04.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Umweltausschuss 16.06.2020 5  Betriebsausschuss 3 (Bauen, Verkehr und Sport) 18.06.2020   Haupt- und Finanzausschuss 25.06.2020   Rat der Stadt 25.06.2020    Betreff  Sachstand zum InnovationCity roll out Links und Rechts der Emscher  Hier: Förderantrag, Mittelbereitstellung und Erweiterung der Gebietskulisse  \f    Finanzielle Auswirkungen      keine haushaltsmäßige Berührung     X Auswirkungen siehe Sachverhalt        \f      \fBeschlussvorschlag Der Rat nimmt den Sachstand zu Punkt I. zur Kenntnis Der Rat beschließt eine überplanmäßige Mittelbereitstellung in Höhe von 151.500  für den Haushalt 2021 bei dem Sachkonto 527200 mit dem Kostenträger 510601 und der Kostenstelle 50120 und der Projektnummer P0046.5106 Die Deckung des Mehraufwandes bzw. der Mehrauszahlung in Höhe von 151.500  erfolgt durch Mehrerträge im Ergebnisplan bei dem Sachkonto 4141055 mit dem Kostenträger 510601 Kostenstelle 50120 (Projektzuschuss) und der Projektnummer P0046.5106 in Höhe von 120.000  Mehrerträge im Ergebnisplan bei dem Sachkonto 4147052 mit dem Kostenträger 610101 Kostenstelle 50200 (Abwicklung ehemaliger Energiefonds) und der Projektnummer P0046.5106 in Höhe von 31.500  beziehungsweise Mehreinzahlungen bei der jeweils korrespondierenden Kontierung des Finanzplans.  \f\f  Kravanja    Eckhardt   Lenort  Bürgermeister    1. Beigeordneter/   Stadtbaurätin      Stadtkämmerer \f  Sachverhalt  Die Stadt Castrop-Rauxel richtet sich an den Zielen der Bundesregierung aus und möchte bis 2050 eine klimaneutrale Energieversorgung etablieren. Um dieses Ziel zu erreichen sind bereits verschiedene Maßnahmen entwickelt bzw. umgesetzt worden (u. a. Einrichtung einer Klimaschutzkoordination, Masterplan Energiewende, Mitgliedschaft Alianza del Clima etc.). Ein weiterer Baustein einer klimagerechten Stadtentwicklung ist das seit Kurzem in Erarbeitung befindliche Klimaanpassungskonzept. Auch mit der Teilnahme am InnovationCity roll out im Ruhrgebiet hat die Stadtverwaltung eine weitere wichtige Maßnahme auf den Weg gebracht. Im Rahmen dieser Initiative ist im Projektgebiet die konzeptionelle Grundlage für wirkungsvolle Maßnahmen der energetischen Stadtsanierung erstellt worden (s. Beschluss 2019/166). Für die Umsetzung dieser Maßnahmen sind zusätzliche Ressourcen und Anstrengungen erforderlich, die die Bürger über Förderprogramme der KfW-Bank informieren. Angestrebt ist daher die Beauftragung eines externen Dienstleisters, um die Aufgaben des Sanierungsmanagements zu erfüllen.  Gemäß Vorlage und Beschluss 2019/166 ist somit ein Antrag auf Förderung zur Einrichtung eines Sanierungsmanagements im Projektgebiet Links und Rechts der Emscher an die KfW-Bank gestellt worden.   Zusätzlich zum Integrierten Energetischen Quartierskonzept Castrop-Rauxel Links und Rechts der Emscher liegt für ein Gebiet im Stadtteil Habinghorst ein weiteres Energetisches Quartierskonzept aus einer früheren Maßnahme vor. Das betreffende Gebiet ist räumlich deckungsgleich mit der umgesetzten Gebietskulisse des Projektes Soziale Stadt Habinghorst. Nach eingehender Erörterung mit dem Fördergeber ist die Chance ergriffen worden, auf der Grundlage des Habinghorster Konzeptes das Projektgebiet Castrop-Rauxel Links und Rechts der Emscher zu erweitern (s. Anlage). Diese Erweiterung ist ebenfalls mit in den Förderantrag eingeflossen.   Die KfW-Bank als Fördermittelgeber hat zwischenzeitlich das gesamte Programmgebiet Castrop-Rauxel  Links und Rechts der Emscher inkl. der Erweiterung des Quartiers Habinghorst (s. Anlage 1) anerkannt und für jedes Teilgebiet Förderbescheide ausgestellt. Derzeit bereitet der Bereich Stadtentwicklung und Statistik das EU-weite Vergabeverfahren für die Besetzung des Sanierungsmanagements vor.   Mit der Einrichtung des Sanierungsmanagements vor Ort ist die Umsetzung der Maßnahmen aus den integrierten energetischen Konzepten angestrebt. Aufgabe des Sanierungsmanagements ist vor allem die Aktivierung von Sanierungsvorhaben im Wohngebäudebestand. Im Quartier Links und Rechts der Emscher befindet sich ein Großteil des Energieeinsparpotenzials im Bereich privater Eigentümer. Dieser Zielgruppe ist daher besondere Aufmerksamkeit zugedacht. Entsprechend ist eine Vielzahl von Projekten entwickelt worden, die sich direkt an diese Gruppe wenden, z. B. Haus-zu-Haus-Beratungen zu Fördermöglichkeiten oder öffentlichkeitswirksame Kampagnen zur energetischen Sanierung.   Die Maßnahmen der Konzepte zielen auf eine Erhöhung der Sanierungsrate im Wohngebäudebestand von derzeit ca. ein Prozent auf drei Prozent ab.   Neben der Wohngebäudesanierung stellen Stromeinsparungen in privaten Haushalten sowie Heizungsmodernisierungen die primären Handlungsfelder für die Aktivitäten des Sanierungsmanagements dar.  Alle in den Konzepten erarbeiteten Einsparpotenziale und Maßnahmen lassen sich zu einem Fünf-Jahres-Szenario zusammenfassen, das aufzeigt, wieviel Energie und Treibhausgasemissionen realistischer Weise im Quartier eingespart werden könnten. Dabei stellen die Themen Sanierung Wohngebäude, Stromeinsparung in Haushalten und Heizungsmodernisierungen die vorrangigen Handlungsfelder dar. Nach Durchführung des Vergabeverfahrens ist beabsichtigt, dass das Sanierungsmanagement Anfang 2021 die Arbeit aufnehmen wird.   Finanzierung des Projektes Die Projektkosten für die drei Teilquartiere belaufen sich über die gesamte Projektlaufzeit gerechnet auf insgesamt 555.000. Die Finanzierung soll zu 65% durch Fördermittel (KfW) und zu 35% aus eigenen Mitteln erfolgen. Dabei ist für jedes Teilgebiet über einen Zeitraum von drei Jahren ein Zuschuss von 120.000  (insgesamt als 360.000) vorgesehen. Der von der Stadt zu erbringende Eigenanteil wird zum Teil aus den für das Projekt notwendigen Stellenanteilen städtischer Mitarbeiter getragen (~ 18% = 33.500 ) und zum Teil aus zusätzlichen Erträgen/Einzahlungen im Rahmen der Abwicklung des ehemaligen Energiefonds [zweckbestimmt für Energieprojekte] (~17% = 31.500 ) gedeckt.   Projektlaufzeit über 3 Jahre 2021, 2022 und 2023 gesamt (alle 3 Quartiere) je Quartier  Fördermittel (65 %) 360.000  120.000   Eigenanteil (35 %) davon: Einbringung städt. Personalkosten (18 %)  Mehrerträge aus Abwicklung Energiefonds (17 %)   195.000   100.000    94.500   65.000    33.500     31.500   Gesamtkosten (100 %) 555.000  185.000     Für den Haushalt 2021 ist eine überplanmäßige Mittelbereitstellung notwendig. Die Mittel für die Folgejahre werden für die Haushaltsjahre 2022 und 2023 angemeldet und sind dort entsprechend zu berücksichtigen. Dies gilt insbesondere auch für die erforderlichen Mittel des Finanzplans.   Demnach ergibt sich für den Haushalt 2021 für alle 3 Quartiere folgende überplanmäßige Mittelbereitstellung:  Haushalt 2021 Mittelübertragung gesamt (alle 3 Quartiere)  Gesamtkosten (100 %) inkl. städtischer Personalkosten  Aufwand für das Projekt (ohne eigene Personalaufwendungen): SK 52720000, Kostenträger 510601, Kostenstelle 50120 185.000  151.500   Fördermittel (65 %)  Einnahme:  Zuweisung und Zuschüsse lfd. Zweck Land  SK 4141055, Kostenträger 510601, Kostenstelle 50120 120.000   Eigenanteil (35 %) davon: Einbringung städt. Personalkosten (18 %) Mehrerträge aus Abwicklung Energiefonds (17 %) SK 4147052, Kostenträger 610101, Kostenstelle 50200  65.000    33.500   31.500     Die Deckung des Mehraufwandes bzw. der Mehrauszahlung (ohne eigene Personalaufwendungen) in Höhe von 151.500  erfolgt durch  Mehrerträge im Ergebnisplan bei dem Sachkonto 4141055 mit dem Kostenträger 510601 Kostenstelle 50120 (Projektzuschuss) in Höhe von 120.000  und   Mehrerträge im Ergebnisplan bei dem Sachkonto 4147052 mit dem Kostenträger 610101 Kostenstelle 50200 (Abwicklung ehemaliger Energiefonds) in Höhe von 31.500   beziehungsweise Mehreinzahlungen bei der jeweils korrespondierenden Kontierung des Finanzplans.    Anlagen  Anlage 1: Finanzielle Auswirkungen Anlage 2: Quartiersabgrenzung  Anlage 3: Energetisches Sanierungskonzept Habinghorst     Beteiligte  Bereiche   12  EUV  20   60       Kurzzeichen/ Datum            \f  \fAnlage 1  - Finanzielle Auswirkungen     \f  I. Mittelbedarf: davon                                        Ergebnisplan              Aufwendungen: 555.000   - Erträge von Dritten: 360.000   = Städtischer Eigenanteil: 195.000                  davon       Finanzplan Auszahlungen:  555.000   - Einzahlungen von Dritten: 360.000   = Städtischer Finanzierungsanteil: 195.000          Die benötigten Haushaltsmittel stehen zur Verfügung:                \f JA  Buchungsstelle:   NEIN  Siehe Erläuterungen / Angabe von Deckungsvorschlägen \f Erläuterungen / Angabe von Deckungsvorschlägen:  s. Vorlage  \f Bei Maßnahmen des Finanzplanes:  Die Maßnahme ist in der vom Rat beschlossenen Dringlichkeitsliste enthalten.  Die Maßnahme ist in die vom Rat beschlossene Dringlichkeitsliste zusätzlich aufzunehmen bzw. eine     Erweiterung der Maßnahme ist vorzunehmen.  Die Maßnahme ist in die vom Rat zu beschließende Dringlichkeitsliste aufzunehmen. \f II. Auswirkungen auf die mittelfristige Haushaltsplanung: Ergebnisplan 2020 2021 2022 2023 insgesamt  Personalaufwendungen   33.500  33.500  33.500  rd.100.000   Sachaufwendungen   151.500  151.500  151.500  454.500   Zinsaufwendungen       Aufwendungen für Abschreib.       Zusätzliche Erträge   151.500  151.500  151.500  151.500   Mindererträge        Summe**   33.500  33.500  33.500  rd. 100.000   *Die anteiligen Personalaufwendungen für eigenes Personal sind bereits im Haushalt erfasst. ** Bei den hier ausgewiesenen Werten handelt es sich letztlich um die als Eigenanteil eingesetzten Personalaufwendungen; diese sind allerdings bereits in den lfd. Planansätzen erfasst, so dass es faktisch zu keiner zusätzlichen Netto-Belastung des Haushalts kommt.  Die Finanzierung ist innerhalb der mittelfristigen Haushaltsplanung für die Produktgruppe  \f   gesichert    nicht gesichert \f(Mittel für 2022 und 2023 müssen noch in den Haushalt eingestellt werden; Finanzierung siehe Vorlage)  III. Es wurde geprüft, dass es sich um eine Maßnahme handelt, die unter Berücksichtigung der Vorgaben des § 83 GO NRW notwendig und unabweisbar ist.                                                                                                                      \f   \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Sachstand zum InnovationCity roll out „Links und Rechts der Emscher“ \r\nHier: Förderantrag, Mittelbereitstellung und Erweiterung der Gebietskulisse",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/093",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3",
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36201",
+  "modified_at": "2026-09-07T15:39:27+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369601.pdf",
+        "created": "2026-09-07T15:32:08+02:00",
+        "date": "2026-09-07",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369601.pdf",
+        "fileName": "00369601.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369601",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-07T15:39:27+02:00",
+        "name": "Gemeinsamer Antrag BV",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141371",
+        "authoritative": true,
+        "created": "2026-08-24T10:32:40+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68564",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24789",
+        "modified": "2026-09-09T13:49:54+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/44"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36201",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-24T10:28:54+02:00",
+    "date": "2026-08-24",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36201",
+    "modified": "2026-09-07T15:39:27+02:00",
+    "name": "Verwendung der Miittel nach dem Gemeindefinanzierungsgesetz (GFG)",
+    "paperType": "Gemeinsamer Antrag BV",
+    "reference": "VO/1003/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

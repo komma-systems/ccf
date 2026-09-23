@@ -1,0 +1,57 @@
+{
+  "council_id": "koeln",
+  "record_type": "paper",
+  "source_id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134751",
+  "modified_at": "2026-09-21T08:26:52+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01111993.pdf",
+        "created": "2026-09-17T14:58:52+02:00",
+        "date": "2026-09-17",
+        "downloadUrl": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/01111993.pdf",
+        "fileName": "01111993.pdf",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/files/1111993",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-17T15:08:52+02:00",
+        "name": "Dringlichkeitsantrag  (CDU BV2)",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln",
+    "consultation": [
+      {
+        "agendaItem": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/450334",
+        "authoritative": true,
+        "created": "2026-09-17T15:10:55+02:00",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/206705",
+        "meeting": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34010",
+        "modified": "2026-09-21T21:20:18+02:00",
+        "organization": [
+          "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21"
+        ],
+        "paper": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134751",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-17T13:40:55+02:00",
+    "date": "2026-09-17",
+    "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/papers/vo/134751",
+    "location": [
+      {
+        "created": "2021-10-20T14:25:16+02:00",
+        "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/locations/tx/1590",
+        "modified": "2024-02-19T15:28:31+01:00",
+        "subLocality": "Hahnwald",
+        "type": "https://schema.oparl.org/1.1/Location"
+      }
+    ],
+    "modified": "2026-09-21T08:26:52+02:00",
+    "name": "Verfahren beim Bauprojekt \"Stiftswäldchen\"",
+    "paperType": "Dringlichkeitsantrag BV2 (CDU)",
+    "reference": "AN/1488/2026",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36046",
+  "modified_at": "2026-07-03T09:26:35+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00366799.pdf",
+        "created": "2026-07-02T09:52:57+02:00",
+        "date": "2026-07-02",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00366799.pdf",
+        "fileName": "00366799.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/366799",
+        "mimeType": "application/pdf",
+        "modified": "2026-07-03T09:26:35+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00366931.pdf",
+        "created": "2026-07-02T15:37:21+02:00",
+        "date": "2026-07-02",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00366931.pdf",
+        "fileName": "00366931.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/366931",
+        "mimeType": "application/pdf",
+        "modified": "2026-07-03T09:26:35+02:00",
+        "name": "Anlage 01 – Bilanz, GuV, Anhang, Lagebericht und Bestätigungsvermerk der gwg-SPE",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141053",
+        "authoritative": true,
+        "created": "2026-07-03T08:37:53+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68277",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24697",
+        "modified": "2026-07-07T18:44:43+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/270"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36046",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-02T08:28:45+02:00",
+    "date": "2026-07-03",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36046",
+    "modified": "2026-07-03T09:26:35+02:00",
+    "name": "Jahresabschluss der gwg Stadt- und Projektentwicklungsgesellschaft mbH Wuppertal für das Geschäftsjahr 2025",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/0860/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/103"
+    ]
+  }
+}

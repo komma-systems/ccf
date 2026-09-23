@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/130304100095",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2010-AUSLB-34%7C130304100095%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5076",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2010-AUSLB-34",
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2012-04-03",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/130304100095",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=130304100095&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=130304100095&id=69",
+      "fileName": "130304100095",
+      "id": "https://castroprauxel.gremien.info/oparl/file/130304100095",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2012/093",
+      "size": 173582,
+      "text": "bereich stabsstelle integration 2012/093 öffentlich az: datum: 03.04.2012 sitzungsvorlage beratungsfolge datum top-nr. integrationsrat 18.04.2012 betreff aktueller stand der vorbereitungen der interkulturellen woche 2012 finanzielle auswirkungen x keine haushaltsmäßige berührung auswirkungen siehe sachverhalt beschlussvorschlag der integrationsrat nimmt die vorstellung des lenkungskreises zu den planungen der „interkulturellen woche 2012“ zur kenntnis. die einzelnen mitgliederinnen und mitglieder des integrationsrates geben eine rückmeldung über ihr mögliches interesse an der beteilung im rahmen der interkulturellen woche 2012. petra glöß erste beigeordnete sachverhalt der lenkungskreis der „interkulturellen woche 2012“ gibt einen mündlichen bericht über die bisherige planung und eine terminübersicht. der lenkungskreis stellt eine anfrage inwiefern sich der integrationsrat an der diesjährigen interkulturellen woche beteiligen möchte.aktueller stand der vorbereitungen derinterkulturellen woche 20122012/093%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Aktueller Stand der Vorbereitungen der 'Interkulturellen Woche 2012'",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2012/093",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

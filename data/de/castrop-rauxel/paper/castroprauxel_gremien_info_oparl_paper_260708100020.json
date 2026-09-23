@@ -1,0 +1,66 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/260708100020",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=260708100020%7C20190807150913.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-08-07",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=260708100020%7C20190807150913.pdf%7C",
+        "fileName": "20190807150913.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C260708100020%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/260708100020",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "902de29626fb83843976b3940204b2b792b81ae4",
+        "size": 5188604,
+        "text": "Gleichstellungsplan des EUV Stadtbetrieb",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-EUV-27%7C260708100020%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8505",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-EUV-27",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-08-07",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/260708100020",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=260708100020&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=260708100020&id=69",
+      "fileName": "260708100020",
+      "id": "https://castroprauxel.gremien.info/oparl/file/260708100020",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/EUV/021",
+      "size": 154730,
+      "text": "/  Datum:  07.08.2019   TB I 9686-500      Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 25.09.2019 TOP:  I.4 Drucksache-Nr. 2019/EUV/021     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 25.09.2019 4    Betreff:  Gleichstellungsplan 2019 bis 2023     Finanzielle Auswirkungen gem. Wirtschaftsplan   ja Gesamtkosten       X nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat beschließt die Aufstellung und Fortschreibung des Gleichstellungsplans gem. § 5 Abs. 4 des Landesgleichstellungsgesetzes.   \f  \f  _________________________  Werner     Sachverhalt:  Das Gesetz zur Gleichstellung von Frauen und Männern für das Land NRW  Landesgleichstellungsgesetz (LGL) ist am 20.11.1999 in Kraft getreten.   Gem. § 5 Abs. 1 des LGL ist von jeder Dienststelle mit mindestens 20 Beschäftigten jeweils für den Zeitraum von 3  5 Jahren ein Gleichstellungsplan zu erstellen.  Im Wesentlichen hat der Gleichstellungsplan  Maßnahmen zur Förderung der Gleichstellung der Vereinbarkeit von Beruf und Familie zum Abbau der Unterrepräsentanz von Frauen  zu enthalten.  Grundlage des Gleichstellungsplans sind eine Bestandsaufnahme und eine Analyse der Beschäftigungsstruktur des EUV Stadtbetriebes.  Der Personalrat des EUV Stadtbetrieb hat gem. § 72 Abs. 4 Nr. 18 des Landespersonalvertretungsgesetzes für das Land NRW (LPVG NW) dem Gleichstellungsplan zugestimmt.  Weiterer Bericht in der Sitzung.     \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Gleichstellungsplan 2019 bis 2023",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/EUV/021",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

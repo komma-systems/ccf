@@ -1,0 +1,62 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36196",
+  "modified_at": "2026-09-08T15:12:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368825.pdf",
+        "created": "2026-08-21T13:26:25+02:00",
+        "date": "2026-09-01",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368825.pdf",
+        "fileName": "00368825.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368825",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T15:12:00+02:00",
+        "name": "Bericht",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369663.pdf",
+        "created": "2026-09-08T13:34:32+02:00",
+        "date": "2026-09-08",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369663.pdf",
+        "fileName": "00369663.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369663",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T15:12:00+02:00",
+        "name": "Anlage 01 - Bericht zur finanziellen Lage der Stadt Wuppertal zum Stichtag 31.07.2026",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141375",
+        "created": "2026-08-24T11:55:10+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68555",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24698",
+        "modified": "2026-09-22T17:35:44+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/270"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36196",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-21T11:37:30+02:00",
+    "date": "2026-08-24",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36196",
+    "modified": "2026-09-08T15:12:00+02:00",
+    "name": "Bericht zur finanziellen Lage der Stadt Wuppertal zum 31.07.2026 (Finco)",
+    "paperType": "Bericht",
+    "reference": "VO/0997/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/71"
+    ]
+  }
+}

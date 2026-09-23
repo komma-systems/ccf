@@ -1,0 +1,77 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36112",
+  "modified_at": "2026-09-02T12:13:03+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367877.pdf",
+        "created": "2026-07-30T11:00:16+02:00",
+        "date": "2026-07-30",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367877.pdf",
+        "fileName": "00367877.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367877",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-25T15:47:07+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367878.pdf",
+        "created": "2026-07-30T11:01:12+02:00",
+        "date": "2026-07-30",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367878.pdf",
+        "fileName": "00367878.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367878",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-25T15:47:06+02:00",
+        "name": "Anlage 1 - Lageplan Baumfällungen mit Baumliste",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367879.pdf",
+        "created": "2026-07-30T11:04:04+02:00",
+        "date": "2026-07-30",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00367879.pdf",
+        "fileName": "00367879.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/367879",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-25T15:47:06+02:00",
+        "name": "Anlage 2 - Fällantrag mit Beschreibungen",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141164",
+        "created": "2026-08-04T11:10:22+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68390",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24570",
+        "modified": "2026-09-02T12:03:52+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/47"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36112",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-07-30T10:52:26+02:00",
+    "date": "2026-08-04",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36112",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-02T12:13:03+02:00",
+    "name": "Notwendige Baumfällungen im Zuge der Gebäudesanierung Haus 2 und Haus 3, Neubau NW der Gesamtschule Heinrich-Böll-Str. 240",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/0919/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/50"
+    ]
+  }
+}

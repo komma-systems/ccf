@@ -1,0 +1,263 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-0",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10646",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-0%7C332504100119%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-0",
+        "name": "Ernennung einer Schriftführung für den Ausschuss für Bürgeranliegen, Ehrenamt und Sport der Stadt Castrop-Rauxel",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-0%7C332504100119%7C1",
+          "date": "2023-06-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-0%7C332504100119%7C1",
+          "fileName": "be_332504100119_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-0%7C332504100119%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 416106,
+          "text": "  1 Ernennung eines Schriftführers für den Ausschuss für Bürgeranliegen, Ehrenamt und Sport der Stadt Castrop-Rauxel (2023/113)    Gemäß §§ 52 und 58 der Gemeindeordnung NZR in Verbindung mit § 17 der Geschäftsordnung des Rates der Stadt Castrop-Rauxel wird als Schriftführer Herr Jannis Horn benannt. Der bisherige Schriftführer Herr Dennis Roth wird abbestellt und zum stellvertretenden Schriftführer ernannt.      Abstimmungsergebnis: Einstimmig beschlossen  Ja-Stimmen: 13  Nein-Stimmen: -  Enthaltungen: -       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-0%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-0",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-0%7C1%7C1",
+          "date": "2023-06-07",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-0%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-0%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 402232,
+          "text": "  2 Fragestunde für Einwohnerinnen und Einwohner    Aufgrund einer Anfrage der Einwohner/innen teilt Frau Stannek mit, dass Fahrbahndecke am Heimstättenweg, ihrer Kenntnis nach, im Jahr 2024 vom EUV erneuert werden soll.   Eine weitere Nachfrage bezieht sich auf den störenden Wildwuchs am Gehweg des Schwarzen Weges (zwischen Bövinghauser Straße und Lothringer Straße)  Frau Stannek verspricht, dass dieses Anliegen an das Grünflächenamt weitergeleitet wird. Gleichzeitig bittet sie darum, derartige Anliegen auch immer über die CasApp zu melden.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-0%7C55%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-0",
+        "name": "Bericht zum Bürger*innenbudget",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-0%7C55%7C1",
+          "date": "2023-08-04",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-0%7C55%7C1",
+          "fileName": "be_55_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-0%7C55%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 390580,
+          "text": "  3 Bericht zum Bürger*innenbudget     Frau Stannek berichtet ausführlich über die Änderungen beim Bürger*innenbudget und geht dabei insbesondere auf die Verbesserungen für Vereine bezüglich des Eigenanteils sowie auf die Transparenz durch die Auflistung aller Projekte auf der Beteiligungsplattform ein.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-0%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-0",
+        "name": "\tInklusiver Sport und Sport der Älteren\r\n•\tBericht SuS Merklinde - Walking Football\r\n•\tBericht Special Olympics\r\n•\tReferent des LSB zum Thema inklusiver Sport (angefragt)\r\n",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-0%7Czt_0%7C1",
+          "date": "2023-08-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-0%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-0%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 411108,
+          "text": "  4  Inklusiver Sport und Sport der Älteren       Herr Schäper vom SuS Merklinde berichtet ausführlich über die Sportart Walking Football und die Entwicklung dieser Sportart in Castrop-Rauxel.    Die Erste Beigeordnete Frau Kleff informiert über die anstehenden Special Olympics in Berlin sowie die Unterbringung bzw. den Besuch der irakischen Delegation in Castrop-Rauxel vom 12.-15.06.2023.   Herr Nils Grunau vom Landessportbund hält einen Vortrag zum Thema Inklusiver Sport. Er erklärt, worum es bei Inklusion im Sport geht und weist auf die derzeitigen Hindernisse bei inklusiven Projekten in Sportvereinen hin, wie beispielweise sinkende Mitgliederzahlen und fehlende Übungsleiter.  Herr Grunau lobt das Engagement des SuS Merklinde und die Walking-Football-Abteilung des Vereins.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10645",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-0%7C332404100117%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-0",
+        "name": "Bericht zum Anliegenmanagement",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-0%7C332404100117%7C1",
+          "date": "2023-08-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-0%7C332404100117%7C1",
+          "fileName": "be_332404100117_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-0%7C332404100117%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 400970,
+          "text": "  5 Bericht zum Anliegenmanagement (2023/111)     Frau Stannek gibt einen kurzen Bericht zum Anliegenmanagement ab.  Sie teilt mit, dass durch ein neues Update einige Probleme behoben wurden. Auf Nachfrage erläutert sie, dass die Einstellungen und persönliche Angaben bei jeder Anfrage in der Cas-App aus datenschutzrechtlichen Gründen zurückgesetzt werden müssen.  Der Ausschuss nimmt die Vorlage zur Kenntnis.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-0%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-0",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-0%7C6%7C1",
+          "date": "2023-08-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-0%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-0%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 375393,
+          "text": "  6 Anfragen der Ausschussmitglieder      Keine Anfragen.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-0%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-0",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-ABES-0%7C4%7C1",
+          "date": "2023-08-08",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-ABES-0%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-ABES-0%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 405024,
+          "text": "  7 Mitteilungen der Verwaltung     Herr Magistro gibt einen ausführlichen Bericht zur Maßnahme Lückenschluss Lothringen-Trasse / Grüne Acht ab.   Er äußert sich zu Überlegungen wie beispielsweise Bewegungsstationen, einem Unterstand oder einem möglichen neuen Kleinspielfeld.  Auf Nachfrage teilt Herr Magistro mit, dass die Ergebnisse des Bodengutachtens bis zum 02.06.2023 vorliegen müssten. Die Artenschutzprüfung ist positiv verlaufen.  Er geht davon aus, dass die Maßnahmen im zweiten Halbjahr des Jahres 2024 umgesetzt werden können.    Frau Stannek teilt mit, dass die nächste Sitzung nach den Sommerferien stattfinden wird. Sie schlägt vor, den Bürgerbudgetbeirat vor der Ausschusssitzung abzuhalten.  Die Ausschussmitglieder sind einverstanden.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-0%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-0",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-ABES-0%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-0",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2023-05-23T19:15:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-0",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2023-ABES-0",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-05-09",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2023-ABES-0",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2023-ABES-0",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "a1c5715f233d904e296dd99af2d562edbdbd6313",
+      "size": 427233,
+      "text": "Amtliche Bekanntmachung der Tagesordnung zur Sitzung Ausschuss für Bürgeranliegen, Ehrenamt und Sport am Dienstag, 23.05.2023 um 17:30 Uhr Sportplatz Fuchsweg, SuS Merklinde e.V., Fuchsweg 51, 44577 Castrop-Rauxel;  I. Öffentliche Sitzung:  1. Ernennung einer Schriftführung für den Ausschuss für Bürgeranliegen, Ehrenamt und Sport der Stadt Castrop-Rauxel  2. Fragestunde für Einwohnerinnen und Einwohner  3. Bericht zum Bürger*innenbudget  4.  Inklusiver Sport und Sport der Älteren  Bericht SuS Merklinde - Walking Football  Bericht Special Olympics  Referent des LSB zum Thema inklusiver Sport (angefragt)   5. Bericht zum Anliegenmanagement  6. Anfragen der Ausschussmitglieder  7. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  1. Anfragen der Ausschussmitglieder  2. Mitteilungen der Verwaltung     Schulte Ausschussvorsitzende  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Vereinsheim SuS Merklinde, Fuchsweg 51, 44577 Castrop-Rauxel",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-ABES-0/location",
+      "locality": "Castrop-Rauxel",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "postalCode": "44577",
+      "room": "Vereinsheim SuS Merklinde",
+      "streetAddress": "Fuchsweg 51",
+      "subLocality": "Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung Ausschuss für Bürgeranliegen, Ehrenamt und Sport",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/ABES"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/389",
+      "https://castroprauxel.gremien.info/oparl/person/812",
+      "https://castroprauxel.gremien.info/oparl/person/626",
+      "https://castroprauxel.gremien.info/oparl/person/906",
+      "https://castroprauxel.gremien.info/oparl/person/858",
+      "https://castroprauxel.gremien.info/oparl/person/1072",
+      "https://castroprauxel.gremien.info/oparl/person/1043",
+      "https://castroprauxel.gremien.info/oparl/person/874",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/984",
+      "https://castroprauxel.gremien.info/oparl/person/1194"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-ABES-0",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-08-08",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-ABES-0",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-ABES-0",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 477495,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2023-05-23T17:30:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-ABES-0",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-08-08",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-ABES-0",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-ABES-0",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 477495,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

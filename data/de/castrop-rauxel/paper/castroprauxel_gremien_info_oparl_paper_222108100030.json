@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/222108100030",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2017-EUV-18%7C222108100030%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7588",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2017-EUV-18",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2017-08-21",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/222108100030",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=222108100030&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=222108100030&id=69",
+      "fileName": "222108100030",
+      "id": "https://castroprauxel.gremien.info/oparl/file/222108100030",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2017/EUV/031",
+      "size": 155081,
+      "text": "Datum: 21.08.2017 TB VII 9686-330 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 13.09.2017 TOP: Drucksache-Nr. 2017/EUV/031 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 13.09.2017 10 Umweltausschuss 19.09.2017 Betreff: Auszeichnung des EUV im Rahmen von Mobil.Pro.Fit Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt den Sachstand zur Kenntnis. ________________________ Werner Sachverhalt: Am 11.07. 2017 wurde der EUV Stadtbetrieb durch den Bundesdeutschen Arbeitskreis für Umweltbewusstes Management (B.A.U.M.) e.V.,zusammen mit vier weiteren Betrieben aus der Region Ruhrgebiet, im Rahmen von Mobil.Pro.Fit ausgezeichnet. Der Bundesdeutsche Arbeitskreis für Umweltbewusstes Management (B.A.U.M.) e.V., hatte am 16.03.2016 die Projektrunde im Rahmen von Mobil.Pro.Fit für die Region Ruhrgebiet eingeläutet, an der auch der EUV Stadtbetrieb -AöR- Castrop-Rauxel teilgenommen hatte. Das Projekt „Mobil.Pro.Fit“ zeigt Institutionen und Unternehmen ökologische und ökonomische Vorteile in puncto Mobilität auf und verknüpft diese miteinander, um den durch die Mobilität verursachten CO2-Fußabdruck zu verringern. Von März bis August 2016 fand die Bearbeitungsphase statt, in der intern mit Hilfe des B.A.U.M. an einem nachhaltigen Mobilitätskonzept in Form verschiedener Maßnahmen für den EUV gearbeitet werden soll. Ziel war es, Potenziale und auch Schwächen hinsichtlich einer nachhaltigen Mobilität aufzudecken und auch langfristig im Unternehmen umzusetzen. Der EUV hat im Rahmen des Konzeptes, welches im Herbst 2016 durch eine Jury geprüft wurde, verschiedene nachhaltige Maßnahmen aufgestellt, die ab sofort oder auch im zeitlichen Verlauf im Betrieb umgesetzt werden sollen, damit die Mobilität für den Betrieb und seine Mitarbeiter nachhaltiger und auch effizienter gestaltet wird. Im Bereich der nachhaltigen Mobilität möchte der EUV vor allem seine Mitarbeiter motivieren alternative Fortbewegungsmittel zu nutzen, wie etwa ein Fahrrad oder Pedelec. Um den Anreiz zu vergrößern, werden den drei engagiertesten Pedelecnutzern im Betrieb monetäre Anreize in Form von Gutscheinen zur Verfügung gestellt werden. Zudem soll durch ein Softwaretool (Buchungsübersicht) der aktuelle Status (besetzt/belegt) der Pedelecs zur Förderung der Transparenz des Fahrradpools des EUVs sichergestellt werden. Dies ist lediglich eine Auswahl der bereits durchgeführten oder geplanten Maßnahmen. Allen gemeinsam ist, jedoch der Wunsch zur Sensibilisierung der Mitarbeiter, die Erhöhung der Transparenz und die CO2-Einsparung. So wurde berechnet, dass bei erfolgreicher Durchführung aller geplanten (messbaren) Maßnahmen 26.400 kg CO2 für den Stadtbetrieb eingespart werden können. Bislang wurden bei den bereits durchgeführten (und bezüglich der CO2-Einsparung tatsächlich messbaren) Maßnahmen im Jahr 2017 schätzungsweise 7074 kg CO2 eingespart (d.h. ca. 25 Prozent). Weiterer Bericht in der Sitzung.%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Auszeichnung des EUV im Rahmen von Mobil.Pro.Fit",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2017/EUV/031",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

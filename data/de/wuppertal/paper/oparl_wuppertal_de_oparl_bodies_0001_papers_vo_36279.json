@@ -1,0 +1,78 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36279",
+  "modified_at": "2026-09-08T12:20:38+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369272.pdf",
+        "created": "2026-09-02T10:59:24+02:00",
+        "date": "2026-09-02",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369272.pdf",
+        "fileName": "00369272.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369272",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T12:20:38+02:00",
+        "name": "01 Antrag geschwärzt",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369273.pdf",
+        "created": "2026-09-02T10:59:24+02:00",
+        "date": "2026-09-02",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369273.pdf",
+        "fileName": "00369273.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369273",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T12:20:38+02:00",
+        "name": "02 Lageplan 06.08.",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369274.pdf",
+        "created": "2026-09-02T10:59:26+02:00",
+        "date": "2026-09-02",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369274.pdf",
+        "fileName": "00369274.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369274",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-08T12:20:38+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141604",
+        "authoritative": true,
+        "created": "2026-09-02T11:56:09+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68694",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24591",
+        "modified": "2026-09-10T08:34:59+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36279",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-02T10:49:15+02:00",
+    "date": "2026-09-02",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36279",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-08T12:20:38+02:00",
+    "name": "Veranstaltung \"Familienfest 125 Jahre Schwebebahn\" am 19.09.2026 am Döppersberg",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/1076/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/6"
+    ]
+  }
+}

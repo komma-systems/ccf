@@ -1,0 +1,91 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36282",
+  "modified_at": "2026-09-16T17:21:22+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370015.pdf",
+        "created": "2026-09-12T11:28:38+02:00",
+        "date": "2026-09-12",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370015.pdf",
+        "fileName": "00370015.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370015",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-16T12:37:14+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370049.pdf",
+        "created": "2026-09-14T13:30:48+02:00",
+        "date": "2026-09-14",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370049.pdf",
+        "fileName": "00370049.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370049",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-16T12:37:14+02:00",
+        "name": "Anlage 01 - Vierte Änderungssatzung",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141734",
+        "created": "2026-09-09T10:44:31+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68703",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24654",
+        "modified": "2026-09-21T12:13:02+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36282",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141793",
+        "created": "2026-09-14T08:01:21+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68702",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24698",
+        "modified": "2026-09-22T17:48:55+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/270"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36282",
+        "role": "Empfehlung/Anhörung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141854",
+        "created": "2026-09-16T08:46:02+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68704",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24543",
+        "modified": "2026-09-23T10:41:34+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36282",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-02T12:16:32+02:00",
+    "date": "2026-09-02",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36282",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-16T17:21:22+02:00",
+    "name": "Satzungsangelegenheiten der Stadtsparkasse Wuppertal",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/1079/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/103"
+    ]
+  }
+}

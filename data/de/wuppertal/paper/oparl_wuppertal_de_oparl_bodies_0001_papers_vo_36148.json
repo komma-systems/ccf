@@ -1,0 +1,63 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36148",
+  "modified_at": "2026-08-14T08:40:05+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368507.pdf",
+        "created": "2026-08-14T08:35:37+02:00",
+        "date": "2026-08-14",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368507.pdf",
+        "fileName": "00368507.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368507",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-14T08:40:06+02:00",
+        "name": "Große Anfrage B90/Grüne",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368508.pdf",
+        "created": "2026-08-14T08:37:41+02:00",
+        "date": "2026-08-14",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368508.pdf",
+        "fileName": "00368508.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368508",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-14T08:40:05+02:00",
+        "name": "Große Anfrage B90/Grüne-Fraktion",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141251",
+        "authoritative": true,
+        "created": "2026-08-14T08:40:27+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68468",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24660",
+        "modified": "2026-09-03T19:25:52+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/41"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36148",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-14T08:34:41+02:00",
+    "date": "2026-08-14",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36148",
+    "modified": "2026-08-14T08:40:05+02:00",
+    "name": "Löschwasserversorgung und Auffindbarkeit von Hydranten im Außenbereich und am Rand - Große Anfrage der Fraktion Bündnis 90 / Die Grünen",
+    "paperType": "Große Anfrage B90/Grüne",
+    "reference": "VO/0953/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

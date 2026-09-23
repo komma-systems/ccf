@@ -1,0 +1,83 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/260811100037",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=260811100037%7C20191111100951.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-11-11",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=260811100037%7C20191111100951.pdf%7C",
+        "fileName": "20191111100951.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C260811100037%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/260811100037",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "8764266535fc43ecc887817bfa8fdff8acff90e8",
+        "size": 352275,
+        "text": "Synopse zur Änderung der Satzung über die Entwässerung der Grundstücke",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=260811100037%7C20191114095113.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-11-14",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=260811100037%7C20191114095113.pdf%7C",
+        "fileName": "20191114095113.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C260811100037%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/260811100037",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "2125f9904ec703a8b74bdcf4b7c23b06bf33fa2c",
+        "size": 404988,
+        "text": "Entwässerungssatzung 2020 final",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-EUV-28%7C260811100037%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8692",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-EUV-28",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-11-08",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/260811100037",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=260811100037&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=260811100037&id=69",
+      "fileName": "260811100037",
+      "id": "https://castroprauxel.gremien.info/oparl/file/260811100037",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/EUV/038",
+      "size": 143000,
+      "text": "/   Datum: 08.11.2019    TB VII 9686-120       Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 27.11.2019 TOP: Drucksache-Nr. 2019/EUV/038     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 27.11.2019 6  Rat der Stadt 28.11.2019     Betreff: Erlass einer Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage in der Stadt Castrop-Rauxel (Entwässerungssatzung)     Finanzielle Auswirkungen gem. Wirtschaftsplan   ja Gesamtkosten       X nein Förderung   \f       \fBeschlussvorschlag:  Der Verwaltungsrat beschließt die in der Anlage beigefügte Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage in der Stadt Castrop-Rauxel (Entwässerungssatzung) (Anlage 1).   \f  \f ________________________ Werner Sachverhalt: Umfangreiche Änderungen der Gesetzeslage, insbesondere des LWG NRW, machen die Änderung der Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage in der Stadt Castrop-Rauxel (Entwässerungssatzung) notwendig.  Der EUV orientiert sich dabei weitestgehend an der von der Kommunalagentur NRW aufgestellten Mustersatzung und berücksichtigt dabei auch die aktuelle Rechtsprechung.   Die Änderungen sind umfangreich und der anliegenden Synopse (Anlage 2) zu entnehmen.  Gemäß § 5 Abs. 2 Ziff. 1 der Satzung für das Kommunalunternehmen der Stadt Castrop-Rauxel, EUV, Stadtbetrieb Castrop-Rauxel  AöR  ist der Verwaltungsrat für den Erlass von Satzungen im Rahmen des übertragenen Aufgabenbereiches zuständig.   Bezüglich des Erlasses von Satzungen hat der Rat der Stadt Castrop-Rauxel gem. § 9 Abs. 1 der o.g. Satzung ein Weisungsrecht. Vor der öffentlichen Bekanntmachung der Satzung ist somit die vom Verwaltungsrat beschlossene Satzung vom Rat der Stadt Castrop-Rauxel zu billigen.   Weiterer Bericht erfolgt in der Sitzung.  Anlage 1 Satzung über die Entwässerung der Grundstücke und den Anschluss an die      öffentliche Abwasseranlage Anlage 2 Synopse zur Änderung der Satzung über die Entwässerung der Grundstücke                  und den Anschluss an die öffentl. Abwasseranlage in der Stadt Castrop-Rauxel                  (Entwässerungssatzung)  \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Erlass einer Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage in der Stadt Castrop-Rauxel (Entwässerungssatzung)",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/EUV/038",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

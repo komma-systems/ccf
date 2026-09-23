@@ -1,0 +1,54 @@
+{
+  "council_id": "muenster",
+  "record_type": "paper",
+  "source_id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056585",
+  "modified_at": "2026-09-08T10:07:07+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588605.pdf",
+        "created": "2026-08-31T12:02:23+02:00",
+        "date": "2026-08-31",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588605.pdf",
+        "fileName": "00588605.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588605",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-31T12:09:04+02:00",
+        "name": "Berichtsvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://oparl.stadt-muenster.de/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/287706",
+        "authoritative": true,
+        "created": "2026-08-24T12:34:29+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91612",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14504",
+        "modified": "2026-09-09T08:12:14+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/93"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056585",
+        "role": "Bericht",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-20T13:56:04+02:00",
+    "date": "2026-08-20",
+    "id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056585",
+    "modified": "2026-09-08T10:07:07+02:00",
+    "name": "Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen",
+    "paperType": "Vorlagen",
+    "reference": "V/0467/2026",
+    "superordinatedPaper": [
+      "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056620"
+    ],
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "https://oparl.stadt-muenster.de/bodies/0001/organizations/at/100319"
+    ]
+  }
+}

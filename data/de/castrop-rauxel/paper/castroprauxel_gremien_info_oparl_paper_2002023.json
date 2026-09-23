@@ -1,0 +1,32 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/2002023",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2002-01-29",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/2002023",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002023&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002023&id=69",
+      "fileName": "2002023",
+      "id": "https://castroprauxel.gremien.info/oparl/file/2002023",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2002/023",
+      "size": 12428,
+      "text": "euv;werksausschuss;ausgaberesten;investitionen;haushaltsstelle;berührung;gesamtkosten;ausgabereste;investitionsmaßnahmen;aufstellung;mittelabfluss;wirtschaftsplan;ausgabemittel;jahresende;haushaltsreste;anzumerken;ist;aufträge;fortführung;entsorgung;umweltschutz;versorgung;eigenbetrieb;castrop;rauxel;übertragung;von;ausgaberesten;für;investitionen;2002023;,2002/023;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Übertragung von Ausgaberesten für Investitionen",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2002/023",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/271305100127",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271305100127%7C20200526173643-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-26",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271305100127%7C20200526173643-0.pdf%7C",
+        "fileName": "20200526173643-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271305100127%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271305100127",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "d5f3fd40119cca1cfdf1d975cff70b8a9b3ea027",
+        "size": 236199,
+        "text": "Anlage 2_Nr. 243 Wohnen in der Kemnade",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271305100127%7C20200526173643-1.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-26",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271305100127%7C20200526173643-1.pdf%7C",
+        "fileName": "20200526173643-1.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271305100127%7C4",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271305100127",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 4",
+        "sha1Checksum": "45304316cc4d7091a15583667e0d2867d08c4175",
+        "size": 166724,
+        "text": "Anlage 3_Außenbereich Behringhausen",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271305100127%7C20200526173643-2.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-26",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271305100127%7C20200526173643-2.pdf%7C",
+        "fileName": "20200526173643-2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271305100127%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271305100127",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "0cd321d69a2dd8737af413e8341f1e75e46c6f7e",
+        "size": 254385,
+        "text": "Anlage 1_Nr. 101 A Lakestraße",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B3-99%7C271305100127%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8986",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B3-99",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-05-13",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/271305100127",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271305100127&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271305100127&id=69",
+      "fileName": "271305100127",
+      "id": "https://castroprauxel.gremien.info/oparl/file/271305100127",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/107",
+      "size": 241581,
+      "text": " Bereich Stadtplanung und Bauordnung 2020/107  öffentlich  Az: 61-26-0-14   Datum: 13.05.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 3 (Bauen, Verkehr und Sport) 18.06.2020    Betreff  Anträge auf Aufstellung oder Änderung von Bebauungsplänen  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag Der Betriebsausschuss 3 beschließt, für die in den Anlagen 1 bis 3 dargestellten Bereiche keine Verfahren zur Aufstellung oder Änderung von Bebauungsplänen einzuleiten. Die Anfragen bzw. Anträge sind entsprechend zu beantworten.  \f  \f Lenort\u000bStadtbaurätin \f Sachverhalt Aktuell sind in drei Fällen Investoren oder Privateigentümer mit Planungen an die Stadtverwaltung herangetreten, die dem bestehenden Planungsrecht widersprechen. Die Interessenten haben hier ausdrücklich die Änderung des für sie hinderlichen Planungsrechts erbeten. Im Innenbereich wird insbesondere der Wunsch nach Nachverdichtung durch eine höhere Ausnutzbarkeit der Grundstücke oder durch Schließung von Baulücken vorgetragen. Auch wenn zur Verringerung der zusätzlichen Inanspruchnahme von Flächen der Innenentwicklung Vorrang eingeräumt wird, kann dem nicht immer entsprochen werden. Wenn sich ein Vorhaben im unbeplanten Innenbereich nicht in die Eigenart der näheren Umgebung einfügt oder wenn innerhalb des Geltungsbereichs eines Bebauungsplans keine Befreiung von den Festsetzungen in Aussicht gestellt werden kann, da die Grundzüge der Planung berührt sind, besteht ein Planerfordernis. In Folge wäre zur Realisierung der einzelnen Vorhaben die Aufstellung eines Bebauungsplans zur erstmaligen Schaffung von Baurecht oder die Änderung eines bestehenden Bebauungsplans notwendig. In allen drei Fällen besteht kein städtebauliches Erfordernis für die gewünschte Änderung oder es widerspricht sogar städtebaulichen Zielen. Zudem sind auch der Änderungsaufwand und die limitierte Verwaltungskapazität zu berücksichtigen. Bei einem Bebauungsplanverfahren mit dem Zweck der Errichtung eines einzelnen Gebäudes stehen der Aufwand und der sich daraus ergebende Nutzen in keiner Relation. Auch wenn der Vorhabenträger die Kosten für extern zu erbringende Planungsleistungen oder Gutachten übernimmt, bindet das mindestens ein Jahr dauernde Verfahren Kapazitäten innerhalb der Stadtverwaltung. Im Folgenden sind drei Vorhaben aufgeführt, bei denen die Verwaltung aus fachlicher Sicht empfiehlt, keine Änderung des bestehendes Planungsrecht vorzunehmen. Die Verwaltung bittet um Zustimmung durch Beschluss.  Bebauungsplan Nr. 101 A Lakestraße Ein Anwohner hat die Absicht, ein Grundstück mit einem Wohnhaus zu bebauen (s. Anlage 1). Im rechtskräftigen Bebauungsplan Nr. 101 A Lakestraße ist für die betreffende Fläche eine private Grünfläche und eine Fläche für Versorgungsanlagen festgesetzt. Da die Errichtung eines Gebäudes dort unzulässig ist, müsste der Bebauungsplan geändert werden.  Gegen die Änderung des bestehenden Planungsrechts mit dem Zweck der Errichtung eines Einfamilienhauses spricht neben dem Aufwand insbesondere die potentielle Ausnutzbarkeit des Grundstücks. Das Grundstück weist einen ungünstigen Zuschnitt auf und es sind fünf zum Erhalt festgesetzte Bäume vorhanden.   Bebauungsplan Nr. 243 Wohnen in der Kemnade Im Rahmen einer Bauvoranfrage wird ein positiver Bescheid über die Errichtung eines Mehrfamilienhauses außerhalb der überbaubaren Grundstücksfläche begehrt (s. Anlage 2). Das Vorhaben liegt innerhalb des Bebauungsplans Nr. 243 Wohnen in der Kemnade, der seit dem 20.09.2017 rechtskräftig ist. Die Grundzüge der Planung sind berührt. Für die Vorhabenzulassung kann keine Befreiung erteilt werden, sodass wie von der Antragstellerin gefordert, ein Änderungsverfahren für den Bebauungsplan durchgeführt werden müsste.  Der Bebauungsplan wurde erst vor zwei Jahren beschlossen. Das Grundstück liegt in einem stark verlärmten Bereich, sodass Vorkehrungen zum Schutz vor schädlichen Umwelteinwirkungen in diesem Bereich erforderlich wären. In der Erarbeitung wurde die Fläche gezielt in das Planverfahren einbezogen, aber nicht als bebaubar ausgewiesen, da es nicht anfahrbar ist und bisher als Gartenland genutzt wird. Eine Änderung des bestehenden Planungsrechts wird von Seiten der Verwaltung nicht befürwortet.  Vorhaben im Stadtteil Behringhausen Ein Investor ist an der Entwicklung einer an der Stadtgrenze zu Herne gelegenen Fläche im Außenbereich interessiert (s. Anlage 3). Die landwirtschaftlich genutzte Fläche grenzt an das Siedlungsgefüge der Stadt Herne an.  Die Zulässigkeit des Vorhabens richtet sich nach §35 BauGB. Einer baulichen Nutzung stehen sowohl die Darstellung im Flächennutzungsplan als auch regionalplanerische Belange entgegen. Im wirksamen Flächennutzungsplan ist der Bereich als Fläche für die Landwirtschaft dargestellt. Das Landschaftsschutzgebiet Behringhausen ist nachrichtlich übernommen. Gemäß dem Landschaftsplan Castroper Hügelland besitzt der Freiraum, der zwischen den besiedelten Bereichen von Herne und Castrop-Rauxel liegt, eine wichtige Trenn- und Ausgleichsfunktion. Die besondere Bedeutung des Bereichs wird ebenfalls in der Festlegung als Regionaler Grünzug im Gebietsentwicklungsplan Münster, Teilabschnitt Emscher-Lippe, sowie in dem im Entwurf vorliegenden Regionalplan Ruhr deutlich. Nach den überörtlichen Plänen sind Regionale Grünzüge als Bestandteil des regionalen Freiflächensystems zu sichern, zu erweitern und zu vernetzen und stellen Ziele der Raumordnung dar. Sie dürfen nicht für Siedlungszwecke und andere dem Freiraum entgegenstehenden Nutzungen in Anspruch genommen werden.  Aufgrund der entgegenstehenden Belange der Freiraumsicherung und -entwicklung kann die Aufstellung eines vorhabenbezogenen Bebauungsplans und die damit verbundene Schaffung von Baurecht aus stadtentwicklungspolitischer Sicht nicht mitgetragen werden. Zudem setzt die staatliche Regionalplanung enge Grenzen für eine Entwicklung dieser Flächen, da diese zum Regionalen Grünzug gehören und nicht an andere Siedlungsflächen in Castrop-Rauxel angrenzen.      Anlagen Anlage 1: Auszug aus dem rechtskräftigen Bebauungsplan Nr. 101 A Lakestraße mit Hervorhebung des Vorhabengrundstücks  Anlage 2: Auszug aus dem rechtskräftigen Bebauungsplan Nr. 243 Wohnen in der Kemnade mit Hervorhebung des Vorhabengrundstücks Anlage 3:  Verortung des Vorhabens im Stadtteil Behringhausen \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Anträge auf Aufstellung oder Änderung von Bebauungsplänen",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/107",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ]
+  }
+}

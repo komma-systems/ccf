@@ -1,0 +1,50 @@
+{
+  "council_id": "muenster",
+  "record_type": "paper",
+  "source_id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056677",
+  "modified_at": "2026-09-23T17:46:55+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00589703.pdf",
+        "created": "2026-09-23T11:31:31+02:00",
+        "date": "2026-09-23",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00589703.pdf",
+        "fileName": "00589703.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/589703",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T17:46:56+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://oparl.stadt-muenster.de/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/289680",
+        "created": "2026-09-21T12:25:28+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91793",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14500",
+        "modified": "2026-09-21T12:25:58+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/560"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056677",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-21T12:09:39+02:00",
+    "date": "2026-09-21",
+    "id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056677",
+    "modified": "2026-09-23T17:46:55+02:00",
+    "name": "Zuschüsse des Ausschusses für Chancengerechtigkeit und Integration",
+    "paperType": "Vorlagen",
+    "reference": "V/0523/2026",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "https://oparl.stadt-muenster.de/bodies/0001/organizations/at/100319"
+    ]
+  }
+}

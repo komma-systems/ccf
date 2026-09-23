@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/220702100006",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2017-EUV-17%7C220702100006%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7355",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2017-EUV-17",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2017-02-07",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/220702100006",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=220702100006&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=220702100006&id=69",
+      "fileName": "220702100006",
+      "id": "https://castroprauxel.gremien.info/oparl/file/220702100006",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2017/EUV/007",
+      "size": 90959,
+      "text": "Datum: 07.02.2017 TB I 9686-500 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 21.06.2017 TOP: I.5 Drucksache-Nr. 2017/EUV/007 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 21.06.2017 5 Betreff: Bestellung des stellvertretenden Vorstandes des EUV Stadtbetrieb -AöR- Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat beschließt: Herrn Oberverwaltungsrat Wolfgang Linke und Herrn Techn. Angestellten Thorsten Werth- von Kampen erneut jeweils zum stellvertretenden Vorstand ab 01.01.2018 für die Dauer von 5 Jahren zu bestellen. ______________________ Werner Sachverhalt: Auf der Grundlage der gültigen kommunalen Unternehmenssatzung der Stadt Castrop-Rauxel, EUV Stadtbetrieb - AöR -, obliegt es dem Verwaltungsrat der AöR gemäß § 5; Zuständigkeiten des Verwaltungsrates Abs. 2 Nr. 4 über Regelungen des Dienstverhältnisses im Vorstand sowie Bestellung und Abberufung der Stellvertreter des Vorstandes zu entscheiden. Nach § 7 Vorstand Abs. 1 besteht der Vorstand aus einem Mitglied. Der Verwaltungsrat kann Stellvertreter des Vorstandes bestellen. Nach Abs. 2 wird der Vorstand auf Dauer von höchstens 5 Jahren bestellt, eine erneute Bestellung ist zulässig. Herr Oberverwaltungsrat Wolfgang Linke und Herr Techn. Angestellter Thorsten Werth-von Kampen wurden zum 01.01.2013 erstmals bis 31.12.2017 als stellvertretende Vorstände bestellt (s. Verwaltungsrat vom 05.12.2012, Drucksache 4.II.7/ 2012). Beide Mitarbeiter sind seit mehr als 20 Jahren im EUV Stadtbetrieb beschäftigt. In Anlehnung an die Regelungen des § 114 a Abs. 6 Seite 2 GONW kann der Stellvertreter bzw. die Stellvertreter des Vorstandes für höchstens 5 Jahre gewählt werden. Die Erstbestellung erfolgte gem. Beschluss des Verwaltungsrates vom 05.12.2012 Gemäß der Satzung über das Kommunalunternehmen der Stadt Castrop-Rauxel § 8 Abs. 6 ist vorgesehen, dass der Vorstand einen Geschäftsverteilungsplan erlässt, der auch Bestimmungen über die Vertretungsregelungen und Unterschriftsberechtigungen im Falle einer längerfristigen Abwesenheit des Vorstandes enthält. Die Bestellung zum stellvertretenden Vorstand endet zum Zeitpunkt des Ausscheidens aus dem öffentlichen Dienstverhältnis oder Abberufung. Weiterer Bericht in der Sitzung.%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Bestellung des stellvertretenden Vorstandes des EUV Stadtbetrieb -AöR-",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2017/EUV/007",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

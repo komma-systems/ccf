@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/241209100035",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-23%7C241209100035%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8055",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2018-EUV-23",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2018-09-12",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/241209100035",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=241209100035&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=241209100035&id=69",
+      "fileName": "241209100035",
+      "id": "https://castroprauxel.gremien.info/oparl/file/241209100035",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2018/EUV/036",
+      "size": 154003,
+      "text": "/  Datum:  12.09.2018   TB I 9686-700      Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 26.09.2018 TOP: I.6 Drucksache-Nr. 2018/EUV/036     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 26.09.2018 6    Betreff:  Benennung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2018 des EUV Stadtbetrieb     Finanzielle Auswirkungen gem. Wirtschaftsplan   ja Gesamtkosten 29.400,--       X nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat beschließt, die BDO AG Wirtschaftsprüfungsgesellschaft aus Dortmund  als Prüfer für den Jahresabschluss 2018 zu benennen.   \f  \f  ________________________ Werner   Sachverhalt:  Gemäß § 5 Abs. 2 Punkt 8 der Satzung für das Kommunalunternehmen der Stadt Castrop-Rauxel EUV, Stadtbetrieb Castrop-Rauxel AöR fällt die Bestellung eines Abschlussprüfers in den Zuständigkeitsbereich des Verwaltungsrates.  Die BDO AG Wirtschaftsprüfungsgesellschaft aus Dortmund hat aufgrund des Beschlusses des Verwaltungsrates bereits die Jahresabschlüsse 2012 bis 2017 des EUV Stadtbetriebes Castrop-Rauxel AöR geprüft.  Aus Gründen der Wirtschaftlichkeit erscheint es angeraten, auch den Jahresabschluss 2018 durch dasselbe Wirtschaftsprüfungsunternehmen prüfen zu lassen. Durch diese neuerliche Benennung wird die Kontinuität im Ablauf der Prüfung sichergestellt. Für den Prüfbericht des Wirtschaftsjahres 2017 als auch 2018 erfolgt ein turnusmäßiger Wechsel des testierenden Abschlussprüfers innerhalb der BDO.   Mit Schreiben vom 11.09.2018 erklärte sich die BDO AG Wirtschaftsprüfungsgesellschaft aus Dortmund bereit, zu dem Angebotspreis des Vorjahres auch die Prüfung des Jahresabschlusses 2018 durchzuführen. Die Kosten für die Prüfung des Jahresabschlusses sind im Wirtschaftsplan des EUV Stadtbetriebes für das Wirtschaftsjahr 2018 enthalten.  Weiterer Sachvortrag in der Sitzung.   \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Benennung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2018 des EUV Stadtbetrieb",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2018/EUV/036",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

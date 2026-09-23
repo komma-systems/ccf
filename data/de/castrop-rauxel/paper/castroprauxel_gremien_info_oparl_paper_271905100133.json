@@ -1,0 +1,114 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/271905100133",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271905100133%7C20200525162952-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-25",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271905100133%7C20200525162952-0.pdf%7C",
+        "fileName": "20200525162952-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271905100133%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271905100133",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "13522c67fd45f76d4fe6122ec7e1506037ef6cab",
+        "size": 404334,
+        "text": "Anlage 1 - Geltungsbereich Veränderungssperre",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271905100133%7C20200527144634-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-27",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271905100133%7C20200527144634-0.pdf%7C",
+        "fileName": "20200527144634-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271905100133%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271905100133",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "75dde9b6f6e32c70b15b473dac34ebcd0da798d5",
+        "size": 490033,
+        "text": "Anlage 2 - Veränderungssperre Satzung",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-AuWi-32%7C271905100133%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8950",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-AuWi-32",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-UMWA-96%7C271905100133%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8947",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-UMWA-96",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B3-99%7C271905100133%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8948",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B3-99",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-118%7C271905100133%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8949",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-118",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-05-19",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/271905100133",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271905100133&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271905100133&id=69",
+      "fileName": "271905100133",
+      "id": "https://castroprauxel.gremien.info/oparl/file/271905100133",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/112",
+      "size": 250365,
+      "text": " Bereich Stadtplanung und Bauordnung 2020/112 öffentlich  Az:     Datum: 19.05.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Ausschuss für Wirtschaftsentwicklung 16.06.2020   Umweltausschuss 16.06.2020   Betriebsausschuss 3 (Bauen, Verkehr und Sport) 18.06.2020   Rat der Stadt 25.06.2020    Betreff  Bebauungsplan Nr. 227 Gewerbepark Erin/ Herner Straße hier: Beschluss einer Veränderungssperre nach §§ 14 und 16 BauGB  \f    Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \fBeschlussvorschlag  Der Rat der Stadt Castrop-Rauxel beschließt nach §§ 14 und 16 BauGB für den Geltungsbereich des im ergänzenden Verfahren (Heilung) befindlichen Bebauungsplanes Nr.227 Gewerbepark Erin/ Herner Straße, die als Anlage beigefügte Veränderungssperre als Satzung.   \f  \f______________________     ______________________ K r a v a n j a       L e n o r t  Bürgermeister       Stadtbaurätin  Sachverhalt  Die Verwaltung schlägt den Beschluss der Satzung einer Veränderungssperre für den Geltungsbereich des Bebauungsplanes Nr. 227, Planbereich Gewerbepark Erin/ Herner Straße  vor, dessen Aufstellung am 22.05.2012 per Dringlichkeitsentscheidung beschlossen wurde. Der Aufstellungsbeschluss wurde am 22.02.2013 veröffentlicht. Nach Durchführung des Bebauungsplanverfahrens hat der Rat der Stadt Castrop-Rauxel den Bebauungsplan am 06.07.2017 als Satzung beschlossen. Mit der Bekanntmachung des Satzungsbeschlusses am 20.07.2017 wurde der Bebauungsplan rechtskräftig. Mit Urteil vom 28.04.2020 (Az.: 9 K 2939/16) bezüglich einer beantragten Fremdwerbeanlage hat das Verwaltungsgericht Gelsenkirchen (VG) den Bebauungsplan in einem Einzelfall für unwirksam erklärt.  Aufgrund der aktuellen Entscheidung des VG soll der Bebauungsplan durch ein ergänzendes Verfahren zur Behebung von Fehlern gem. § 214 Abs. 4 BauGB geheilt werden (vgl. Vorlage 2020/111).  Hierzu wird das Planverfahren zum Zeitpunkt vor dem Offenlagebeschluss wiederaufgenommen. Es werden die seitens des VG angeführten Mängel in einem neuen Planentwurf korrigiert und das Verfahren zur Aufstellung des Bebauungsplanes auf dieser Grundlage mit der öffentlichen Auslegung nach § 3 Abs. 2 BauGB und der Beteiligung der Behörden nach § 4 Abs. 2 BauGB wiederholt. Nach dem erneuten Satzungsbeschluss durch den Rat der Stadt Castrop-Rauxel und Abschluss des Heilungsverfahrens kann der Bebauungsplan wieder in Kraft gesetzt werden.  Die allgemeinen Ziele und Zwecke des Bebauungsplanes Nr. 227 verändern sich im Rahmen des ergänzenden Verfahrens nicht. Die ursprüngliche Konzeption gemäß der für den gesamten Gewerbepark Erin bestehenden Leitidee Arbeiten im Park mit hohen städtebaulichen, wie auch architektonischen Qualitätsanforderungen sowie die grundsätzlichen Planinhalte des alten Planentwurfs des Bebauungsplanes Nr. 227 bleiben weiterhin bestehen. Die Entwurfsinhalte werden lediglich hinsichtlich der vom VG angeführten Kritikpunkte zeichnerisch und textlich korrigiert (vgl. Vorlage 2020/111). Zur Sicherung der Planung für den Planbereich des in Heilung befindlichen Bebauungsplanes   Nr. 227 soll eine Veränderungssperre beschlossen werden. Die Veränderungssperre wird gemäß § 14 ff. BauGB von der Gemeinde als Satzung beschlossen. Zur In-Kraftsetzung erfolgt die Bekanntmachung der Satzung bzw. des Satzungsbeschlusses. Zunächst gilt die Veränderungssperre für zwei Jahre. Sie endet früher, wenn in diesem Zeitraum die Voraussetzungen für ihren Erlass entfallen. Die Veränderungssperre kann auf die Dauer von drei Jahren verlängert werden. Wenn besondere Umstände es erfordern - dies sind außerhalb des Einflussbereiches der Gemeinde liegende Hindernisse -, kann die Satzung um ein weiteres Jahr verlängert werden. Da nach der bisherigen planungsrechtlichen Beurteilungsgrundlage Vorhaben zulässig sein können, die die Durchführung der laufenden Planung unmöglich machen oder wesentlich erschweren würden, ist der Beschluss über eine Veränderungssperre erforderlich. Der Satzungsentwurf über die Veränderungssperre mit der zeichnerischen Darstellung des Geltungsbereichs ist als Anlage beigefügt und Bestandteil der Sitzungsvorlage.   Es werden keine finanziellen Auswirkungen erwartet. Anlagen Anlage 1: Geltungsbereich der Veränderungssperre Anlage 2: Satzung der Stadt Castrop-Rauxel über eine Veränderungssperre für den Geltungsbereich des im ergänzenden Verfahren (Heilung) befindlichen Bebauungsplanes Nr.227 Gewerbepark Erin/ Herner Straße\f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Bebauungsplan Nr. 227 „Gewerbepark Erin/ Herner Straße“\r\nhier: Beschluss einer Veränderungssperre nach §§ 14 und 16 BauGB",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/112",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT",
+      "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+    ]
+  }
+}

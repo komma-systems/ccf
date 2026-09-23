@@ -1,0 +1,364 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-121",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-121%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-121",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-121%7C1%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-121%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-121%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 319255,
+          "text": "1 Fragestunde für Einwohnerinnen und Einwohner   Herr Raczkowski informiert sich nach dem Neubau am EBG. Die Verwaltung teilt mit, dass im Jahr 2025 damit gestartet wird.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-121%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-121",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-121%7CProtokoll%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-121%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-121%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 299875,
+          "text": "2 Einwände gegen die letzte Niederschrift   Keine Einwände.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-121%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-121",
+        "name": "Begrüßung und kurze Einführung von Herrn Gerdesmeyer\r\nSchulleiter der Fridtjof-Nansen-Realschule",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-121%7Czt_0%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-121%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-121%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 321779,
+          "text": "3 Begrüßung und kurze Einführung von Herrn Gerdesmeyer Schulleiter der Fridtjof-Nansen-Realschule     Herr Gerdesmeyer begrüßt die Ausschussmitglieder und wünscht einen guten  Sitzungsverlauf.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-121%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-121",
+        "name": "Bericht zum Landesprogramm Kurve kriegen",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-121%7Czt_1%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-121%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-121%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 402702,
+          "text": "4 Bericht zum Landesprogramm Kurve kriegen    Kriminalhauptkommissar Thomas Kranjc stellt sich und sein Team den Ausschussmitgliedern vor. Er berichtet von deren Arbeit zum Landesprogramm Kurve kriegen  Wege aus der Kriminalität. Die Kriminalität kann einem jungen Menschen die Perspektive für sein späteres Leben zerstören. Damit es nicht so weit kommt will das Team um Kranjc mit der Initiative Kurve kriegen Kinder und Jugendliche vor einem Abgleiten in die Kriminalität bewahren. Das Team besteht aus Polizisten und pädagogischen Fachkräften. Es ist für 11 Kommunen des Kreises und der kreisfreien Stadt Bottrop zuständig.  Die Teilnahme ist für die Erziehungsberechtigten und deren Kinder freiwillig und nicht mit Kosten verbunden. Seit 2018 konnten 51 Kinder und Jugendliche in das Programm aufgenommen werden.  Die Verweildauer in dem Programm ist abhängig vom Erfolg, beträgt jedoch mindestens 1 Jahr.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-121%7Czt_4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-121",
+        "name": "Bericht zum Bildungs-und Teilhabe-Paket und Schulsozialarbeit an Grundschulen",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-121%7Czt_4%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-121%7Czt_4%7C1",
+          "fileName": "be_zt_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-121%7Czt_4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 408434,
+          "text": "5 Bericht zum Bildungs-und Teilhabe-Paket und Schulsozialarbeit an Grundschulen   Herr Woitalla, Bereichsleiter Soziales, berichtet, dass es seit dem 01. Januar 2011 das Bildungs- und Teilhabepaket (BuT) gibt. Damit können Kinder und Jugendliche aus einkommensschwachen Familien zusätzliche Leistung für Bildung, Sport, Kultur und Freizeit erhalten. Frau Selke, seit 2016 Sachbearbeiterin im Team BuT, berichtet den Ausschussmitgliedern von der täglichen Arbeit. Da alle Rechtskreise im Rathaus verankert sind, ermöglicht der Kontakt zu den Kollegen*innen ein schnelleres Bearbeiten der Anträge. Sie teilt mit, dass die Kosten u.a. für Ausflüge, Lernförderung, Teilhabe in Vereinen, Schulbedarf und Klassenfahrten übernommen werden. Auf Nachfrage teilt sie mit, dass die Kosten aller  schulverpflichtenden Veranstaltungen übernommen werden.  Frau Podraza, Abteilungsleitung OGS, teilt mit, dass Sie seit 2011 das Thema begleitet. Damals waren es noch BuT Berater, nun unterstützen Schulsozialarbeiter. Insgesamt wurden durch den Kreis Recklinghausen 4,5 Stellen Castrop-Rauxel zugewiesen. Da aber mindestens eine halbe Stelle an einer Schule verankert sein muss, kann nicht jede Schule über einen Schulsozialarbeiter verfügen.  Auch die Schulleitung der Lindenschule Frau Schütz berichtet kurz zu diesem Thema. Frau Lasser-Moryson führt aus, dass das Thema sehr wichtig ist, ein Schulsozialindex nicht immer ausreicht, und dass das Thema zum Kreis Recklinghausen und Land mitgenommen werden muss.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/13147",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-121%7C350705100114%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-121",
+        "name": "Errichtung einer zweizügigen Grundschule als 'Neue Grundschule Castrop' zum Beginn des Schuljahres 2025/26",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-121%7C350705100114%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-121%7C350705100114%7C1",
+          "fileName": "be_350705100114_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-121%7C350705100114%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 523396,
+          "text": " 6 Errichtung einer zweizügigen Grundschule als  Neue Grundschule Castrop  zum Beginn des Schuljahres 2025/26 (2024/112)    Frau Kruck, Bereichsleiterin Schule, erklärt die Vorlage. Die Ausschussvorsitzende, Frau Lasser-Moryson, weist darauf hin, dass der Beschlussvorschlag wie folgt geändert wird:  Der Rat der Stadt beschließt nachfolgende Maßnahmen   Die Ausschussmitglieder stimmen dem zu und beschließen die Vorlage 2024/112 einstimmig.                     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11230",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-121%7C352805100130%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-121",
+        "name": "Verpflegungskonzept an Schulen in Castrop-Rauxel",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-121%7C352805100130%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-121%7C352805100130%7C1",
+          "fileName": "be_352805100130_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-121%7C352805100130%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 407543,
+          "text": "7 Verpflegungskonzept an Schulen in Castrop-Rauxel (2024/103.1)   Die 1. Beigeordnete, Frau Kleff, erklärt die Vorlage Verpflegungskonzept an Schulen in Castrop-Rauxel.  Der Betriebsausschuss 2 beschließt einstimmig die Vorlage 2024/103.1. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-121%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-121",
+        "name": "Angebot eines weiteren Betreuungsangebotes für Grundschulkinder - ÜMI",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-121%7Czt_3%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-121%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-121%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 406303,
+          "text": "8 Angebot eines weiteren Betreuungsangebotes für Grundschulkinder - ÜMI     Frau Kleff, 1. BG, führt zu diesem Thema aus.  Seit 20 Jahren gibt es die OGS, das Angebot wird gut angenommen.  Die Übermittagsbetreuung ist ein Alternativangebot, welches bis 13:30 Uhr stattfindet, ohne Mittagessen und ohne Hausaufgabenbetreuung. Bisher gibt es das Angebot an  3 Standorten, der Marktschule Ickern, der Elisabethschule und der Grundschule Alter Garten. Die Kosten liegen derzeit bei 50  monatlich, eine Ferienbetreuung ist nicht vorgesehen. Der Ausschuss nimmt die Ausführungen dankend zur Kenntnis.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/12975",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-121%7C352805100131%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-121",
+        "name": "Gemeinsamer Antrag der SPD Fraktion und BÜNDNIS 90 / DIE GRÜNEN vom 27.05.2024_\r\nTeilhabekonferenzen für Castrop-Rauxel",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-121%7C352805100131%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-121%7C352805100131%7C1",
+          "fileName": "be_352805100131_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-121%7C352805100131%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 399538,
+          "text": "9 Gemeinsamer Antrag der SPD Fraktion und BÜNDNIS 90 / DIE GRÜNEN vom 27.05.2024_ Teilhabekonferenzen für Castrop-Rauxel (2024/128)   Herr Korkutan erklärt den Antrag.  Die Ausschussmitglieder beschließen diesen einstimmig.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-B2-121%7C6%7C1%7C20240621074140-0_6_1.pdf",
+            "date": "2024-06-21",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-B2-121%7C6%7C1%7C20240621074140-0_6_1.pdf",
+            "fileName": "20240621074140-0_6_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-B2-121%7C6%7C1%7C20240621074140-0_6_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Schulabschlüsse",
+            "size": 99367,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-121%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-121",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-121%7C6%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-121%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-121%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 404770,
+          "text": "10 Anfragen der Ausschussmitglieder   Frau Lasser-Moryson, Ausschussvorsitzende, liest die Anfrage der CDU-Fraktion zur Beendigung der Schullaufbahn ohne Schulabschluss den Ausschussmitgliedern vor.  Die Anfrage ist dem Protokoll als Anlage 1 beigefügt.  Die 1. Beigeordnete, Frau Kleff, teilt mit, dass 47 Schülerinnen und Schüler das Schuljahr 2022/2023 ohne Abschluss verlassen mussten.  Das Thema möge in einer der nächsten Ausschusssitzungen als separater TOP behandelt. Fr. Kleff, 1.BG, teilt den Ausschussmitgliedern mit, dass Unterrichtsfehlstunden durch  Langzeiterkrankungen zustande kommen. Allein die Fridtjof-Nansen-Realschule hat 5 langzeiterkrankte Lehrer*innen.        \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-121%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-121",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-B2-121%7C4%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-B2-121%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-B2-121%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 401470,
+          "text": "11 Mitteilungen der Verwaltung   Herr Trzeziak, Altenhilfekoordinator der Stadt Castrop-Rauxel, berichtet über das Thema Pflege. Am 29.04.24 fand ein Treffen mit den Anbietern der ambulanten Pflegedienste statt, welches durch die 1. BG Frau Kleff und Herrn Hundt, Fachbereichsleiter Pflege Recklinghausen, unterstützt wurde. 2 Pflegedienste aus Castrop-Rauxel mussten Insolvenz anmelden, ein Antrag konnte abgewendet werden.  5,2 Millionen Pflegebedürftige gibt es derzeit in Deutschland, von denen 83 % zu Hause versorgt werden. Herr Trzeziak berichtet sowohl von den allgemeinen Herausforderungen, wie z.B. Personal- und Fachkräftemangel, hoher Krankenstand und auch Energiekostensteigerungen als auch von konkreten Herausforderungen wie offene Stellen oder Ausfall von Pflegekräften.       \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-121%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-121",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-B2-121%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-121",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2024-06-13T19:15:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-121",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-B2-121",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-05-29",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2024-B2-121",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2024-B2-121",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "b9f7a83646fa2a49a7e795866b3c6d5be7a44728",
+      "size": 441755,
+      "text": "Amtliche Bekanntmachung der Tagesordnung zur Sitzung des Betriebsausschusses 2 (Familie, Jugend, Soziales und Bildung) am Donnerstag, 13.06.2024 um 17:00 Uhr Fridtjof-Nansen-Realschule (Mensa), Lange Straße 18, 44579 Castrop-Rauxel I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner  2. Einwände gegen die letzte Niederschrift  3. Begrüßung und kurze Einführung von Herrn Gerdesmeyer Schulleiter der Fridtjof-Nansen-Realschule  4. Bericht zum Landesprogramm Kurve kriegen  5. Errichtung einer zweizügigen Grundschule als  Neue Grundschule Castrop  zum Beginn des Schuljahres 2025/26  6. Verpflegungskonzept an Schulen in Castrop-Rauxel  7. Angebot eines weiteren Betreuungsangebotes für Grundschulkinder - ÜMI  8. Bericht zum Bildungs-und Teilhabe-Paket und Schulsozialarbeit an Grundschulen  9. Gemeinsamer Antrag der SPD Fraktion und BÜNDNIS 90 / DIE GRÜNEN vom 27.05.2024_ Teilhabekonferenzen für Castrop-Rauxel  10. Anfragen der Ausschussmitglieder  11. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  1. Anfragen der Ausschussmitglieder  2. Mitteilungen der Verwaltung    Katrin Lasser-Moryson Ausschussvorsitzende \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "außerhalb des Rathauses, Info siehe Bekanntmachung, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-B2-121/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "außerhalb des Rathauses, Info siehe Bekanntmachung",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Betriebsausschusses 2 (Familie, Jugend, Soziales und Bildung)",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/B2"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/597",
+      "https://castroprauxel.gremien.info/oparl/person/694",
+      "https://castroprauxel.gremien.info/oparl/person/1063",
+      "https://castroprauxel.gremien.info/oparl/person/138",
+      "https://castroprauxel.gremien.info/oparl/person/1032",
+      "https://castroprauxel.gremien.info/oparl/person/1244",
+      "https://castroprauxel.gremien.info/oparl/person/389",
+      "https://castroprauxel.gremien.info/oparl/person/1043",
+      "https://castroprauxel.gremien.info/oparl/person/858",
+      "https://castroprauxel.gremien.info/oparl/person/309",
+      "https://castroprauxel.gremien.info/oparl/person/1198",
+      "https://castroprauxel.gremien.info/oparl/person/895",
+      "https://castroprauxel.gremien.info/oparl/person/1060",
+      "https://castroprauxel.gremien.info/oparl/person/1061",
+      "https://castroprauxel.gremien.info/oparl/person/1118",
+      "https://castroprauxel.gremien.info/oparl/person/29",
+      "https://castroprauxel.gremien.info/oparl/person/1245",
+      "https://castroprauxel.gremien.info/oparl/person/156",
+      "https://castroprauxel.gremien.info/oparl/person/949",
+      "https://castroprauxel.gremien.info/oparl/person/763",
+      "https://castroprauxel.gremien.info/oparl/person/758",
+      "https://castroprauxel.gremien.info/oparl/person/733"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-B2-121",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-08-02",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-B2-121",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-B2-121",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 607532,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2024-06-13T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-B2-121",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-08-02",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-B2-121",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-B2-121",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 607532,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

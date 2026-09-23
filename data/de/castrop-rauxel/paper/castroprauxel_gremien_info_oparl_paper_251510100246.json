@@ -1,0 +1,90 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/251510100246",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=251510100246%7C20191024133950.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-10-24",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=251510100246%7C20191024133950.pdf%7C",
+        "fileName": "20191024133950.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C251510100246%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/251510100246",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "7ffcb259eb45e183fdc0340020c360dc7d8fb965",
+        "size": 831898,
+        "text": "Anlage 1 - Anzahl der Baulücken nach Stadtteilen",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=251510100246%7C20191028101039.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-10-28",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=251510100246%7C20191028101039.pdf%7C",
+        "fileName": "20191028101039.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C251510100246%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/251510100246",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "d6c8bd71b1c3e9b93c69c307467b9169d91746f5",
+        "size": 1387464,
+        "text": "Anlage 2 - Lage der Baulücken",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-UMWA-93%7C251510100246%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8604",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-UMWA-93",
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-B3-93%7C251510100246%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8605",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-B3-93",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-10-15",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/251510100246",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=251510100246&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=251510100246&id=69",
+      "fileName": "251510100246",
+      "id": "https://castroprauxel.gremien.info/oparl/file/251510100246",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/237",
+      "size": 153088,
+      "text": " Bereich Stadtplanung und Bauordnung 2019/237 öffentlich  Az: 61-48-07   Datum: 15.10.2019    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Umweltausschuss 19.11.2019   Betriebsausschuss 3 (Bauen, Verkehr und Sport) 21.11.2019    Betreff  Sachstandsbericht Baulückenkataster  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  Das aktualisierte Baulückenkataster wird zur Kenntnis genommen.  Der Auftrag zur Erstellung und Umsetzung eines Mobilisierungskonzepts wird entsprechend der Priorisierung in der Haushaltsvorlage zurückgestellt.   \f  \f  L e n o r t  Beigeordnete \f Sachverhalt  Definitionen: Baulücke und Baulückenkataster Im Baulückenkataster werden unbebaute Grundstücke von 500 qm bis 2.000 qm erfasst, die sofort oder in absehbarer Zeit bebaubar sind. Sie müssen zudem planerisch für den Wohnungsbau vorgesehen, also den einschlägigen Flächenkategorien der Baunutzungsverordnung zugeordnet sein (Wohnbauflächen, Wohngebiete, Mischgebiete). Die sofortige oder absehbare Bebaubarkeit nach Baugesetzbuch (BauGB) begründet sich in  § 34 BauGB Zulässigkeit von Vorhaben innerhalb der im Zusammenhang    bebauten Ortsteile,  § 30 BauGB Zulässigkeit von Vorhaben im Geltungsbereich eines    Bebauungsplanes oder  § 33 BauGB Zulässigkeit von Vorhaben während der Planaufstellung.  RuhrFIS: Datengrundlage für das Baulückenkataster Das derzeit vorliegende Baulückenkataster beruht auf einer Datenerhebung im Rahmen des Flächenmonitoring ruhr-FIS (Flächeninformationssystem Ruhr). Die Basis dazu bildet eine Luftbildauswertung des RVR. Anschließend überprüft die Kommune jede Verdachtsfläche und bereinigt das Kataster um bebaute oder grundsätzlich nicht nutzbare Flächen. Im Vordergrund steht die Erhebung der planerischen Reserven für Wohn-, Gewerbe- und Industrieflächen. Das Flächeninformationssystem Ruhr soll vorrangig die mit der Regionalplanung verbundenen gesetzlichen Aufgaben und planerischen Notwendigkeiten erfüllen. Gleichzeitig bietet das Flächeninformationssystem eine sehr detaillierte Erfassung für alle Siedlungsflächenreserven.  Aktueller Sachstand Von den 2017 ermittelten 83 Baulücken für den Wohnungsbau wurden zwischenzeitlich 14 bebaut, sodass zurzeit noch 69 Baulücken zur Verfügung stehen. Die zwischen 2017 und 2019 bebauten Baulücken betreffen überwiegend Restgrundstücke in größeren zusammenhängenden Baugebieten (Scheitens Berg, Westhofenstraße). Neue Baulücken entstehen vor allem durch die unvollständige Vermarktung neuer Baugebiete. Die bestehenden 69 Baulücken stellen ein theoretisches Potential dar. So kann beispielsweise die Marktverfügbarkeit durch mangelndes Verwertungsinteresse der Eigentümer nicht gegeben sein.  Die nachfolgende Tabelle stellt die Strukturdaten der letzten zwei Baulückenaufnahmen dar:  2017 2019  Anzahl der Baulücken 83 69  Gesamtgröße aller Baulücken 8,03 ha 6,87 ha  Durchschnittliche Baulückengröße  997 qm  Planungsrecht;    Anzahl der Baulücken nach  § 30 / 34 BauGB   30 / 39   Eine Strategie zur Mobilisierung der Baulücken wird erarbeitet und umgesetzt werden, sobald dafür personelle Ressourcen bereitgestellt werden.    Anlagen 1 Stadtplan mit Darstellung der Anzahl und Größe der Baulücken nach Stadtteilen 2 Lage der Baulücken im Stadtgebiet \f\f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Sachstandsbericht Baulückenkataster",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/237",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ]
+  }
+}

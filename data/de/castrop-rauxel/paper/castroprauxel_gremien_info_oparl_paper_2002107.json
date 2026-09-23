@@ -1,0 +1,32 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/2002107",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2002-04-25",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/2002107",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002107&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=2002107&id=69",
+      "fileName": "2002107",
+      "id": "https://castroprauxel.gremien.info/oparl/file/2002107",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2002/107",
+      "size": 13557,
+      "text": "eigenbetrieb;sitzungsvorlage;werksausschuss;zwischenbericht;haushaltsstelle;berührung;gesamtkosten;euv;gem;betriebssatzung;eigenbetriebes;werkleitung;rechnungsjahres;veränderungen;erfolgsplanes;vermögensplanes;ergebnisveränderungen;vergleich;wirtschaftsplan;rahmen;zwischenberichtes;werksausschusses;wirtschaftsjahres;ablauf;vierteljahres;tendenz;erkenntnissen;betriebsergebnisse;teilbetrieben;gesamtergebnis;teilbetriebe;minuswerte;wirtschaftsplanziel;inhalte;konkretisierung;finanzdaten;entsorgung;umweltschutz;versorgung;castrop;rauxel;zwischenbericht;i;/;2002;2002107;,2002/107;",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Zwischenbericht I / 2002",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2002/107",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/201502100003",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-12%7C201502100003%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6897",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2016-EUV-12",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2016-02-15",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/201502100003",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=201502100003&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=201502100003&id=69",
+      "fileName": "201502100003",
+      "id": "https://castroprauxel.gremien.info/oparl/file/201502100003",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2016/EUV/004",
+      "size": 169061,
+      "text": "Datum: 15.02.2016 TB I 9686-500 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 02.03.2016 TOP: I.7 Drucksache-Nr. 2016/EUV/004 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 02.03.2016 I.7 Betreff: Rückwärtsfahren im öffentlichen Straßenraum; Kommunale Entsorgungsfahrzeuge Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt den Bericht des Vorstandes zur Kenntnis. _________________ Werner Sachverhalt: Bedingt durch den Vorstoß des Unfallversicherungsträgers (Ende 2015) soll das Rückwärtsfahren in der Abfallsammlung grundsätzlich verboten werden. Dem Verwaltungsrat werden die wesentlichen Vorschriften und deren Umsetzung beim EUV Stadtbetrieb für die Handhabung des Rückwärtsfahrens in Abfallsammlungseinsätzen wiedergegeben. Die Unterweisungskarte E5 der Berufsgenossenschaft Verkehr und die Berufsgenossenschaft-Information 5104 besagen, dass Abfall nur abgeholt werden darf, wenn die Zufahrt zu Müllbehälterstandplätzen so angelegt ist, dass eine Rückwärtsfahrt nicht erforderlich ist. Bei Sackgassen ohne Wendeanlagen ist das Rückwärtsfahren im Prinzip untersagt. Ist eine Rückwärtsfahrt demnach unvermeidlich, werden in Ausnahmefällen folgende zusätzliche Maßnahmen erforderlich: Der Fahrer wird ununterbrochen durch einen gestikulierenden Mitarbeiter eingewiesen — eine Rückraumkamera genügt nicht — und der Fahrer sieht den Einweiser (Müllwerker). Beiderseits des Abfallsammelfahrzeuges ist ein Sicherheitsabstand zu festen Hindernissen von mindestens 0,5 m über die gesamte Rückfahrtstrecke gewährleistet – 2,55 m für das Fahrzeug und je 0,5 m pro Fahrzeugseite (d.h. Rangierbreite in Mittel 3,55 m) Die zurückzulegende Fahrstrecke sollte nicht länger als 150 Meter sein. Die Sicht durch die seitlichen Rückspiegel nach hinten ist nicht behindert bzw. eingeschränkt. Im Gefahrenbereich des Abfallsammelfahrzeugs dürfen sich keine Personen aufhalten. Keine Personen befinden sich auf den Trittbrettern oder Aufbauten des Sammelfahrzeugs. Ob und in welcher Art das Rückwärtsfahren in betrieblichen Abläufen zugelassen ist, wird im Rahmen der betrieblichen Gefährdungsbeurteilungen dokumentiert. Diese werden beim EUV von dem zuständigen Sicherheitsingenieur in Zusammenarbeit mit der Betriebshof- und Einsatzleitung erstellt. Dazu gehören die Beurteilung der Straßenverhältnisse vor Ort sowie Fahrproben mit der zuständigen Mannschaft. Des Weiteren ist festzustellen, dass bei allen neu zu bauenden Straßen im Stadtgebiet die grundsätzlichen Anforderungen an die Gestaltung von Straßen berücksichtig werden. Diese beinhalten neben der ausreichenden Achslasten unter anderem die Mindestbreite der Straßen ohne Begegnungsverkehr von 2,55 m zzgl. 2 x 0,5 m Sicherheitsabstand sowie geeignete Wendeanlagen. Weiterer Bericht in der Sitzung.Rückwärtsfahren im öffentlichen StraßenraumKommunale Entsorgungsfahrzeuge2016/EUV/004%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Rückwärtsfahren im öffentlichen StraßenraumKommunale Entsorgungsfahrzeuge",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2016/EUV/004",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

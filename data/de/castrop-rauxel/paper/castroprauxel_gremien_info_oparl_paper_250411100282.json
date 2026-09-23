@@ -1,0 +1,115 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/250411100282",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=250411100282%7C20191104111827-2.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-11-04",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=250411100282%7C20191104111827-2.pdf%7C",
+        "fileName": "20191104111827-2.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C250411100282%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/250411100282",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "418da6975f2d75fbec70024a26852d4009bfa15c",
+        "size": 1627862,
+        "text": "Anlage Gebietszone I",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=250411100282%7C20191107085444.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-11-07",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=250411100282%7C20191107085444.pdf%7C",
+        "fileName": "20191107085444.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C250411100282%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/250411100282",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "cb18cf45a11302af6c09dd87ef6e6db2133a9249",
+        "size": 107862,
+        "text": "Stellplatzablösesatzung_20191107_Endfassung",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=250411100282%7C20191113083850.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-11-13",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=250411100282%7C20191113083850.pdf%7C",
+        "fileName": "20191113083850.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C250411100282%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/250411100282",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "0f1889154ccf22eccaa5ca5cdbf07406552dfcc8",
+        "size": 73511,
+        "text": "Anlage 1 zur Vorlage 2019_271 Begründung Stellplatzablösesatzung",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-UMWA-93%7C250411100282%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8661",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-UMWA-93",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-B3-93%7C250411100282%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8662",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-B3-93",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-RAT-115%7C250411100282%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8663",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-RAT-115",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-11-04",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/250411100282",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=250411100282&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=250411100282&id=69",
+      "fileName": "250411100282",
+      "id": "https://castroprauxel.gremien.info/oparl/file/250411100282",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/271",
+      "size": 150634,
+      "text": " Bereich Stadtplanung und Bauordnung 2019/271 öffentlich  Az:     Datum: 04.11.2019    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Umweltausschuss 19.11.2019   Betriebsausschuss 3 (Bauen, Verkehr und Sport) 21.11.2019   Rat der Stadt 28.11.2019    Betreff  Stellplatzablösesatzung der Stadt Castrop-Rauxel  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  Der Rat der Stadt Castrop-Rauxel beschließt die Satzung über die Ablösung der Verpflichtung zur Herstellung von Stellplätzen (Stellplatzablösesatzung).   \f  \f  __________________      __________________ Kravanja        Lenort Bürgermeister       Technische Beigeordnete  \fSachverhalt  Gemäß § 48 Landesbauordnung NRW 2018 [BauO NRW 2018] besteht die Verpflichtung zur Herstellung von Stellplätzen für Kraftfahrzeuge und Fahrräder bei Errichtung, wesentlicher Änderung oder Nutzungsänderung von baulichen Anlagen. § 48 Abs. 3 Nr. 8 und § 89 Abs. 1 Nr. 4 BauO NRW 2018 ermächtigen die Kommunen, per Satzung einzuführen, dass statt der tatsächlichen Herstellung von Stellplätzen auch die Möglichkeit eröffnet werden kann, Stellplätze unter besonderen Umständen für einen Geldbetrag abzulösen.   Die Stellplatzablöse stellt eine streng zweckgebundene Zahlung an die Kommune dar, die für Verbesserungen des ruhenden Verkehrs bzw. Maßnahmen aus Mobilitätskonzepten einzusetzen sind. Sie kommen der Allgemeinheit zugute, und nicht nur dem Gebäude für das die Zahlung erfolgt ist.  Die Verwaltung hat im September 2019 den Entwurf einer neuen Stellplatzablösesatzung in den zuständigen Fachausschüssen vorgestellt, welche die frühere Satzung über die Höhe der Ablösebeträge aus dem Jahr 1996 ersetzen soll. Aufgrund gesetzlicher Änderungen in der BauO NRW 2018 ist die frühere Satzung auch nicht mehr geeignet, um die Stellplatzablöse zu regeln.  Es wurde in den Fachausschüssen beschlossen, einen interfraktionellen Arbeitskreis einzurichten, um die Inhalte und insbesondere auch die Ablösebeträge zu beraten. Dieser Arbeitskreis hat sich in einer ersten Sitzung am 09.10.2019 anhand des Verwaltungsentwurfs einen Überblick über die grundsätzlichen Inhalte und deren Auswirkungen verschafft. In einer zweiten Sitzung am 29.10.2019 wurden die Satzungsinhalte und Höhe der Beträge diskutiert. Diese Änderungen sind seitens der Verwaltung in einen neuen Entwurf einer Stellplatzsatzung eingepflegt worden, welcher als Anlage beigefügt ist.  Eine wesentliche Änderung besteht gegenüber dem ersten Verwaltungsentwurf darin, dass Radstellplätze ausschließlich in der Gebietszone I - Innenstadt abgelöst werden können. Darüber hinaus wurde die Berechnung der Höhe der Ablösebeträge überarbeitet.   Hinweis zu Umfang und Haushaltsauswirkungen: Die Anzahl der Ablösungen von Stellplätzen war in der Vergangenheit gering und kann für die Zukunft nicht prognostiziert werden. Die Einnahmen sind zweckgebunden zu verwenden und dürfen nicht in den allgemeinen Haushalt fließen. Daher ist die Satzung haushaltsneutral.   Auswirkung auf das Klima: Durch die Satzung entstehen indirekte Auswirkungen auf das Klima, indem der Verwaltung eine zusätzliche Handlungsoption gegeben wird. Durch den mit der Ablöse verbundenen Verzicht auf die tatsächliche Herstellung von Stellplätzen wird unmittelbar der mit der Errichtung von baulichen Anlagen verbundene Ressourcenverbrauch reduziert  also Klimabelastungen vermieden. Der Einsatz der eingenommenen Mittel wäre dagegen mit Belastungen durch bauliche Maßnahmen verbunden. Diese Mittel können jedoch durch die Stadt so eingesetzt werden, dass die Verkehrswende hin zu ressourcenschonenderen Verkehrsmitteln gefördert wird.  Auch dadurch sind also eher positive Auswirkungen auf das Klima verbunden. Eine seriöse Abschätzung der Größenordnung von Auswirkungen ist nicht möglich.       B12   B32   EUV     \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Stellplatzablösesatzung der Stadt Castrop-Rauxel",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/271",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

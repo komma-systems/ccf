@@ -1,0 +1,47 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36310",
+  "modified_at": "2026-09-10T08:36:57+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369657.pdf",
+        "created": "2026-09-08T12:10:23+02:00",
+        "date": "2026-09-08",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369657.pdf",
+        "fileName": "00369657.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369657",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-10T08:36:57+02:00",
+        "name": "Gemeinsamer Antrag Rat",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141686",
+        "created": "2026-09-08T13:08:03+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68767",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24642",
+        "modified": "2026-09-23T19:28:51+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/275"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36310",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-08T12:04:12+02:00",
+    "date": "2026-09-08",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36310",
+    "modified": "2026-09-10T08:36:57+02:00",
+    "name": "Einführung digitaler Abstimmungen in Ratssitzung",
+    "paperType": "Gemeinsamer Antrag Rat",
+    "reference": "VO/1103/26",
+    "type": "https://schema.oparl.org/1.1/Paper"
+  }
+}

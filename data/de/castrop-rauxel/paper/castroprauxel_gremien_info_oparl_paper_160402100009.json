@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/160402100009",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2014-EUV-0%7C160402100009%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5853",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2014-EUV-0",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2014-02-04",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/160402100009",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=160402100009&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=160402100009&id=69",
+      "fileName": "160402100009",
+      "id": "https://castroprauxel.gremien.info/oparl/file/160402100009",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2014/EUV/008",
+      "size": 151567,
+      "text": "Datum: 04.02.2014 TB I Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: TOP: Drucksache-Nr. 2014/EUV/008 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 19.02.2014 3 Betreff: Zwischenbericht 1/2014 Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt den Zwischenbericht 1/2014 zur Kenntnis. ________________________ Werner Sachverhalt: Der Vorstand des EUV Stadtbetrieb Castrop-Rauxel – AöR – hat gem. § 8 Abs. 5 der Satzung für das gleichnamige Kommunalunternehmen der Stadt Castrop-Rauxel den Verwaltungsrat mindestens halbjährlich über die Entwicklung des Vermögens- und Erfolgsplanes schriftlich zu unterrichten. Die nun folgenden Sachverhalte im Zusammenhang mit dem angestrebten Zwischenbericht des EUV Stadtbetriebs Castrop-Rauxel zum 31.01.2014 : Die wirtschaftliche Entwicklung des EUV im Januar 2014: Die Verbuchung der Personalaufwendungen für Januar 2014 steht momentan noch aus. Ebenfalls sind noch nicht alle Rechnungen für Januar 2014 buchungstechnisch erfasst. Teilbetriebe III – Abfallentsorgung, V – Stadtentwässerung und VI – Straßenreinigung/Winterdienst: Hinsichtlich dieser Teilbetriebe entspricht die systemtechnisch erfasste Sollstellung der Planung. Teilbetrieb IV – Duales System: Derzeit sind noch nicht alle Verträge bezüglich des Verkaufs des Altpapiers für 2014 abgeschlossen, so dass ein auf das Jahresende zu kalkulierendes Rechnungsergebnis diese Teilbetriebes derzeit ausschließlich spekulativ wäre. Teilbetrieb VI – Straßenreinigung/Winterdienst: Da das tatsächliche Ergebnis des Teilbetriebes vom Winterhalbjahr 2013/2014 abhängt, ist zurzeit noch keine fixierte Aussage über  das beim Teilbetrieb VI voraussichtlich zu erzielende Ergebnis möglich. Weiterer Sachvortrag in der Sitzung.Zwischenbericht 1/20142014/EUV/008%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Zwischenbericht 1/2014",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2014/EUV/008",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

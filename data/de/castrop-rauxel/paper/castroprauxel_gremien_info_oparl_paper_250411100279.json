@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/250411100279",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-B3-93%7C250411100279%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8655",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-B3-93",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-11-04",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/250411100279",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=250411100279&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=250411100279&id=69",
+      "fileName": "250411100279",
+      "id": "https://castroprauxel.gremien.info/oparl/file/250411100279",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/267",
+      "size": 144249,
+      "text": " Bereich Bürgerbeteiligung, Sport und Stärkung des Ehrenamts 2019/267  öffentlich  Az:     Datum: 04.11.2019    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 3 (Bauen, Verkehr und Sport) 21.11.2019 19   Betreff  Förderprogramm Moderne Sportstätte 2022  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \f Beschlussvorschlag  Der Betriebsauschuss 3 nimmt die Vorlage zur Kenntnis   \f  \f    _________________    _________________ Kravanja      Lenort Bürgermeister     Technische Beigeordnete  \f  Sachverhalt  Die Staatskanzlei des Landes Nordrhein-Westfalen hat das Förderprogramm Moderne Sportstätte 2022 ins Leben gerufen. Förderberechtigt sind Vereine, welche eigene Sportstätten besitzen oder für diese einen langfristigen Pachtvertrag (min. 10 Jahre) haben und diese eigenständig unterhalten. Insgesamt beträgt das Fördervolumen für Castrop-Rauxel 1.005.805,00 Euro (5-fache der Sportpauschale des Jahres 2018). Über die Förderanträge entscheidet die Staatskanzlei unter Stellungnahme der Kreissportbünde, bzw. Stadtsportverbände und bünde. Hierzu stellt der Stadtsportverband Castrop-Rauxel ein Gesamtkonzept über die eingereichten Förderanträge und einer Förderempfehlung in Abstimmung mit der Stadtverwaltung auf.  Zum jetzigen Stand ist mit den zu erwartenden Förderanträgen das Förderbudget ausgeschöpft.  Unter den zu erwartenden Anträgen sind zwei Vereine, welche städtische Sportanlagen nutzen. Diese Vereine haben mit der Stadtverwaltung Castrop-Rauxel Pachtverträge für die gesamte oder Teile der Sportstätte abgeschlossen. Sofern die Pachtverträge keine ausreichende Laufzeit haben, werden diese frühzeitig verlängert. Zudem wird auf das ordentliche Kündigungsrecht der unbefristeten Nutzungsvereinbarungen für die Dauer von mindestens 10 Jahren verzichtet.   \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Förderprogramm Moderne Sportstätte 2022",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/267",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ]
+  }
+}

@@ -1,0 +1,535 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C1%7C1",
+          "date": "2023-11-30",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B3-116%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 375482,
+          "text": "  I.1 Fragestunde für Einwohnerinnen und Einwohner   Keine Anfragen. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B3-116%7CProtokoll%7C1",
+          "date": "2023-11-30",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B3-116%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B3-116%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 375980,
+          "text": "  I.2 Einwände gegen die letzte Niederschrift   Keine Einwände. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10925",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7C331311100282%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "Antrag der CDU Ratsfraktion vom 18.10.2023 - Anfrage Sondernutzung der 'Außengastronomie'",
+        "number": "3.1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C331311100282%7C1",
+          "date": "2023-12-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C331311100282%7C1",
+          "fileName": "be_331311100282_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B3-116%7C331311100282%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3.1",
+          "size": 400825,
+          "text": "  I.3.1 Anfrage der CDU Ratsfraktion vom 18.10.2023 - Anfrage Sondernutzung der  Außengastronomie  (2023/271)   Der Ausschussvorsitzende verweist die Anfrage zuständigkeitshalber an den Betriebsausschuss 1.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10968",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7C331411100284%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "Einrichtung einer Fahrradstraße auf der Lange Straße zwischen Habinghorster Straße (B235) und Römerstraße",
+        "number": "3.2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C331411100284%7C1",
+          "date": "2023-12-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C331411100284%7C1",
+          "fileName": "be_331411100284_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B3-116%7C331411100284%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3.2",
+          "size": 519826,
+          "text": "  I.3.2 Einrichtung einer Fahrradstraße auf der Lange Straße zwischen Habinghorster Straße (B235) und Römerstraße (2023/274)   Der Betriebsausschuss 3 empfiehlt dem Rat der Stadt Castrop-Rauxel:  Der Rat der Stadt nimmt den Sachverhalt zur Kenntnis und beauftragt die Verwaltung, eine Fahrradstraße auf der Lange Straße zwischen Habinghorster Straße (B235) und Römerstraße einzurichten.  Die Beschlussfassung erfolgt einstimmig.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/15485",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7C332011100292%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "Geplanter Übergang des Bereichs 67 (Stadtgrün und Friedhofswesen) an den EUV Stadtbetrieb (AöR)",
+        "number": "3.3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C332011100292%7C1",
+          "date": "2023-12-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C332011100292%7C1",
+          "fileName": "be_332011100292_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B3-116%7C332011100292%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3.3",
+          "size": 407158,
+          "text": "  I.3.3 Geplanter Übergang des Bereichs 67 (Stadtgrün und Friedhofswesen) an den EUV Stadtbetrieb (AöR) (2023/283)     Der Ausschussvorsitzende schlägt vor, dass der Ausschuss die Vorlage zur Kenntnis nimmt, um den Fraktionen die Gelegenheit zur weiteren Beratung zu geben. Die Entscheidung erfolgt dann im Rat. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10915",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7C332107100187%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "Bürgerantrag nach § 24 GO NRW vom 24.07.2023_Straßenname 'An der alten Eiche'",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C332107100187%7C1",
+          "date": "2023-11-30",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C332107100187%7C1",
+          "fileName": "be_332107100187_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B3-116%7C332107100187%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 515064,
+          "text": "  I.3 Bürgerantrag nach § 24 GO NRW vom 24.07.2023_Straßenname  An der alten Eiche  (2023/179)   Herr Pelzing stellt den vereinbarten Kompriss vor. Die Straße behält ihren Namen Am Emscherufer, die Parzelle rund um die Alte Eiche soll Platz An der Alten Eiche heißen. Ferner wird eine Gedenktafel aufgestellt.    Die Beschlussfassung erfolgt einstimmig. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10895",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7C331309100233%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "Fortschreibung Wasserversorgungskonzept der Stadt Castrop-Rauxel \r\ngemäß § 38 Landeswassergesetz",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C331309100233%7C1",
+          "date": "2023-12-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C331309100233%7C1",
+          "fileName": "be_331309100233_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B3-116%7C331309100233%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 396609,
+          "text": "  I.4 Fortschreibung Wasserversorgungskonzept der Stadt Castrop-Rauxel  gemäß § 38 Landeswassergesetz (2023/223)   Der Bericht der Verwaltung wird zur Kenntnis genommen.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2023-B3-116%7C333110100274%7C1%7C20231212114730-0_333110100274_1.pdf",
+            "date": "2023-12-12",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2023-B3-116%7C333110100274%7C1%7C20231212114730-0_333110100274_1.pdf",
+            "fileName": "20231212114730-0_333110100274_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2023-B3-116%7C333110100274%7C1%7C20231212114730-0_333110100274_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "20231108_GBB Friedhöfe 2023",
+            "size": 833186,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10921",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7C333110100274%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "Gebührenbedarfsberechnung 2023 'Friedhofwesen'",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C333110100274%7C1",
+          "date": "2023-11-30",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C333110100274%7C1",
+          "fileName": "be_333110100274_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B3-116%7C333110100274%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 516390,
+          "text": "  I.5 Gebührenbedarfsberechnung 2023  Friedhofwesen  (2023/263)   Der Betriebsausschuss 3 empfiehlt dem Rat der Stadt Castrop-Rauxel:  Der Rat der Stadt Castrop-Rauxel nimmt die Gebührenbedarfsberechnung 2023 zur Kenntnis und beschließt die Änderung der Friedhofsgebühren entsprechend der als Anlage 1 beigefügten Gebührensatzung zum 10.12.2023.    Herr Melzner verlässt wegen Befangenheit den Raum.    Die Beschlussfassung erfolgt mit 17 Ja-Stimmen. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10897",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7C331910100255%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "Auswertung zum kostenfreien Parken für Elektroautos in der Innenstadt",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C331910100255%7C1",
+          "date": "2023-12-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C331910100255%7C1",
+          "fileName": "be_331910100255_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B3-116%7C331910100255%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 403523,
+          "text": "  I.6 Auswertung zum kostenfreien Parken für Elektroautos in der Innenstadt (2023/245)   Der Betriebsausschuss 3 nimmt die vorliegende Auswertung der Verwaltung zu den Auswirkungen des kostenfreien Parkens für Elektrofahrzeuge zur Kenntnis.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/13090",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7C332510100262%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "ISEK Stadtmittelpunkt: \r\nSachstand und Städtebauförderantrag zum Stadterneuerungsprogramm 2024",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C332510100262%7C1",
+          "date": "2023-11-30",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C332510100262%7C1",
+          "fileName": "be_332510100262_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B3-116%7C332510100262%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 636029,
+          "text": "  I.7 ISEK Stadtmittelpunkt:  Sachstand und Städtebauförderantrag zum Stadterneuerungsprogramm 2024 (2023/252)   Der Betriebsausschuss 3 empfiehlt dem Rat der Stadt Castrop-Rauxel: Der Rat der Stadt Castrop-Rauxel nimmt die Sachverhalte unter Teil A und B zur Kenntnis. nimmt die aktualisierte Kosten- und Maßnahmentabelle (Anlage 3) zur Kenntnis und beschließt diese als Grundlage für den Städtebauförderantrag StEP 2024. beauftragt die Verwaltung, die notwendigen Mittel im Rahmen der Haushaltsaufstellung 2024ff. zu berücksichtigen und die Unterlagen zum Förderantrag StEP 2024 gemäß der Ausführungen im Sachverhalt bei der Bezirksregierung Münster spezifizierend einzureichen.   Die Beschlussfassung erfolgt mit 11 Ja-Stimmen gegen 6 Nein-Stimmen und 1 Enthaltung. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/13070",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7C331307100181%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "ISEK Merklinde: Sachstand zum ISEK-Prozess, zur Maßnahme Lückenschluss Lothringentrasse/Grüne Acht und Antrag zum Stadterneuerungsprogramm (STEP) 24",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C331307100181%7C1",
+          "date": "2023-12-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C331307100181%7C1",
+          "fileName": "be_331307100181_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B3-116%7C331307100181%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 527144,
+          "text": "I.8 ISEK Merklinde: Sachstand zum ISEK-Prozess, zur Maßnahme Lückenschluss Lothringentrasse/Grüne Acht und Antrag zum Stadterneuerungsprogramm (STEP) 24 (2023/255)   Der Betriebsausschuss 3 empfiehlt dem Rat der Stadt Castrop-Rauxel:  1. Der Rat nimmt den Sachstand zum ISEK Merklinde (Abschnitt I) zur Kenntnis.  2. Der Rat beschließt die vorgestellten Planungen zu I.1., I.2., I.3., beauftragt die Verwaltung, diese bei der Städtebauförderung einzureichen sowie bei Fördermittelzuteilung umzusetzen.   3. Der Rat nimmt den Sachstand zur ISEK-Maßnahme Lothringentrasse (Abschnitt II.) zur Kenntnis.  4. Der Rat beschließt die Umsetzung der Inhalte unter II. und beauftragt die Verwaltung, die Kostenentwicklung für die Haushaltsplanungen 2024ff zu berücksichtigen.     Die Beschlussfassung erfolgt einstimmig. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10901",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7C332410100259%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "Kenntnisgabe der Neuausweisung von Naturdenkmalen im bebauten Innenbereich im Kreis Recklinghausen",
+        "number": "9",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C332410100259%7C1",
+          "date": "2023-12-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C332410100259%7C1",
+          "fileName": "be_332410100259_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B3-116%7C332410100259%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 9",
+          "size": 554040,
+          "text": "I.9 Kenntnisgabe der Neuausweisung von Naturdenkmalen im bebauten Innenbereich im Kreis Recklinghausen (2023/249)   Der Sachverhalt wird zur Kenntnis genommen.    Herr Bettinger weist darauf hin, dass die alte Eiche 2019 vom Kreis noch nicht als Naturdenkmal ausgewiesen wurde.   Herr Röhnert gibt die Antwort des Kreises zur Kenntnis:  Die Ausweisung von Naturdenkmalen ist kein Geschäft der laufenden Verwaltung. Vor dem Hintergrund, dass die bestehende Innenbereichsverordnung des Kreises erst in 9/2023 auslief, stellte sich die Frage im Zeitrahmen der Aufstellung ihres B-Planes 245 nicht. Den Castroper Bürgern, die diese Eiche zu diesem Zeitpunkt als Naturdenkmal vorschlugen, wurde diese Information weitergegeben und versichert, dass die Unterschutzstellung des Baumes im Rahmen der Neuaufstellung dieser Kreisverordnung geprüft würde.  Der Kreistag Recklinghausen wurde in 2022 über das geplante Aufstellungsverfahren zur Neuaufstellung dieser Innenbereichsverordnung für den Kreis Recklinghausen informiert.  Die besagte ca. 160 Jahre alte Eiche wurde, wie z.B. auch die Linden am Bokenkreuz in Frohlinde, nun in die Verordnung zu den Naturdenkmalen im Innenbereich integriert. Die Beschlussfassung des Kreistages zur Innenbereichsverordnung der Naturdenkmale im Kreis Recklinghausen ist am 18.03.2024 geplant.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10903",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7C332510100260%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "Bebauungsplan Nr. 252\r\n'Nördliche Altstadt'\r\n\r\nhier: Erneuter Beschluss zur Aufstellung des Bebauungsplans Nr. 252 mit verändertem Geltungsbereich nach § 2 Abs. 1 BauGB",
+        "number": "10",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C332510100260%7C1",
+          "date": "2023-11-30",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C332510100260%7C1",
+          "fileName": "be_332510100260_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B3-116%7C332510100260%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 10",
+          "size": 625511,
+          "text": "  I.10 Bebauungsplan Nr. 252  Nördliche Altstadt   hier: Erneuter Beschluss zur Aufstellung des Bebauungsplans Nr. 252 mit verändertem Geltungsbereich nach § 2 Abs. 1 BauGB (2023/250)   Der Betriebsausschuss 3 beschließt, den Bebauungsplan Nr. 252 mit der geänderten Bezeichnung Nördliche Altstadt und mit geändertem räumlichen Geltungsbereich aufzustellen.  Der geänderte räumliche Geltungsbereich des Bebauungsplans Nr. 252 ist in dem zum Beschluss gehörenden Übersichtsplan (Anlage 1) dargestellt.    Die Beschlussfassung erfolgt mit 17 Ja-Stimmen und 1 Enthaltung. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "Bauvorhaben von städtebaulicher Bedeutung",
+        "number": "11",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B3-116%7Czt_0%7C1",
+          "date": "2023-11-30",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B3-116%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B3-116%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 11",
+          "size": 380619,
+          "text": "  I.11 Bauvorhaben von städtebaulicher Bedeutung   Keine Vorstellung von Bauvorhaben von städtebaulicher Bedeutung.   \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/10912",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7C332610100265%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "Umgang mit Mikroplastik in Kunstrasenplätzen",
+        "number": "12",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C332610100265%7C1",
+          "date": "2023-11-30",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C332610100265%7C1",
+          "fileName": "be_332610100265_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B3-116%7C332610100265%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 12",
+          "size": 606780,
+          "text": "  I.12 Umgang mit Mikroplastik in Kunstrasenplätzen (2023/261)   Der Betriebsausschuss 3 empfiehlt dem Rat der Stadt Castrop-Rauxel:  Der Rat der Stadt beschließt ab sofort den Verzicht von Gummigranulat für alle geplanten Sanierungen und Neubauten von Kunstrasenplätzen im Stadtgebiet.    Die Beschlussfassung erfolgt einstimmig.  \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2023-B3-116%7Czt_1%7C1%7C20231207125830-0_zt_1_1.pdf",
+            "date": "2023-12-07",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2023-B3-116%7Czt_1%7C1%7C20231207125830-0_zt_1_1.pdf",
+            "fileName": "20231207125830-0_zt_1_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2023-B3-116%7Czt_1%7C1%7C20231207125830-0_zt_1_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Sportstättenentwicklungskonzept",
+            "size": 548767,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7Czt_1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "Evaluation Sportstättenkonzept",
+        "number": "13",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B3-116%7Czt_1%7C1",
+          "date": "2023-12-12",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B3-116%7Czt_1%7C1",
+          "fileName": "be_zt_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B3-116%7Czt_1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 13",
+          "size": 391632,
+          "text": "  I.13 Evaluation Sportstättenkonzept   Frau Stannek berichtet ausführlich über das aktuelle Sportstättenkonzept. Im Lenkungskreis Sport ist vereinbart worden, im nächsten ABES die Eckpunkte für ein neues Sportstättenentwicklungskonzept zu beschließen. Die Präsentation wird der Niederschrift beigefügt. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "14",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C6%7C1",
+          "date": "2023-12-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B3-116%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 14",
+          "size": 427342,
+          "text": "  I.14 Anfragen der Ausschussmitglieder   I.14.1                  I.14.2 Frau Sperz: -Wie ist der aktuelle Sachstand zum Bauvorhaben Hellweg Baumarkt?  Der Ausschussvorsitzende erklärt, dass die Frage im nichtöffentlichen Teil beantwortet werden kann.  -Wie lange dauert die Bearbeitung von Bauanträgen allgemein?  Herr Röhnert erläutert, dass die Bearbeitungszeit sich deutlich verkürzt hat. Die Bauordnung hat zwar in diesem Jahr im Gegensatz zu dem bundesweiten Trend immer noch mehr Anträge als im letzten Jahr erhalten. Es wurden in 2023 auch mehr Genehmigungen erteilt, als im letzten Jahr.   Von Januar 2023 bis einschließlich November wurden 291 Genehmigungen erteilt. Darin enthalten ist die Genehmigung zur Errichtung von insgesamt 234 zusätzlichen Wohnungen. Die durchschnittliche Bearbeitungszeit von Vollständigkeit bis zum Bescheid lag unter 30 Tagen.  Frau Sperz: Gibt es schon Ansätze vom EUV, in der Zusammenarbeit mit der Emschergenossenschaft und der Bürgerschaft, Starkregenschäden zu vermeiden bzw. zu verringern?  Herr Werner: Der EUV ist im Dialog und in den Austausch der Grundlagen eingestiegen. Es gab eine Mitteilung gemeinsam mit der Emschergenossenschaft, dass das Thema in einem Folgetermin im 1. Quartal 2024 (Februar) in einem Bürgerdialog mit den betroffenen Anwohnern der Aapwiesen vorgestellt werden soll.  Frau Sperz bittet um Informationen über den Grundwasserstand der letzten 10 Jahre für diesen Siedlungsbereich.  Herr Werner erläutert, dass er sobald die Daten vorliegen im nächsten AKU und B 3 dazu berichten wird.   I.14.3 Herr Bettinger:  Herr Bettinger regt an, dass der Parkplatz Am Biesenkamp hinter der Fußgängerampel wieder freigegeben wird.  Herr Werner nimmt den Hinweis mit und wird in Abstimmung mit B 32 die Freigabe veranlassen.   I.14.4 Herr Romahn:  Herr Romahn erkundigt sich nach dem aktuellen Sachstand Yachthafen Pöppinghausen und fragt nach, seit wann die Verwaltung darüber informiert ist.  Herr Werner: Herr Werner berichtet, dass das Wasserstraßen- und Schifffahrtsamt die Verwaltung und auch den Pächter sowie den Verein vor mehr als einem Jahr über die weiteren Baumaßnahmen informiert hat. Im Rahmen des Ausbaus des Rhein-Herne-Kanals muss die nördliche Seite des Kanals vollkommen aufgegeben werden, weil dort Spundwände neu errichtet werden müssen. Nach der Durchführung der Baumaßnahme wird die Verwaltung sich mit dem WSA und der BImA verständigen, wie die weiteren Nutzungen bzw. Planungen aussehen können. Das WSA hat festgelegt, dass die beiden baulichen Einrichtungen abgerissen werden.   I.14.5            I.14.6 Frau Gudjons: Frau Gudjons fragt an, welche Möglichkeit es gibt, dass bei dem jetzt gültigen Mietspiegel nicht die veraltete Lärmkartierung berücksichtigt wird.  Frau Lenort:  Bei der Erstellung des Mietspiegels vor ca. 2 Jahren wurden die Daten aus der zu diesem Zeitpunkt gültigen Lärmkartierung berücksichtigt. Jetzt gibt es eine neue Lärmkartierung, deren Daten in den nächsten Mietspiegel Eingang finden. So ist es gesetzlich vorgeschrieben. Man muss bei der Erstellung des Mietspiegels immer die Daten nehmen, die zu diesem Zeitpunkt Gültigkeit haben.  Frau Gudjons: Frau Gudjons berichtet über den Sturz einer älteren Mitbürgerin durch Glatteis vor einigen Tagen am BÜ Obere Münsterstraße.  Herr Werner bittet Frau Gudjons, die Bürgerin aufzufordern, sich beim EUV zu melden.   I.14.7 Herr Berkel: Herr Berkel fragt nach dem aktuellen Sachstand Bauvorhaben Alter Garten.  Der Eigentümer selbst ist anwesend, wird aber aus Befangenheitsgründen keine Fragen beantworten.  Der Ausschussvorsitzende bittet die Verwaltung, im nächsten Ausschuss über den Verfahrensstand des Bauleitplanverfahrens zu berichten.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "15",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C4%7C1",
+          "date": "2023-12-20",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2023-B3-116%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2023-B3-116%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 15",
+          "size": 410187,
+          "text": "  I.15 Mitteilungen der Verwaltung   Frau Reuter:   Sachstand Wartburgstraße  Mit der Vorlage des EUV im letzten Jahr ist die grundsätzliche Planungsabsicht des Kreises Recklinghausen in Bezug auf die Wartburgstraße kommuniziert worden. Damit verknüpft ist auch die Erneuerung der Wartburg Str./ Emscherbrücke. Die Verwaltung wird den Kreis Recklinghausen, die Emschergenossenschaft und die beauftragten Planungsbüros für die kommende Sitzung im Februar einladen, um den Planungsstand noch einmal dezidiert inhaltlich im Rahmen eines mündlichen Berichtes vorzustellen.   Frau Reuter:   Prozessbeginn Neuaufstellung des Nahverkehrsplans durch den Kreis Recklinghausen  Der Kreis ist in die Aufstellung des Nahverkehrsplans eingestiegen und nimmt gerade die Grundlagenermittlung vor. Die Verwaltung hat im September an einer Arbeitskreissitzung teilgenommen. Die Verwaltung wird sich im weiteren Verlauf inhaltlich mit den städtischen Themen auseinandersetzen und diese dann weiter mit der Politik erarbeiten und abstimmen.   Herr Werner:  Sanierung Altstadtring; Umsetzung in 2024  Derzeit laufen die Oberflächensanierungsarbeiten im Abschnitt Karlstraße (Einmündungsbereich Bochumer Straße in Richtung Stadtgrenze Herne) Es ist beabsichtigt, die Maßnahme, die in 3 Abschnitte unterteilt ist, noch vor Weihnachten bis zur Höhe der Kampfbahn Erin fertigzustellen und im neuen Jahr den letzten Abschnitt zwischen der Kampfbahn Erin und der Bochumer Straße abzuschließen. Die Zugänglichkeit zum Sportplatz ist nach Abschluss der Arbeiten somit gegeben.  Ferner hat der Landesbetrieb Straßen.NRW mitgeteilt, dass vorgesehen ist, die Ausschreibung für die Gesamtmaßnahme Altstadtring in mehrere Teile (Lose) zu gliedern. Nach dem Abschnitt an der Karlstraße soll die Ausschreibung im 1. Quartal von der Bochumer Straße bis zum Brückenbauwerk Herner Straße/Querung Emschertalbahn erfolgen, sodass die folgenden Bauaktivitäten ggf. ab April 2024 aufgenommen werden können. Mit vorgesehen sind die Zu- und Abfahrt zur Herner Straße sowie der Einmündungsbereich vom Erin-Gelände/Höhe Polizeigebäude. \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/13094",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7C332610100264%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "ISEK Merklinde: Sachstand und weiteres Vorgehen zur Maßnahme ehemaliger Getränkemarkt",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7C7%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B3-116%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2023-11-23T17:45:00+01:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2023-B3-116",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2023-11-08",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2023-B3-116",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2023-B3-116",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "f12471ca79ae64e9a89d81a7aee2491b1aa3ff8a",
+      "size": 437319,
+      "text": "Amtliche Bekanntmachung der Tagesordnung zur Sitzung des Betriebsausschusses 3 (Bauen, Verkehr und Sport) am Donnerstag, 23.11.2023 um 17:00 Uhr im Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel,   I. Öffentliche Sitzung:  1. Fragestunde für Einwohnerinnen und Einwohner  2. Einwände gegen die letzte Niederschrift  3. Bürgerantrag nach § 24 GO NRW vom 24.07.2023_Straßenname  An der alten Eiche   4. Fortschreibung Wasserversorgungskonzept der Stadt Castrop-Rauxel  gemäß § 38 Landeswassergesetz  5. Gebührenbedarfsberechnung 2023  Friedhofwesen   6. Auswertung zum kostenfreien Parken für Elektroautos in der Innenstadt  7. ISEK Stadtmittelpunkt:  Sachstand und Städtebauförderantrag zum Stadterneuerungsprogramm 2024  8. ISEK Merklinde: Sachstand zum ISEK-Prozess, zur Maßnahme Lückenschluss Lothringentrasse/Grüne Acht und Antrag zum Stadterneuerungsprogramm (STEP) 24  9. Kenntnisgabe der Neuausweisung von Naturdenkmalen im bebauten Innenbereich im Kreis Recklinghausen  10. Bebauungsplan Nr. 252  Nördliche Altstadt  hier: Erneuter Beschluss zur Aufstellung des Bebauungsplans Nr. 252 mit verändertem Geltungsbereich nach § 2 Abs. 1 BauGB  11. Bauvorhaben von städtebaulicher Bedeutung  12. Umgang mit Mikroplastik in Kunstrasenplätzen  13. Evaluation Sportstättenkonzept  14. Anfragen der Ausschussmitglieder  15. Mitteilungen der Verwaltung     II. Nichtöffentliche Sitzung:  1. ISEK Merklinde: Sachstand und weiteres Vorgehen zur Maßnahme ehemaliger Getränkemarkt  2. Anfragen der Ausschussmitglieder  3. Mitteilungen der Verwaltung    gez. Dr. Oliver Lind Ausschussvorsitzender \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2023-B3-116/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Betriebsausschusses 3 (Bauen, Verkehr und Sport)",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/205",
+      "https://castroprauxel.gremien.info/oparl/person/1031",
+      "https://castroprauxel.gremien.info/oparl/person/1029",
+      "https://castroprauxel.gremien.info/oparl/person/642",
+      "https://castroprauxel.gremien.info/oparl/person/596",
+      "https://castroprauxel.gremien.info/oparl/person/241",
+      "https://castroprauxel.gremien.info/oparl/person/457",
+      "https://castroprauxel.gremien.info/oparl/person/961",
+      "https://castroprauxel.gremien.info/oparl/person/817",
+      "https://castroprauxel.gremien.info/oparl/person/1007",
+      "https://castroprauxel.gremien.info/oparl/person/416",
+      "https://castroprauxel.gremien.info/oparl/person/187",
+      "https://castroprauxel.gremien.info/oparl/person/780",
+      "https://castroprauxel.gremien.info/oparl/person/814",
+      "https://castroprauxel.gremien.info/oparl/person/420",
+      "https://castroprauxel.gremien.info/oparl/person/1048",
+      "https://castroprauxel.gremien.info/oparl/person/269",
+      "https://castroprauxel.gremien.info/oparl/person/1011",
+      "https://castroprauxel.gremien.info/oparl/person/1025",
+      "https://castroprauxel.gremien.info/oparl/person/344",
+      "https://castroprauxel.gremien.info/oparl/person/984",
+      "https://castroprauxel.gremien.info/oparl/person/965"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-B3-116",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-01-09",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-B3-116",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-B3-116",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 779541,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2023-11-23T17:00:00+01:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-B3-116",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-01-09",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2023-B3-116",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2023-B3-116",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 779541,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/202710100031",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=202710100031%7C20161107110814.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2016-11-07",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=202710100031%7C20161107110814.pdf%7C",
+        "fileName": "20161107110814.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C202710100031%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/202710100031",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "78a5295ed2c5bf7ba619fbd2d2b291a0be73c38c",
+        "size": 280997,
+        "text": "Gebührenbedarfsberechnung Klärschlammentsorgung 2017",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2016-EUV-15%7C202710100031%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/7221",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2016-EUV-15",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2016-10-27",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/202710100031",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=202710100031&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=202710100031&id=69",
+      "fileName": "202710100031",
+      "id": "https://castroprauxel.gremien.info/oparl/file/202710100031",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2016/EUV/032",
+      "size": 148840,
+      "text": "Datum: 27.10.2016 TB I 96 86 340 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 23.11.2016 TOP: I.3 Drucksache-Nr. 2016/EUV/032 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 23.11.2016 3 Betreff: Gebührenbedarfsberechnung 2017 - Klärschlammentsorgung Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt die als Anlage beigefügte Gebührenbedarfsberechnung 2017 „Klärschlammentsorgung“ zur Kenntnis und beschließt, die Klärschlammgebühren nicht zu ändern. ________________________ Werner Sachverhalt: Gemäß beiliegender Gebührenbedarfsberechnung ist erkennbar, dass sich für das Jahr 2017 eine Klärschlammgebühr von 58,35€/cbm ergibt. Eine Änderung der Klärschlammgebühr ist demnach nicht notwendig. Weiterer Bericht in der Sitzung. Anlage (Gebührenbedarfsberechnung)Gebührenbedarfsberechnung 2017 - Klärschlammentsorgung2016/EUV/032%anl%;Gebührenbedarfsberechnung Klärschlammentsorgung 2017 Gebührenbedarfsberechnung Klärschlammentsorgung 2017 ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Gebührenbedarfsberechnung 2017 - Klärschlammentsorgung",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2016/EUV/032",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

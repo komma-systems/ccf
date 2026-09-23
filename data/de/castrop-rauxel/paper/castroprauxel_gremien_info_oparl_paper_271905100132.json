@@ -1,0 +1,114 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/271905100132",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271905100132%7C20200526115620-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-26",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271905100132%7C20200526115620-0.pdf%7C",
+        "fileName": "20200526115620-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271905100132%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271905100132",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "c1d32a057c745469848a488ca344f5b94553de99",
+        "size": 402119,
+        "text": "Anlage 1 - Übersichtsskizze zum Geltungsbereich",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=271905100132%7C20200526172251-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-05-26",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=271905100132%7C20200526172251-0.pdf%7C",
+        "fileName": "20200526172251-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C271905100132%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/271905100132",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "c45a9276615a79b8c49b43d8d27b1d91600fcbf6",
+        "size": 2689531,
+        "text": "Anlage 2 - Bebauungsplanentwurf",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-AuWi-32%7C271905100132%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8946",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-AuWi-32",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-UMWA-96%7C271905100132%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8943",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-UMWA-96",
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-B3-99%7C271905100132%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8944",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-B3-99",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-118%7C271905100132%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8945",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-118",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-05-19",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/271905100132",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271905100132&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=271905100132&id=69",
+      "fileName": "271905100132",
+      "id": "https://castroprauxel.gremien.info/oparl/file/271905100132",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/111",
+      "size": 660081,
+      "text": " Bereich Stadtplanung und Bauordnung 2020/111 öffentlich  Az:     Datum: 19.05.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Ausschuss für Wirtschaftsentwicklung 16.06.2020   Umweltausschuss 16.06.2020   Betriebsausschuss 3 (Bauen, Verkehr und Sport) 18.06.2020   Rat der Stadt 25.06.2020    Betreff  Bebauungsplan Nr. 227 Gewerbepark Erin/ Herner Straße hier:  1) Aufnahme eines ergänzenden Verfahrens zur Behebung von Fehlern des Bebauungsplanes gem. § 214 Abs. 4 BauGB 2) Beschluss zur öffentlichen Auslegung des Bebauungsplans nach § 3 Abs. 2 BauGB im Rahmen des ergänzenden Verfahrens.  \f    Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \fBeschlussvorschlag  Der Rat der Stadt Castrop-Rauxel beschließt die Aufnahme eines ergänzenden Verfahrens zur Behebung von Fehlern des Bebauungsplanes Nr. 227 Gewerbepark Erin/ Herner Straße.  Der Rat der Stadt Castrop-Rauxel nimmt die im Rahmen des ergänzenden Verfahrens beabsichtigten zeichnerischen und textlichen Korrekturen des Bebauungsplanes Nr. 227 Gewerbepark Erin/ Herner Straße einschließlich Begründung und Umweltbericht zur Kenntnis und beauftragt die Verwaltung, den Entwurf des Bebauungsplans mit Begründung einschließlich Umweltbericht, den Fachgutachten und den vorliegenden umweltbezogenen Informationen in abschließend ausgearbeiteter Fassung zur Einsicht für die Öffentlichkeit nach §3 Abs.2 BauGB öffentlich auszulegen und im Internet bereitzustellen.  Der räumliche Geltungsbereich des Bebauungsplans ist in der zum Beschluss gehörenden Anlage1 dargestellt.   \f  \f   Kravanja       Lenort  Bürgermeister       Stadtbaurätin\u000b  \f Sachverhalt  Geltungsbereich Der räumliche Geltungsbereich des Bebauungsplanes wird begrenzt Im Norden durch die Herner Straße Im Osten durch die inneren Grünflächen des Erinparks Im Süden durch die Erinstraße und Im Westen durch den Rossbach und die landwirtschaftlichen Flächen Die genaue räumliche Abgrenzung des Geltungsbereichs ist in der Anlage 1 dargestellt.  Planungsanlass und -erfordernis, Verfahrensstand Der Betriebsausschuss 3 hat in seiner Sitzung am 14.06.2012 den Dringlichkeitsentscheid gem. § 60 Abs. 3 Gemeindeordnung NRW vom 22.05.2012, den Bebauungsplan Nr. 227, Planbereich Gewerbepark Erin/ Herner Straße für die Fläche des Bebauungsplanes Nr. 127a, 1. Änderung Teilbereich A, Planbereich Dienstleistungs-, Gewerbe- und Landschaftspark Erin aufzustellen, genehmigt. Nach Durchführung des Bebauungsplanverfahrens hat der Rat der Stadt Castrop-Rauxel den Bebauungsplan am 06.07.2017 als Satzung beschlossen. Mit der Bekanntmachung des Satzungsbeschlusses am 20.07.2017 wurde der Bebauungsplan rechtskräftig. Das Planerfordernis bestand vor allem darin, dass die bis dahin für das Plangebiet geltenden, z.T. eng gefassten städtebaulichen Vorgaben der seit Juni 2006 geltenden 1. Änderung des Bebauungsplanes Nr. 127a, Teilbereich A sich bei der Realisierung von Vorhaben im Plangebiet als restriktiv zeigten, so dass Bauvorhaben oft mit einer Befreiung von den Festsetzungen des Bebauungsplans verbunden waren.  Über die 1. Änderung des Bebauungsplanes Nr. 127a Teilbereich A wurden die Inhalte des alten Bebauungsplanes Nr. 127a bereits so modifiziert, dass die Zulässigkeitsvoraussetzungen für eine Bebauung erleichtert wurden ohne dabei das städtebauliche Gesamtkonzept des Bebauungsplanes Nr. 127a zu verändern. Mit dem Bebauungsplan Nr. 227 sollten weitere inhaltliche Änderungen vorgenommen werden, um den Bebauungsplan an aktuelle städtebauliche Ziele anzupassen. Eine wesentliche Zielsetzung des Bebauungsplanes Nr. 227 bestand in der Anpassung der Festsetzungen für die gewerblichen Bauflächen im Rahmen einer Überprüfung ihrer städtebaulichen Notwendigkeit (z.B. Rücknahme von Baulinien zugunsten von Baugrenzen). Eine weitere Zielsetzung war die Steuerung von Einzelhandelsbetrieben entsprechend ihrer Zentrenrelevanz zur Sicherung der zentralen Versorgungsbereiche.  Für die festgesetzten Gewerbegebiete wurden auf der Grundlage eines Schallgutachtens kontingentierte Lärmbereiche definiert, um ein verträgliches Nebeneinander zwischen den im Plangebiet sowie näheren Umfeld vorhandenen Wohnnutzungen und den gewerblichen Strukturen gewährleisten zu können.   Das Verwaltungsgericht Gelsenkirchen (VG) kam in der mündlichen Verhandlung am 09.03.2020 und im Urteil vom 28.04.2020 bezüglich einer beantragten Fremdwerbeanlage an der Herner Straße zu dem Ergebnis, dass der Bebauungsplan Nr. 227 aufgrund von materiellen Fehlern unwirksam ist. Die Kritikpunkte beziehen sich hierbei auf die nachstehend angeführten Punkte bzw. Festsetzungen:  Festsetzung 7.1 zu den für die Gewerbegebiete festgesetzten Emissionskontingenten. Eine entsprechende Gebietsgliederung sei nicht nach § 9 Abs. 1 Nr. 24 BauGB begründet. Sie sei nach § 1 Abs. 4 BauNVO nur rechtmäßig, wenn zumindest ein unbeschränktes Gebiet besteht. Dieses kann auch an anderer Stelle im Gemeindegebiet liegen, wenn in der Begründung darauf verwiesen werde. Festsetzung 7.2 zu den Lärmpegelbereichen. Für eine hinreichend bestimmte Festsetzung sei eine Überlagerung der immissionsschutzrechtlichen Regelung innerhalb der festgesetzten Baugebiete auszuschließen. Fehlende Abgrenzung zwischen den unterschiedlichen Nutzungsarten im Bereich der festgesetzten Maßnahmenfläche F 6.3 im Süden des Plangebietes (Fehlen der sog. Knödellinie zwischen dem Besonderen Wohngebiet (WB) und dem Gewerbegebiet GE2 sowie zwischen den Gewerbegebieten GE2 und GE3). Der Bebauungsplan Nr. 227 soll aufgrund der Entscheidung des VG durch ein ergänzendes Verfahren zur Behebung von Fehlern gem. § 214 Abs. 4 BauGB geheilt werden. Hierzu werden die seitens des VG angeführten Mängel in einem neuen Planentwurf korrigiert und das Verfahren zur Aufstellung des Bebauungsplanes auf dieser Grundlage mit der öffentlichen Auslegung nach § 3 Abs. 2 und Beteiligung der Behörden nach § 4 Abs. 2 BauGB wiederholt.  Die Grundzüge der Planung werden durch die Änderungen nicht berührt. Die grundsätzlichen städtebaulichen Planungsziele haben dementsprechend weiterhin Bestand. Es wird lediglich die planerische Umsetzung förmlich korrigiert und die Begründung ergänzt.  Allgemeine Ziele und Zwecke der Planung Die allgemeinen Ziele und Zwecke des Bebauungsplanes Nr. 227 verändern sich im Rahmen des ergänzenden Verfahrens nicht.  Es soll der Rahmen für einen für zukünftige Entwicklungen offenen, aber weiterhin städtebaulich attraktiven Gewerbepark in Fortentwicklung der Prinzipien der IBA Emscher Park abgesteckt werden. Weiterhin wird als wesentliches Element des Bebauungsplanes Nr. 227 die Umsetzung der im Zentren- und Einzelhandelskonzept definierten Themen aufgenommen.  Zudem werden für die Gewerbebereiche im Sinne des Immissionsschutzes kontingentierte Lärmbereiche definiert, um ein rechtssicheres Nebeneinander zwischen Wohnen und Arbeiten gewährleisten zu können.  Inhalte der Planung Entsprechend dem Planungsanlass und den dargelegten Zielen bleiben die Planinhalte des alten Bebauungsplanes Nr. 227 durchweg bestehen (siehe Sitzungsvorlage 2017/029). Diese werden lediglich hinsichtlich der vom VG angeführten Themen, wie insbesondere zu den immissionsschutzrechtlichen Festsetzungen förmlich richtig gefasst (siehe Punkt 5. unten).  Änderungen des Bebauungsplanes Nr. 227 aufgrund der Entscheidung VG Gelsenkirchen Änderung der Begründung in Bezug auf die im B-Plan festgesetzten Emissionskontingente. Um eine rechtmäßige, gemeindeweite Gliederung entsprechend § 1 Abs. 4 BauNVO zu erzielen, wird die Begründung dahingehend ergänzt, dass immissionsschutzrechtlich uneingeschränkt nutzbare Gewerbegebiete an anderer Stelle im Stadtgebiet (u. a. im Geltungsbereich des Bebauungsplanes Nr. 231 nördlich der Herner Straße) bestehen. Das Plangebiet ist Teil einer gebietsübergreifenden Gliederung von Gewerbegebieten. Herstellung einer jeweils eindeutigen immissionsschutzrechtlichen Regelung zu den Lärmpegelbereichen nach DIN 4109 für die im Plangebiet festgesetzten Baugebiete entsprechend dem nachstehend angeführten Beispiel:  /  Auszug alter B-Planentwurf  Auszug neuer B-Planentwurf  Konkretisierung bzw. Ergänzung der Festsetzung 7.2 in Bezug auf deren Anwendung bei Gebäuden, die sich über zwei Lärmpegelbereiche erstrecken. Ergänzung der Angabe in der Festsetzung 7.2 zu der dieser B-Planfestsetzung zugrundeliegenden Ausgabe der DIN 4109. Ergänzung der fehlenden Abgrenzung zwischen dem festgesetzten Besonderen Wohngebiet (WB) und dem Gewerbegebieten GE2 sowie zwischen den beiden Gewerbegebieten GE2 und GE3 im Bereich der Maßnahmenfläche (Ergänzung der sog. Knödellinie) (siehe nachstehende Abbildungen): /  Auszug alter B-Planentwurf     Auszug neuer B-Planentwurf   Voraussichtliche Auswirkungen der Planung Durch die im Bebauungsplan Nr. 227 vorgenommenen Änderungen und aktualisierten Festsetzungen des alten Bebauungsplanes Nr. 127a, Teilbereich A, 1. Änderung werden die bisherigen Grundzüge der Plankonzeption für den betreffenden Planbereich des Dienstleistungs-, Gewerbe- und Landschaftsparks Erin nicht berührt. So soll u. a. weiterhin ein Gewerbegebiet ausgewiesen werden, in dem lediglich die Bandbreite der zulässigen Betriebstypen angesichts veränderter Ziele neu austariert wird.  Die Planung wird dazu beitragen, die Zentren-Struktur in Castrop-Rauxel zu erhalten bzw. zu stärken und Einzelhandelsansiedlungen langfristig in die zentralen Versorgungsbereiche zu lenken.  Innerhalb des Plangebietes wird so die Flächenverfügbarkeit für produzierende und handwerkliche Betriebe verbessert. Klare Zulässigkeitsregelungen sollen den Grundstückseigentümer eine realistische Flächenbewertung ermöglichen, die nicht durch die Spekulation mit der ungewöhnlich hohen Flächenproduktivität des Einzelhandels belastet wird. Diese Klarheit erleichtert den Grundstücksverkehr und damit die Flächenverfügbarkeit. Soweit dadurch die ertragsreichste Flächenverwertung durch die Eigentümer etwas eingeschränkt wird, ist dieser Nachteil zugunsten der öffentlichen Belange vertretbar und wird in der Abwägung zurückgestellt. Im Rahmen des ergänzenden Verfahrens werden förmliche Mängel beseitigt. Die genannten Grundzüge der ursprünglichen Planung werden hierüber nicht berührt. Die städtebauliche Zielsetzung des Gesamtplans bleibt unverändert bestehen.   Auswirkungen der Planung auf das Klima In Folge des Beschlusses zur öffentlichen Auslegung gem. § 3 Abs. 2 BauGB sind keine unmittelbaren Auswirkungen auf das Klima im Castrop-Rauxeler Stadtgebiet zu erwarten. Durch Rechtskraft des Bebauungsplans und damit verbundener Schaffung von Baurecht ist aufgrund von Umsetzungen der Planung mit Auswirkungen auf das Klima zu rechnen. Die zu erwartenden Klimaauswirkungen sind im Rahmen des Umweltberichts prognostiziert und bewertet. Demzufolge unterliegt das Plangebiet weitgehend einer entsprechenden Vorprägung. Im Verhältnis zum bestehenden Planungsrecht sind Flächenänderungen, die erhebliche klimatische Störungen oder Beeinträchtigungen ausgewiesener Frischluftschneisen oder Kaltluftentstehungsgebiete verursachen könnten, nicht erkennbar. Durch die Planung werden keine Flächenänderungen verursacht, die erhebliche Auswirkungen auf die Schutzgüter Boden, Wasser, Luft und Klima erwarten lassen könnten.  Weitere Vorgehensweise Der Bebauungsplanentwurf und der Entwurf zur Begründung werden im Weiteren entsprechend den oben angeführten Punkten angepasst. Anschließend wird der Bebauungsplanentwurf mit Begründung und Umweltbericht, den Fachgutachten und den vorliegenden umweltbezogenen Stellungnahmen gemäß § 3 Abs. 2 BauGB zu jedermanns Einsicht ausgelegt und die Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB durchgeführt. Sollten sich aufgrund der Stellungnahmen von Bürgern und Behörden keine inhaltlichen Änderungen mehr im Bebauungsplanentwurf ergeben, kann dieser durch den Rat der Stadt als Satzung beschlossen und anschließend bekannt gemacht werden. Sollte der Bebauungsplanentwurf aufgrund von Stellungnahmen der Bürger und/ oder Behörden inhaltlich geändert werden müssen, wäre der Bebauungsplanentwurf nach         § 4a Abs. 3 BauGB erneut öffentlich auszulegen.   Anlagen Anlage 1: Übersichtsskizze zum Geltungsbereich des Bebauungsplanes Nr. 227 Anlage 2: Aktueller Bebauungsplanentwurf   Hinweis:  Die Begründung mit Umweltbericht einschließlich der Fachgutachten sind im jeweils aktuellen Stand der Sitzungsvorlage 2017/029 zu entnehmen. Diese werden im Rahmen des ergänzenden Verfahrens entsprechend den in dieser Sitzungsvorlage angeführten Änderungen zeichnerisch und textlich angepasst. \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Bebauungsplan Nr. 227 „Gewerbepark Erin/ Herner Straße“\r\nhier: \r\n1) Aufnahme eines ergänzenden Verfahrens zur Behebung von Fehlern des Bebauungsplanes gem. § 214 Abs. 4 BauGB\r\n2) Beschluss zur öffentlichen Auslegung des Bebauungsplans nach § 3 Abs. 2 BauGB im Rahmen des ergänzenden Verfahrens.",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/111",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT",
+      "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+    ]
+  }
+}

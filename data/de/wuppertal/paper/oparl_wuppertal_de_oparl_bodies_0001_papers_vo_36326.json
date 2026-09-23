@@ -1,0 +1,65 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36326",
+  "modified_at": "2026-09-18T12:03:32+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370069.pdf",
+        "created": "2026-09-15T09:43:15+02:00",
+        "date": "2026-09-15",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370069.pdf",
+        "fileName": "00370069.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370069",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-18T12:03:32+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370088.pdf",
+        "created": "2026-09-15T11:54:16+02:00",
+        "date": "2026-09-15",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370088.pdf",
+        "fileName": "00370088.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370088",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-18T12:03:32+02:00",
+        "name": "Anfrage des Jugendrings Wuppertal e. V. - sozialverträglicher Zugang zu Wuppertaler Freibädern",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141556",
+        "created": "2026-08-31T16:22:10+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68804",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24672",
+        "modified": "2026-09-23T18:10:16+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/267"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36326",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-11T09:33:54+02:00",
+    "date": "2026-09-16",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36326",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-18T12:03:32+02:00",
+    "name": "Anfrage des Jugendrings Wuppertal e. V. \"Sozialverträglicher Zugang zu Wuppertaler Freibädern\"",
+    "paperType": "Antrag gewähltes Mitglied",
+    "reference": "VO/1115/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/12"
+    ]
+  }
+}

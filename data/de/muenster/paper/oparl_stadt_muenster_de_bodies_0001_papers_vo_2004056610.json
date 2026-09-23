@@ -1,0 +1,87 @@
+{
+  "council_id": "muenster",
+  "record_type": "paper",
+  "source_id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056610",
+  "modified_at": "2026-09-10T17:46:06+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588651.pdf",
+        "created": "2026-09-01T13:42:07+02:00",
+        "date": "2026-09-01",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588651.pdf",
+        "fileName": "00588651.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588651",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-04T09:32:46+02:00",
+        "name": "Berichtsvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588652.pdf",
+        "created": "2026-09-01T13:56:24+02:00",
+        "date": "2026-09-01",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588652.pdf",
+        "fileName": "00588652.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588652",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-04T09:32:46+02:00",
+        "name": "Anlage-1_Quantitative_Entwicklung_2000-2026",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00588653.pdf",
+        "created": "2026-09-01T13:57:24+02:00",
+        "date": "2026-09-01",
+        "downloadUrl": "https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/00588653.pdf",
+        "fileName": "00588653.pdf",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/files/588653",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-04T09:32:46+02:00",
+        "name": "Anlage-2_Übersicht_Erwartungshaltungen",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "https://oparl.stadt-muenster.de/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/288013",
+        "created": "2026-08-31T15:00:35+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91655",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14536",
+        "modified": "2026-09-18T10:54:50+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/160"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056610",
+        "role": "Bericht",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      },
+      {
+        "agendaItem": "https://oparl.stadt-muenster.de/bodies/0001/agendaitems/288265",
+        "created": "2026-09-03T09:47:54+02:00",
+        "id": "https://oparl.stadt-muenster.de/bodies/0001/consultations/91654",
+        "meeting": "https://oparl.stadt-muenster.de/bodies/0001/meetings/14506",
+        "modified": "2026-09-16T07:54:15+02:00",
+        "organization": [
+          "https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/91"
+        ],
+        "paper": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056610",
+        "role": "Bericht",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-27T17:02:26+02:00",
+    "date": "2026-08-27",
+    "id": "https://oparl.stadt-muenster.de/bodies/0001/papers/vo/2004056610",
+    "modified": "2026-09-10T17:46:06+02:00",
+    "name": "Entwicklung der freien darstellenden Künste für junges Publikum",
+    "paperType": "Vorlagen",
+    "reference": "V/0486/2026",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "https://oparl.stadt-muenster.de/bodies/0001/organizations/at/100040"
+    ]
+  }
+}

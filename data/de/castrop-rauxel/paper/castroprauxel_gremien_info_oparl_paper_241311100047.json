@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/241311100047",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-EUV-24%7C241311100047%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8195",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2018-EUV-24",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2018-11-13",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/241311100047",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=241311100047&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=241311100047&id=69",
+      "fileName": "241311100047",
+      "id": "https://castroprauxel.gremien.info/oparl/file/241311100047",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2018/EUV/047",
+      "size": 158117,
+      "text": "/   Datum: 13.11.2018    TB I 9686-700      Vorlage zur Sitzung des Verwaltungsrates   Sitzungstag: 28.11.2018 TOP: I.10 Drucksache-Nr. 2018/EUV/047     X Öffentliche Sitzung   Nichtöffentliche Sitzung    Beratungsfolge Datum TOP-Nr.  Verwaltungsrat EUV 28.11.2018 10    Betreff:  Ergebnisauskehrung an die Stadt Castrop-Rauxel Konsolidierungsmaßnahme E 27     Finanzielle Auswirkungen gem. Wirtschaftsplan  X ja Gesamtkosten 590.000        nein Förderung   \f       \f Beschlussvorschlag:  Der Verwaltungsrat nimmt den Sachvortrag des Vorstandes zur Kenntnis. Der Vorstand wird beauftragt, eine Auszahlung gem. Ratsbeschluss vom 21.06.2012auf das Ergebnis in Höhe von 590.000 Euro im Rahmen des voraussichtlichen Jahresabschlusses 2018 noch in 2018 zu leisten.   \f  \f _____________________ Werner \f Sachverhalt: In der Sitzung des Verwaltungsrates vom 17.09.2014 wurde der Vorstand beauftragt zu prüfen, ob und wann unter welchen Voraussetzungen eine Ergebnisauskehrung an die Stadt Castrop-Rauxel durchgeführt werden kann. Der EUV Stadtbetrieb Castrop-Rauxel als Anstalt des öffentlichen Rechts nahm zum 01.01.2003 seine Geschäftstätigkeit als selbständiger Verwaltungsträger wahr. Das Vermögen u. a. der Abwassersammlungsanlagen wurde durch Auskehrung und über eine Kreditaufnahme von der Stadt Castrop-Rauxel erworben. Die Wirtschaftsprüfungsgesellschaft BDO Westfalen-Revision GmbH, Dortmund, hat in ihrer Jahresabschlussprüfung 2012 festgestellt, dass das Verhältnis von Eigen- zu Fremdkapital sowie die Eigenkapitalquote des EUV weiterhin kritisch zu bewerten sind. Im Rahmen des Jahresabschlusses 2013 ist die Problematik erneut mit Hinweis auf die Kommunalunternehmensverordnung (KUV) aufgegriffen worden: Nach § 14 (2) S. 3 KUV sind erwirtschaftete handelsrechtliche Gewinne vorrangig zur Tilgung des Verlustvortrags einzusetzen. Weiterhin bestimmt § 14 (2) KUV: Ein nach Ablauf von 5 Jahren nicht getilgter Verlustvortrag ist  aus Haushaltsmitteln der Gemeinde auszugleichen.  Der Abschluss 2017 weist einen Jahresüberschuss von 231 Tsd. Euro aus. Unter Verrechnung der im Berichtsjahr geleisteten Vorabausschüttung in Höhe von 590.000,00  mit dem Gewinnvortrag von 505.743,19  wird der Restbetrag in Höhe von 147.181,58  auf neue Rechnung vorgetragen. Damit lässt das Ergebnis eine Vorauszahlung auf den Ergebnisbeitrag E 27 zu (Verwaltungsratssitzung vom 26.09.2018; Drucksache-Nr. 2018/EUV/037). Es wird erwartet, dass der EUV im Jahr 2018 einen vergleichbaren Jahresüberschuss erwirtschaftet, sodass der EUV unter Berücksichtigung des Ausschüttungsbeschlusses gem. Ratsbeschluss vom 21.06.2012 im Punkt 2 im Jahr 2018 den Beitrag an die Stadt Castrop-Rauxel ausschütten kann.  Weiterer Bericht in der Sitzung.    \f  \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Ergebnisauskehrung an die Stadt Castrop-Rauxel Konsolidierungsmaßnahme E 27",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2018/EUV/047",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/252910100262",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=252910100262%7C20191029094900.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-10-29",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=252910100262%7C20191029094900.pdf%7C",
+        "fileName": "20191029094900.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C252910100262%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/252910100262",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "9401d8a7d860fe6193c5466ddac17bc9e20b43fe",
+        "size": 213659,
+        "text": "1. Änderungsentgeltordnung",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=252910100262%7C20191104093514.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2019-11-04",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=252910100262%7C20191104093514.pdf%7C",
+        "fileName": "20191104093514.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C252910100262%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/252910100262",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "68b01ef55f6afc80d1cf075e6d7d122ac9c4002d",
+        "size": 568016,
+        "text": "Synopse Entgeltordnung",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-HFA-100%7C252910100262%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8658",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-HFA-100",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/B3"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-HFA-100%7C252910100262%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8659",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-HFA-100",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-RAT-115%7C252910100262%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8660",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2019-RAT-115",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2019-10-29",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/252910100262",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=252910100262&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=252910100262&id=69",
+      "fileName": "252910100262",
+      "id": "https://castroprauxel.gremien.info/oparl/file/252910100262",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2019/266",
+      "size": 198756,
+      "text": " Bereich Bürgerbeteiligung, Sport und Stärkung des Ehrenamts 2019/266  öffentlich  Az:     Datum: 29.10.2019    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Betriebsausschuss 3 (Bauen, Verkehr und Sport) 21.11.2019 20  Haupt- und Finanzausschuss 26.11.2019   Rat der Stadt 28.11.2019    Betreff  1.  Änderungsentgeltordnung vom 28.11.2019 zur Entgeltordnung für die Nutzung der Sportplätze, Sporthallen, Turnhallen und Bäder durch Vereine und sonstige Nutzergruppen vom 01.01.2013  \f     Finanzielle Auswirkungen     X keine haushaltsmäßige Berührung      Auswirkungen siehe Sachverhalt    \f      \fBeschlussvorschlag  Der Rat der Stadt Castrop-Rauxel beschließt die 1. Änderungsentgeltordnung zur Entgeltordnung für die Nutzung der Sportplätze, Sporthallen, Turnhallen und Bäder durch die Vereine und sonstige Nutzergruppen vom 01.01.2013.   \f  \f_______________     ______________ Kravanja       Lenort Bürgermeister      Technische Beigeordnete       \f  Sachverhalt  Mit Einführung der neuen Entgeltordnung für Sportstätten im Jahre 2013 wurde den Vereinen, welche im Stadtsportverband organisiert sind, die Wahlmöglichkeit gegeben, die Nutzungsgebühren nach einer Pauschale pro Mitglied oder nach Nutzung abzurechnen. Nutzer die nicht im Stadtsportverband sind wurden generell nach Nutzung abgerechnet.  In der letzten Fassung der Entgeltordnung wurden als Grundlage für die Abrechnung, unter Berücksichtigung der Ferien, 40 Wochen pro Kalenderjahr zugrunde gelegt. Nutzungsausfälle, die der Nutzer nicht zu vertreten hatte, wie z.B. Baumaßnahmen, wurden im Nachhinein verrechnet.   Mit Einführung eines EDV-Sportstättenprogrammes in 2019 kann die Abrechnung automatisch erfolgen; das Programm erstellt unter Berücksichtigung von Ferien, Feiertagen und Sportstättensperrungen eine Abrechnung für die tatsächlich in Anspruch genommenen Zeiten.   Durch die Änderung der Entgeltordnung ist keine Veränderung des Haushaltsansatzes zu erwarten. Der Großteil der Nutzer wird über die Pauschalregelung abgerechnet, Mindereinnahmen entstehen nur durch die die zusätzliche Berücksichtigung von Feiertagen und Mehreinnahmen durch die zusätzliche Abrechnung von Feriennutzer. Zudem wird durch die Abrechnung ein geringerer Verwaltungsaufwand entstehen, da die Abrechnung nicht mehr manuell erfolgen muss.   Beteiligte Bereich 01 60 20  Kurzzeichen     \f    \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "1.  Änderungsentgeltordnung vom 28.11.2019 zur Entgeltordnung für die Nutzung der Sportplätze, Sporthallen, Turnhallen und Bäder durch Vereine und sonstige Nutzergruppen vom 01.01.2013",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2019/266",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/B3",
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

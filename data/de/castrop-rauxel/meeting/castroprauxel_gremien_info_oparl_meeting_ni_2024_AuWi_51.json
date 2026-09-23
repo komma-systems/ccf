@@ -1,0 +1,307 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-51",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/11265",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-51%7C352404100108%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-51",
+        "name": "Ernennung einer Schriftführerin für den Ausschuss für Wirtschaftsentwicklung und Digitalisierung",
+        "number": "1",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-51%7C352404100108%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-51%7C352404100108%7C1",
+          "fileName": "be_352404100108_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-51%7C352404100108%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 1",
+          "size": 100564,
+          "text": "  1 Ernennung einer Schriftführerin für den Ausschuss für Wirtschaftsentwicklung und Digitalisierung (2024/106)     Gemäß §§ 52 und 58 der Gemeindeordnung NRW in Verbindung mit § 17 der Geschäftsordnung des Rates der Stadt Castrop-Rauxel wird Frau Geraldine Treek als Schriftführerin für den Ausschuss für Wirtschaftsentwicklung und Digitalisierung bestellt.  Die bisherige Schriftführerin Frau Ann-Kristin Krakau wird abbestellt.   Dem Beschlussvorschlag wird einstimmig zugestimmt.          \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-51%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-51",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "2",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-51%7C1%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-51%7C1%7C1",
+          "fileName": "be_1_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-51%7C1%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 2",
+          "size": 61839,
+          "text": "  2 Fragestunde für Einwohnerinnen und Einwohner   Keine Fragen      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-51%7CProtokoll%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-51",
+        "name": "Einwände gegen die letzte Niederschrift",
+        "number": "3",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-51%7CProtokoll%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-51%7CProtokoll%7C1",
+          "fileName": "be_Protokoll_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-51%7CProtokoll%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 3",
+          "size": 63895,
+          "text": "  3 Einwände gegen die letzte Niederschrift  Keine Einwände.         \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-51%7Czt_3%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-51",
+        "name": "mdl. Bericht zum aktuellen Sachstand des CityTrees",
+        "number": "4",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-51%7Czt_3%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-51%7Czt_3%7C1",
+          "fileName": "be_zt_3_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-51%7Czt_3%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 4",
+          "size": 81061,
+          "text": "  4 mdl. Bericht zum aktuellen Sachstand des CityTrees   Herr Langensiepen, Geschäftsführer der Wirtschaft & Marketing Castrop-Rauxel GmbH, berichtet zum aktuellen Sachstand des City Tree.  Die Ausschussmitglieder nehmen den Bericht zur Kenntnis.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-AuWi-51%7Czt_4%7C1%7C20240705083055-0_zt_4_1.pdf",
+            "date": "2024-07-05",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-AuWi-51%7Czt_4%7C1%7C20240705083055-0_zt_4_1.pdf",
+            "fileName": "20240705083055-0_zt_4_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-AuWi-51%7Czt_4%7C1%7C20240705083055-0_zt_4_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "Veranstaltungsübersicht_2024-06-11",
+            "size": 424928,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-51%7Czt_4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-51",
+        "name": "mdl. Bericht zu den geplanten Veranstaltungen in 2024",
+        "number": "5",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-51%7Czt_4%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-51%7Czt_4%7C1",
+          "fileName": "be_zt_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-51%7Czt_4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 5",
+          "size": 89368,
+          "text": "  5 mdl. Bericht zu den geplanten Veranstaltungen in 2024   Herr Langensiepen, Geschäftsführer der Wirtschaft & Marketing Castrop-Rauxel GmbH, berichtet anhand der beigefügten Präsentation zu den geplanten Veranstaltungen in 2024.  Die Ausschussmitglieder nehmen den Bericht zur Kenntnis.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "auxiliaryFile": [
+          {
+            "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=14&agenda_item_attachment_id=ni_2024-AuWi-51%7Czt_0%7C1%7C20240705083217-0_zt_0_1.pdf",
+            "date": "2024-07-05",
+            "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=14&agenda_item_attachment_id=ni_2024-AuWi-51%7Czt_0%7C1%7C20240705083217-0_zt_0_1.pdf",
+            "fileName": "20240705083217-0_zt_0_1.pdf",
+            "id": "https://castroprauxel.gremien.info/oparl/file/stanl%7Cni_2024-AuWi-51%7Czt_0%7C1%7C20240705083217-0_zt_0_1.pdf",
+            "mimeType": "application/pdf",
+            "name": "2024-06-11 Aktueller Stand Glasfaserausbau",
+            "size": 3842583,
+            "type": "https://schema.oparl.org/1.0/File"
+          }
+        ],
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-51%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-51",
+        "name": "Breitbandausbau - aktueller Sachstand",
+        "number": "6",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-51%7Czt_0%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-51%7Czt_0%7C1",
+          "fileName": "be_zt_0_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-51%7Czt_0%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 6",
+          "size": 80838,
+          "text": "  6 Breitbandausbau - aktueller Sachstand   Herr Ratte, Leiter der Stabsstelle Wirtschaftsförderung, berichtet anhand der beigefügten Präsentation zum aktuellen Sachstand des Breitbandausbaus.  Der Ausschussvorsitzende Herr Berkel schlägt vor, das Thema Aktueller Sachstand zum Breitbandausbau bis auf Weiteres als festen TOP auf die Tagesordnung des Ausschusses für Wirtschaftsentwicklung und Digitalisierung zu setzen.  Die Ausschussmitglieder nehmen den Bericht zur Kenntnis und stimmen dem Vorschlag zu.     \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-51%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-51",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "7",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-51%7C6%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-51%7C6%7C1",
+          "fileName": "be_6_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-51%7C6%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 7",
+          "size": 100527,
+          "text": "  7 Anfragen der Ausschussmitglieder   Herr Epkenhaus fragt nach dem aktuellen Sachstand zu seiner Anfrage aus der Sitzung vom 16.04.2024 zum Thema Verzögerter Eingang von Warnmeldungen in der CAS-App. Herr Ratte bittet nach Rücksprache mit Bereich 18/Informationstechnik darum, den verzögerten Eingang auf unterschiedlichen Endgeräten per Screenshot festzuhalten, so dass die Kolleg*innen den Fehler weiter eingrenzen können. Vermutlich liegt dieser unterschiedlichen Zeitzonen zugrunde.   Herr Neuhaus bittet um Information, wann die Stelle IT-Sicherheitsbeauftragte*r besetzt wird.  Herr Ratte berichtet, dass die Stelle zum 01.07.2024 besetzt wird und weist zudem darauf hin, dass auch die Stelle Digitalisierungsbeauftragte*r besetzt wurde, der Zeitpunkt des Stellenantritts allerdings noch nicht abschließend feststehe. Des Weiteren wurde auf Nachfrage mitgeteilt, dass die OZG-Beauftragte in die nächste Sitzung am 03.09.2024 eingeladen werden soll.    \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-51%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-51",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "8",
+        "public": true,
+        "resolutionFile": {
+          "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-AuWi-51%7C4%7C1",
+          "date": "1970-01-01",
+          "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=5&agenda_item_id=ni_2024-AuWi-51%7C4%7C1",
+          "fileName": "be_4_1.pdf",
+          "id": "https://castroprauxel.gremien.info/oparl/file/be%7Cni_2024-AuWi-51%7C4%7C1",
+          "mimeType": "application/pdf",
+          "name": "Beschluss - Top 8",
+          "size": 58515,
+          "text": "  8 Mitteilungen der Verwaltung   Keine Mitteilungen.      \r\n",
+          "type": "https://schema.oparl.org/1.0/File"
+        },
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-51%7Czt_1%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-51",
+        "name": "Bericht zu den aktuellen Ansiedlungen",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-51%7Czt_2%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-51",
+        "name": "Brachflächen - aktueller Sachstand",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-51%7C999%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-51",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AuWi-51%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-51",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "4",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2024-06-11T17:50:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-51",
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Sitzungsraum 3, Europaplatz 1,44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2024-AuWi-51/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Sitzungsraum 3, Europaplatz 1,44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "terminiert",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Ausschusses für Wirtschaftsentwicklung und Digitalisierung",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/AuWi"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/1031",
+      "https://castroprauxel.gremien.info/oparl/person/1029",
+      "https://castroprauxel.gremien.info/oparl/person/748",
+      "https://castroprauxel.gremien.info/oparl/person/645",
+      "https://castroprauxel.gremien.info/oparl/person/626",
+      "https://castroprauxel.gremien.info/oparl/person/1052",
+      "https://castroprauxel.gremien.info/oparl/person/1086",
+      "https://castroprauxel.gremien.info/oparl/person/1057",
+      "https://castroprauxel.gremien.info/oparl/person/1199",
+      "https://castroprauxel.gremien.info/oparl/person/420",
+      "https://castroprauxel.gremien.info/oparl/person/820",
+      "https://castroprauxel.gremien.info/oparl/person/1202",
+      "https://castroprauxel.gremien.info/oparl/person/612",
+      "https://castroprauxel.gremien.info/oparl/person/1240"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-AuWi-51",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-08-08",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-AuWi-51",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-AuWi-51",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 153398,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2024-06-11T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-AuWi-51",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2024-08-08",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2024-AuWi-51",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2024-AuWi-51",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 153398,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}

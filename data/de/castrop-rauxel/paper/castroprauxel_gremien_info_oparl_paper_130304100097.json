@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/130304100097",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2010-AUSLB-34%7C130304100097%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5078",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2010-AUSLB-34",
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2012-04-03",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/130304100097",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=130304100097&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=130304100097&id=69",
+      "fileName": "130304100097",
+      "id": "https://castroprauxel.gremien.info/oparl/file/130304100097",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2012/095",
+      "size": 172803,
+      "text": "bereich stabsstelle integration 2012/095 öffentlich az: datum: 03.04.2012 sitzungsvorlage beratungsfolge datum top-nr. integrationsrat 18.04.2012 betreff aktuelle sachlage zur wiedereinführung vom frauenschwimmen in städt. bädereinrichtungen finanzielle auswirkungen x keine haushaltsmäßige berührung auswirkungen siehe sachverhalt beschlussvorschlag der integrationsrat nimmt die vorstellung durch den integrationsratsvorsitzenden herrn corbaci zur kenntnis. petra glöß erste beigeordnete sachverhalt der integrationsratsvorsitzende herr corbaci gibt einen mündlichen bericht zu möglichkeiten der wiedereinführung von frauenschwimmen städt. bädereinrichtungen.aktuelle sachlage zur wiedereinführung vom frauenschwimmen in städt. bädereinrichtungen2012/095%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Aktuelle Sachlage zur Wiedereinführung vom Frauenschwimmen in städt. Bädereinrichtungen",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2012/095",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

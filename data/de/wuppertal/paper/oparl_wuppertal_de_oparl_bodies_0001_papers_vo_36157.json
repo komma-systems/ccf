@@ -1,0 +1,50 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36157",
+  "modified_at": "2026-08-28T06:13:29+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00368557.pdf",
+        "created": "2026-08-17T09:22:24+02:00",
+        "date": "2026-08-17",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00368557.pdf",
+        "fileName": "00368557.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/368557",
+        "mimeType": "application/pdf",
+        "modified": "2026-08-28T06:13:29+02:00",
+        "name": "Antrag AfD-Fraktion",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141273",
+        "created": "2026-08-17T09:23:01+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68482",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24666",
+        "modified": "2026-09-16T10:48:23+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/43"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36157",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-17T09:20:31+02:00",
+    "date": "2026-08-17",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36157",
+    "modified": "2026-08-28T06:13:29+02:00",
+    "name": "Fußballtore, Ballspielfläche Unterkirchen, Spielplatz Unterkirchen - Antrag der AfD-Fraktion",
+    "paperType": "Antrag AfD",
+    "reference": "VO/0962/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/2"
+    ]
+  }
+}

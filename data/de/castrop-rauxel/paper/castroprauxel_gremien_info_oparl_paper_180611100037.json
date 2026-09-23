@@ -1,0 +1,114 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/180611100037",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=180611100037%7C20151106081156.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=180611100037%7C20151106081156.pdf%7C",
+        "fileName": "20151106081156.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C180611100037%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/180611100037",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "368e6548f77b34d2ac71d9d3986bfacdb86d77b4",
+        "size": 307613,
+        "text": "Straßenreinigungs- und Gebührensatzung 2016",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=180611100037%7C20151106081402.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=180611100037%7C20151106081402.pdf%7C",
+        "fileName": "20151106081402.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C180611100037%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/180611100037",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "08377852a08814ec9d2a8d72ccdf5259d367f2f3",
+        "size": 143047,
+        "text": "Anlage 1 zur Straßenreinigungs- und Gebührensatzung 2016 ",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=180611100037%7C20151106083225.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=180611100037%7C20151106083225.pdf%7C",
+        "fileName": "20151106083225.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C180611100037%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/180611100037",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "59865b9da41a41deee1227208bfbc25dab875428",
+        "size": 374601,
+        "text": "Gebührenbedarfsberechnung 2016 - Straßenreinigung",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=180611100037%7C20151109150749.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "1970-01-01",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=180611100037%7C20151109150749.pdf%7C",
+        "fileName": "20151109150749.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C180611100037%7C4",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/180611100037",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 4",
+        "sha1Checksum": "dd8f0fd3a1a41e9aa9623c2a5633728bdf1ac30d",
+        "size": 606903,
+        "text": "Anlage 2 zur Straßenreinigungs- und Gebührensatzung 2016",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-10%7C180611100037%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6772",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2015-EUV-10",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2015-11-06",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/180611100037",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=180611100037&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=180611100037&id=69",
+      "fileName": "180611100037",
+      "id": "https://castroprauxel.gremien.info/oparl/file/180611100037",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2015/EUV/038",
+      "size": 154251,
+      "text": "Datum: 06.11.2015 TB VI 9686-340 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 25.11.2015 TOP: I.6 Drucksache-Nr. 2015/EUV/038 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 25.11.2015 6 Rat der Stadt 26.11.2015 Betreff: Gebührenbedarfsberechnung 2016 - Straßenreinigung und Erlass einer Straßenreinigungs- und Gebührensatzung Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € x nein Förderung € Beschlussvorschlag: Der Verwaltungsrat nimmt die Gebührenbedarfsberechnung 2016 Straßenreinigung (Anlage 1) zur Kenntnis. Er beschließt die als Anlage 2 beigefügte Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Castrop-Rauxel (Straßenreinigungs- und Gebührensatzung). ________________________ Werner Sachverhalt: Nach der Gebührenkalkulation für das Jahr 2016 sind die Aufwendungen im Bereich der Straßenreinigung (KFZ-Reparaturen, Löhne) gestiegen, so dass eine Erhöhung der bisherigen Straßenreinigungsgebühr erforderlich ist. Die Winterdienstgebühr konnte stabil gehalten werden. Hiernach ergibt sich für die Sommerreinigung eine Gebühr von 4,34 €/lfd. m VJ 4,13 € + 5,1 % für die Winterreinigung einer Gebühr von 1,59 €/lfd. m Außerdem ist die Anlage 2 zur Straßenreinigungs- und Gebührensatzung des EUV Stadtbetriebes (Straßenverzeichnis) hinsichtlich der Zuordnung von Straßen zu den entsprechenden Reinigungsklassen überarbeitet worden. Gemäß § 5 Abs. 2 Ziffer 1 der Kommunalunternehmenssatzung ist der Verwaltungsrat für den Erlass von Satzungen im Rahmen des übertragenen Aufgabenbereiches zuständig. Bezüglich des Erlasses von Satzungen hat der Rat der Stadt Castrop-Rauxel gem. § 9 Abs. 1 der o. g. Satzung ein Weisungsrecht. Vor der öffentlichen Bekanntmachung der Satzung ist somit die vom Verwaltungsrat beschlossene Satzung vom Rat der Stadt zu billigen. Weiterer Bericht in der Sitzung.Gebührenbedarfsberechnung 2016 - Straßenreinigung und Erlass einer Straßenreinigungs- und Gebührensatzung2015/EUV/038%anl%;Gebührenbedarfsberechnung 2016 - Straßenreinigung Gebührenbedarfsberechnung 2016 - StraßenreinigungStraßenreinigungs- und Gebührensatzung 2016 Straßenreinigungs- und Gebührensatzung 2016Anlage 1 zur Straßenreinigungs- und Gebührensatzung 2016Anlage 1 zur Straßenreinigungs- und Gebührensatzung 2016 Anlage 2 zur Straßenreinigungs- und Gebührensatzung 2016 Anlage 2 zur Straßenreinigungs- und Gebührensatzung 2016 ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Gebührenbedarfsberechnung 2016 - Straßenreinigung und Erlass einer Straßenreinigungs- und Gebührensatzung",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2015/EUV/038",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

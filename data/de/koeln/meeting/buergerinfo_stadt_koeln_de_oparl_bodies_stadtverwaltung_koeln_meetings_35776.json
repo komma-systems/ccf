@@ -1,0 +1,30 @@
+{
+  "council_id": "koeln",
+  "record_type": "meeting",
+  "source_id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/35776",
+  "modified_at": "2026-09-22T15:01:50+02:00",
+  "deleted_at": null,
+  "data": {
+    "created": "2026-09-22T15:01:50+02:00",
+    "end": "2027-03-04T00:00:00+01:00",
+    "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/35776",
+    "location": {
+      "created": "2017-08-03T00:27:27+02:00",
+      "id": "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/locations/rm/25",
+      "locality": "",
+      "modified": "2026-08-20T09:03:07+02:00",
+      "postalCode": "",
+      "room": "Theodor-Heuss-Saal (A 119)",
+      "streetAddress": "",
+      "subLocality": "",
+      "type": "https://schema.oparl.org/1.1/Location"
+    },
+    "modified": "2026-09-22T15:01:50+02:00",
+    "name": "Sitzung Betriebsausschuss Abfallwirtschaftbetrieb der Stadt Köln",
+    "organization": [
+      "https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/45"
+    ],
+    "start": "2027-03-04T16:00:00+01:00",
+    "type": "https://schema.oparl.org/1.1/Meeting"
+  }
+}

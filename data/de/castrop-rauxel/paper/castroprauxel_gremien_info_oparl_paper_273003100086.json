@@ -1,0 +1,126 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/273003100086",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=273003100086%7C20200331160634-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-03-31",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=273003100086%7C20200331160634-0.pdf%7C",
+        "fileName": "20200331160634-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C273003100086%7C1",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/273003100086",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 1",
+        "sha1Checksum": "3735c9ecb3e7e48cdd44b2e80c562ebb40f9dce9",
+        "size": 1036662,
+        "text": "Anlage 2 zu Vorlage 2020.077",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=273003100086%7C20200331160647-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-03-31",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=273003100086%7C20200331160647-0.pdf%7C",
+        "fileName": "20200331160647-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C273003100086%7C2",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/273003100086",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 2",
+        "sha1Checksum": "ce43f65633eb15d1d65150326a22f0d2e23adc8f",
+        "size": 913620,
+        "text": "Anlage 3 zu Vorlage 2020.077",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=273003100086%7C20200331160650-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-03-31",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=273003100086%7C20200331160650-0.pdf%7C",
+        "fileName": "20200331160650-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C273003100086%7C3",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/273003100086",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 3",
+        "sha1Checksum": "47308179bf0224570c47da059c055d501ad222b0",
+        "size": 2623305,
+        "text": "Anlage 4 zu Vorlage 2020.077",
+        "type": "https://schema.oparl.org/1.0/File"
+      },
+      {
+        "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=13&submission_attachment_id=273003100086%7C20200402110650-0.pdf%7C",
+        "created": "2026-09-23T00:00:00+02:00",
+        "date": "2020-04-02",
+        "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=13&submission_attachment_id=273003100086%7C20200402110650-0.pdf%7C",
+        "fileName": "20200402110650-0.pdf",
+        "id": "https://castroprauxel.gremien.info/oparl/file/vla%7C273003100086%7C4",
+        "masterFile": "https://castroprauxel.gremien.info/oparl/file/273003100086",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T00:00:00+02:00",
+        "name": "anlage 4",
+        "sha1Checksum": "663711934636f6986c2484263d04a5bf17bc0893",
+        "size": 1383274,
+        "text": "Anlage 5 zu Vorlage 2020.077",
+        "type": "https://schema.oparl.org/1.0/File"
+      }
+    ],
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-HFA-102%7C273003100086%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8893",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-HFA-102",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/HFA"
+        ],
+        "role": "vorberatend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      },
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-RAT-117%7C273003100086%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/8894",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2020-RAT-117",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/RAT"
+        ],
+        "role": "beschließend",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2020-03-30",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/273003100086",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=273003100086&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=273003100086&id=69",
+      "fileName": "273003100086",
+      "id": "https://castroprauxel.gremien.info/oparl/file/273003100086",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2020/077",
+      "size": 330770,
+      "text": " Bereich Finanzen 2020/077 öffentlich  Az: 20   Datum: 30.03.2020    Sitzungsvorlage  Beratungsfolge Datum TOP-Nr.  Haupt- und Finanzausschuss 30.04.2020   Rat der Stadt 30.04.2020    Betreff  Genehmigung einer Dringlichkeitsentscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW (Liquiditätshilfen für Unternehmen im Rahmen der Corona-Krise)  \f     Finanzielle Auswirkungen      keine haushaltsmäßige Berührung     X Auswirkungen siehe Sachverhalt    \f      \fBeschlussvorschlag  Der Rat genehmigt gemäß § 60 Absatz 1 Satz 3 GO NRW die von Herrn Bürgermeister Kravanja und Herrn Ratsmitglied Breilmann am 31.03.2020 getroffene und dieser Vorlage als Anlage 5 beigefügte Dringlichkeitsentscheidung gemäß § 60 Absatz 1 Satz 2 GO NRW.  \f\f    Kravanja       Eckhardt Bürgermeister      Erster Beigeordneter/ Stadtkämmerer Sachverhalt  Am 19.03.2020 fand der erste Wirtschaftsgipfel der Landesregierung während der Corona-Epidemie statt. Ministerpräsident Laschet, Wirtschaftsminister Pinkwart, Finanzminister Lienenkämper sowie Arbeits- und Gesundheitsminister Laumann tauschten sich in einer digitalen Konferenz mit Vertretern aus Unternehmen, Banken und Verbänden dazu aus, mit welchen Maßnahmen der Wirtschaft in Nordrhein-Westfalen in Zeiten der Corona-Pandemie schnell, unbürokratisch und wirksam geholfen werden kann.  Ein wesentlicher Baustein der Soforthilfen sollen steuerliche Maßnahmen zur Aufrechterhaltung der Liquidität unmittelbar und mittelbar betroffener Unternehmen und zur Vermeidung von Insolvenzen grundsätzlich gesunder Firmen sein.  Die Landesregierung hat hierzu insbesondere beschlossen:   Die Finanzverwaltung kommt von der Krise betroffenen Unternehmen auf Antrag mit zinslosen Steuerstundungen (Einkommen-, Körperschaft- und Umsatzsteuer) und der Herabsetzung von Vorauszahlungen (Einkommen-, Körperschaft- und Gewerbesteuer) entgegen und nutzt ihren Ermessensspielraum zu Gunsten der Steuerpflichtigen weitest möglich aus. Für die entsprechenden Anträge steht ab sofort ein stark vereinfachtes Antragsformular zur Verfügung. Das genannte Formular ist abrufbar unter www.finanzverwaltung.nrw.de. 2. Von Vollstreckungsmaßnahmen wird bis auf Weiteres abgesehen. Säumniszuschläge werden erlassen.  Darüber hinaus hat der Städtetag Nordrhein-Westfalen am 20.03.2020 mit Rundschreiben 20.47.70 D das als Anlage 2 beigefügte Rundschreiben des Bundesministeriums der Finanzen sowie den als Anlage 3 beigefügten Text Gleich lautende Erlasse der obersten Finanzbehörden der Länder vom 19.03.2020 übersandt. Auf Grundlage der aktuell bestehenden Regelungen sowohl auf Bundes- als auch auf Landesebene hat der Städtetag NRW zur Unterstützung der durch das Coronavirus betroffenen Unternehmen eine Reihe von Empfehlungen für Liquiditätshilfen durch die Kommunen im Rahmen der Steuererhebung gegeben (vgl. hierzu Anlage 4).  Bei diesen Liquiditätshilfen handelt es sich - in Anlehnung an das Vorgehen der staatlichen Ebenen - um Steuerstundungen (insbesondere Gewerbesteuer und Vergnügungssteuer) einerseits und Steuerreduzierungen (Herabsetzung von Gewerbesteuer-Vorauszahlungsleistungen) andererseits.   Bei den entsprechenden Einzelentscheidungen handelt es sich sicherlich um sogenannte Geschäfte der laufenden Verwaltung. Vorliegend ist allerdings eine Gesamtbetrachtung der Folgewirkungen zwingend erforderlich. Die Stundungs- und Herabsetzungsentscheidungen werden aller Voraussicht nach ganz erhebliche Auswirkungen sowohl auf die Ergebnis- als auch auf die Finanzrechnung der Stadt Castrop-Rauxel mindestens des Haushaltsjahres 2020 haben.   Diese Auswirkungen können allerdings zum gegenwärtigen Zeitpunkt nicht belastbar beziffert werden, es ist jedoch sowohl in der Ergebnis- als auch in der Finanzrechnung von Haushaltsverschlechterungen mindestens in Höhe eines mittleren bis hohen einstelligen Millionenbetrages auszugehen.   Aus diesem Grund sollte der verwaltungsinterne Grundsatzbeschluss des Bürgermeisters und des Stadtkämmerers zu Liquiditätshilfen im o. a. Sinne an von der Corona-Krise unmittelbar und besonders betroffene Unternehmen und Betriebe durch eine Dringlichkeitsentscheidung gemäß § 60 Abs. 1 S. 2 GO NRW gestützt werden. Ein Zuwarten bis zu einer Entscheidung des Haupt- und Finanzausschusses oder des Rates ist angesichts der besonderen Dringlichkeit (anstehender Monatswechsel und damit anstehende Zahlungsverpflichtungen der Unternehmen) nicht möglich (sowohl Haupt- und Finanzausschuss als auch der Rat treten erst wieder am 30.04.2020 zusammen).   Die haushaltswirtschaftliche und haushaltsrechtliche Problematik ist den staatlichen Aufsichtsbehörden, hier insbesondere dem Ministerium für Heimat, Kommunales, Bau und Gleichstellung des Landes Nordrhein-Westfalen (MHKBG NRW), bereits bekannt und wird von dort mit den Kommunalen Spitzenverbänden diskutiert. Die aktuelle Entwicklung wird - sofern das Land NRW die aktuell noch bestehende Rechtslage nicht an die besonderen Herausforderungen der Corona-Krise anpasst - zumindest bei einer sehr großen Zahl der nordrhein-westfälischen Kommunen dazu führen, dass diese unverzüglich Haushaltswirtschaftliche Sperren verhängen oder sogar Nachtragshaushalte aufstellen müssten. Wie das Land NRW diesbezüglich auf die Krisenlage reagieren wird ist derzeit noch unklar und bleibt zunächst abzuwarten. Die Verwaltung wird den Rat über die weitere Entwicklung hierzu selbstverständlich baldmöglichst unterrichten.     Sicher hingegen ist, dass die Stadt Castrop-Rauxel - wie die anderen Kommunen auch - über die o. a. Liquiditätshilfen für von der Corona-Krise besonders betroffene Unternehmen ihren Beitrag zur Stabilisierung der lokalen Wirtschaft und damit zur Stabilisierung der Wirtschaft insgesamt leisten muss und wird. Zu betonen ist dabei, dass es sich bei den vg. Liquiditätshilfen nicht um freiwillige Leistungen im Sinne der kommunalhaushaltsrechtlichen Bestimmungen handelt. Vielmehr kommt die Stadt Castrop-Rauxel lediglich der aktuellen Praxis der staatlichen Ebenen sowie der Empfehlung des Städtetages nach, bestehende Ermessensspielräume angesichts der besonderen Situation möglichst großzügig auszulegen.   Die vg. Liquiditätshilfen beziehen sich grundsätzlich auf die Gewerbesteuer- und Vergnügungssteuerforderungen (inklusive Wettbürosteuer und Steuer auf sexuelle Vergnügungen). Stundungen im Bereich der Grundsteuer unterliegen hingegen nicht dem vereinfachten Verfahren im Sinne der getroffenen Dringlichkeitsentscheidung, jedoch sind auch hier in Einzelfällen Stundungen grundsätzlich denkbar (vgl. Ziffer 12 der Dringlichkeitsentscheidung).   Gemäß § 60 Absatz 1 Satz 3 GO NRW ist die am 31.03.2020 getroffene Dringlichkeitsentscheidung dem Rat zu dessen nächster Sitzung, dies ist vorliegend der 30.04.2020, zur Genehmigung vorzulegen. Der Bürgermeister hat die Vorsitzenden der im Rat vertretenen Fraktionen bereits vorab über das beabsichtigte Verfahren und die erforderliche Dringlichkeitsentscheidung informiert.    \f  \fAnlage 1  - Finanzielle Auswirkungen     \fAuf die vorstehende Sachverhaltsdarstellung wird verwiesen. Wegen der Besonderheiten des vorliegenden Entscheidungsgegenstandes wird die sonst obligatorische Anlage 1 (Finanzielle Auswirkungen) nicht ausgefüllt.         I. Mittelbedarf: davon                                        Ergebnisplan              Aufwendungen:    - Erträge von Dritten:    = Städtischer Eigenanteil:                   davon       Finanzplan Auszahlungen:   - Einzahlungen von Dritten:   = Städtischer Finanzierungsanteil:           (Daten zur Investitionsmaßnahme          siehe Anlage 2)  Die benötigten Haushaltsmittel stehen zur Verfügung:                \f JA  Buchungsstelle:   NEIN  Siehe Erläuterungen / Angabe von Deckungsvorschlägen \f Erläuterungen / Angabe von Deckungsvorschlägen:    \f Bei Maßnahmen des Finanzplanes:  Die Maßnahme ist in der vom Rat beschlossenen Dringlichkeitsliste enthalten.  Die Maßnahme ist in die vom Rat beschlossene Dringlichkeitsliste zusätzlich aufzunehmen bzw. eine     Erweiterung der Maßnahme ist vorzunehmen.  Die Maßnahme ist in die vom Rat zu beschließende Dringlichkeitsliste aufzunehmen. \f II. Auswirkungen auf die mittelfristige Haushaltsplanung: Ergebnisplan 2019 2020 2021 2022 insgesamt  Personalaufwendungen          Sachaufwendungen          Zinsaufwendungen       Aufwendungen für Abschreib.       Zusätzliche Erträge          Mindererträge          Summe           Die Finanzierung ist innerhalb der mittelfristigen Haushaltsplanung für die Produktgruppe  \f   gesichert    nicht gesichert \f  \f   \r\n",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Genehmigung einer Dringlichkeitsentscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW\r\n(Liquiditätshilfen für Unternehmen im Rahmen der Corona-Krise)",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2020/077",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA",
+      "https://castroprauxel.gremien.info/oparl/organization/RAT"
+    ]
+  }
+}

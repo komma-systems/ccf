@@ -1,0 +1,65 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36145",
+  "modified_at": "2026-09-14T12:53:27+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369198.pdf",
+        "created": "2026-09-02T07:34:51+02:00",
+        "date": "2026-09-02",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369198.pdf",
+        "fileName": "00369198.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369198",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-14T12:53:27+02:00",
+        "name": "Anlage 01 - Stand der Investitionskredite zum 30.06.2026",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369224.pdf",
+        "created": "2026-09-02T09:05:01+02:00",
+        "date": "2026-09-03",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00369224.pdf",
+        "fileName": "00369224.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/369224",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-14T12:53:27+02:00",
+        "name": "Bericht",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141378",
+        "created": "2026-08-24T11:58:19+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68464",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24698",
+        "modified": "2026-09-22T17:35:54+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/270"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36145",
+        "role": "Entgegennahme o. B.",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-08-13T15:37:27+02:00",
+    "date": "2026-08-24",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36145",
+    "keyword": [
+      "Weder positive noch negative Auswirkung"
+    ],
+    "modified": "2026-09-14T12:53:27+02:00",
+    "name": "Bericht Zins- und Schuldenmanagement zum 30.06.2026",
+    "paperType": "Bericht",
+    "reference": "VO/0950/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/29"
+    ]
+  }
+}

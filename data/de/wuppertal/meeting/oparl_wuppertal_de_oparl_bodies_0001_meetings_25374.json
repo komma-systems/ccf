@@ -1,0 +1,19 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "meeting",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25374",
+  "modified_at": "2026-05-19T09:09:57+02:00",
+  "deleted_at": null,
+  "data": {
+    "created": "2026-05-19T09:09:57+02:00",
+    "end": "2027-11-24T00:00:00+01:00",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25374",
+    "modified": "2026-05-19T09:09:57+02:00",
+    "name": "öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld-West",
+    "organization": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/40"
+    ],
+    "start": "2027-11-24T18:00:00+01:00",
+    "type": "https://schema.oparl.org/1.1/Meeting"
+  }
+}

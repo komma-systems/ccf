@@ -1,0 +1,62 @@
+{
+  "council_id": "wuppertal",
+  "record_type": "paper",
+  "source_id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36329",
+  "modified_at": "2026-09-23T12:32:14+02:00",
+  "deleted_at": null,
+  "data": {
+    "auxiliaryFile": [
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370084.pdf",
+        "created": "2026-09-15T11:40:22+02:00",
+        "date": "2026-09-22",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370084.pdf",
+        "fileName": "00370084.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370084",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T12:31:26+02:00",
+        "name": "Beschlussvorlage",
+        "type": "https://schema.oparl.org/1.1/File"
+      },
+      {
+        "accessUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370085.pdf",
+        "created": "2026-09-15T11:43:04+02:00",
+        "date": "2026-09-15",
+        "downloadUrl": "http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/00370085.pdf",
+        "fileName": "00370085.pdf",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/files/370085",
+        "mimeType": "application/pdf",
+        "modified": "2026-09-23T12:31:33+02:00",
+        "name": "Anlage 01 - Bürgerantrag gemäß § 24 GO NRW",
+        "type": "https://schema.oparl.org/1.1/File"
+      }
+    ],
+    "body": "http://oparl.wuppertal.de/oparl/bodies/0001",
+    "consultation": [
+      {
+        "agendaItem": "http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141945",
+        "created": "2026-09-23T09:01:23+02:00",
+        "id": "http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68808",
+        "meeting": "http://oparl.wuppertal.de/oparl/bodies/0001/meetings/25766",
+        "modified": "2026-09-23T12:46:12+02:00",
+        "organization": [
+          "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/289"
+        ],
+        "paper": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36329",
+        "role": "Entscheidung",
+        "type": "https://schema.oparl.org/1.1/Consultation"
+      }
+    ],
+    "created": "2026-09-14T12:15:38+02:00",
+    "date": "2026-09-23",
+    "id": "http://oparl.wuppertal.de/oparl/bodies/0001/papers/vo/36329",
+    "modified": "2026-09-23T12:32:14+02:00",
+    "name": "Antrag gemäß § 24 GO - Einrichtung einer zentralen, öffentlich zugänglichen Informationsseite zur BUGA 2031",
+    "paperType": "Beschlussvorlage",
+    "reference": "VO/1119/26",
+    "type": "https://schema.oparl.org/1.1/Paper",
+    "underDirectionOf": [
+      "http://oparl.wuppertal.de/oparl/bodies/0001/organizations/at/117"
+    ]
+  }
+}

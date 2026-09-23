@@ -1,0 +1,48 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/181308100031",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-EUV-9%7C181308100031%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/6647",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2015-EUV-9",
+        "organization": [
+          "https://castroprauxel.gremien.info/oparl/organization/EUV"
+        ],
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2015-08-13",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/181308100031",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=181308100031&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=181308100031&id=69",
+      "fileName": "181308100031",
+      "id": "https://castroprauxel.gremien.info/oparl/file/181308100031",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2015/EUV/032",
+      "size": 154828,
+      "text": "Datum: 13.08.2015 TB I 9686-590 Vorlage zur Sitzung des Verwaltungsrates Sitzungstag: 26.08.2015 TOP: I.5 Drucksache-Nr. 2015/EUV/032 X Öffentliche Sitzung Nichtöffentliche Sitzung Beratungsfolge Datum TOP-Nr. Verwaltungsrat EUV 26.08.2015 5 Betreff: Risikomanagementbericht 2014 Finanzielle Auswirkungen gem. Wirtschaftsplan ja Gesamtkosten € X nein Förderung € Beschlussvorschlag: Der Risikomanagementbericht 2014 wird zur Kenntnis genommen. ________________________ Werner Sachverhalt: Für 2014 wurden Risiken, die den Bestand des Unternehmens tatsächlich gefährden, nicht festgestellt. Dennoch wurden einige Risiken wegen ihrer möglichen finanziellen Bedeutung und damit in ihrer Auswirkung der Risikoklasse bestandsgefährdendes Risiko zugeordnet. Für den aktuellen Risikobericht hat der Vorstand das Schwerpunktthema „Verfahren AGR ./. Stadt Castrop-Rauxel“ festgelegt. Das Verfahren vor dem Verwaltungsgericht Gelsenkirchen zur Nachsorge der Altdeponie Pöppinghausen und deren Prozessrisiken für die Stadt Castrop-Rauxel sind - wie auch in den Vorjahren - offen und werden durch den Vorstand in Abstimmung mit der Stadt Castrop-Rauxel begleitet. Hinsichtlich des zurzeit laufenden Streitverfahrens zwischen AGR, Essen und der Stadt Castrop-Rauxel bezügl. Forderungen der AGR zu den Nachsorgeaufwendungen für die ehem. Hausmülldeponie Pöppinghausen ist aus Sicht des EUV Stadtbetriebes darauf hinzuweisen, dass Beklagter die Stadt Castrop-Rauxel ist. Zum gegenwärtigen Zeitpunkt kann nicht gesagt werden, in welcher Höhe Forderungen der AGR im Streitverfahren festgestellt und durch die Stadt Castrop-Rauxel akzeptiert werden. Darüber hinaus ist noch nicht geregelt, in welcher Form die Stadt Castrop-Rauxel gegenüber dem EUV diese dann geltend gemachten Forderungen der AGR durchreicht. Somit besteht ein erhebliches Prozessrisiko auch für den EUV Stadtbetrieb, da in § 9 des Landesabfallgesetzes geregelt ist, dass im Rahmen der Abfallgebührenbedarfskalkulation Nachsorgeaufwendungen eingestellt werden können. Gegensteuerungsmaßnahmen können nur durch intensive Prozessbeobachtung durch den EUV Stadtbetrieb auf der Grundlage der möglicherweise dann gewonnenen Erkenntnisse in Abstimmung mit der Stadt Castrop-Rauxel getroffen werden (Stichwort Gewährsträgerhaftung). Die Verwendung von Finanzierungsinstrumenten, deren Methoden zur Absicherung der wichtigsten Transaktionen und deren Risikobewertung werden auch zukünftig ein wichtiger Baustein im Risikobericht sein. Die organisatorischen Abläufe des EUV werden fortlaufend weiterentwickelt und auf die jeweilige Aktualität hin untersucht (Schwerpunktthema Organisationssicherheit aus den Vorjahren). Ergebnis: Risiken, die den Bestand des Unternehmens tatsächlich gefährden, wurden nicht festgestellt. Weiterer Bericht in der Sitzung.Risikomanagementbericht 20142015/EUV/032%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Risikomanagementbericht 2014",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2015/EUV/032",
+    "type": "https://schema.oparl.org/1.0/Paper",
+    "underDirectionOf": [
+      "https://castroprauxel.gremien.info/oparl/organization/EUV"
+    ]
+  }
+}

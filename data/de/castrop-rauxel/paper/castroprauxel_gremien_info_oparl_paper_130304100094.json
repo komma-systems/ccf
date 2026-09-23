@@ -1,0 +1,42 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "paper",
+  "source_id": "https://castroprauxel.gremien.info/oparl/paper/130304100094",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "consultation": [
+      {
+        "agendaItem": "https://castroprauxel.gremien.info/oparl/agendaItem/2010-AUSLB-34%7C130304100094%7C1",
+        "authoritative": false,
+        "id": "https://castroprauxel.gremien.info/oparl/consultation/5075",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2010-AUSLB-34",
+        "role": "zur Kenntnis",
+        "type": "https://schema.oparl.org/1.0/Consultation"
+      }
+    ],
+    "created": "2026-09-23T00:00:00+02:00",
+    "date": "2012-04-03",
+    "deleted": false,
+    "id": "https://castroprauxel.gremien.info/oparl/paper/130304100094",
+    "mainFile": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=130304100094&id=69&inline=true",
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?document_type_id=4&submission_id=130304100094&id=69",
+      "fileName": "130304100094",
+      "id": "https://castroprauxel.gremien.info/oparl/file/130304100094",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "2012/092",
+      "size": 174992,
+      "text": "bereich stabsstelle integration 2012/092 öffentlich az: datum: 03.04.2012 sitzungsvorlage beratungsfolge datum top-nr. integrationsrat 18.04.2012 betreff aktuelle ergebnisse aus dem arbeitskreises städtepartnerschaften türkei & griechenland finanzielle auswirkungen x keine haushaltsmäßige berührung auswirkungen siehe sachverhalt beschlussvorschlag der integrationsrat nimmt die aktuellen ergebnisse des arbeitskreises städtepartnerschaften zur kenntnis. der integrationsrat wählt eine türkische sowie eine griechische stadt die als potenzielle partnerstadt angesprochen werden soll. petra glöß erste beigeordnete sachverhalt die erste sitzung des arbeitskreises „städtepartnerschaften türkei & griechenland“ hat am 14. märz 2012 stattgefunden. der vorsitzende des arbeitkreises herr schwabe gibt einen mündlichen bericht über die ergebnisse der sitzung. es soll möglichst zeitnah ein „türkisch – griechisch - deutscher partnerschaftsverein“ gegründet werden. es wurde für beide länder eine auswahl an städten vorgenommen die potenziell als partnerstadt in frage kommen könnten. türkei: 1. zonguldak 2. tavsanli 3. ignegöl griechenland: 1. giannitsa 2. trikala diese städte werden in der integrationsratssitzung näher vorgestellt. es soll darüber abgestimmt werden, welche stadt mit erster priorität als mögliche partnerstadt angesprochen wird. für die weiteren städte soll eine entsprechende reihefolge der ansprache festgesetzt werden, für den fall das es nicht zu einer zusammenkunft mit den anvisierten städten kommt. weitere vorschläge von städten können von den integrationsratsmitgliederinnen im vorfeld der sitzung bei der integrationsbeauftragten schriftlich eingereicht und in der sitzung vorgestellt werden.aktuelle ergebnisse aus dem arbeitskreisesstädtepartnerschaften türkei & griechenland2012/092%anl%; ",
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "modified": "2026-09-23T00:00:00+02:00",
+    "name": "Aktuelle Ergebnisse aus dem Arbeitskreises 'Städtepartnerschaften Türkei & Griechenland'",
+    "paperType": "Sitzungsvorlage",
+    "reference": "2012/092",
+    "type": "https://schema.oparl.org/1.0/Paper"
+  }
+}

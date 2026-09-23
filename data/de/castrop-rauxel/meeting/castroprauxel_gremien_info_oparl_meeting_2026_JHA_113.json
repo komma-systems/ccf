@@ -1,0 +1,163 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/2026-JHA-113",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-JHA-113%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-JHA-113",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-JHA-113%7C11%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-JHA-113",
+        "name": "Mündlicher Bericht aus dem Kinder- und Jugendparlament",
+        "number": "2",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-JHA-113%7C39%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-JHA-113",
+        "name": "Mündlicher Bericht aus der AG 1,  AG 2 und AG 3",
+        "number": "3",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17592",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-JHA-113%7C401409100248%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-JHA-113",
+        "name": "Beschluss des Kinder- und Jugendförderplans 2026 - 2030",
+        "number": "4",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17591",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-JHA-113%7C400709100237%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-JHA-113",
+        "name": "Antrag der SPD-Fraktion vom 05.09.2026_Prüfung der Einrichtung eines teilkommerziellen Jugendcafés und Weiterentwicklung des Kinder- und Jugendförderplans",
+        "number": "5",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17594",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-JHA-113%7C401809100253%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-JHA-113",
+        "name": "Antrag der AFD-Fraktion vom 07.09.2026_Bedarfsanalyse zur Weiterentwicklung der Öffnungszeiten der Kinder- und Jugendzentren in Castrop-Rauxel",
+        "number": "6",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-JHA-113%7Czt_0%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-JHA-113",
+        "name": "Rückblick Casterix Sommerferienprogramm - mündlicher Bericht Frau Idczak",
+        "number": "7",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17589",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-JHA-113%7C401307100203%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-JHA-113",
+        "name": "Finanzierung der Trägeranteile der Kindertagesstätte Merklinde, Wittener Str. 322 g, 44577 Castrop-Rauxel",
+        "number": "8",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-JHA-113%7C6%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-JHA-113",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "9",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-JHA-113%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-JHA-113",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "10",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-JHA-113%7C999%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-JHA-113",
+        "name": "Anfragen der Ausschussmitglieder",
+        "number": "11",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/2026-JHA-113%7C997%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/2026-JHA-113",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "12",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-10-01T00:00:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/2026-JHA-113",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=2026-JHA-113",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-09-23",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=2026-JHA-113",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2026-JHA-113",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "99c3ab708b06f3be7d121b5a5ce8e6b834e6eab4",
+      "size": 207534,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Sitzungsraum Erinstraße 6, Erinstraße 6, 44575 Castrop-Rauxel",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/2026-JHA-113/location",
+      "locality": "Castrop-Rauxel",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "postalCode": "44575",
+      "room": "Sitzungsraum Erinstraße 6",
+      "streetAddress": "Erinstraße 6",
+      "subLocality": "Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "eingeladen",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Jugendhilfeausschusses",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/JHA"
+    ],
+    "organization_active_1": "1",
+    "start": "2026-10-01T17:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting"
+  }
+}

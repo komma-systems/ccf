@@ -1,0 +1,231 @@
+{
+  "council_id": "castrop-rauxel",
+  "record_type": "meeting",
+  "source_id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-138",
+  "modified_at": "2026-09-23T00:00:00+02:00",
+  "deleted_at": null,
+  "data": {
+    "agendaItem": [
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-138%7C1%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-138",
+        "name": "Fragestunde für Einwohnerinnen und Einwohner",
+        "number": "1",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17292",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-138%7C402706100181%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-138",
+        "name": "Zusammenführung der FORUM Castrop-Rauxel Betriebsgesellschaft mbH und der \r\nWirtschaft & Marketing Castrop-Rauxel GmbH",
+        "number": "2",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17276",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-138%7C402206100174%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-138",
+        "name": "Entwurf des Jahresabschlusses zum 31.12.2025",
+        "number": "3",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17305",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-138%7C403006100195%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-138",
+        "name": "Interkommunale Zusammenarbeit mit der Stadt Waltrop zur Übernahme von Telefondienstleistungen durch das Service Center der Stadt Castrop-Rauxel ab dem Jahr 2027",
+        "number": "4",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17288",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-138%7C402503100108%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-138",
+        "name": "Grundstücksgeschäfte der ECAS GmbH - Entwicklung der Fläche \"Holzstraße\"",
+        "number": "5",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-138%7C2%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-138",
+        "name": "Anfragen der Ratsmitglieder",
+        "number": "6",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-138%7C4%7C1",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-138",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "7",
+        "public": true,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17460",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-138%7C402906100191%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-138",
+        "name": "Neubau einer Feuer- und Rettungswache an der Habinghorster Straße (B235) / Klöcknerstraße",
+        "number": "1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17271",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-138%7C401207100202%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-138",
+        "name": "Neubau einer Feuer- und Rettungswache an der Habinghorster Straße (B235) / Klöcknerstraße",
+        "number": "1.1",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17280",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-138%7C402206100177%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-138",
+        "name": "Verlustabdeckung FORUM Castrop-Rauxel Betriebsgesellschaft mbH für das Jahr 2025",
+        "number": "2",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17270",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-138%7C400307100197%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-138",
+        "name": "Umsetzung einer Fortführung",
+        "number": "3",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "consultation": "https://castroprauxel.gremien.info/oparl/consultation/17272",
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-138%7C401407100204%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-138",
+        "name": "Stundung von Gewerbesteuerforderungen",
+        "number": "4",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-138%7C3%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-138",
+        "name": "Anfragen der Ratsmitglieder",
+        "number": "5",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      },
+      {
+        "id": "https://castroprauxel.gremien.info/oparl/agendaItem/ni_2026-HFA-138%7C5%7C2",
+        "meeting": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-138",
+        "name": "Mitteilungen der Verwaltung",
+        "number": "6",
+        "public": false,
+        "type": "https://schema.oparl.org/1.0/AgendaItem"
+      }
+    ],
+    "cancelled": false,
+    "created": "2026-09-23T00:00:00+02:00",
+    "deleted": false,
+    "end": "2026-07-16T15:43:00+02:00",
+    "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-138",
+    "invitation": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2026-HFA-138",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-07-08",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=1&meeting_id=ni_2026-HFA-138",
+      "fileName": "bekanntmachung.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/sib%7C2026-HFA-138",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "Bekanntmachung",
+      "sha1Checksum": "dcc197b2b0f116acf9ca22813f5b56ae8e6cb87f",
+      "size": 202448,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "location": {
+      "created": "2026-09-23T00:00:00+02:00",
+      "deleted": false,
+      "description": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,  ",
+      "geojson": {
+        "geometry": {
+          "coordinates": [],
+          "type": "Point"
+        },
+        "type": "Feature"
+      },
+      "id": "https://castroprauxel.gremien.info/oparl/meeting/ni_2026-HFA-138/location",
+      "meetings": [],
+      "modified": "2026-09-23T00:00:00+02:00",
+      "room": "Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel",
+      "type": "https://schema.oparl.org/1.0/Location",
+      "web": "https://castroprauxel.gremien.info"
+    },
+    "meetingState": "durchgeführt",
+    "modified": "2026-09-23T00:00:00+02:00",
+    "more-it-solutions:public_status_id": "4",
+    "name": "Sitzung des Haupt- und Finanzausschusses",
+    "organization": [
+      "https://castroprauxel.gremien.info/oparl/organization/HFA"
+    ],
+    "organization_active_1": "1",
+    "participant": [
+      "https://castroprauxel.gremien.info/oparl/person/176",
+      "https://castroprauxel.gremien.info/oparl/person/1031",
+      "https://castroprauxel.gremien.info/oparl/person/597",
+      "https://castroprauxel.gremien.info/oparl/person/1032",
+      "https://castroprauxel.gremien.info/oparl/person/224",
+      "https://castroprauxel.gremien.info/oparl/person/392",
+      "https://castroprauxel.gremien.info/oparl/person/318",
+      "https://castroprauxel.gremien.info/oparl/person/1043",
+      "https://castroprauxel.gremien.info/oparl/person/240",
+      "https://castroprauxel.gremien.info/oparl/person/1304",
+      "https://castroprauxel.gremien.info/oparl/person/1307",
+      "https://castroprauxel.gremien.info/oparl/person/1308",
+      "https://castroprauxel.gremien.info/oparl/person/1310",
+      "https://castroprauxel.gremien.info/oparl/person/1312",
+      "https://castroprauxel.gremien.info/oparl/person/1198",
+      "https://castroprauxel.gremien.info/oparl/person/977",
+      "https://castroprauxel.gremien.info/oparl/person/1321",
+      "https://castroprauxel.gremien.info/oparl/person/58",
+      "https://castroprauxel.gremien.info/oparl/person/1011",
+      "https://castroprauxel.gremien.info/oparl/person/1202",
+      "https://castroprauxel.gremien.info/oparl/person/1194"
+    ],
+    "resultsProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-HFA-138",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-07-30",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-HFA-138",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-HFA-138",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 336649,
+      "type": "https://schema.oparl.org/1.0/File"
+    },
+    "start": "2026-07-16T15:00:00+02:00",
+    "type": "https://schema.oparl.org/1.0/Meeting",
+    "verbatimProtocol": {
+      "accessUrl": "https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-HFA-138",
+      "created": "2026-09-23T00:00:00+02:00",
+      "date": "2026-07-30",
+      "deleted": false,
+      "downloadUrl": "https://castroprauxel.gremien.info/api.php?id=69&document_type_id=8&meeting_id=ni_2026-HFA-138",
+      "fileName": "niederschrift.pdf",
+      "id": "https://castroprauxel.gremien.info/oparl/file/ni%7Cni_2026-HFA-138",
+      "mimeType": "application/pdf",
+      "modified": "2026-09-23T00:00:00+02:00",
+      "name": "oeffentliches Protokoll",
+      "size": 336649,
+      "type": "https://schema.oparl.org/1.0/File"
+    }
+  }
+}
