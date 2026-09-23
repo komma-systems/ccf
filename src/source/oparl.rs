@@ -19,19 +19,28 @@ impl SourceAdapter for OParlAdapter {
         let system = get_json(endpoint_url)?;
         let body_list_url = require_str(&system, "body", endpoint_url)?;
 
+        // Meeting/paper history goes back years at ~25 items per page (see
+        // RESEARCH.md); OParl's base spec has no recency filter to ask the
+        // server for only recent items, so for now this caps *pages*
+        // fetched rather than pulling full history. A real recency cutoff
+        // (stop once `modified` predates some watermark) replaces this once
+        // the write/commit step exists to make incremental pulls worthwhile
+        // - see the main README's "next steps".
+        const LIST_PAGE_CAP: usize = 2;
+
         let mut records = Vec::new();
-        for body in paginate(&body_list_url)? {
+        for body in paginate(&body_list_url, LIST_PAGE_CAP)? {
             let meeting_url = body.get("meeting").and_then(Value::as_str).map(str::to_string);
             let paper_url = body.get("paper").and_then(Value::as_str).map(str::to_string);
 
             if let Some(meeting_url) = meeting_url {
-                for meeting in paginate(&meeting_url)? {
+                for meeting in paginate(&meeting_url, LIST_PAGE_CAP)? {
                     records.push(to_record(council_id, RecordType::Meeting, meeting)?);
                 }
             }
 
             if let Some(paper_url) = paper_url {
-                for paper in paginate(&paper_url)? {
+                for paper in paginate(&paper_url, LIST_PAGE_CAP)? {
                     records.push(to_record(council_id, RecordType::Paper, paper)?);
                 }
             }
@@ -45,6 +54,7 @@ impl SourceAdapter for OParlAdapter {
 
 fn get_json(url: &str) -> Result<Value, NormaliseError> {
     let response = ureq::get(url)
+        .timeout(std::time::Duration::from_secs(15))
         .call()
         .map_err(|error| NormaliseError::Request { url: url.to_string(), source: Box::new(error) })?;
     response
@@ -52,17 +62,15 @@ fn get_json(url: &str) -> Result<Value, NormaliseError> {
         .map_err(|error| NormaliseError::InvalidJson { url: url.to_string(), source: error })
 }
 
-/// Follows `links.next` until it's absent, repeated, or a page comes back
-/// empty. A page count cap guards against a server that loops `next` forever
-/// instead of terminating.
-fn paginate(first_url: &str) -> Result<Vec<Value>, NormaliseError> {
-    const MAX_PAGES: usize = 500;
-
+/// Follows `links.next` until it's absent, repeated, or `max_pages` is
+/// reached. The cap is a hard stop, not just a runaway guard — see the
+/// LIST_PAGE_CAP comment in `pull` for why it's small today.
+fn paginate(first_url: &str, max_pages: usize) -> Result<Vec<Value>, NormaliseError> {
     let mut items = Vec::new();
     let mut next_url = Some(first_url.to_string());
     let mut previous_url: Option<String> = None;
 
-    for _ in 0..MAX_PAGES {
+    for _ in 0..max_pages {
         let Some(url) = next_url.take() else { break };
         if previous_url.as_deref() == Some(url.as_str()) {
             break;
