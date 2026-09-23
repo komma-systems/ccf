@@ -1,0 +1,13 @@
+[package]
+name = "ccf"
+version = "0.0.0"
+edition = "2021"
+description = "Discovers, pulls, and normalises council/parliamentary-information-system output into a versioned, correction-aware feed with a registry."
+license = "MIT"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_yaml = "0.9"
+serde_json = "1"
+thiserror = "1"
+ureq = { version = "2", features = ["json"] }

@@ -1,0 +1,35 @@
+# Known German councils and their OParl endpoints.
+#
+# Sourced from the community-maintained OParl/resources endpoints.yml
+# (https://github.com/OParl/resources/blob/main/endpoints.yml) and cross-
+# checked with dev.oparl.org's live endpoint registry, then hand-verified
+# with a single GET request per endpoint. See RESEARCH.md in this directory
+# for the full survey, including what was checked but rejected.
+#
+# One entry per council body (a Gemeinde, or the Amt/Verwaltungsgemeinschaft
+# that actually runs the shared RIS for a cluster of small municipalities).
+
+councils:
+  - id: koeln
+    name: Stadt Köln
+    source_format: oparl
+    endpoint_url: https://buergerinfo.stadt-koeln.de/oparl/system
+    status: verified
+
+  - id: muenster
+    name: Stadt Münster
+    source_format: oparl
+    endpoint_url: https://oparl.stadt-muenster.de/system
+    status: verified
+
+  - id: wuppertal
+    name: Stadt Wuppertal
+    source_format: oparl
+    endpoint_url: https://oparl.wuppertal.de/oparl/system
+    status: verified
+
+  - id: castrop-rauxel
+    name: Stadt Castrop-Rauxel
+    source_format: oparl
+    endpoint_url: https://castroprauxel.gremien.info/oparl/system
+    status: verified
