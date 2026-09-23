@@ -2,7 +2,7 @@ use crate::normalise::NormalisedRecord;
 use crate::publish::{PublishError, Publisher};
 
 /// A custom parameterised-replaceable event kind (NIP-33's 30000-39999
-/// range). Not registered anywhere — it only needs to stay consistent
+/// range). Not registered anywhere; it only needs to stay consistent
 /// across every event this project publishes, so a re-publish at the same
 /// `d` tag actually replaces the prior one for subscribers.
 pub const EVENT_KIND: u16 = 30_818;
@@ -11,7 +11,7 @@ pub const EVENT_KIND: u16 = 30_818;
 /// re-publishing at the same `d` tag (see `event_address`) replaces the
 /// previous event for every subscriber, which is what makes an OParl
 /// `modified` update or `deleted` marker a plain republish rather than a
-/// separate correction mechanism. Optional — CCF's git-versioned `data/`
+/// separate correction mechanism. Optional: CCF's git-versioned `data/`
 /// store remains the source of truth regardless of whether this is
 /// configured. See `from_env`.
 pub struct NostrPublisher {
@@ -21,7 +21,7 @@ pub struct NostrPublisher {
 
 impl NostrPublisher {
     /// Reads CCF_NOSTR_SECRET_KEY and CCF_NOSTR_RELAYS (comma-separated).
-    /// Returns None when no secret key is configured — the pull loop treats
+    /// Returns None when no secret key is configured; the pull loop treats
     /// that as "skip publishing", not an error, since this is an additive
     /// broadcast layer, not a dependency the core feed needs to work.
     pub fn from_env() -> Option<Self> {
@@ -34,7 +34,7 @@ impl NostrPublisher {
 
     /// The event's `d` tag: what makes a later publish replace this one
     /// rather than create a new event. Deliberately keyed by council_id, not
-    /// jurisdiction — see the doc comment on NormalisedRecord for why
+    /// jurisdiction; see the doc comment on NormalisedRecord for why
     /// jurisdiction isn't tracked per-record yet.
     fn event_address(record: &NormalisedRecord) -> String {
         format!("{}:{:?}:{}", record.council_id, record.record_type, record.source_id)

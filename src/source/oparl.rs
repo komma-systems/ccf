@@ -10,7 +10,7 @@ use crate::source::SourceAdapter;
 /// `id`, `modified`, `deleted`, and the handful of URL fields used to walk
 /// the graph. See jurisdictions/de/RESEARCH.md for the vendors observed.
 ///
-/// Organizations, people, agenda items, and files are not walked yet — see
+/// Organisations, people, agenda items, and files are not walked yet; see
 /// the main README's "next steps".
 pub struct OParlAdapter;
 
@@ -63,7 +63,7 @@ fn get_json(url: &str) -> Result<Value, NormaliseError> {
 }
 
 /// Follows `links.next` until it's absent, repeated, or `max_pages` is
-/// reached. The cap is a hard stop, not just a runaway guard — see the
+/// reached. The cap is a hard stop, not just a runaway guard; see the
 /// LIST_PAGE_CAP comment in `pull` for why it's small today.
 fn paginate(first_url: &str, max_pages: usize) -> Result<Vec<Value>, NormaliseError> {
     let mut items = Vec::new();

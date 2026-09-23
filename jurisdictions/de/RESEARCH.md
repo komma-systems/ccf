@@ -7,18 +7,18 @@ count, mid-2020s) plus around 400 district-level bodies (Landkreise and
 kreisfreie Städte). The number of distinct RIS/OParl *endpoints* is lower
 than that: many small Gemeinden don't run their own system at all, and are
 served through a shared Amt or Verwaltungsgemeinschaft endpoint covering
-several villages at once. No full count of live endpoints exists yet — that
+several villages at once. No full count of live endpoints exists yet; that
 is what this survey starts to establish, at a scale of a handful of
 endpoints, not thousands.
 
 ## Sources used to find candidates
 
-- [OParl/resources `endpoints.yml`](https://github.com/OParl/resources/blob/main/endpoints.yml) —
+- [OParl/resources `endpoints.yml`](https://github.com/OParl/resources/blob/main/endpoints.yml),
   the community-maintained canonical list.
-- [dev.oparl.org/api/endpoints](https://dev.oparl.org/api/endpoints) — a live
+- [dev.oparl.org/api/endpoints](https://dev.oparl.org/api/endpoints), a live
   registry with last-checked status, useful for cross-checking staleness.
 
-Both are lists of *claimed* endpoints, not verified ones — about half of what
+Both are lists of *claimed* endpoints, not verified ones: about half of what
 was sampled here turned out dead, blocked, or moved.
 
 ## Method
@@ -38,16 +38,16 @@ plain GET.
 | Stadt Wuppertal | `oparl.wuppertal.de/oparl/system` | 1.1 | SOMACOS |
 | Stadt Castrop-Rauxel | `castroprauxel.gremien.info/oparl/system` | 1.0 | more! software |
 
-Castrop-Rauxel is deliberately kept even though it's OParl 1.0, not 1.1 —
-it's a useful early edge case for the adapter (version negotiation, and a
-second vendor besides SOMACOS) rather than a duplicate of the other three.
+Castrop-Rauxel is deliberately kept even though it's OParl 1.0, not 1.1. It's
+a useful early edge case for the adapter (version negotiation, and a second
+vendor besides SOMACOS) rather than a duplicate of the other three.
 
 ## Checked, not usable as-is
 
 | Council | Endpoint (from `endpoints.yml`) | Result | Likely cause |
 |---|---|---|---|
 | Stadt Bonn | `bonn.sitzung-online.de/public/oparl/system` | Bot-check interstitial ("Zugriff prüfen") | Needs a real browser/cookie flow, not a plain GET |
-| Stadt Dresden | `oparl.dresden.de/system` | HTTP 503 | Possibly transient — worth re-checking |
+| Stadt Dresden | `oparl.dresden.de/system` | HTTP 503 | Possibly transient, worth re-checking |
 | Stadt Ulm | `buergerinfo.ulm.de/oparl/system` | HTTP 404 | Registry entry is stale; URL likely moved |
 | Stadt Krefeld | `ris.krefeld.de/webservice/oparl/v1.1/system` | HTTP 403 | Possibly bot-blocked, not necessarily dead |
 | Stadt Aachen | `ratsinfo.aachen.de/bi/oparl/1.0/system.asp` | HTTP 404 | Registry entry is stale |
@@ -57,7 +57,7 @@ second vendor besides SOMACOS) rather than a duplicate of the other three.
 **Ludwigslust-Parchim is worth flagging outside this file too:** it's one of
 the two candidate Kair trial regions named in the shared working brief
 (`council-context-network.html`). Its listed OParl endpoint doesn't resolve
-at all — if this region is picked as an actual pilot, its RIS/OParl access
+at all. If this region is picked as an actual pilot, its RIS/OParl access
 needs re-establishing from scratch, not assumed to already work.
 
 ## Vendor landscape observed so far
@@ -65,16 +65,16 @@ needs re-establishing from scratch, not assumed to already work.
 Of four verified endpoints, three run **SOMACOS** (Session product) and one
 runs **more! software** (more!rubin). This is too small a sample to
 generalise, but it matches the expectation from earlier discussion that a
-handful of RIS vendors account for most German OParl coverage — worth
+handful of RIS vendors account for most German OParl coverage. Worth
 tracking vendor as its own field once the survey grows, since vendor-specific
 quirks (pagination, optional-field population) are a known OParl pain point.
 
 ## Next steps for this survey
 
-- Re-check the 503/500 endpoints later — those may just be transient.
+- Re-check the 503/500 endpoints later; those may just be transient.
 - Try the blocked ones (Bonn, Krefeld) with a real user-agent / minimal
   session handling before concluding they're unreachable, not just
   bot-gated.
 - Expand beyond this hand-picked sample of ~10 candidates toward the full
-  `endpoints.yml` list once the discovery crawler (not yet built — see
-  main README) exists to do this at scale instead of by hand.
+  `endpoints.yml` list once the discovery crawler (not yet built; see main
+  README) exists to do this at scale instead of by hand.
