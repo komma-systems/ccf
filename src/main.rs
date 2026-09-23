@@ -1,9 +1,12 @@
 mod normalise;
+mod publish;
 mod registry;
 mod source;
 
 use std::path::Path;
 
+use publish::nostr::NostrPublisher;
+use publish::Publisher;
 use registry::SourceFormat;
 use source::oparl::OParlAdapter;
 use source::SourceAdapter;
@@ -31,6 +34,15 @@ fn main() {
         println!("  {} — {} ({})", council.id, council.name, council.endpoint_url);
     }
 
+    // Absence means "skip publishing" (see NostrPublisher::from_env) — the
+    // git feed works standalone regardless. Presence just means someone
+    // will see "not implemented" errors below rather than nothing.
+    let nostr_publisher = NostrPublisher::from_env();
+    println!(
+        "\nNostr publish: {}",
+        if nostr_publisher.is_some() { "configured" } else { "not configured, skipping" }
+    );
+
     println!("\nPulling verified councils:");
     let mut had_error = false;
     for council in registry.councils.iter().filter(|c| c.status == registry::CouncilStatus::Verified) {
@@ -41,6 +53,17 @@ fn main() {
         match result {
             Ok(records) => {
                 println!("  {} — {} record(s) pulled", council.id, records.len());
+
+                if let Some(publisher) = &nostr_publisher {
+                    // Best-effort and non-blocking, on purpose: git stays
+                    // the source of truth, so one relay/record failing here
+                    // must never fail the pull.
+                    for record in &records {
+                        if let Err(error) = publisher.publish(record) {
+                            eprintln!("  {} — nostr publish failed for {}: {error}", council.id, record.source_id);
+                        }
+                    }
+                }
             }
             Err(error) => {
                 had_error = true;
