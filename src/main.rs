@@ -1,17 +1,13 @@
-mod normalise;
-mod publish;
-mod registry;
-mod source;
-mod store;
-
 use std::path::Path;
 
-use normalise::NormalisedRecord;
-use publish::nostr::NostrPublisher;
-use publish::Publisher;
-use registry::SourceFormat;
-use source::oparl::OParlAdapter;
-use source::SourceAdapter;
+use ccf::normalise::NormalisedRecord;
+use ccf::publish::nostr::NostrPublisher;
+use ccf::publish::Publisher;
+use ccf::registry::{self, SourceFormat};
+use ccf::source::moderngov::ModernGovAdapter;
+use ccf::source::oparl::OParlAdapter;
+use ccf::source::SourceAdapter;
+use ccf::store;
 
 /// For each verified registry entry, pull its source output, normalise it,
 /// write it under data/<jurisdiction>/<council-id>/, and commit the result
@@ -54,6 +50,7 @@ fn main() {
     for council in registry.councils.iter().filter(|c| c.status == registry::CouncilStatus::Verified) {
         let result = match council.source_format {
             SourceFormat::OParl => OParlAdapter.pull(&council.id, &council.endpoint_url),
+            SourceFormat::ModernGov => ModernGovAdapter.pull(&council.id, &council.endpoint_url),
         };
 
         match result {

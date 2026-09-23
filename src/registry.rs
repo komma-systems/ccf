@@ -9,13 +9,16 @@ pub enum CouncilStatus {
     Dead,
 }
 
-/// The source protocol/format a council's endpoint speaks. OParl is the only
-/// one implemented so far; other jurisdictions get their own variant and
-/// SourceAdapter rather than being forced through OParl's shape.
+/// The source protocol/format a council's endpoint speaks. Each variant
+/// gets its own SourceAdapter rather than being forced through another
+/// protocol's shape. ModernGov has no verified endpoint yet (see
+/// jurisdictions/uk/RESEARCH.md); its adapter exists to prove the trait
+/// holds for a second, unrelated protocol, not to claim UK coverage.
 #[derive(Debug, Clone, Copy, Serialize, Deserialize, PartialEq, Eq)]
 #[serde(rename_all = "lowercase")]
 pub enum SourceFormat {
     OParl,
+    ModernGov,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]

@@ -1,0 +1,21 @@
+# Known UK councils and their committee-management endpoints.
+#
+# Zero verified entries. No UK-wide standard equivalent to OParl exists (see
+# RESEARCH.md in this directory), so unlike jurisdictions/de, there isn't
+# even a community-maintained endpoint list to survey yet - that survey is
+# unstarted, not just incomplete.
+#
+# The entry below is a placeholder, not a real council: it exists so
+# ModernGovAdapter has something to be configured against once a real
+# endpoint is verified. Its endpoint_url uses example.invalid (RFC 2606: a
+# domain guaranteed never to resolve), and its status stays "pending"
+# forever until it's replaced with a real, checked endpoint - the main pull
+# loop only ever touches "verified" entries, so this can't accidentally get
+# pulled for real.
+
+councils:
+  - id: sample-uk-council
+    name: Sample UK Council (placeholder, not real)
+    source_format: moderngov
+    endpoint_url: https://example.invalid/moderngov
+    status: pending

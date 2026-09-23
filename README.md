@@ -57,8 +57,12 @@ scale problem from Germany's Amt-clustering and out of scope for a first
 adapter. No UK-wide standard equivalent to OParl exists yet: councils
 publish committee/agenda data through several proprietary systems
 (ModernGov, CMIS, Egenda, and others), each with its own API or none at
-all. A UK adapter has not been started; this row exists to make the gap
-visible, not to claim coverage.
+all. A `SourceAdapter` for ModernGov now exists (`src/source/moderngov.rs`,
+runnable via `cargo run --example moderngov_demo`), written against an
+embedded synthetic payload to prove the trait holds for a non-OParl
+protocol; no real endpoint has been verified, so this row stays 0 and makes
+the gap visible rather than claiming coverage. See
+`jurisdictions/uk/RESEARCH.md`.
 
 </details>
 
@@ -119,10 +123,13 @@ wrong thing.
 `src/` (the `SourceAdapter` trait, the normalised record shape, the CLI) is
 jurisdiction-agnostic and shared. `jurisdictions/<code>/` holds each
 jurisdiction's own registry and survey research: content, not code. OParl
-is one protocol, not the project's assumption. A jurisdiction that doesn't
-speak OParl (the UK, today) gets its own `SourceAdapter` implementation in
-`src/` plus its own `jurisdictions/<code>/` directory, without touching any
-other jurisdiction's.
+is one protocol, not the project's assumption: `src/source/moderngov.rs` is
+a second `SourceAdapter` for an unrelated protocol, mapping different field
+names into the exact same `NormalisedRecord` shape, proving the trait
+actually holds rather than being designed around OParl alone. A
+jurisdiction that doesn't speak OParl gets its own `SourceAdapter`
+implementation in `src/` plus its own `jurisdictions/<code>/` directory,
+without touching any other jurisdiction's.
 
 **Versioned like git, because it is git.** Normalised records are committed
 straight into this repository's history, one run per commit, under:
@@ -145,14 +152,25 @@ needed to get that property.
 - `jurisdictions/de/RESEARCH.md`: the endpoint survey, including method,
   what's live, what's dead or blocked and why, and the vendor landscape
   observed so far
+- `jurisdictions/uk/registry.yaml`: one placeholder entry (`status:
+  pending`, `endpoint_url` under the RFC 2606 `example.invalid` domain) so
+  `ModernGovAdapter` has something to be configured against later; zero
+  verified councils
+- `jurisdictions/uk/RESEARCH.md`: why there's an adapter but no survey yet,
+  and what starting that survey actually requires
 - `data/`: normalised, git-versioned snapshots per jurisdiction per
   council, written and committed by a real `cargo run`
+- `src/lib.rs`: exposes the modules below as a library, so
+  `examples/moderngov_demo.rs` can use them without duplicating code
 - `src/registry.rs`: `CouncilEntry`/`Registry` types and loader
 - `src/normalise.rs`: the normalised record shape all source adapters
   produce
 - `src/source/mod.rs`: the `SourceAdapter` trait
 - `src/source/oparl.rs`: the OParl adapter, walking system, body, meeting,
   and paper, paginated
+- `src/source/moderngov.rs`: the ModernGov adapter, normalising an embedded
+  synthetic payload (no verified endpoint exists yet); proves the trait
+  holds for a second, unrelated protocol
 - `src/store.rs`: writes normalised records to `data/` and commits them
 - `src/publish/mod.rs`: the `Publisher` trait, for broadcast sinks beyond
   the git store
@@ -160,6 +178,9 @@ needed to get that property.
   implemented)
 - `src/main.rs`: CLI entrypoint tying discovery, pull, normalise, write,
   and commit together
+- `examples/moderngov_demo.rs`: runs `ModernGovAdapter` standalone
+  (`cargo run --example moderngov_demo`), separate from the real German
+  pull loop
 
 ## Next steps (not started)
 
@@ -171,9 +192,12 @@ needed to get that property.
    cheaper content diff against each object's `modified` timestamp).
 4. Expand `jurisdictions/de/registry.yaml` beyond four councils; see
    RESEARCH.md's "next steps" for where the survey left off.
-5. Start a UK jurisdiction: survey which proprietary committee-management
-   systems are actually in use, and whether any expose a stable enough API
-   to normalise against, before writing a `SourceAdapter` for it.
+5. Start the UK survey: which proprietary committee-management vendor each
+   principal authority actually runs, and whether any expose a stable
+   enough API to verify a real endpoint against; see
+   `jurisdictions/uk/RESEARCH.md`. The adapter (`ModernGovAdapter`) is
+   already written against a synthetic payload; a real endpoint would
+   replace that payload, not the adapter's shape.
 
 ## Local setup
 

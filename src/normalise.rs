@@ -37,6 +37,6 @@ pub enum NormaliseError {
         #[source]
         source: std::io::Error,
     },
-    #[error("response from {url} did not match the expected OParl shape: {reason}")]
+    #[error("response from {url} did not match the expected shape: {reason}")]
     UnexpectedShape { url: String, reason: String },
 }
